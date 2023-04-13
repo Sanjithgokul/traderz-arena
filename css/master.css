@@ -414,6 +414,10 @@ button:focus:not(:focus-visible){
   font-weight: 600;
 }
 
+.box-inner{
+  width: 100%;
+}
+
 
 
 
