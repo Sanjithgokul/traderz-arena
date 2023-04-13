@@ -12,3 +12,4 @@ RewriteRule ^(.*)$ /index.html [L,R=301]
 Order deny,allow
 Deny from all
 Allow from example.com
+#
