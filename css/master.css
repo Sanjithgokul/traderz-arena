@@ -1,0 +1,535 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+
+
+  h1,h2,h3,h4,h5,h6,a,p{
+    font-family: 'Ubuntu', sans-serif;
+    color: #333333;
+  }
+
+  li{
+    list-style: none;
+  }
+
+
+  img {
+    max-width: 100%;
+  }
+
+  h2 {
+    font-size: 48px !important;
+    line-height: 60px !important;
+    font-weight: 600;
+    letter-spacing: 3px;
+  }
+
+  .text-white{
+    color: #fff;
+  }
+
+  .heading .text-primary{
+    color: #15CDCB !important;
+    font-size: 48px;
+  }
+
+  .text-bold{
+    font-weight: 600 !important;
+  }
+
+  span{
+    font-size: 20px;
+  }
+
+  p{
+    font-size: 17px;
+  }
+  h3 {
+    font-size: 20px !important;
+    font-weight: 600 !important;
+  }
+
+  h4{
+    font-size: 16px;
+  }
+ 
+section{
+    padding: 100px 0;
+}
+
+ul{
+  padding-left: 0;
+}
+
+
+.text-gray{
+  color: #333333;
+}
+
+.lh-2{
+  line-height: 35px;
+}
+
+a{
+  text-decoration: unset !important;
+}
+
+.text-center{
+  text-align: center !important;
+}
+
+.text-justify{
+  text-align: justify !important;
+}
+
+.d-flex{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar-collapse-btn{
+  justify-content: flex-end;
+}
+
+.navbar-collapse-btn .nav-item a{
+  font-size: 17px;
+  font-weight: 600;
+  color: #070C0F;
+}
+
+.navbar-collapse-btn .nav-item a:hover{
+  color: #50C9C0;
+}
+
+.navbar-toggler {
+  padding: 0.25rem 0.75rem;
+  font-size: 1.25rem;
+  line-height: 1;
+  background-color: #15CDCB;
+  border: 1px solid transparent;
+  border-radius: 0.25rem;
+  transition: box-shadow .15s ease-in-out;
+}
+
+button:focus:not(:focus-visible){
+  box-shadow: unset;
+}
+
+
+.header-btn button{
+  padding: 10px 15px;
+  background: #50C9C0;
+  border-radius: 5px;
+  border: unset;
+  color: #fff;
+}
+
+.navbar-collapse-btn .nav-btn a{
+  color: #fff;
+}
+
+.year-content span{
+  font-size: 16px;
+}
+
+
+.backround-banner{
+  background-image: url(../images/banner-bg.webp);
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-position: center center;
+  min-height: 80vh;
+}
+
+.form-section .input-field{
+  padding: 10px 30px;
+  border: 1px solid #fff;
+  border-radius: 5px;
+  color: #fff;
+  background: transparent;
+}
+
+.year button{
+  padding: 0 20px;
+}
+
+.banner-btn{
+  gap: 20px;
+}
+
+.b-clr button,
+.sub-btn{
+  border-radius: 5px;
+  color: #fff;
+  background: #50C9C0;
+  border:unset;
+  padding: 10px 25px;
+}
+
+.b-clr button:hover {
+  box-shadow: 8px 8px #50C9C0;
+  transition: .3s;
+}
+
+.course-btn a:hover{
+  box-shadow: 8px 5px #00BED4;
+  transition: .3s;
+  color: #fff;
+}
+
+.course-btn-2 a:hover{
+  box-shadow: 8px 5px #FBC84B;
+  transition: .3s;
+  color: #fff;
+}
+
+.course-btn-3 a:hover{
+  box-shadow: 8px 5px #E94E52;
+  transition: .3s;
+  color: #fff;
+}
+
+.know-more a:hover{
+  box-shadow: 8px 5px #15918f;
+  transition: .3s;
+  color: #15CDCB;
+}
+
+.header-btn button:hover{
+  box-shadow: 8px 5px #15918f;
+  transition: .3s;
+  color: #fff;
+}
+
+.section-2{
+  background-image: url(../images/section-2-backround.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.back-clr{
+  background: #E0F9F5;
+  border-radius: 5px;
+  padding: 10px;
+}
+
+.year-content h4{
+  font-size: 20px;
+  font-weight: 600;
+}
+
+.box-backround{
+  background-image: url(../images/section-3-backround.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.box-heading{
+  background: #00BED4;
+  padding: 25px;
+  min-width: 95%;
+  border-radius: 15px;
+  position: relative;
+}
+
+.clr-2,
+.course-btn-2 a{
+  background: #FBC84B !important;
+}
+
+.clr-3,
+.course-btn-3 a{
+  background: #E94E52 !important;
+}
+
+.course-list{
+  padding-left: 0 !important;
+} 
+
+.course-list li{
+  font-size: 16px;
+  border-bottom: 1px solid #a3a3a3;
+  padding-bottom: 10px;
+  margin-bottom: 15px; 
+
+}
+
+.course-details-inner{
+  padding: 20px;
+  background: #FFFFFF;
+  box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  width: 90%;
+}
+
+.ul-section{
+  margin-top: -20px;
+}
+
+.course-btn{
+  margin-top: -15px;
+} 
+.course-btn a{
+  padding: 10px 25px;
+  background: #00BED4;
+  border-radius: 5px;
+}
+
+
+
+.profile-section{
+  background: #15CDCB;
+  padding: 20px;
+  border-radius: 20px;
+  position: relative;
+}
+
+
+.email-input{
+  background: transparent;
+  padding: 10px 30px;
+  border-radius: 10px;
+  border: 1px solid #fff;
+  color: #fff;
+}
+
+
+.faq-sec {
+  background: url(../images/faq-backround.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+}
+
+.faq-sec button{
+  border: 1px solid #34D8C2;
+  border-radius: 20px !important;
+  margin-bottom: 10px;
+}
+
+.faq-sec .accordion-button{
+  background: #15CDCB;
+  color: #fff;
+  border-color: unset !important;
+  box-shadow:unset;
+}
+
+.faq-sec .accordion-button.collapsed{
+  background: transparent;
+  border-color: #15CDCB !important;
+  color: #000;
+}
+
+.faq-sec .accordion-item{
+  border: unset;
+}
+
+.faq-sec .accordion-flush .accordion-collapse{
+  border: 1px solid #15CDCB;
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+
+.faq-sec .accordion-button::after {
+  flex-shrink: 0;
+  width: 1.25rem;
+  height: 1.25rem;
+  margin-left: auto;
+  content: "";
+  background-image: url(../images/arrow-down-circle-traderz.svg);
+  background-repeat: no-repeat;
+  background-size: 1.25rem;
+  transition: transform .2s ease-in-out;
+}
+
+.accordion-button:not(.collapsed)::after {
+  background-image: url(../images/arrow-down-circle-white.svg);
+  transform: rotate(-180deg);
+}
+
+.section-5{
+  background: url(../images/testimonial-back.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+#owl-demo .item img{
+  display: block;
+  width: 100%;
+  height: auto;
+}
+
+.testi-des{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.testimonial-right{
+  padding: 20px 15px; 
+  border-radius: 10px;
+  background: #FFFFFF;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+  position: relative;
+}
+
+.testides-name h4{
+    color: #15CDCB !important;
+    font-size: 16px;
+}
+
+.Rating-star{
+  background: #15CDCB;
+  padding: 5px 10px;
+  position: absolute;
+  border-radius: 5px;
+  display: flex;
+  right: 74px;
+}
+
+.foooter-social-icon{
+  gap: 10px;
+}
+
+.footer{
+  border-top: 2px solid #a3a3a3;
+  padding-top: 15px;
+}
+
+.know-more a{
+  padding: 10px 30px;
+  background: #fff;
+  color: #15918f;
+  border-radius: 5px;
+}
+
+.tesimonial-right-span{
+  font-size: 22px;
+  font-weight: 600;
+}
+
+
+
+
+@media(min-width: 990px){
+  .deepak-profile{
+    position: absolute;
+    bottom: 0;
+  }
+
+  .testimonial-sec{
+    position: relative;
+    top: -215px;
+  }
+
+  .section-5{
+    margin-top: 200px;
+  }
+
+  .section-4{
+    background: url(../images/backround-4.svg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+
+}
+
+@media(max-width:989px){
+  .reverse{
+    flex-direction: column-reverse;
+  }
+
+  .banner-content{
+    text-align: center;
+  }
+
+  .banner-btn {
+    justify-content: center;
+  }
+
+  .test-clint-img{
+    margin-top: 20px;
+  }
+
+  section{
+    padding: 70px 0;
+}
+}
+
+
+@media (min-width: 778px){
+  .banner-btn{
+    display: flex;
+    align-items: center;
+  }
+
+  .navbar-collapse-btn .navbar-nav{
+    gap: 38px;
+    align-items: center;
+  }
+
+
+}
+@media (max-width: 574px) {
+  /* .backround .navbar-collapse {
+    background: #15CDCB !important;
+    border-radius: 10px;
+    padding: 15px;
+    z-index: 99;
+  } */
+
+  .header-btn {
+    padding-top: 10px;
+  }
+
+  .navbar-collapse-btn {
+    height: 0 !important;
+    position: absolute;
+    top: 111px;
+    background: #FFF;
+    width: 100%;
+    left: 0;
+    overflow: hidden;
+    transition: 0.5s;
+    border-radius: 0 0 10px 10px;
+  }
+
+  #collapsibleNavbar.show {
+    height: 260px !important;
+    padding: 20px;
+  }
+
+  .icon-menu{
+    color: #fff;
+  }
+}
+@media (max-width:449px){
+  .year-content h4{
+    font-size: 16px;
+  }
+
+  .text-bold{
+    font-size: 42px !important;
+  }
+}
+
+@media (max-width:375px){
+  .input-field{
+    margin-bottom: 10px;
+  }
+}
+
+
+
+
+
+
+
