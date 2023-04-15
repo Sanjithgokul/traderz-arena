@@ -34,12 +34,24 @@
     color: #15CDCB !important;
 }
 
-
 .btn-primary{
     background: #15CDCB;
     color: #fff;
     border-color: unset;
     padding: 10px 40px;
+    border: unset;
+}
+
+.form-control:focus{
+    box-shadow: unset;
+}
+
+.contact-btn button:hover{
+    box-shadow: 8px 5px #15CDCB;
+    transition: .3s;
+    color: #fff;
+    background: #15CDCB;
+    border: unset;
 }
 
 
