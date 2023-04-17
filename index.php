@@ -26,7 +26,7 @@
                     </div>
                 </div>
                 <div class="col-md-12 col-lg-6 col-xl-6 d-flex">
-                    <img width="100%" height="100%" loading="lazy" src="./images/section-1-img.webp" title="traderz-arena" alt="traderz-arena">
+                    <img width="100%" height="100%" loading="lazy" src="./images/home-page-banner.webp" title="traderz-arena" alt="traderz-arena">
                 </div>
             </div>
         </div>
@@ -37,7 +37,7 @@
             <div class="container">
                 <div class="row justify-content-center align-items-center reverse">
                     <div class="col-sm-12 col-md-12 col-lg-6">
-                        <img width="100%" height="100%" loading="lazy" src="./images/section-2-img.webp" title="traderz-arena" alt="traderz-arena">
+                        <img width="100%" height="100%" loading="lazy" src="./images/home-sec-2.webp" title="traderz-arena" alt="traderz-arena">
                     </div>
                     <div class="col-sm-12 col-md-12 col-lg-6">
                         <h2 class="heading text-bold text-gray">About Us</h2>
@@ -381,8 +381,7 @@
         </div>
     </section>
     <?php include("footer.php"); ?>
-    <script src="/js/bootstrap.bundle.min.js"></script>
-    <script src="/js/jquery-3.6.0.min.js"></script>
+    <?php include("common-js.php"); ?>
     <script>
        $(document).ready(function() {
         $("#emailForm").submit(function(event) {
