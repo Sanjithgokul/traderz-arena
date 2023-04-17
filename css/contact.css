@@ -16,7 +16,8 @@
     padding: 30px 50px 30px 20px;
     background: #15CDCB;
     position: relative;
-    bottom: 150px;
+    bottom: 113px;
+    border-radius: 10px;
 }
 
 .contact-email{
@@ -29,9 +30,16 @@
 
 .contact-form textarea,
 .contact-form input {
-    padding: 24px;
+    padding: 15px;
     border: unset;
-    color: #15CDCB !important;
+    color: #333 !important;
+    border-bottom: 1px solid #15CDCB;
+    border-radius: 0;
+}
+
+
+.contact-form h3{
+    font-size: 28px !important;
 }
 
 .btn-primary{
@@ -47,11 +55,22 @@
 }
 
 .contact-btn button:hover{
-    box-shadow: 8px 5px #15CDCB;
-    transition: .3s;
+    background: #000000;
     color: #fff;
-    background: #15CDCB;
-    border: unset;
+}
+
+.contact-form form{
+    box-shadow: 0rem 0.5rem 2rem 0rem rgba(35, 44, 59, 0.1);
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.foooter-social-icon li img{
+    transition: transform 0.5s;
+}
+
+.foooter-social-icon li img:hover{
+    transform: rotate(90deg);
 }
 
 
@@ -73,6 +92,11 @@
         width: 80%;
         position: relative;
         top: 100px;
+    }
+
+    .contact-form form{
+        position: relative;
+        bottom: 40px;
     }
 
     
