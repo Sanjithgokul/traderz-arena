@@ -3,11 +3,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <?php include("http://www.traderzarena.com/common-css.php"); ?>
+    <?php include("common-css.php"); ?>
     <title>Traderz Arena</title>
 </head>
 <body>
-<?php include("http://www.traderzarena.com/header.php"); ?>
+<?php include("header.php"); ?>
 
     <div class="backround-banner py-5 d-flex">
         <div class="container">
@@ -380,7 +380,7 @@
             </div>
         </div>
     </section>
-    <?php include("http://www.traderzarena.com/footer.php"); ?>
+    <?php include("footer.php"); ?>
     <script src="/js/bootstrap.bundle.min.js"></script>
     <script src="/js/jquery-3.6.0.min.js"></script>
     <script>
