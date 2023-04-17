@@ -3,11 +3,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <?php include("../common-css.php"); ?>
+    <?php include("http://www.traderzarena.com/common-css.php"); ?>
     <title>Traderz Arena</title>
 </head>
 <body>
-<?php include("../header.php"); ?>
+<?php include("http://www.traderzarena.com/header.php"); ?>
 
     <div class="backround-banner py-5 d-flex">
         <div class="container">
@@ -380,9 +380,9 @@
             </div>
         </div>
     </section>
-    <?php include("footer.php"); ?>
-    <script src="./js/bootstrap.bundle.min.js"></script>
-    <script src="./js/jquery-3.6.0.min.js"></script>
+    <?php include("http://www.traderzarena.com/footer.php"); ?>
+    <script src="/js/bootstrap.bundle.min.js"></script>
+    <script src="/js/jquery-3.6.0.min.js"></script>
     <script>
        $(document).ready(function() {
         $("#emailForm").submit(function(event) {

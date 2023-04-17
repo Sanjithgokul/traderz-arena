@@ -1,6 +1,6 @@
-<link rel="stylesheet" href="./css/bootstarp.css">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link rel="stylesheet" href="./css/master.css">
-<link rel="stylesheet" href="./css/contact.css">
-<link rel="stylesheet" href="./assets/fonts/style.css">
+<link  rel="preload stylesheet" as="style" type="text/css" href="/css/bootstarp.css">
+<link  rel="preload stylesheet" as="style" type="text/css" href="https://fonts.googleapis.com">
+<link  rel="preload stylesheet" as="style" type="text/css" href="https://fonts.gstatic.com" crossorigin>
+<link  rel="preload stylesheet" as="style" type="text/css" href="/css/master.css">
+<link  rel="preload stylesheet" as="style" type="text/css" href="/css/contact.css">
+<link rel="preload stylesheet" as="style" type="text/css"  href="/assets/fonts/style.css">
