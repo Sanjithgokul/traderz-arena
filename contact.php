@@ -3,47 +3,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="stylesheet" href="./css/bootstarp.css">
-    <link rel="stylesheet" href="./css/master.css">
-    <link rel="stylesheet" href="./css/contact.css">
-    <link rel="stylesheet" href="./assets/fonts/style.css">
-    
+    <?php include("common-css.php"); ?>
     <title>Traderz Arena</title>
 </head>
 <body>
-    <header>
-        <div class="container">
-            <nav class="navbar navbar-expand-sm">
-                <div class="container-fluid backround">
-                  <a class="navbar-brand" href="http://13.233.16.190/index.php"><img width="100%" height="100%" loading="lazy" src="./images/traderz-arena.svg" title="Traderz-arena-logo" alt="Traderz-arena"></a>
-                  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
-                    <span class="icon-menu"></span>
-                  </button>
-                    <div class="collapse navbar-collapse navbar-collapse-btn" id="collapsibleNavbar">
-                        <ul class="navbar-nav">
-                          <li class="nav-item">
-                            <a class="nav-link" href="http://13.233.16.190/index.php">Home</a>
-                          </li>
-                          <li class="nav-item">
-                            <a class="nav-link" href="#">About </a>
-                          </li>
-                          <li class="nav-item">
-                            <a class="nav-link" href="#">Courses</a>
-                          </li>
-                          <li class="nav-item">
-                            <a class="nav-link" href="#">Blog</a>
-                          </li>
-                          <li class="header-btn">
-                            <button onclick="window.location.href='contact.html'">Contact Us</button>
-                          </li>
-                        </ul>
-                    </div>
-                </div>
-            </nav>
-        </div>
-    </header>
+<?php include("header.php"); ?>
 
     <div class="contact-backround-banner py-5 d-flex">
     </div>
@@ -63,11 +27,11 @@
                         <div class="contact-email">
                             <h4 class="m text-white"><b>ON SOCIAL</b> </h4>
                             <div class="social-icon mt-3">
-                            <ul class="foooter-social-icon d-flex">
-                                <li> <a href="https://www.facebook.com/traderz.arena/"><img width="100%" height="100%" loading="lazy" src="./images/facebook-icon.svg"  title="traderz-arena-facebook" alt="traderz-arena"></a></li>
-                                <li> <a href="https://twitter.com/ArenaTraderz"><img width="100%" height="100%" loading="lazy" src="./images/twitter-icon.svg"  title="traderz-arena-twitter" alt="traderz-arena"></a></li>
-                                <li> <a href="https://www.youtube.com/channel/UCrN6WFN-pbf8DywBdZsI79g"><img width="100%" height="100%" loading="lazy" src="./images/youtube-icon.svg" title="traderz-arena-youtube"  alt="traderz-arena"></a></li>
-                                <li> <a href="https://www.instagram.com/tradersarena10/?hl=en"><img width="100%" height="100%" loading="lazy" src="./images/instagram-icon.svg"  title="traderz-arena-instagram" alt="traderz-arena"></a></li>
+                            <ul class="foooter-social-icon">
+                                <li> <a href="https://www.facebook.com/traderz.arena/"><img width="40" height="40" loading="lazy" src="./images/facebook-contact.svg"  title="traderz-arena-facebook" alt="traderz-arena"></a></li>
+                                <li> <a href="https://twitter.com/ArenaTraderz"><img width="40" height="40" loading="lazy" src="./images/twitter-contact.svg"  title="traderz-arena-twitter" alt="traderz-arena"></a></li>
+                                <li> <a href="https://www.youtube.com/channel/UCrN6WFN-pbf8DywBdZsI79g"><img width="40" height="40" loading="lazy" src="./images/youtube-contact.svg" title="traderz-arena-youtube"  alt="traderz-arena"></a></li>
+                                <li> <a href="https://www.instagram.com/tradersarena10/?hl=en"><img width="40" height="40" loading="lazy" src="./images/instagram-contact.svg"  title="traderz-arena-instagram" alt="traderz-arena"></a></li>
                             </ul>
                             </div>
                         </div>
@@ -120,32 +84,7 @@
         </div>
     </section>
 
-    <div class="footer mt-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 col-md-4 col-lg-4 mb-3">
-                    <div class="social-icon">
-                        <ul class="foooter-social-icon d-flex">
-                            <li> <a href="https://www.facebook.com/traderz.arena/"><img width="100%" height="100%" loading="lazy" src="./images/facebook-icon.svg"  title="traderz-arena-facebook" alt="traderz-arena"></a></li>
-                            <li> <a href="https://twitter.com/ArenaTraderz"><img width="100%" height="100%" loading="lazy" src="./images/twitter-icon.svg"  title="traderz-arena-twitter" alt="traderz-arena"></a></li>
-                            <li> <a href="https://www.youtube.com/channel/UCrN6WFN-pbf8DywBdZsI79g"><img width="100%" height="100%" loading="lazy" src="./images/youtube-icon.svg" title="traderz-arena-youtube"  alt="traderz-arena"></a></li>
-                            <li> <a href="https://www.instagram.com/tradersarena10/?hl=en"><img width="100%" height="100%" loading="lazy" src="./images/instagram-icon.svg"  title="traderz-arena-instagram" alt="traderz-arena"></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-12 col-md-4 col-lg-4 mb-3">
-                    <div class="copy-right d-flex text-center">
-                        <span>Copyright © 2023 All Rights Reserved.</span>
-                    </div>
-                </div>
-                <div class="col-12 col-md-4 col-lg-4 mb-3">
-                    <div class="privacy d-flex">
-                        <span>Privacy Policy | FAQ</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php include("footer.php"); ?>
     <script src="./js/bootstrap.bundle.min.js"></script>
     <script src="./js/jquery-3.6.0.min.js"></script>
     <script>

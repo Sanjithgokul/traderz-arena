@@ -73,6 +73,11 @@
     transform: rotate(90deg);
 }
 
+.contact-email .foooter-social-icon{
+    display: flex;
+    align-items: center;
+}
+
 
 
 

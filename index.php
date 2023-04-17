@@ -3,46 +3,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="stylesheet" href="./css/bootstarp.css">
-    <link rel="stylesheet" href="./css/master.css">
-    <link rel="stylesheet" href="./assets/fonts/style.css">
+    <?php include("common-css.php"); ?>
     
     <title>Traderz Arena</title>
 </head>
 <body>
-    <header>
-        <div class="container">
-            <nav class="navbar navbar-expand-sm">
-                <div class="container-fluid backround">
-                  <a class="navbar-brand" href="/index.html"><img width="100%" height="100%" loading="lazy" src="./images/traderz-arena.svg" title="Traderz-arena-logo" alt="Traderz-arena"></a>
-                  <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
-                    <span class="icon-menu"></span>
-                  </button>
-                    <div class="collapse navbar-collapse navbar-collapse-btn" id="collapsibleNavbar">
-                        <ul class="navbar-nav">
-                          <li class="nav-item">
-                            <a class="nav-link" href="#">Home</a>
-                          </li>
-                          <li class="nav-item">
-                            <a class="nav-link" href="#">About </a>
-                          </li>
-                          <li class="nav-item">
-                            <a class="nav-link" href="#">Courses</a>
-                          </li>
-                          <li class="nav-item">
-                            <a class="nav-link" href="#">Blog</a>
-                          </li>
-                          <li class="header-btn">
-                            <button onclick="window.location.href='contact.html'">Contact us</button>
-                          </li>
-                        </ul>
-                    </div>
-                </div>
-            </nav>
-        </div>
-    </header>
+<?php include("header.php"); ?>
 
     <div class="backround-banner py-5 d-flex">
         <div class="container">
@@ -384,7 +350,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="accordion-item">
+                        <!-- <div class="accordion-item">
                             <h4 class="accordion-header" id="headingFive">
                                 <button class="accordion-button accordion-button-1 collapsed smooth-trans lh-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                                     How to arrive at the right value/price of a stock?
@@ -396,7 +362,7 @@
                                     <p class="text-justify lh-2 mb-3">Determining the right value or price of a stock involves analyzing a range of factors, including a company's financial health, growth potential, and industry trends. This can be done through fundamental analysis, which involves analyzing financial statements and industry trends to estimate a company's intrinsic value.</p>  
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="accordion-item">
                             <h4 class="accordion-header" id="headingSix">
                                 <button class="accordion-button accordion-button-1 collapsed smooth-trans lh-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseFive">
@@ -415,33 +381,7 @@
             </div>
         </div>
     </section>
-
-    <div class="footer mt-5">
-        <div class="container">
-            <div class="row">
-                <div class="col-12 col-md-4 col-lg-4 mb-3">
-                    <div class="social-icon">
-                        <ul class="foooter-social-icon d-flex">
-                            <li> <a href="https://www.facebook.com/traderz.arena/"><img width="100%" height="100%" loading="lazy" src="./images/facebook-icon.svg"  title="traderz-arena-facebook" alt="traderz-arena"></a></li>
-                            <li> <a href="https://twitter.com/ArenaTraderz"><img width="100%" height="100%" loading="lazy" src="./images/twitter-icon.svg"  title="traderz-arena-twitter" alt="traderz-arena"></a></li>
-                            <li> <a href="https://www.youtube.com/channel/UCrN6WFN-pbf8DywBdZsI79g"><img width="100%" height="100%" loading="lazy" src="./images/youtube-icon.svg" title="traderz-arena-youtube"  alt="traderz-arena"></a></li>
-                            <li> <a href="https://www.instagram.com/tradersarena10/?hl=en"><img width="100%" height="100%" loading="lazy" src="./images/instagram-icon.svg"  title="traderz-arena-instagram" alt="traderz-arena"></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-12 col-md-4 col-lg-4 mb-3">
-                    <div class="copy-right d-flex text-center">
-                        <span>Copyright © 2023 All Rights Reserved.</span>
-                    </div>
-                </div>
-                <div class="col-12 col-md-4 col-lg-4 mb-3">
-                    <div class="privacy d-flex">
-                        <span>Privacy Policy | FAQ</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    <?php include("footer.php"); ?>
     <script src="./js/bootstrap.bundle.min.js"></script>
     <script src="./js/jquery-3.6.0.min.js"></script>
     <script>
