@@ -430,6 +430,15 @@ button:focus:not(:focus-visible){
 }
 
 
+.foooter-social-icon li img{
+  transition: transform 0.5s;
+}
+
+.foooter-social-icon li img:hover{
+  transform: rotate(90deg);
+}
+
+
 
 
 @media(min-width: 990px){
