@@ -46,13 +46,13 @@
 
     <div class="backround-banner py-5 d-flex">
         <div class="container">
-            <div class="row justify-content-center align-items-center">
+            <div class="row justify-content-center">
                 <div class="col-md-12 col-lg-6 col-xl-6">
                     <div class="banner-content">
-                        <span class="text-white">Track Expert Traders</span>
+                        <span class="text-white mb-3">Track Expert Traders</span>
                         <h2 class="heading text-bold text-white py-4">We Train You How to Make <span class="text-primary"> Consistent Money!</span></h2>
                         <span class="text-white">Get Stocks & Options trades from verified traders</span>
-                        <div class="form-section py-4">
+                        <div class="form-section mt-5 mb-3">
                             <form  id="emailForm"  action="#" method="post">
                                 <input class="input-field" placeholder="Enter your email address" type="email" id="email" name="email">
                                 <input class="sub-btn"  type="submit">

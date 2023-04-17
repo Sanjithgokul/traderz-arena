@@ -57,7 +57,7 @@
   }
  
 section{
-    padding: 100px 0;
+    padding: 70px 0;
 }
 
 ul{
@@ -171,39 +171,45 @@ button:focus:not(:focus-visible){
   padding: 10px 25px;
 }
 
-.b-clr button:hover {
-  box-shadow: 8px 8px #50C9C0;
-  transition: .3s;
+.sub-btn{
+  margin-left: 16px;
 }
 
+
+
 .course-btn a:hover{
-  box-shadow: 8px 5px #00BED4;
-  transition: .3s;
+  background: #00BED4;
+  transform: scale(1.05) translateY(-2px);
+  transition: all ease 0.2s;
   color: #fff;
 }
 
 .course-btn-2 a:hover{
-  box-shadow: 8px 5px #FBC84B;
-  transition: .3s;
-  color: #fff;
+  background:#FBC84B;
+  transform: scale(1.05) translateY(-2px);
+  transition: all ease 0.2s;
+  color: #fff; 
 }
 
 .course-btn-3 a:hover{
-  box-shadow: 8px 5px #E94E52;
-  transition: .3s;
+  background:#E94E52;
+  transform: scale(1.05) translateY(-2px);
+  transition: all ease 0.2s;
   color: #fff;
 }
 
-.know-more a:hover{
-  box-shadow: 8px 5px #15918f;
-  transition: .3s;
-  color: #15CDCB;
+.know-more a:hover,
+.banner-btn button:hover{
+  background:  #000000; 
+  transform: scale(1.05) translateY(-2px);
+  transition: all ease 0.2s;
+  color: #fff;
 }
 
 .header-btn button:hover{
-  box-shadow: 8px 5px #15918f;
-  transition: .3s;
-  color: #fff;
+  background:  #000000; 
+  transform: scale(1.05) translateY(-2px);
+  transition: all ease 0.2s;
 }
 
 .section-2{
@@ -419,6 +425,10 @@ button:focus:not(:focus-visible){
   width: 100%;
 }
 
+.footer span{
+  font-size: 17px;
+}
+
 
 
 
@@ -430,7 +440,7 @@ button:focus:not(:focus-visible){
 
   .testimonial-sec{
     position: relative;
-    top: -215px;
+    top: -260px;
   }
 
   .section-5{
@@ -442,6 +452,10 @@ button:focus:not(:focus-visible){
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
+  }
+
+  .section-5{
+    height: 75vh;
   }
 
 }
@@ -524,13 +538,13 @@ button:focus:not(:focus-visible){
   .heading .text-primary{
     font-size: 36px !important;
   }
-}
 
-@media (max-width:375px){
-  .input-field{
-    margin-bottom: 10px;
+  .sub-btn{
+    margin-top: 10px;
   }
 }
+
+
 
 
 

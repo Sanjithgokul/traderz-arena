@@ -78,7 +78,7 @@
                             </div>
                             <div class="contact-email">
                                 <h4 class="m text-white"><b>HOURS</b></h4>
-                                <span class="tesimonial-right-span text-white">mon - fri, 9am - 8pm EST</span>
+                                <span class="tesimonial-right-span text-white">MON - FRI, 9am - 8pm EST</span>
                             </div>
                         </div>
                     </div>
