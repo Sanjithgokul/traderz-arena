@@ -19,7 +19,7 @@
         <div class="modal-content">
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           <div class="modal-header">
-            <h3 class="modal-title" id="staticBackdropLabel">Get Free quote</h3>
+            <h3 class="modal-title" id="staticBackdropLabel">Quick Contact</h3>
           </div>
             <form action="/action_page.php">
                 <div class="mb-3 mt-3">
@@ -29,7 +29,7 @@
                     <input type="email" class="form-control" id="email" placeholder="Email Address" name="email">
                 </div>
                 <div class="mb-3">
-                    <input type="text" class="form-control" id="subject" placeholder="Subject" name="subject">
+                    <input type="number" class="form-control" id="number" placeholder="Mobile Number" name="number">
                 </div>
                 <div class="mb-3">
                     <textarea class="form-control" rows="5" id="comment" placeholder="Your Message" name="text"></textarea>
@@ -49,7 +49,7 @@
                 <div class="col-md-12 col-lg-6 col-xl-6">
                     <div class="banner-content">
                         <span class="text-white mb-3">Track Expert Traders</span>
-                        <h2 class="heading text-bold text-white py-4">We Train You How to Make <span class="text-primary"> Consistent Money!</span></h2>
+                        <h1 class="heading text-bold text-white py-4">We Train You How to Make <span class="text-primary"> Consistent Money!</span></h1>
                         <span class="text-white">Learn from market experts & invest your course fee in live trading.</span>
                         <div class="form-section mt-5 mb-3">
                             <form  id="emailForm"  action="#" method="post">
@@ -75,7 +75,7 @@
                     </div>
                     <div class="col-sm-12 col-md-12 col-lg-6">
                         <h2 class="heading text-bold text-gray">About Us</h2>
-                        <p class="text-gray lh-2 text-justify">At Traderz Arena, We take pride in delivering exceptional training that empowers individuals to thrive and generate profits in all market conditions (bear or bull market). Our technically sound experts train you to create your trading protocol and achieve wealth creation through value investment.</p>
+                        <p class="text-gray lh-2 text-justify">At TraderzArena, We take pride in delivering exceptional training that empowers individuals to thrive and generate profits in all market conditions (bear or bull market). Our technically sound experts train you to create your trading protocol and achieve wealth creation through value investment.</p>
                         <p class="text-gray lh-2 text-justify"> We prioritize transparency and trust in all interactions with clients. Invest with confidence with less risk assured. Say goodbye to fake calls and financial losses. Our expert trading knowledge guarantees that you'll not only recover your investment but also reap the rewards of successful trading. Join us now for a hassle-free investment experience.</p>
                         <div class="row year">
                             <div class="col-6 col-md-6 col-lg-6 mb-4">
@@ -169,14 +169,14 @@
                                 <div class="box-heading  clr-3 mb-3">
                                     <h3 class="top-heading text-center  d-flex">Options Trading </h3>
                                     <div class="span-sec">
-                                        <h4 class="m d-flex"><b class="px-2">Duration:</b> 1 month </h4>
+                                        <h4 class="m d-flex"><b class="px-2">Duration:</b> 1 Month </h4>
                                         <h4 class="r d-flex"> <b class="px-2">Fee:</b>  50,000 INR + GST</h4>
                                     </div>
                                 </div>
                                 <div class="ul-section d-flex">
                                     <div class="course-details-inner d-flex text-center">
                                         <ul class="course-list">
-                                            <li>Candle stick patterns</li>
+                                            <li>Candle Stick Patterns</li>
                                             <li>Chart Patterns</li>
                                             <li>Time Frame Analysis</li>
                                             <li>Gap up & Gap Down Trading</li>
@@ -203,11 +203,11 @@
                                 <div class="ul-section d-flex">
                                     <div class="course-details-inner d-flex text-center">
                                         <ul class="course-list">
-                                            <li>Positional Expiry Trading concepts</li>
-                                            <li>Weekly Expiry trading Techniques</li>
+                                            <li>Positional Expiry Trading Concepts</li>
+                                            <li>Weekly Expiry Trading Techniques</li>
                                             <li>OI Analysis</li>
                                             <li>Index Intraday Trading</li>
-                                            <li>Inraday Adjustment concepts</li>
+                                            <li>Inraday Adjustment Concepts</li>
                                             <li>Intraday PalysisCR An</li>
                                             <li>1 Month Support</li>
                                         </ul>
@@ -258,7 +258,7 @@
                 <div class="row justify-content-center align-items-center reverse">
                     <div class="col-12 col-md-12 col-lg-7">
                         <h2 class="heading text-bold text-white mb-4">Deepak K L</h2>
-                        <p class="text-white lh-2 text-justify">A trailblazing entrepreneur who has unlocked the secrets of financial investment and trading with over a decade of experience.His unique investing model and exceptional money management skills have made him a successful investor and trader. He doubles investments in 3-4 years, surpassing market expectations. As a trader cum trainer, Deepak is a beacon of knowledge, empowering aspiring traders with his insights and expertise.  In 2021, he founded Traderz Arena LLP, a platform where he continues to inspire and educate, reshaping financial markets.</p>
+                        <p class="text-white lh-2 text-justify">A trailblazing entrepreneur who has unlocked the secrets of financial investment and trading with over a decade of experience.His unique investing model and exceptional money management skills have made him a successful investor and trader. He doubles investments in 3-4 years, surpassing market expectations. As a trader cum trainer, Deepak is a beacon of knowledge, empowering aspiring traders with his insights and expertise.  In 2021, he founded TraderzArena LLP, a platform where he continues to inspire and educate, reshaping financial markets.</p>
                         <p class="text-white lh-2 text-justify">Get ready to unlock the path to financial success with Deepak K L - a true maverick in the world of trading and investment.</p>
                         <div class="know-more pt-2">
                             <a type="button" class="btn btn-primary">Know More</a>

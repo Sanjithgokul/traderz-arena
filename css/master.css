@@ -20,10 +20,15 @@
     max-width: 100%;
   }
 
+  h1{
+    font-size:52px;
+    line-height: 60px;
+
+  }
+
   h2 {
-    font-size: 48px !important;
+    font-size: 46px !important;
     line-height: 60px !important;
-    font-weight: 600;
     letter-spacing: 3px;
   }
 
@@ -48,7 +53,7 @@
     font-size: 17px;
   }
   h3 {
-    font-size: 20px !important;
+    font-size: 22px !important;
     font-weight: 600 !important;
   }
 
@@ -480,7 +485,13 @@ button:focus:not(:focus-visible){
 
 .modal-content .btn-close{
   position: absolute;
-  right: 15px;
+  right: -15px;
+  background-color: #fff;
+  top: -20px;
+  padding: 12px;
+  border-radius: 20px;
+  opacity: 100%;
+
 }
 
 .popup-section .modal-header{
@@ -554,13 +565,6 @@ button:focus:not(:focus-visible){
 
 }
 @media (max-width: 574px) {
-  /* .backround .navbar-collapse {
-    background: #15CDCB !important;
-    border-radius: 10px;
-    padding: 15px;
-    z-index: 99;
-  } */
-
   .header-btn {
     padding-top: 10px;
   }
@@ -586,6 +590,15 @@ button:focus:not(:focus-visible){
     color: #fff;
   }
 }
+
+@media(min-width:576px){
+  .modal-dialog {
+    max-width: 459px;
+    top: 18%;
+  }
+}
+
+
 @media (max-width:449px){
   .year-content h4{
     font-size: 16px;
@@ -598,6 +611,10 @@ button:focus:not(:focus-visible){
 
   .sub-btn{
     margin-top: 10px;
+  }
+
+  .modal-dialog{
+    top: 20%;
   }
 }
 
