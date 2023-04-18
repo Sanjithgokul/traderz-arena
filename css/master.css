@@ -259,6 +259,12 @@ button:focus:not(:focus-visible){
   background: #E94E52 !important;
 }
 
+.clr-4,
+.course-btn-4 a{
+  background: #4BB04A !important;
+}
+
+
 .course-list{
   padding-left: 0 !important;
 } 
@@ -443,6 +449,24 @@ button:focus:not(:focus-visible){
   transform: rotate(90deg);
 }
 
+.course-span{
+  font-size: 16px;
+}
+
+.popup-section .modal-header {
+  border-bottom: unset;
+}
+
+.popup-section .modal-content{
+  padding: 15px 20px;
+  border-radius: 15px;
+}
+
+.popup-section .form-control{
+  border: unset;
+  border-bottom: 1px solid #15CDCB;
+  border-radius: 0;
+}
 
 
 

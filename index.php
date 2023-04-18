@@ -9,6 +9,40 @@
 <body>
 <?php include("header.php"); ?>
 
+
+
+  <div class="popup-section">
+
+<!-- Modal -->
+    <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+      <div class="modal-dialog">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h3 class="modal-title" id="staticBackdropLabel">Get Free quote</h3>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+            <form action="/action_page.php">
+                <div class="mb-3 mt-3">
+                    <input type="text" class="form-control" id="Name" placeholder="Your Name" name="name">
+                </div>
+                <div class="mb-3">
+                    <input type="email" class="form-control" id="email" placeholder="Email Address" name="email">
+                </div>
+                <div class="mb-3">
+                    <input type="text" class="form-control" id="subject" placeholder="Subject" name="subject">
+                </div>
+                <div class="mb-3">
+                    <textarea class="form-control" rows="5" id="comment" placeholder="Your Message" name="text"></textarea>
+                </div>
+                <div class="contact-btn d-flex">
+                    <button type="submit" class="btn btn-primary">Submit</button>
+                </div>
+            </form>
+        </div>
+      </div>
+    </div>
+    </div>
+
     <div class="backround-banner py-5 d-flex">
         <div class="container">
             <div class="row justify-content-center">
@@ -16,7 +50,7 @@
                     <div class="banner-content">
                         <span class="text-white mb-3">Track Expert Traders</span>
                         <h2 class="heading text-bold text-white py-4">We Train You How to Make <span class="text-primary"> Consistent Money!</span></h2>
-                        <span class="text-white">Get Stocks & Options trades from verified traders</span>
+                        <span class="text-white">Learn from market experts & invest your course fee in live trading</span>
                         <div class="form-section mt-5 mb-3">
                             <form  id="emailForm"  action="#" method="post">
                                 <input class="input-field" placeholder="Enter your email address" type="email" id="email" name="email">
@@ -47,44 +81,42 @@
                             <div class="col-6 col-md-6 col-lg-6 mb-4">
                                 <div class="back-clr d-flex">
                                     <div class="cele-img">
-                                        <img width="100%" height="100%" loading="lazy" src="./images/about-yaer.webp" title="traderz-arena" alt="traderz-arena">
+                                        <img width="100%" height="100%" loading="lazy" src="./images/year-123.svg" title="traderz-arena" alt="traderz-arena">
                                     </div>
                                     <div class="year-content ps-3">
-                                        <h4>5+ Years</h4>
-                                        <span>On the market</span>
+                                        <h4>10+ Years</h4>
+                                        <span>Market Experiencece</span>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-6 col-md-6 col-lg-6 mb-4">
                                 <div class="back-clr d-flex">
                                     <div class="cele-img">
-                                        <img width="100%" height="100%" loading="lazy" src="./images/about-yaer.webp" title="traderz-arena" alt="traderz-arena">
+                                        <img width="100%" height="100%" loading="lazy" src="./images/successfull-icon.svg" title="traderz-arena" alt="traderz-arena">
                                     </div>
                                     <div class="year-content ps-3">
-                                        <h4>5+ Years</h4>
-                                        <span>On the market</span>
+                                        <h4>15+ Years</h4>
+                                        <span>Successful Mentorship</span>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-6 col-md-6 col-lg-6 mb-4">
                                 <div class="back-clr d-flex">
                                     <div class="cele-img">
-                                        <img width="100%" height="100%" loading="lazy" src="./images/about-yaer.webp" title="traderz-arena" alt="traderz-arena">
+                                        <img width="100%" height="100%" loading="lazy" src="./images/per-12.svg" title="traderz-arena" alt="traderz-arena">
                                     </div>
                                     <div class="year-content ps-3">
-                                        <h4>5+ Years</h4>
-                                        <span>On the market</span>
+                                        <h4>20-25% Returns per Anum</h4>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-6 col-md-6 col-lg-6 mb-4">
                                 <div class="back-clr d-flex">
                                     <div class="cele-img">
-                                        <img width="100%" height="100%" loading="lazy" src="./images/about-yaer.webp" title="traderz-arena" alt="traderz-arena">
+                                        <img width="100%" height="100%" loading="lazy" src="./images/community-icon.svg" title="traderz-arena" alt="traderz-arena">
                                     </div>
                                     <div class="year-content ps-3">
-                                        <h4>5+ Years</h4>
-                                        <span>On the market</span>
+                                        <h4>Community Trading</h4>
                                     </div>
                                 </div>
                             </div>
@@ -107,7 +139,88 @@
             <div class="box-backround mt-5">
                 <div class="container">
                     <div class="row justify-content-center align-items-center">
-                        <div class="col-12 col-md-6 col-lg-4 box-1 d-flex mb-4">
+                        <div class="col-12 col-md-6 col-lg-4 box-1 d-flex mb-5">
+                            <div class="box-inner">
+                                <div class="box-heading clr-2 mb-3">
+                                    <h3 class="top-heading text-center  d-flex">OPTIONS TRADING</h3>
+                                    <div class="span-sec">
+                                        <h4 class="m d-flex"><b>Duration:</b> 1 Months </h4>
+                                        <h4 class="r d-flex"> <b>Fee:</b>  50,000 INR + GST</h4>
+                                    </div>
+                                </div>
+                                <div class="ul-section d-flex">
+                                    <div class="course-details-inner d-flex text-center">
+                                        <ul class="course-list">
+                                            <li>Candle stick patterns</li>
+                                            <li>Chart Patterns</li>
+                                            <li>Time Frame Analysis</li>
+                                            <li>Gap up & Gap Down Trading</li>
+                                            <li>Trade Setup</li>
+                                            <li>Monthly Income Generation</li>
+                                            <li>1 Month Support</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="course-btn course-btn-2 d-flex">
+                                    <a href="#">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-4 box-1 d-flex mb-5">
+                            <div class="box-inner">
+                                <div class="box-heading  clr-3 mb-3">
+                                    <h3 class="top-heading text-center  d-flex">EXPIRY TRADING</h3>
+                                    <div class="span-sec">
+                                        <h4 class="m d-flex"><b>Duration:</b> 2 Weeks </h4>
+                                        <h4 class="r d-flex"> <b>Fee:</b> 25,000 INR + GST</h4>
+                                    </div>
+                                </div>
+                                <div class="ul-section d-flex">
+                                    <div class="course-details-inner d-flex text-center">
+                                        <ul class="course-list">
+                                            <li>Positional Expiry Trading concepts</li>
+                                            <li>Weekly Expiry trading Techniques</li>
+                                            <li>OI Analysis</li>
+                                            <li>Index Intraday Trading (30-35% ROI)</li>
+                                            <li>Inraday Adjustment concepts</li>
+                                            <li>Intraday PCR Analysis</li>
+                                            <li>1 Month Support</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="course-btn course-btn-3 d-flex">
+                                    <a href="#">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-4 box-1 d-flex mb-5">
+                            <div class="box-inner">
+                                <div class="box-heading  clr-4 mb-3">
+                                    <h3 class="top-heading text-center  d-flex">Mentorship Program</h3>
+                                    <div class="span-sec">
+                                        <h4 class="m d-flex"><b>Duration:</b> 6 Months (Live Session 9 AM – 3.30 PM) </h4>
+                                        <h4 class="r d-flex"> <b>Fee:</b> 500,000 INR</h4>
+                                    </div>
+                                </div>
+                                <div class="ul-section d-flex">
+                                    <div class="course-details-inner d-flex text-center">
+                                        <ul class="course-list">
+                                            <li>Complete A 2 Z Trading Concepts</li>
+                                            <li>How to Build a portfolio</li>
+                                            <li>Passive Income Creation</li>
+                                            <li>Wealth Creation</li>
+                                            <li>Taxation</li>
+                                            <li>Xerox Trade</li>
+                                            <li>6 Months Support</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="course-btn course-btn-4 d-flex">
+                                    <a href="#">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-4 box-1 d-flex mb-5">
                             <div class="box-inner">
                                 <div class="box-heading mb-3">
                                     <h3 class="top-heading  text-center d-flex">EXPERT TRADING COURSE</h3>
@@ -132,56 +245,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="col-12 col-md-6 col-lg-4 box-1 d-flex mb-4">
-                            <div class="box-inner">
-                                <div class="box-heading clr-2 mb-3">
-                                    <h3 class="top-heading text-center  d-flex">OPTIONS TRADING</h3>
-                                    <div class="span-sec">
-                                        <h4 class="m d-flex"><b>Duration:</b> 1 Months </h4>
-                                        <h4 class="r d-flex"> <b>Fee:</b>  50,000 INR + GST</h4>
-                                    </div>
-                                </div>
-                                <div class="ul-section d-flex">
-                                    <div class="course-details-inner d-flex text-center">
-                                        <ul class="course-list">
-                                            <li>Candle stick patterns</li>
-                                            <li>Chart Patterns</li>
-                                            <li>Time Frame Analysis</li>
-                                            <li>Gap up & Gap Down Trading</li>
-                                            <li>Trade Setup</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="course-btn course-btn-2 d-flex">
-                                    <a href="#">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12 col-md-6 col-lg-4 box-1 d-flex mb-4">
-                            <div class="box-inner">
-                                <div class="box-heading  clr-3 mb-3">
-                                    <h3 class="top-heading text-center  d-flex">EXPIRY TRADING</h3>
-                                    <div class="span-sec">
-                                        <h4 class="m d-flex"><b>Duration:</b> 2 Weeks </h4>
-                                        <h4 class="r d-flex"> <b>Fee:</b> 25,000 INR + GST</h4>
-                                    </div>
-                                </div>
-                                <div class="ul-section d-flex">
-                                    <div class="course-details-inner d-flex text-center">
-                                        <ul class="course-list">
-                                            <li>Positional Expiry Trading concepts</li>
-                                            <li>Weekly Expiry trading Techniques</li>
-                                            <li>OI Analysis</li>
-                                            <li>Intraday PCR Analysis</li>
-                                            <li>Trade Setup</li>
-                                        </ul>
-                                    </div>
-                                </div>
-                                <div class="course-btn course-btn-3 d-flex">
-                                    <a href="#">Read More</a>
-                                </div>
-                            </div>
-                        </div>
+                        <span class="course-span text-center">Note: For all courses we guarantee you the payback policy of training fee **Conditions Apply</span>
                     </div>
                 </div>
             </div>
@@ -197,7 +261,7 @@
                         <p class="text-white lh-2 text-justify">A trailblazing entrepreneur who has unlocked the secrets of financial investment and trading with over a decade of experience.His unique investing model and exceptional money management skills have made him a successful investor and trader. He doubles investments in 3-4 years, surpassing market expectations. As a trader cum trainer, Deepak is a beacon of knowledge, empowering aspiring traders with his insights and expertise.  In 2021, he founded Traderz Arena LLP, a platform where he continues to inspire and educate, reshaping financial markets.</p>
                         <p class="text-white lh-2 text-justify">Get ready to unlock the path to financial success with Deepak K L - a true maverick in the world of trading and investment.</p>
                         <div class="know-more pt-2">
-                            <a href="#">Know More</a>
+                            <a type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop">Know More</a>
                         </div>
                     </div>
                     <div class="col-12 col-md-12 col-lg-5 d-flex">
@@ -310,7 +374,7 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="accordion-item">
+                        <!-- <div class="accordion-item">
                             <h4 class="accordion-header" id="headingTwo">
                                 <button class="accordion-button accordion-button-1 collapsed smooth-trans lh-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
                                     How to pick the right stock?
@@ -322,7 +386,7 @@
                                     <p class="text-justify lh-2">There are many factors to consider when selecting the right stocks to invest in, including a company's financial health, growth potential, competitive advantages, and industry trends. It's important to conduct thorough research and analysis to identify companies that are well-positioned to succeed in the long term.</p>
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <div class="accordion-item">
                             <h4 class="accordion-header" id="headingThree">
                                 <button class="accordion-button accordion-button-1 collapsed smooth-trans lh-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
@@ -349,7 +413,7 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- <div class="accordion-item">
+                        <div class="accordion-item">
                             <h4 class="accordion-header" id="headingFive">
                                 <button class="accordion-button accordion-button-1 collapsed smooth-trans lh-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
                                     How to arrive at the right value/price of a stock?
@@ -361,7 +425,7 @@
                                     <p class="text-justify lh-2 mb-3">Determining the right value or price of a stock involves analyzing a range of factors, including a company's financial health, growth potential, and industry trends. This can be done through fundamental analysis, which involves analyzing financial statements and industry trends to estimate a company's intrinsic value.</p>  
                                 </div>
                             </div>
-                        </div> -->
+                        </div>
                         <div class="accordion-item">
                             <h4 class="accordion-header" id="headingSix">
                                 <button class="accordion-button accordion-button-1 collapsed smooth-trans lh-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseFive">
@@ -409,6 +473,13 @@
     });
   });
 });
-    </script>
+</script>
+ 
+<script>
+     $('new-model').on('close-btn', function () {
+          window.alert('hidden event fired!');
+    })
+</script>
+
 </body>
 </html>
