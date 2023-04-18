@@ -17,9 +17,9 @@
     <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
       <div class="modal-dialog">
         <div class="modal-content">
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           <div class="modal-header">
             <h3 class="modal-title" id="staticBackdropLabel">Get Free quote</h3>
-            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
             <form action="/action_page.php">
                 <div class="mb-3 mt-3">
@@ -50,7 +50,7 @@
                     <div class="banner-content">
                         <span class="text-white mb-3">Track Expert Traders</span>
                         <h2 class="heading text-bold text-white py-4">We Train You How to Make <span class="text-primary"> Consistent Money!</span></h2>
-                        <span class="text-white">Learn from market experts & invest your course fee in live trading</span>
+                        <span class="text-white">Learn from market experts & invest your course fee in live trading.</span>
                         <div class="form-section mt-5 mb-3">
                             <form  id="emailForm"  action="#" method="post">
                                 <input class="input-field" placeholder="Enter your email address" type="email" id="email" name="email">
@@ -103,7 +103,7 @@
                             <div class="col-6 col-md-6 col-lg-6 mb-4">
                                 <div class="back-clr d-flex">
                                     <div class="cele-img">
-                                        <img width="100%" height="100%" loading="lazy" src="./images/per-12.svg" title="traderz-arena" alt="traderz-arena">
+                                        <img width="100%" height="100%" loading="lazy" src="./images/persentage-icon-1.svg" title="traderz-arena" alt="traderz-arena">
                                     </div>
                                     <div class="year-content ps-3">
                                         <h4>20-25% Returns per Anum</h4>
@@ -113,7 +113,7 @@
                             <div class="col-6 col-md-6 col-lg-6 mb-4">
                                 <div class="back-clr d-flex">
                                     <div class="cele-img">
-                                        <img width="100%" height="100%" loading="lazy" src="./images/community-icon.svg" title="traderz-arena" alt="traderz-arena">
+                                        <img width="100%" height="100%" loading="lazy" src="./images/community-12.svg" title="traderz-arena" alt="traderz-arena">
                                     </div>
                                     <div class="year-content ps-3">
                                         <h4>Community Trading</h4>
@@ -142,10 +142,35 @@
                         <div class="col-12 col-md-6 col-lg-4 box-1 d-flex mb-5">
                             <div class="box-inner">
                                 <div class="box-heading clr-2 mb-3">
-                                    <h3 class="top-heading text-center  d-flex">OPTIONS TRADING</h3>
+                                    <h3 class="top-heading text-center  d-flex">Expert Trading Course </h3>
                                     <div class="span-sec">
-                                        <h4 class="m d-flex"><b>Duration:</b> 1 Months </h4>
-                                        <h4 class="r d-flex"> <b>Fee:</b>  50,000 INR + GST</h4>
+                                        <h4 class="m d-flex"><b class="px-2">Duration:</b> 3 Months </h4>
+                                        <h4 class="r d-flex"> <b class="px-2">Fee: </b> 100,000 INR + GST</h4>
+                                    </div>
+                                </div>
+                                <div class="ul-section d-flex">
+                                    <div class="course-details-inner d-flex text-center">
+                                        <ul class="course-list">
+                                            <li>Stock Market Basics</li>
+                                            <li>Options Trading and Strategies</li>
+                                            <li>Advance Techniques & Adjustments</li>
+                                            <li>Xerox Trading </li>
+                                            <li>3 Months Support</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                                <div class="course-btn course-btn-2 d-flex">
+                                    <a data-bs-toggle="modal" data-bs-target="#staticBackdrop"  href="#">Read More</a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-12 col-md-6 col-lg-4 box-1 d-flex mb-5">
+                            <div class="box-inner">
+                                <div class="box-heading  clr-3 mb-3">
+                                    <h3 class="top-heading text-center  d-flex">Options Trading </h3>
+                                    <div class="span-sec">
+                                        <h4 class="m d-flex"><b class="px-2">Duration:</b> 1 month </h4>
+                                        <h4 class="r d-flex"> <b class="px-2">Fee:</b>  50,000 INR + GST</h4>
                                     </div>
                                 </div>
                                 <div class="ul-section d-flex">
@@ -161,18 +186,18 @@
                                         </ul>
                                     </div>
                                 </div>
-                                <div class="course-btn course-btn-2 d-flex">
-                                    <a href="#">Read More</a>
+                                <div class="course-btn course-btn-3 d-flex">
+                                    <a data-bs-toggle="modal" data-bs-target="#staticBackdrop"  href="#">Read More</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-12 col-md-6 col-lg-4 box-1 d-flex mb-5">
                             <div class="box-inner">
-                                <div class="box-heading  clr-3 mb-3">
-                                    <h3 class="top-heading text-center  d-flex">EXPIRY TRADING</h3>
+                                <div class="box-heading  clr-4 mb-3">
+                                    <h3 class="top-heading text-center  d-flex"> Intex Trading</h3>
                                     <div class="span-sec">
-                                        <h4 class="m d-flex"><b>Duration:</b> 2 Weeks </h4>
-                                        <h4 class="r d-flex"> <b>Fee:</b> 25,000 INR + GST</h4>
+                                        <h4 class="m d-flex"><b class="px-2">Duration:</b> 2 Weeks</h4>
+                                        <h4 class="r d-flex"> <b class="px-2">Fee:</b> 25,000 INR + GST</h4>
                                     </div>
                                 </div>
                                 <div class="ul-section d-flex">
@@ -181,25 +206,25 @@
                                             <li>Positional Expiry Trading concepts</li>
                                             <li>Weekly Expiry trading Techniques</li>
                                             <li>OI Analysis</li>
-                                            <li>Index Intraday Trading (30-35% ROI)</li>
+                                            <li>Index Intraday Trading</li>
                                             <li>Inraday Adjustment concepts</li>
-                                            <li>Intraday PCR Analysis</li>
+                                            <li>Intraday PalysisCR An</li>
                                             <li>1 Month Support</li>
                                         </ul>
                                     </div>
                                 </div>
-                                <div class="course-btn course-btn-3 d-flex">
-                                    <a href="#">Read More</a>
+                                <div class="course-btn course-btn-4 d-flex">
+                                    <a data-bs-toggle="modal" data-bs-target="#staticBackdrop"  href="#">Read More</a>
                                 </div>
                             </div>
                         </div>
                         <div class="col-12 col-md-6 col-lg-4 box-1 d-flex mb-5">
                             <div class="box-inner">
-                                <div class="box-heading  clr-4 mb-3">
-                                    <h3 class="top-heading text-center  d-flex">Mentorship Program</h3>
+                                <div class="box-heading mb-3">
+                                    <h3 class="top-heading  text-center d-flex">Mentorship Program</h3>
                                     <div class="span-sec">
-                                        <h4 class="m d-flex"><b>Duration:</b> 6 Months (Live Session 9 AM – 3.30 PM) </h4>
-                                        <h4 class="r d-flex"> <b>Fee:</b> 500,000 INR</h4>
+                                        <h4 class="m d-flex"><b class="px-2">Duration:</b>  6 Months </h4>
+                                        <h4 class="r d-flex"> <b class="px-2">Fee:</b> 500,000 INR</h4>
                                     </div>
                                 </div>
                                 <div class="ul-section d-flex">
@@ -208,44 +233,19 @@
                                             <li>Complete A 2 Z Trading Concepts</li>
                                             <li>How to Build a portfolio</li>
                                             <li>Passive Income Creation</li>
-                                            <li>Wealth Creation</li>
+                                            <li>Wealth Creation </li>
                                             <li>Taxation</li>
                                             <li>Xerox Trade</li>
                                             <li>6 Months Support</li>
                                         </ul>
                                     </div>
                                 </div>
-                                <div class="course-btn course-btn-4 d-flex">
-                                    <a href="#">Read More</a>
-                                </div>
-                            </div>
-                        </div>
-                        <div class="col-12 col-md-6 col-lg-4 box-1 d-flex mb-5">
-                            <div class="box-inner">
-                                <div class="box-heading mb-3">
-                                    <h3 class="top-heading  text-center d-flex">EXPERT TRADING COURSE</h3>
-                                    <div class="span-sec">
-                                        <h4 class="m d-flex"><b>Duration:</b> 3 Months (120 Hrs)</h4>
-                                        <h4 class="r d-flex"> <b>Fee:</b> 100,000 INR + GST</h4>
-                                    </div>
-                                </div>
-                                <div class="ul-section d-flex">
-                                    <div class="course-details-inner d-flex text-center">
-                                        <ul class="course-list">
-                                            <li>Stock Market Basics </li>
-                                            <li>Options Trading and Strategies</li>
-                                            <li>Advance Techniques & Adjustments</li>
-                                            <li>Xerox Trading </li>
-                                            <li>3 Months Support</li>
-                                        </ul>
-                                    </div>
-                                </div>
                                 <div class="course-btn d-flex">
-                                    <a href="#">Read More</a>
+                                    <a  data-bs-toggle="modal" data-bs-target="#staticBackdrop" href="#">Read More</a>
                                 </div>
                             </div>
                         </div>
-                        <span class="course-span text-center">Note: For all courses we guarantee you the payback policy of training fee **Conditions Apply</span>
+                        <span class="course-span text-center"> <b>Note:</b> For all courses we guarantee you the payback policy of training fee. <span class="condition"> **</span> Conditions Apply</span>
                     </div>
                 </div>
             </div>
@@ -261,7 +261,7 @@
                         <p class="text-white lh-2 text-justify">A trailblazing entrepreneur who has unlocked the secrets of financial investment and trading with over a decade of experience.His unique investing model and exceptional money management skills have made him a successful investor and trader. He doubles investments in 3-4 years, surpassing market expectations. As a trader cum trainer, Deepak is a beacon of knowledge, empowering aspiring traders with his insights and expertise.  In 2021, he founded Traderz Arena LLP, a platform where he continues to inspire and educate, reshaping financial markets.</p>
                         <p class="text-white lh-2 text-justify">Get ready to unlock the path to financial success with Deepak K L - a true maverick in the world of trading and investment.</p>
                         <div class="know-more pt-2">
-                            <a type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#staticBackdrop">Know More</a>
+                            <a type="button" class="btn btn-primary">Know More</a>
                         </div>
                     </div>
                     <div class="col-12 col-md-12 col-lg-5 d-flex">

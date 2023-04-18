@@ -283,10 +283,16 @@ button:focus:not(:focus-visible){
   box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.25);
   border-radius: 10px;
   width: 90%;
+  height: 100%;
+}
+
+.modal-header h3{
+  font-size: 26px !important;
 }
 
 .ul-section{
   margin-top: -20px;
+  height: 407px;
 }
 
 .course-btn{
@@ -458,7 +464,7 @@ button:focus:not(:focus-visible){
 }
 
 .popup-section .modal-content{
-  padding: 15px 20px;
+  padding: 20px 20px;
   border-radius: 15px;
 }
 
@@ -468,6 +474,19 @@ button:focus:not(:focus-visible){
   border-radius: 0;
 }
 
+.condition{
+  color: red;
+}
+
+.modal-content .btn-close{
+  position: absolute;
+  right: 15px;
+}
+
+.popup-section .modal-header{
+  justify-content: center;
+  padding: 10px;
+}
 
 
 @media(min-width: 990px){
