@@ -199,11 +199,16 @@ button:focus:not(:focus-visible){
 }
 
 .know-more a:hover,
-.banner-btn button:hover{
+.banner-btn button:hover,
+.sub-btn:hover{
   background:  #000000; 
   transform: scale(1.05) translateY(-2px);
   transition: all ease 0.2s;
   color: #fff;
+}
+
+.sub-btn:hover{
+  outline: 1px solid #fff;
 }
 
 .header-btn button:hover{
