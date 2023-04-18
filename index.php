@@ -103,7 +103,7 @@
                             <div class="col-6 col-md-6 col-lg-6 mb-4">
                                 <div class="back-clr d-flex">
                                     <div class="cele-img">
-                                        <img width="100%" height="100%" loading="lazy" src="./images/persentage-icon-1.svg" title="traderz-arena" alt="traderz-arena">
+                                        <img width="100%" height="100%" loading="lazy" src="./images/persentage-new-123.svg" title="traderz-arena" alt="traderz-arena">
                                     </div>
                                     <div class="year-content ps-3">
                                         <h4>20-25% Returns per Anum</h4>
