@@ -41,7 +41,7 @@
                             </div>
                         </div>
                         <div class="contact-btn d-flex">
-                            <button type="submit" class="btn btn-primary">Submit</button>
+                            <button onclick="processemailform('HOME_EMAIL_FUNCTION',this)"; type="submit" class="btn btn-primary">Submit</button>
                         </div>
                     </form>
                 </div>
