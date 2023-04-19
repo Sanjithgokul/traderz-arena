@@ -281,7 +281,7 @@ button:focus:not(:focus-visible){
 
 .course-list li{
   font-size: 16px;
-  border-bottom: 1px solid #D9D9D9;
+  border-bottom: 1px solid #f7f1f1;
   padding-bottom: 10px;
   margin-bottom: 15px; 
 }
@@ -622,7 +622,7 @@ button:focus:not(:focus-visible){
 @media(min-width:576px){
   .modal-dialog {
     max-width: 435px;
-    top: 18%;
+    top: 127px;
   }
 }
 

@@ -21,25 +21,25 @@
                     </div>
                     <form action="/action_page.php">
                         <div class="mb-3 mt-3">
-                            <label for="fname">Enter name:</label><br>
+                            <label for="fname">Enter name</label><br>
                             <input type="text" class="form-control" id="name" name="name" required>
                         </div>
                         <div class="mb-3">
-                            <label for="fname">Email Address:</label><br>
+                            <label for="fname">Email Address</label><br>
                             <input type="email" class="form-control" id="email" name="email" required>
                         </div>
                         <div class="mb-3">
-                            <label for="fname">Mobile Number:</label><br>
+                            <label for="fname">Mobile Number</label><br>
                             <input type="number" class="form-control" id="number" name="number">
                             <span role="alert" class="invalid-feedback" id="number_req_2">Please enter a valid number</span>
                         </div>
                         <div class="">
                             <div class="form-control">
                             <label for="fname">Courses Type</label><br>
-                                <select class="custom-select text-clr" id="inputGroupSelect01">
-                                  <option selected></option>
+                                <select class="custom-select text-clr py-2" id="inputGroupSelect01">
+                                  <option selected>Select Courses</option>
                                   <option class="text-clr" value="1">Expert Trading Course</option>
-                                  <option class="text-clr" value="2">TwoOptions Trading</option>
+                                  <option class="text-clr" value="2">Options Trading</option>
                                   <option class="text-clr" value="3">Intex Trading</option>
                                   <option class="text-clr" value="3">Mentorship Program</option>
                                 </select>
@@ -290,7 +290,7 @@
             <div class="testimonial-sec">
                 <div class="row justify-content-center align-items-center reverse">
                     <div class="col-12 col-md-12 col-lg-6 test-clint-img small-d">
-                       <img loading="lazy" width="100%" height="100%" src="./images/testimonial.webp" title="Testimonial-Clients" alt="Testimonial-Clients">
+                       <img loading="lazy" width="100%" height="100%" src="./images/testimonial-new.webp" title="Testimonial-Clients" alt="Testimonial-Clients">
                     </div>
                     <div class="col-12 col-md-12 col-lg-6 ">
                         <span class="tesimonial-right-span mb-3">Our Testimonials</span>
