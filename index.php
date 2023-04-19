@@ -21,18 +21,22 @@
                     </div>
                     <form action="/action_page.php">
                         <div class="mb-3 mt-3">
-                            <input type="text" class="form-control" id="Name" placeholder="Your Name" name="name">
+                            <label for="fname">First name:</label><br>
+                            <input type="text" class="form-control" id="Name" name="name">
                         </div>
                         <div class="mb-3">
-                            <input type="email" class="form-control" id="email" placeholder="Email Address" name="email">
+                            <label for="fname">Email Address:</label><br>
+                            <input type="email" class="form-control" id="email" name="email">
                         </div>
                         <div class="mb-3">
-                            <input type="number" class="form-control" id="number" placeholder="Mobile Number" name="number">
+                            <label for="fname">Mobile Number:</label><br>
+                            <input type="number" class="form-control" id="number" name="number">
                         </div>
                         <div class="input-group mb-3">
                             <div class="form-control">
+                                <label for="fname">Course Type</label><br>
                                 <select class="custom-select text-clr" id="inputGroupSelect01">
-                                  <option selected>Choose...</option>
+                                  <option selected></option>
                                   <option class="text-clr" value="1">Expert Trading Course</option>
                                   <option class="text-clr" value="2">TwoOptions Trading</option>
                                   <option class="text-clr" value="3">Intex Trading</option>
@@ -306,8 +310,8 @@
                                         </div>
                                     </div>
                                     <div class="carousel-item">
-                                    <p>Deepak K L's training is a game-changer! My husband now has clarity on result-oriented trading, thanks to his in-depth knowledge and daily trading experience. We are grateful and wish Traderz Arena all the best.</p>
-                                        <h3 class="testi-name">Poorani Anbarasu</h3>
+                                    <p>Thanks to the excellent coaching and mentoring from Deepak and Dana Karthikeyan, I am now confident in executing equity trading and option strategies. I highly recommend Traderz Arena for anyone seeking to learn and succeed in the stock market.</p>
+                                        <h3 class="testi-name">Anbarasu</h3>
                                         <div class="testi-des">
                                             <div class="testides-name">
                                                 <h4 class="description">Adetprite Solutions</h4>

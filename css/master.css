@@ -518,6 +518,10 @@ button:focus:not(:focus-visible){
 }
 
 
+.modal-content label{
+  font-weight: 600;
+}
+
 @media(min-width: 990px){
   .deepak-profile{
     position: absolute;
@@ -615,7 +619,7 @@ button:focus:not(:focus-visible){
 
 @media(min-width:576px){
   .modal-dialog {
-    max-width: 459px;
+    max-width: 435px;
     top: 18%;
   }
 }
