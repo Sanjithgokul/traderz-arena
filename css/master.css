@@ -524,6 +524,15 @@ button:focus:not(:focus-visible){
   font-weight: 600;
 }
 
+@media (max-width: 1400px){
+  .modal-dialog {
+    max-width: 435px;
+    top: 27px;
+  }
+}
+  
+
+
 @media(min-width: 990px){
   .deepak-profile{
     position: absolute;
@@ -575,6 +584,11 @@ button:focus:not(:focus-visible){
 
   .small-d{
     margin-top: 50px;
+  }
+
+  .modal-dialog {
+    max-width: 435px;
+    top: 127px;
   }
 }
 
