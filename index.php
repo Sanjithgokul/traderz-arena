@@ -3,6 +3,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="/images/favicon.svg" type="image/svg" sizes="13x15">
     <?php include("common-css.php"); ?>
     <title>Traderz Arena</title>
 </head>
@@ -64,7 +65,7 @@
                         <span class="text-white">Learn from market experts & invest your course fee in live trading.</span>
                         <div class="form-section mt-5 mb-3">
                             <form  id="emailForm"  action="#" method="post">
-                                <input class="input-field" placeholder="Enter your email address" type="email" id="email" name="email">
+                                <input type="email" class="input-field" placeholder="Enter Your Email Address" id="email" name="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" required>
                                 <input onclick="processemailform('HOME_EMAIL_FUNCTION',this)" class="sub-btn"  type="submit">
                             </form>
                         </div>

@@ -62,7 +62,7 @@
                                 <textarea class="form-control" rows="5" id="comment" placeholder="Your Message" name="text"></textarea>
                             </div>
                             <div class="contact-btn d-flex">
-                                <button type="submit" class="btn btn-primary">Submit</button>
+                                <button onclick="processcontactemailform('HOME_EMAIL_FUNCTION',this)"  type="submit" class="btn btn-primary">Submit</button>
                             </div>
                         </form>
                     </div>
