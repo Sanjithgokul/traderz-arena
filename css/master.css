@@ -41,6 +41,11 @@
     font-size: 58px;
   }
 
+  .text-clr{
+    color: #7D858C !important;
+    
+  }
+
   .text-bold{
     font-weight: 600 !important;
   }

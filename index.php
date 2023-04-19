@@ -31,12 +31,12 @@
                         </div>
                         <div class="input-group mb-3">
                             <div class="form-control">
-                                <select class="custom-select" id="inputGroupSelect01">
+                                <select class="custom-select text-clr" id="inputGroupSelect01">
                                   <option selected>Choose...</option>
-                                  <option value="1">Expert Trading Course</option>
-                                  <option value="2">TwoOptions Trading</option>
-                                  <option value="3">Intex Trading</option>
-                                  <option value="3">Mentorship Program</option>
+                                  <option class="text-clr" value="1">Expert Trading Course</option>
+                                  <option class="text-clr" value="2">TwoOptions Trading</option>
+                                  <option class="text-clr" value="3">Intex Trading</option>
+                                  <option class="text-clr" value="3">Mentorship Program</option>
                                 </select>
                             </div>
                         </div>
