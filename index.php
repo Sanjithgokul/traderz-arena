@@ -41,7 +41,7 @@
                             </div>
                         </div>
                         <div class="contact-btn d-flex">
-                            <button onclick="processemailform('HOME_EMAIL_FUNCTION',this)"; type="submit" class="btn btn-primary">Submit</button>
+                            <button type="submit" class="btn btn-primary">Submit</button>
                         </div>
                     </form>
                 </div>
@@ -60,7 +60,7 @@
                         <div class="form-section mt-5 mb-3">
                             <form  id="emailForm"  action="#" method="post">
                                 <input class="input-field" placeholder="Enter your email address" type="email" id="email" name="email">
-                                <input class="sub-btn"  type="submit">
+                                <input onclick="processemailform('HOME_EMAIL_FUNCTION',this)" class="sub-btn"  type="submit">
                             </form>
                         </div>
                     </div>
@@ -285,7 +285,7 @@
             <div class="testimonial-sec">
                 <div class="row justify-content-center align-items-center reverse">
                     <div class="col-12 col-md-12 col-lg-6 test-clint-img small-d">
-                       <img loading="lazy" width="100%" height="100%" src="./images/clients-says.webp" title="Testimonial-Clients" alt="Testimonial-Clients">
+                       <img loading="lazy" width="100%" height="100%" src="./images/testimonial.webp" title="Testimonial-Clients" alt="Testimonial-Clients">
                     </div>
                     <div class="col-12 col-md-12 col-lg-6 ">
                         <span class="tesimonial-right-span mb-3">Our Testimonials</span>
