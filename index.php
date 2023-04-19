@@ -22,21 +22,20 @@
                     <form action="/action_page.php">
                         <div class="mb-3 mt-3">
                             <label for="fname">Enter name:</label><br>
-                            <input type="text" class="form-control" id="Name" name="name">
+                            <input type="text" class="form-control" id="name" name="name" required>
                         </div>
                         <div class="mb-3">
                             <label for="fname">Email Address:</label><br>
-                            <input type="email" class="form-control" id="email" name="email">
-                            <span role="alert" class="invalid-feedback" id="email_req_2" style="display: table;">Please enter a valid email.</span>
+                            <input type="email" class="form-control" id="email" name="email" required>
                         </div>
                         <div class="mb-3">
                             <label for="fname">Mobile Number:</label><br>
                             <input type="number" class="form-control" id="number" name="number">
-                            <span role="alert" class="invalid-feedback" id="number_req_2" style="display: table;">Please enter a valid number</span>
+                            <span role="alert" class="invalid-feedback" id="number_req_2">Please enter a valid number</span>
                         </div>
-                        <div class="input-group mb-3">
+                        <div class="">
                             <div class="form-control">
-                                <label for="fname">Course Type</label><br>
+                            <label for="fname">Courses Type</label><br>
                                 <select class="custom-select text-clr" id="inputGroupSelect01">
                                   <option selected></option>
                                   <option class="text-clr" value="1">Expert Trading Course</option>

@@ -188,7 +188,7 @@ button:focus:not(:focus-visible){
 
 
 .course-btn a:hover{
-  background: #00BED4;
+  background: #FF00FF;
   transform: scale(1.05) translateY(-2px);
   transition: all ease 0.2s;
   color: #fff;
@@ -491,6 +491,8 @@ button:focus:not(:focus-visible){
   border: unset;
   border-bottom: 1px solid #15CDCB;
   border-radius: 0;
+  padding: 10px 0;
+  margin-bottom: 20px;
 }
 
 .condition{
