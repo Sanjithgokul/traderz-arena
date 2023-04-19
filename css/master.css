@@ -21,7 +21,7 @@
   }
 
   h1{
-    font-size:52px;
+    font-size:58px;
     line-height: 60px;
 
   }
@@ -38,7 +38,7 @@
 
   .heading .text-primary{
     color: #15CDCB !important;
-    font-size: 48px;
+    font-size: 58px;
   }
 
   .text-bold{
@@ -276,11 +276,20 @@ button:focus:not(:focus-visible){
 
 .course-list li{
   font-size: 16px;
-  border-bottom: 1px solid #a3a3a3;
+  border-bottom: 1px solid #D9D9D9;
   padding-bottom: 10px;
   margin-bottom: 15px; 
-
 }
+
+.form-control .custom-select{
+  border: unset;
+  width: 100%;
+}
+
+.form-control .custom-select:focus-visible{
+  outline: unset;
+}
+
 
 .course-details-inner{
   padding: 20px;
@@ -499,6 +508,10 @@ button:focus:not(:focus-visible){
   padding: 10px;
 }
 
+.custom-select option{
+  color: #212529;
+}
+
 
 @media(min-width: 990px){
   .deepak-profile{
@@ -547,7 +560,11 @@ button:focus:not(:focus-visible){
 
   section{
     padding: 70px 0;
-}
+  }
+
+  .small-d{
+    margin-top: 50px;
+  }
 }
 
 

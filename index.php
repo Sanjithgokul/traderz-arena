@@ -10,37 +10,43 @@
 <?php include("header.php"); ?>
 
 
-
-  <div class="popup-section">
-
-<!-- Modal -->
-    <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
-      <div class="modal-dialog">
-        <div class="modal-content">
-        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-          <div class="modal-header">
-            <h3 class="modal-title" id="staticBackdropLabel">Quick Contact</h3>
-          </div>
-            <form action="/action_page.php">
-                <div class="mb-3 mt-3">
-                    <input type="text" class="form-control" id="Name" placeholder="Your Name" name="name">
+    <!-- Modal -->
+    <div class="popup-section">
+        <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+            <div class="modal-dialog">
+                <div class="modal-content">
+                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                    <div class="modal-header">
+                      <h3 class="modal-title" id="staticBackdropLabel">Quick Contact</h3>
+                    </div>
+                    <form action="/action_page.php">
+                        <div class="mb-3 mt-3">
+                            <input type="text" class="form-control" id="Name" placeholder="Your Name" name="name">
+                        </div>
+                        <div class="mb-3">
+                            <input type="email" class="form-control" id="email" placeholder="Email Address" name="email">
+                        </div>
+                        <div class="mb-3">
+                            <input type="number" class="form-control" id="number" placeholder="Mobile Number" name="number">
+                        </div>
+                        <div class="input-group mb-3">
+                            <div class="form-control">
+                                <select class="custom-select" id="inputGroupSelect01">
+                                  <option selected>Choose...</option>
+                                  <option value="1">Expert Trading Course</option>
+                                  <option value="2">TwoOptions Trading</option>
+                                  <option value="3">Intex Trading</option>
+                                  <option value="3">Mentorship Program</option>
+                                </select>
+                            </div>
+                        </div>
+                        <div class="contact-btn d-flex">
+                            <button type="submit" class="btn btn-primary">Submit</button>
+                        </div>
+                    </form>
                 </div>
-                <div class="mb-3">
-                    <input type="email" class="form-control" id="email" placeholder="Email Address" name="email">
-                </div>
-                <div class="mb-3">
-                    <input type="number" class="form-control" id="number" placeholder="Mobile Number" name="number">
-                </div>
-                <div class="mb-3">
-                    <textarea class="form-control" rows="5" id="comment" placeholder="Your Message" name="text"></textarea>
-                </div>
-                <div class="contact-btn d-flex">
-                    <button type="submit" class="btn btn-primary">Submit</button>
-                </div>
-            </form>
+            </div>
         </div>
-      </div>
-    </div>
     </div>
 
     <div class="backround-banner py-5 d-flex">
@@ -49,7 +55,7 @@
                 <div class="col-md-12 col-lg-6 col-xl-6">
                     <div class="banner-content">
                         <span class="text-white mb-3">Track Expert Traders</span>
-                        <h1 class="heading text-bold text-white py-4">We Train You How to Make <span class="text-primary"> Consistent Money!</span></h1>
+                        <h1 class="heading text-bold text-white py-4 lh-5">We Train You How to Make <span class="text-primary"> Consistent Money!</span></h1>
                         <span class="text-white">Learn from market experts & invest your course fee in live trading.</span>
                         <div class="form-section mt-5 mb-3">
                             <form  id="emailForm"  action="#" method="post">
@@ -70,7 +76,7 @@
         <div class="about-us">
             <div class="container">
                 <div class="row justify-content-center align-items-center reverse">
-                    <div class="col-sm-12 col-md-12 col-lg-6">
+                    <div class="col-sm-12 col-md-12 col-lg-6 small-d">
                         <img width="100%" height="100%" loading="lazy" src="./images/home-sec-2.webp" title="traderz-arena" alt="traderz-arena">
                     </div>
                     <div class="col-sm-12 col-md-12 col-lg-6">
@@ -278,48 +284,48 @@
         <div class="container">
             <div class="testimonial-sec">
                 <div class="row justify-content-center align-items-center reverse">
-                    <div class="col-12 col-md-12 col-lg-6 test-clint-img">
+                    <div class="col-12 col-md-12 col-lg-6 test-clint-img small-d">
                        <img loading="lazy" width="100%" height="100%" src="./images/clients-says.webp" title="Testimonial-Clients" alt="Testimonial-Clients">
                     </div>
                     <div class="col-12 col-md-12 col-lg-6 ">
                         <span class="tesimonial-right-span mb-3">Our Testimonials</span>
-                        <h2 class="heading text-bold text-gray mb-4">What they’re talking about us</h2>
+                        <h2 class="heading text-bold text-gray mb-4">What They’re Talking About Us</h2>
                         <div class="testimonial-right">
                             <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                                 <div class="carousel-inner">
                                     <div class="carousel-item active">
-                                        <p>Worem ipsum dolor sit amet, consectetur adipiscing elit. Worem ipsum dolor sit amet, consectetur adipiscing elit.Worem ipsum dolor sit amet, consectetur adipiscing elit. Worem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                        <h3 class="testi-name">Yash Soni</h3>
+                                        <p>Deepak K L's training is a game-changer! My husband now has clarity on result-oriented trading, thanks to his in-depth knowledge and daily trading experience. We are grateful and wish Traderz Arena all the best.</p>
+                                        <h3 class="testi-name">Poorani Anbarasu</h3>
                                         <div class="testi-des">
                                             <div class="testides-name">
-                                                <h4 class="description">PRESITENT</h4>
+                                                <h4 class="description">Adetprite Solutions</h4>
                                             </div>
                                             <div class="testi-img">
-                                                <img  width="100%" height="100%" loading="lazy" src="./images/quote-new.svg"  title="traderz-arena" alt="traderz-arena">
+                                                <img  width="100%" height="100%" loading="lazy" src="./images/new-quote.svg"  title="traderz-arena" alt="traderz-arena">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="carousel-item">
-                                        <p>Worem ipsum dolor sit amet, consectetur adipiscing elit. Worem ipsum dolor sit amet, consectetur adipiscing elit.Worem ipsum dolor sit amet, consectetur adipiscing elit. Worem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                        <h3 class="testi-name">Yash Soni</h3>
+                                    <p>Deepak K L's training is a game-changer! My husband now has clarity on result-oriented trading, thanks to his in-depth knowledge and daily trading experience. We are grateful and wish Traderz Arena all the best.</p>
+                                        <h3 class="testi-name">Poorani Anbarasu</h3>
                                         <div class="testi-des">
                                             <div class="testides-name">
-                                                <h4 class="description">PRESITENT</h4>
+                                                <h4 class="description">Adetprite Solutions</h4>
                                             </div>
                                             <div class="testi-img">
-                                                <img  width="100%" height="100%" loading="lazy" src="./images/quote-new.svg"  title="traderz-arena" alt="traderz-arena">
+                                                <img  width="100%" height="100%" loading="lazy" src="./images/new-quote.svg"  title="traderz-arena" alt="traderz-arena">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="carousel-item">
-                                        <p>Worem ipsum dolor sit amet, consectetur adipiscing elit. Worem ipsum dolor sit amet, consectetur adipiscing elit.Worem ipsum dolor sit amet, consectetur adipiscing elit. Worem ipsum dolor sit amet, consectetur adipiscing elit.</p>
-                                        <h3 class="testi-name">Yash Soni</h3>
+                                    <p>Deepak K L's training is a game-changer! My husband now has clarity on result-oriented trading, thanks to his in-depth knowledge and daily trading experience. We are grateful and wish Traderz Arena all the best.</p>
+                                        <h3 class="testi-name">Poorani Anbarasu</h3>
                                         <div class="testi-des">
                                             <div class="testides-name">
-                                                <h4 class="description">PRESITENT</h4>
+                                            <h4 class="description">Adetprite Solutions</h4>
                                             </div>
                                             <div class="testi-img">
-                                                <img width="100%" height="100%"  loading="lazy" src="./images/quote-new.svg" title="traderz-arena"  alt="traderz-arena">
+                                                <img width="100%" height="100%"  loading="lazy" src="./images/new-quote.svg" title="traderz-arena"  alt="traderz-arena">
                                             </div>
                                         </div>
                                     </div>
