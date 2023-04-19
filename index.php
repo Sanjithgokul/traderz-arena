@@ -21,16 +21,18 @@
                     </div>
                     <form action="/action_page.php">
                         <div class="mb-3 mt-3">
-                            <label for="fname">First name:</label><br>
+                            <label for="fname">Enter name:</label><br>
                             <input type="text" class="form-control" id="Name" name="name">
                         </div>
                         <div class="mb-3">
                             <label for="fname">Email Address:</label><br>
                             <input type="email" class="form-control" id="email" name="email">
+                            <span role="alert" class="invalid-feedback" id="email_req_2" style="display: table;">Please enter a valid email.</span>
                         </div>
                         <div class="mb-3">
                             <label for="fname">Mobile Number:</label><br>
                             <input type="number" class="form-control" id="number" name="number">
+                            <span role="alert" class="invalid-feedback" id="number_req_2" style="display: table;">Please enter a valid number</span>
                         </div>
                         <div class="input-group mb-3">
                             <div class="form-control">
