@@ -501,6 +501,9 @@ button:focus:not(:focus-visible){
   color: red;
 }
 
+.form-control-1{
+  padding-left: 0;
+}
 .modal-content .btn-close{
   position: absolute;
   right: -15px;

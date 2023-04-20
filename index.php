@@ -35,7 +35,7 @@
                             <span role="alert" class="invalid-feedback" id="number_req_2">Please enter a valid number</span>
                         </div>
                         <div class="">
-                            <div class="form-control">
+                            <div class="form-control form-control-1">
                             <label for="fname">Courses Type</label><br>
                                 <select class="custom-select text-clr py-2" id="inputGroupSelect01">
                                   <option selected>Select Courses</option>
