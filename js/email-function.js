@@ -44,7 +44,7 @@ function processemailform(service,$this){
                     data: JSON.stringify(sendInfo),
                     success: function(response, statusText, XHR) {
                         if(response.status ==='success') {
-                            window.location = "/http://www.traderzarena.com/" + data.email;
+                            window = "/traderzarena.com/" + data.email;
                         } else {
                             console.log(data)
                             alert('Could not send email.');
@@ -110,7 +110,7 @@ function processcontactemailform(service,$this){
                     data: JSON.stringify(sendInfo),
                     success: function(response, statusText, XHR) {
                         if(response.status ==='success') {
-                            location = "/traderzarena.com/" + data.email;
+                            window = "/traderzarena.com/" + data.email;
                         } else {
                             console.log(data)
                             alert('Could not send email.');
