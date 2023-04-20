@@ -491,8 +491,10 @@ button:focus:not(:focus-visible){
   border: unset;
   border-bottom: 1px solid #15CDCB;
   border-radius: 0;
-  padding: 10px 0;
-  margin-bottom: 20px;
+}
+
+.popup-section .modal{
+  overflow-y: hidden;
 }
 
 .condition{

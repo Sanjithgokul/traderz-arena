@@ -46,7 +46,7 @@
                                 </select>
                             </div>
                         </div>
-                        <div class="contact-btn d-flex">
+                        <div class="contact-btn d-flex mt-2">
                             <button type="submit" class="btn btn-primary">Submit</button>
                         </div>
                     </form>
@@ -64,7 +64,7 @@
                         <h1 class="heading text-bold text-white py-4 lh-5">We Train You How to Make <span class="text-primary"> Consistent Money!</span></h1>
                         <span class="text-white">Learn from market experts & invest your course fee in live trading.</span>
                         <div class="form-section mt-5 mb-3">
-                            <form  id="emailForm"  action="#" method="post">
+                            <form  id="contact-form"  action="#" method="post">
                                 <input type="email" class="input-field" placeholder="Enter Your Email Address" id="email" name="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" required>
                                 <input onclick="processemailform('HOME_EMAIL_FUNCTION',this)" class="sub-btn"  type="submit">
                             </form>
