@@ -47,22 +47,27 @@
                 </div>
                 <div class="col-sm-12 col-md-10 col-lg-6 d-flex-contact">
                     <div class="contact-form">
-                        <form action="/action_page.php">
+                        <form  id="contact-form" action="/action_page.php">
                             <h3 class="form-heading text-gray d-flex">Get Free quote</h3>
                             <div class="mb-3 mt-3">
-                                <input type="text" class="form-control" id="Name" placeholder="Your Name" name="name">
+                                <input type="text" class="form-control name" id="Name required" required='' id="nameField"  placeholder="Your Name" name="name">
+                                <span role="alert" class="invalid-feedback" id="name_req_2">Please fill your Full Name.</span>
                             </div>
                             <div class="mb-3">
-                                <input type="email" class="form-control" id="email" placeholder="Email Address" name="email">
+                                <input type="email" class="form-control email" id="email required" required='' id="emailField"  placeholder="Email Address" name="email">
+                                <span role="alert" class="invalid-feedback" id="email_req_2">Please fill your Business Email ID.</span>
                             </div>
                             <div class="mb-3">
-                                <input type="text" class="form-control" id="subject" placeholder="Subject" name="subject">
+                                <input type="text" class="form-control subject" id="subject required" required='' id="subjectField"  placeholder="Subject" name="subject">
                             </div>
                             <div class="mb-3">
-                                <textarea class="form-control" rows="5" id="comment" placeholder="Your Message" name="text"></textarea>
+                                <textarea class="form-control message" rows="5" id="comment required" required='' id="messageField"  placeholder="Your Message" name="message"></textarea>
                             </div>
                             <div class="contact-btn d-flex">
-                                <button onclick="processcontactemailform('HOME_EMAIL_FUNCTION',this)"  type="submit" class="btn btn-primary">Submit</button>
+                                <button onclick="processcontactemailform('CONTACT_EMAIL_FORM',this) " class="sub-btn" type="button">Submit</button>
+                            </div>
+                            <div class="alart-msg">
+                                <div class="alart-message text-red mt-2" style="display:none" id="Success_mail_message">Thank you for applying...</div>
                             </div>
                         </form>
                     </div>
@@ -86,33 +91,6 @@
 
     <?php include("footer.php"); ?>
     <?php include("common-js.php"); ?>
-    <script>
-       $(document).ready(function() {
-        $("#emailForm").submit(function(event) {
-    // Stop the form from submitting normally
-    event.preventDefault();
 
-    // Get the data from the email field
-    var email = $("#email").val();
-
-    // Make a POST request using jQuery AJAX
-    $.ajax({
-      type: "POST",
-      url: "/submit-form",
-      data: {
-        email: email
-      },
-      success: function(data) {
-        // Handle the successful response here
-        console.log(data);
-      },
-      error: function(jqXHR, textStatus, errorThrown) {
-        // Handle the error response here
-        console.log(textStatus, errorThrown);
-      }
-    });
-  });
-});
-    </script>
 </body>
 </html>
