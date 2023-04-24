@@ -150,7 +150,7 @@ button:focus:not(:focus-visible){
 .header-menus{
   background: #fff;
   width: 100%;
-  position: fixed;
+  position: sticky;
   z-index: 99;
   border-bottom: 2px solid #50C9C0;
   top: 0;

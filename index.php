@@ -53,7 +53,7 @@
         </div>
     </div>
 
-    <div class="backround-banner mt-5 d-flex">
+    <div class="backround-banner d-flex">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-12 col-lg-6 col-xl-6">
