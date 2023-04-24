@@ -166,7 +166,7 @@
                                             <li>Stock Market Basics</li>
                                             <li>Options Trading and Strategies</li>
                                             <li>Advance Techniques & Adjustments</li>
-                                            <li>Xerox Trading </li>
+                                            <li>Mirror trading</li>
                                             <li>3 Months Support</li>
                                         </ul>
                                     </div>
@@ -247,7 +247,7 @@
                                             <li>Passive Income Creation</li>
                                             <li>Wealth Creation </li>
                                             <li>Taxation</li>
-                                            <li>Xerox Trade</li>
+                                            <li>Mirror trading</li>
                                             <li>6 Months Support</li>
                                         </ul>
                                     </div>
