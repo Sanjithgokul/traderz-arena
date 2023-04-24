@@ -224,7 +224,8 @@ button:focus:not(:focus-visible){
 
 .know-more a:hover,
 .banner-btn button:hover,
-.sub-btn:hover{
+.sub-btn:hover,
+.thankyou a:hover{
   background:  #000000; 
   transform: scale(1.05) translateY(-2px);
   transition: all ease 0.2s;
@@ -466,6 +467,13 @@ button:focus:not(:focus-visible){
   border-radius: 5px;
 }
 
+.thankyou a{
+  background: #50C9C0;
+  color: #fff;
+  border-radius: 5px;
+  padding: 10px 15px;
+}
+
 .tesimonial-right-span{
   font-size: 22px;
   font-weight: 600;
@@ -553,10 +561,22 @@ button#enquiryButton:disabled{
   height: 87vh;
 }
 
+.thankyou h1{
+  font-size: 52px;
+}
+
 @media (max-width: 1400px){
   .modal-dialog {
     max-width: 435px;
     top: 27px;
+  }
+
+  .thanyou-section{
+    height: 120vh;
+  }
+
+  .backround-banner{
+    min-height: 100vh;
   }
 }
   
@@ -618,10 +638,6 @@ button#enquiryButton:disabled{
   .modal-dialog {
     max-width: 435px;
     top: 127px;
-  }
-
-  .thanyou-section{
-    height: 70vh;
   }
 
   .backround-banner{

@@ -50,21 +50,19 @@
                         <form  id="contact-form" action="/action_page.php">
                             <h3 class="form-heading text-gray d-flex">Get Free quote</h3>
                             <div class="mb-3 mt-3">
-                                <input type="text" class="form-control name" id="Name required" required='' id="nameField"  placeholder="Your Name" name="name">
-                                <span role="alert" class="invalid-feedback" id="name_req_2">Please fill your Full Name.</span>
+                                <input type="text" class="form-control name required" required='' id="nameField"  placeholder="Your Name" name="name">
                             </div>
                             <div class="mb-3">
-                                <input type="email" class="form-control email" id="email required" required='' id="emailField"  placeholder="Email Address" name="email">
-                                <span role="alert" class="invalid-feedback" id="email_req_2">Please fill your Business Email ID.</span>
+                                <input type="email" class="form-control email required"  required='' id="emailField"  placeholder="Email Address" name="email">
                             </div>
                             <div class="mb-3">
-                                <input type="text" class="form-control subject" id="subject required" required='' id="subjectField"  placeholder="Subject" name="subject">
+                                <input type="text" class="form-control subject required" required='' id="subjectField"  placeholder="Subject" name="subject">
                             </div>
                             <div class="mb-3">
-                                <textarea class="form-control message" rows="5" id="comment required" required='' id="messageField"  placeholder="Your Message" name="message"></textarea>
+                                <textarea class="form-control message" rows="5" required='' id="messageField"  placeholder="Your Message" name="message"></textarea>
                             </div>
                             <div class="contact-btn d-flex">
-                                <button onclick="processcontactemailform('CONTACT_EMAIL_FORM',this) " class="sub-btn" type="button">Submit</button>
+                                <button onclick="processcontactemailform('CONTACT_EMAIL_FORM',this) " class="sub-btn" type="button" id="conatctpagebtn">Submit</button>
                             </div>
                             <div class="alart-msg">
                                 <div class="alart-message text-red mt-2" style="display:none" id="Success_mail_message">Thank you for applying...</div>

@@ -6,15 +6,15 @@
     <?php include("common-css.php"); ?>
     <title>Traderz Arena</title>
 </head>
-<body>
 <?php include("header.php"); ?>
+<body>
 <section class="thanyou-section d-flex">
     <div class="thankyou">
         <div class="container">
             <h1 class="heading text-bold text-center text-gray py-4 lh-5">THANK YOU! We've reveived your inquiry.</h1>
             <h3 class="text-center text-gray lh-2">We truly appreciate the chance to offer you our high quality services & solution.</h3>
             <div class="banner-btn b-clr d-flex py-3">
-                <button onclick="href='index.php'">Go to Home</button>
+                <a href="http://www.traderzarena.com/">Go to Home</a>
             </div>
         </div>
     </div>
