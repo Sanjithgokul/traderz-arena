@@ -44,7 +44,7 @@ function processemailform(service,$this){
                     data: JSON.stringify(sendInfo),
                     success: function(response, statusText, XHR) {
                         if(response.status ==='success') {
-                            window = "/thankyou.php" + data.email;
+                            window.location.href = "/thankyou.php?email=" + data.email;
                         } else {
                             console.log(data)
                             alert('Could not send email.');
@@ -109,11 +109,10 @@ function processcontactemailform(service,$this){
                     url: "http://13.234.243.107:3000/common/contactUsForm",
                     data: JSON.stringify(sendInfo),
                     success: function(response, statusText, XHR) {
-                        if(response.status ==='success') {
-                            window = "/traderzarena.com/" + data.email;
+                        if(response.status ==='success' ) {
+                            window.location.href = "/thank-you.php?email=" + data.email;
                         } else {
-                            console.log(data)
-                            alert('Could not send email.');
+                            alert('Something Went Wrong.');
                         }
                     },
                     error: function(response, statusText, XHR){

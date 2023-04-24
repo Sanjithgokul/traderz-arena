@@ -14,7 +14,7 @@
             <h1 class="heading text-bold text-center text-gray py-4 lh-5">THANK YOU! We've reveived your inquiry.</h1>
             <h3 class="text-center text-gray lh-2">We truly appreciate the chance to offer you our high quality services & solution.</h3>
             <div class="banner-btn b-clr d-flex py-3">
-                <button onclick="window.location.href=''">Go to Home</button>
+                <button onclick="window.location.href='index.php'">Go to Home</button>
             </div>
         </div>
     </div>

@@ -65,7 +65,7 @@
                         <span class="text-white">Learn from market experts & invest your course fee in live trading.</span>
                         <div class="form-section mt-5 mb-3">
                             <form  id="contact-form"  action="#" method="post">
-                                <input type="email" class="input-field required email" placeholder="Enter Your Email Address" id="email" name="email" pattern="[a-z0-9._%+-]+@[a-z0-9.-]+\.[a-z]{2,}$" required>
+                                <input type="email" class="input-field required email" placeholder="Enter Your Email Address" id="email" name="email" required>
                                 <button onclick="processemailform('HOME_EMAIL_FUNCTION',this) " class="sub-btn" type="button">Submit</button>
                             </form>
                         </div>
@@ -206,7 +206,7 @@
                         <div class="col-12 col-md-6 col-lg-4 box-1 d-flex mb-5">
                             <div class="box-inner">
                                 <div class="box-heading  clr-4 mb-3">
-                                    <h3 class="top-heading text-center  d-flex"> Intex Trading</h3>
+                                    <h3 class="top-heading text-center  d-flex"> Index Trading</h3>
                                     <div class="span-sec">
                                         <h4 class="m d-flex"><b class="px-2">Duration:</b> 2 Weeks</h4>
                                         <h4 class="r d-flex"> <b class="px-2">Fee:</b> 25,000 INR + GST</h4>
@@ -217,10 +217,10 @@
                                         <ul class="course-list">
                                             <li>Positional Expiry Trading Concepts</li>
                                             <li>Weekly Expiry Trading Techniques</li>
-                                            <li>OI Analysis</li>
+                                            <li>Intraday/Positional OI analysis</li>
                                             <li>Index Intraday Trading</li>
                                             <li>Inraday Adjustment Concepts</li>
-                                            <li>Intraday PalysisCR An</li>
+                                            <!-- <li>Intraday PalysisCR An</li> -->
                                             <li>1 Month Support</li>
                                         </ul>
                                     </div>
