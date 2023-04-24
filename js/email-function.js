@@ -44,7 +44,7 @@ function processemailform(service,$this){
                     data: JSON.stringify(sendInfo),
                     success: function(response, statusText, XHR) {
                         if(response.status ==='success') {
-                            window = "/traderzarena.com/" + data.email;
+                            window = "/thankyou.php" + data.email;
                         } else {
                             console.log(data)
                             alert('Could not send email.');
