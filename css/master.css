@@ -550,7 +550,7 @@ button#enquiryButton:disabled{
 }
 
 .thanyou-section{
-  height: 75vh;
+  height: 87vh;
 }
 
 @media (max-width: 1400px){
@@ -626,6 +626,10 @@ button#enquiryButton:disabled{
 
   .backround-banner{
     min-height:115vh;
+  }
+
+  .thanyou-section{
+    height: 86vh;
   }
 }
 
