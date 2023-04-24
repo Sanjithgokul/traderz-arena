@@ -110,7 +110,7 @@ function processcontactemailform(service,$this){
                     data: JSON.stringify(sendInfo),
                     success: function(response, statusText, XHR) {
                         if(response.status ==='success' ) {
-                            window.location.href = "/thank-you.php?email=" + data.email;
+                            window.location.href = "/thankyou.php?email=" + data.email;
                         } else {
                             alert('Something Went Wrong.');
                         }
