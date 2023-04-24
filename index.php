@@ -7,10 +7,8 @@
     <?php include("common-css.php"); ?>
     <title>Traderz Arena</title>
 </head>
-<body data-bs-spy="scroll" data-bs-target="#navbar-example">
 <?php include("header.php"); ?>
-
-
+<body data-bs-spy="scroll" data-bs-target="#navbar-example">
     <!-- Modal -->
     <div class="popup-section">
         <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
@@ -55,7 +53,7 @@
         </div>
     </div>
 
-    <div class="backround-banner py-5 d-flex">
+    <div class="backround-banner mt-5 d-flex">
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-12 col-lg-6 col-xl-6">

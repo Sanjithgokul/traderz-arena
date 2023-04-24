@@ -1,4 +1,4 @@
-    <header>
+    <header class="header-menus">
         <div class="container">
             <nav class="navbar navbar-expand-sm">
                 <div class="container-fluid backround">
@@ -9,7 +9,7 @@
                     <div class="collapse navbar-collapse navbar-collapse-btn" id="collapsibleNavbar">
                         <ul class="navbar-nav">
                           <li class="nav-item">
-                            <a  href="#home-sec" class="nav-link" href="http://www.traderzarena.com/">Home</a>
+                            <a  href="#home-sec" class="nav-link active" href="http://www.traderzarena.com/">Home</a>
                           </li>
                           <li class="nav-item">
                             <a i href="#about-sec" class="nav-link" href="#">About </a>

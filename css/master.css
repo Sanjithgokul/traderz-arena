@@ -43,7 +43,6 @@
 
   .text-clr{
     color: #7D858C !important;
-    
   }
 
   .text-bold{
@@ -57,6 +56,8 @@
   p{
     font-size: 17px;
   }
+
+
   h3 {
     font-size: 24px !important;
     font-weight: 600 !important;
@@ -66,9 +67,9 @@
     font-size: 16px;
   }
  
-section{
+  section{
     padding: 70px 0;
-}
+  }
 
 ul{
   padding-left: 0;
@@ -138,8 +139,21 @@ button:focus:not(:focus-visible){
   color: #fff;
 }
 
+
+.header-menus a.nav-link.active {
+  color: #15CDCB;
+}
 .navbar-collapse-btn .nav-btn a{
   color: #fff;
+}
+
+.header-menus{
+  background: #fff;
+  width: 100%;
+  position: fixed;
+  z-index: 99;
+  border-bottom: 2px solid #50C9C0;
+  top: 0;
 }
 
 .year-content span{
@@ -153,7 +167,7 @@ button:focus:not(:focus-visible){
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
-  min-height: 80vh;
+  min-height: 85vh;
 }
 
 .form-section .input-field{
@@ -608,6 +622,10 @@ button#enquiryButton:disabled{
 
   .thanyou-section{
     height: 70vh;
+  }
+
+  .backround-banner{
+    min-height:115vh;
   }
 }
 
