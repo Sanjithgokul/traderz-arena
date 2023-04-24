@@ -8,7 +8,7 @@
 </head>
 <?php include("header.php"); ?>
 <body>
-<section class="thanyou-section d-flex">
+<div class="thanyou-section d-flex">
     <div class="thankyou">
         <div class="container">
             <h1 class="heading text-bold text-center text-gray py-4 lh-5">THANK YOU! We've reveived your inquiry.</h1>
@@ -18,7 +18,7 @@
             </div>
         </div>
     </div>
-</section>
+</div>
 <?php include("footer.php"); ?>
 <?php include("common-js.php"); ?>
 

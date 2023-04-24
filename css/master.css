@@ -558,7 +558,7 @@ button#enquiryButton:disabled{
 }
 
 .thanyou-section{
-  height: 87vh;
+  height: calc(100vh - 150px);
 }
 
 .thankyou h1{
@@ -571,9 +571,7 @@ button#enquiryButton:disabled{
     top: 27px;
   }
 
-  .thanyou-section{
-    height: 120vh;
-  }
+
 
   .backround-banner{
     min-height: 100vh;
@@ -642,10 +640,6 @@ button#enquiryButton:disabled{
 
   .backround-banner{
     min-height:115vh;
-  }
-
-  .thanyou-section{
-    height: 86vh;
   }
 }
 
