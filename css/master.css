@@ -566,6 +566,14 @@ button#enquiryButton:disabled{
   font-size: 52px;
 }
 
+.error-msg{
+  visibility: hidden;
+  width: 100%;
+  margin-top: 0.25rem;
+  font-size: .875em;
+  color: #dc3545;
+}
+
 @media (max-width: 1400px){
   .modal-dialog {
     max-width: 435px;

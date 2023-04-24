@@ -3,6 +3,13 @@ var services = {
     CONTACT_EMAIL_FORM: "Traderzarena Contact"
 }
 
+var invalidMessage = {
+    STATUS_EMPTY_FIELD: "Please fill in the required field.",
+    STATUS_INVALID_EMAIL: "Please enter a valid email.",
+    STATUS_INVALID_PHONE: "Please enter a valid phone number.",
+    SERVICE_EMPTY_FIELD: "Please select a service"
+}
+
 const enquiryButton = document.querySelector("#enquiryButton");
 const enquiryInput = document.querySelector("#enquiryEmail");
 const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
@@ -82,8 +89,9 @@ function processemailform(service,$this){
 }
 
 function processcontactemailform(service,$this){
-   
+   console.log("process contact form", service,$this)
     validation=validateForm($this, service);
+    console.log(validation)
     if (validation) {
         var data = jQuery($this).closest('#contact-form').serializeArray().reduce(function (obj, item) {
             obj[item.name] = item.value;
@@ -144,18 +152,6 @@ function processcontactemailform(service,$this){
     }
 
 
-}
-
-
-
-
-
-
-var invalidMessage = {
-    STATUS_EMPTY_FIELD: "Please fill in the required field.",
-    STATUS_INVALID_EMAIL: "Please enter a valid email.",
-    STATUS_INVALID_PHONE: "Please enter a valid phone number.",
-    SERVICE_EMPTY_FIELD: "Please select a service"
 }
 
 function validateInquiryForm($this, service='',type) {
@@ -277,12 +273,33 @@ function validateInquiryForm($this, service='',type) {
 function validateForm($this, service='') {
     var isFormValid = true, isEmailValid = true, isPhoneValid = true, isFilePresent = true, isServiceValid = true;
     var requiredFields = $($this).parents("#contact-form").find('.required');
+    console.log("requiredFields", requiredFields)
     $(requiredFields).each(function (index,field) {
         if ($(field).hasClass("required")) {
             isFormValid = checkEmptyInput(this) && isFormValid;
+            let element = document.getElementById(field.id + "_err");
+            if (!isFormValid) {
+                if (element) {
+                    element.style.visibility = "visible";
+                }
+            } else {
+                if (element) {
+                    element.style.visibility = "hidden";
+                }
+            }
         }
         if ($(field).hasClass("email")) {
             isEmailValid = checkEmptyInput(this) ? validateEmail(this) : false;
+            let element = document.getElementById(field.id + "_err");
+            if (!isEmailValid) {
+                if (element) {
+                    element.style.visibility = "visible";
+                }
+            } else {
+                if (element) {
+                    element.style.visibility = "hidden";
+                }
+            }
         }
         if ($(field).hasClass("phone")) {
             isPhoneValid = checkEmptyInput(this) ? validatePhone(this) : false;

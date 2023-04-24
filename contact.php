@@ -51,9 +51,11 @@
                             <h3 class="form-heading text-gray d-flex">Get Free quote</h3>
                             <div class="mb-3 mt-3">
                                 <input type="text" class="form-control name required" required='' id="nameField"  placeholder="Your Name" name="name">
+                                <span role="alert" class="error-msg" id="nameField_err">Please fill your Full Name.</span>
                             </div>
                             <div class="mb-3">
                                 <input type="email" class="form-control email required"  required='' id="emailField"  placeholder="Email Address" name="email">
+                                <span role="alert" class="error-msg" id="emailField_err">Please fill your Business Email ID.</span>
                             </div>
                             <div class="mb-3">
                                 <input type="text" class="form-control subject required" required='' id="subjectField"  placeholder="Subject" name="subject">
