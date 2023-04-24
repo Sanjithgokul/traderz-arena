@@ -529,6 +529,10 @@ button:focus:not(:focus-visible){
   font-weight: 600;
 }
 
+.thanyou-section{
+  height: 75vh;
+}
+
 @media (max-width: 1400px){
   .modal-dialog {
     max-width: 435px;
@@ -594,6 +598,10 @@ button:focus:not(:focus-visible){
   .modal-dialog {
     max-width: 435px;
     top: 127px;
+  }
+
+  .thanyou-section{
+    height: 70vh;
   }
 }
 
