@@ -3,6 +3,18 @@ var services = {
     CONTACT_EMAIL_FORM: "Traderzarena Contact"
 }
 
+const enquiryButton = document.querySelector("#enquiryButton");
+const enquiryInput = document.querySelector("#enquiryEmail");
+const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+
+enquiryInput.addEventListener("input", function(){
+    if (emailRegex.test(enquiryInput.value)){
+        enquiryButton.removeAttribute("Disabled")
+    } else {
+        enquiryButton.setAttribute("Disabled", true)
+    }
+})
+
 function processemailform(service,$this){
    
     validation=validateForm($this, service);

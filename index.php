@@ -7,7 +7,7 @@
     <?php include("common-css.php"); ?>
     <title>Traderz Arena</title>
 </head>
-<body>
+<body data-bs-spy="scroll" data-bs-target="#navbar-example">
 <?php include("header.php"); ?>
 
 
@@ -65,8 +65,8 @@
                         <span class="text-white">Learn from market experts & invest your course fee in live trading.</span>
                         <div class="form-section mt-5 mb-3">
                             <form  id="contact-form"  action="#" method="post">
-                                <input type="email" class="input-field required email" placeholder="Enter Your Email Address" id="email" name="email" required>
-                                <button onclick="processemailform('HOME_EMAIL_FUNCTION',this) " class="sub-btn" type="button">Submit</button>
+                                <input type="email" class="input-field required email" placeholder="Enter Your Email Address" id="enquiryEmail" name="email" required>
+                                <button onclick="processemailform('HOME_EMAIL_FUNCTION',this) " class="sub-btn" type="button" id="enquiryButton">Submit</button>
                             </form>
                         </div>
                     </div>
@@ -78,7 +78,7 @@
         </div>
     </div>
 
-    <section class="section-2">
+    <section id="about-sec" class="section-2">
         <div class="about-us">
             <div class="container">
                 <div class="row justify-content-center align-items-center reverse">
@@ -104,11 +104,10 @@
                             <div class="col-6 col-md-6 col-lg-6 mb-4">
                                 <div class="back-clr d-flex">
                                     <div class="cele-img">
-                                        <img width="100%" height="100%" loading="lazy" src="./images/successfull-icon.svg" title="traderz-arena" alt="traderz-arena">
+                                        <img width="100%" height="100%" loading="lazy" src="./images/mentor-1.svg" title="traderz-arena" alt="traderz-arena">
                                     </div>
                                     <div class="year-content ps-3">
-                                        <h4>15+ Years</h4>
-                                        <span>Successful Mentorship</span>
+                                        <h4>15+ Mentorship</h4>
                                     </div>
                                 </div>
                             </div>
@@ -142,7 +141,7 @@
         </div>
     </section>
 
-    <section class="section-3">
+    <section id="course-sec" class="section-3">
         <div class="course-details">
             <div class="container mb-4">
                <h2 class="heading text-bold text-gray text-center">Main Courses </h2>
@@ -264,7 +263,7 @@
         </div>
     </section>
 
-    <section class="section-4 mt-5">
+    <section id="course-sec" class="section-4 mt-5">
         <div class="container">
             <div class="profile-section">
                 <div class="row justify-content-center align-items-center reverse">

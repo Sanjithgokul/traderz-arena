@@ -520,6 +520,12 @@ button:focus:not(:focus-visible){
   padding: 10px;
 }
 
+
+button#enquiryButton:disabled{
+  opacity: 0.5;
+}
+
+
 .custom-select option{
   color: #212529;
 }
