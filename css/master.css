@@ -735,6 +735,11 @@ button#enquiryButton:disabled{
 
   .foooter-social-icon{
     margin-bottom: 0;
+
+  }
+
+  .footer .social-icon{
+    height: 35px;
   }
 
 }
