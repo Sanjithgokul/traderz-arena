@@ -45,7 +45,7 @@
                             </div>
                         </div>
                         <div class="contact-btn d-flex mt-2">
-                            <button type="submit" class="btn btn-primary">Submit</button>
+                            <button onclick="processquickemail('QUICK_CONTACT_EMAIL',this) " type="button" class="btn btn-primary">Submit</button>
                         </div>
                     </form>
                 </div>
@@ -163,7 +163,7 @@
                                             <li>Stock Market Basics</li>
                                             <li>Options Trading and Strategies</li>
                                             <li>Advance Techniques & Adjustments</li>
-                                            <li>Mirror trading</li>
+                                            <li>Mirror Trading</li>
                                             <li>3 Months Support</li>
                                         </ul>
                                     </div>
@@ -244,7 +244,7 @@
                                             <li>Passive Income Creation</li>
                                             <li>Wealth Creation </li>
                                             <li>Taxation</li>
-                                            <li>Mirror trading</li>
+                                            <li>Mirror Trading</li>
                                             <li>6 Months Support</li>
                                         </ul>
                                     </div>

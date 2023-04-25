@@ -202,7 +202,7 @@ button:focus:not(:focus-visible){
 
 
 .course-btn a:hover{
-  background: #FF00FF;
+  background: #faa388;
   transform: scale(1.05) translateY(-2px);
   transition: all ease 0.2s;
   color: #fff;
@@ -267,7 +267,7 @@ button:focus:not(:focus-visible){
 }
 
 .box-heading{
-  background: #FF00FF;
+  background: #F3A188;
   padding: 25px;
   min-width: 95%;
   border-radius: 15px;
@@ -334,7 +334,7 @@ button:focus:not(:focus-visible){
 } 
 .course-btn a{
   padding: 10px 25px;
-  background: #FF00FF;
+  background: #F3A188;
   border-radius: 5px;
 }
 
@@ -708,7 +708,7 @@ button#enquiryButton:disabled{
 
   .text-bold,
   .heading .text-primary{
-    font-size: 36px !important;
+    font-size: 42px !important;
   }
 
   .sub-btn{
