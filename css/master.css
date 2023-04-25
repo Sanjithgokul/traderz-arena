@@ -457,6 +457,7 @@ button:focus:not(:focus-visible){
 
 .foooter-social-icon{
   gap: 10px;
+  margin-bottom: 0;
 }
 
 .footer{
