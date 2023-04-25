@@ -2,7 +2,7 @@
     <div class="container">
       <nav class="navbar navbar-expand-sm">
           <div class="container-fluid backround">
-              <a class="navbar-brand" href="http://www.traderzarena.com/"><img width="100%" height="100%" loading="lazy" src="./images/traderz-arena.svg" title="Traderz-arena-logo" alt="Traderz-arena"></a>
+              <a class="navbar-brand" href="http://www.traderzarena.com/"><img loading="lazy" width="100" src="./images/TRADERS-ARENA-LOGO.webp" title="Traderz-arena-logo" alt="Traderz-arena"></a>
               <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
                 <span class="icon-menu"></span>
               </button>
