@@ -729,8 +729,9 @@ button#enquiryButton:disabled{
 
 @media (max-width:375px){
   .testimonial-right {
-    height: 284px;
+    height: 320px;
   }
+
 }
 
 
