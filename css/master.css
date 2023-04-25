@@ -733,6 +733,10 @@ button#enquiryButton:disabled{
     height: 320px;
   }
 
+  .foooter-social-icon{
+    margin-bottom: 0;
+  }
+
 }
 
 
