@@ -27,12 +27,12 @@
                         <div class="mb-3">
                             <label for="fname">Email Address</label><br>
                             <input type="email" class="form-control required" id="email_Field" name="email" required>
-                            <span role="alert" class="error-msg" id="email_Field_err">Please fill your email id.</span>
+                            <span role="alert" class="error-msg" id="email_Field_err">Please fill your Email id.</span>
                         </div>
                         <div class="mb-3">
                             <label for="fname">Mobile Number</label><br>
-                            <input type="number" class="form-control required" id="number_Field" name="number">
-                            <span role="alert" class="invalid-feedback" id="number_Field_err">Please enter a valid number</span>
+                            <input type="number" class="form-control required" id="number_Field" name="number" required>
+                            <span role="alert" class="error-msg" id="number_Field_err">Please enter a valid number</span>
                         </div>
                         <div class="">
                             <div class="form-control form-control-1">

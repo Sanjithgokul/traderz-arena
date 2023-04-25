@@ -55,7 +55,7 @@
                             </div>
                             <div class="mb-3">
                                 <input type="email" class="form-control email required"  required='' id="emailField"  placeholder="Email Address" name="email">
-                                <span role="alert" class="error-msg" id="emailField_err">Please fill your Business Email ID.</span>
+                                <span role="alert" class="error-msg" id="emailField_err">Please fill your Email ID.</span>
                             </div>
                             <div class="mb-3">
                                 <input type="text" class="form-control subject required" required='' id="subjectField"  placeholder="Subject" name="subject">
