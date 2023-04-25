@@ -18,29 +18,31 @@
                     <div class="modal-header">
                       <h3 class="modal-title" id="staticBackdropLabel">Quick Contact</h3>
                     </div>
-                    <form action="/action_page.php">
+                    <form id="contact-form">
                         <div class="mb-3 mt-3">
-                            <label for="fname">Enter name</label><br>
-                            <input type="text" class="form-control" id="name" name="name" required>
+                            <label for="fname">Enter Name</label><br>
+                            <input type="text" class="form-control required" id="name_Field" name="name" required>
+                            <span role="alert" class="error-msg" id="name_Field_err">Please fill your Full Name.</span>
                         </div>
                         <div class="mb-3">
                             <label for="fname">Email Address</label><br>
-                            <input type="email" class="form-control" id="email" name="email" required>
+                            <input type="email" class="form-control required" id="email_Field" name="email" required>
+                            <span role="alert" class="error-msg" id="email_Field_err">Please fill your email id.</span>
                         </div>
                         <div class="mb-3">
                             <label for="fname">Mobile Number</label><br>
-                            <input type="number" class="form-control" id="number" name="number">
-                            <span role="alert" class="invalid-feedback" id="number_req_2">Please enter a valid number</span>
+                            <input type="number" class="form-control required" id="number_Field" name="number">
+                            <span role="alert" class="invalid-feedback" id="number_Field_err">Please enter a valid number</span>
                         </div>
                         <div class="">
                             <div class="form-control form-control-1">
                             <label for="fname">Courses Type</label><br>
-                                <select class="custom-select text-clr py-2" id="inputGroupSelect01">
-                                  <option selected>Select Courses</option>
-                                  <option class="text-clr" value="1">Expert Trading Course</option>
-                                  <option class="text-clr" value="2">Options Trading</option>
-                                  <option class="text-clr" value="3">Intex Trading</option>
-                                  <option class="text-clr" value="3">Mentorship Program</option>
+                                <select name="courses" class="custom-select text-clr py-2" id="inputGroupSelect01">
+                                  <option selected hidden value="none">Select Courses</option>
+                                  <option class="text-clr" value="Expert Trading Course">Expert Trading Course</option>
+                                  <option class="text-clr" value="Options Trading">Options Trading</option>
+                                  <option class="text-clr" value="Intex Trading">Intex Trading</option>
+                                  <option class="text-clr" value="Mentorship Program">Mentorship Program</option>
                                 </select>
                             </div>
                         </div>

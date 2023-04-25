@@ -157,62 +157,66 @@ function processcontactemailform(service,$this){
 
 
 function processquickemail(service,$this){
-     validation=validateForm($this, service);
-     console.log(validation)
+    console.log("processquickemail", $this)
+    validation=validateForm($this, service);
+    console.log(validation)
      if (validation) {
          var data = jQuery($this).closest('#contact-form').serializeArray().reduce(function (obj, item) {
              obj[item.name] = item.value;
              return obj;
          }, {});
-         if(service)
-         data.service = services[service];
-         console.log(data);
-         let ip,details;
-         $.getJSON("https://api.ipify.org/?format=json", function (e) {
-             ip = e?.ip;
-         }).done(function(){
-             $.getJSON("https://ipinfo.io/"+ip+"/json?token=63e4ceaaaf0f5b", function (e) {
-                 details = e;
-             }).done(function(){
-                 var sendInfo = {
-                     name: data["name"],
-                     email : data["email"],
-                     phone: data["phone"],
-                     subject : data["subject"],
-                     message: data['message'],
-                     ipAddress: ip,
-                     url:$(location).attr('href'),
-                     city: details.city,
-                     region: details.region,
-                     country: details.country,
-                 };
- 
-                 
-             
-     
-                     jQuery.ajax({
-                     type: "POST",
-                     contentType: "application/json; charset=utf-8",
-                     dataType: "json",
-                     url: "http://13.234.243.107:3000/common/quickContact",
-                     data: JSON.stringify(sendInfo),
-                     success: function(response, statusText, XHR) {
-                         if(response.status ==='success' ) {
-                             window.location.href = "/thankyou.php?email=" + data.email;
-                         } else {
-                             alert('Something Went Wrong.');
-                         }
-                     },
-                     error: function(response, statusText, XHR){
-                         if(response.status ==='success' ) {
-                             jQuery('#error').show(); 
-                         } else {
-                             alert('Something Went Wrong.');
-                         }
-                     }
-                  });
-             });
-         });
+         if(service){
+            data.service = services[service];
+            console.log(data);
+            let ip,details;
+            $.getJSON("https://api.ipify.org/?format=json", function (e) {
+                ip = e?.ip;
+            }).done(function(){
+                $.getJSON("https://ipinfo.io/"+ip+"/json?token=63e4ceaaaf0f5b", function (e) {
+                    details = e;
+                }).done(function(){
+                    var sendInfo = {
+                        name: data["name"],
+                        email : data["email"],
+                        mobile_no: data["number"],
+                        course_type : data["service"],
+                        ipAddress: ip,
+                        url:$(location).attr('href'),
+                        city: details.city,
+                        region: details.region,
+                        country: details.country,
+                    };
+                    console.log("data", data);
+
+                    console.log("test", sendInfo);
+                    
+                
+        
+                        jQuery.ajax({
+                        type: "POST",
+                        contentType: "application/json; charset=utf-8",
+                        dataType: "json",
+                        url: "http://13.234.243.107:3000/common/quickContact",
+                        data: JSON.stringify(sendInfo),
+                        success: function(response, statusText, XHR) {
+                            if(response.status ==='success' ) {
+                                window.location.href = "/thankyou.php?email=" + data.email;
+                            } else {
+                                alert('Something Went Wrong.');
+                            }
+                        },
+                        error: function(response, statusText, XHR){
+                            if(response.status ==='success' ) {
+                                jQuery('#error').show(); 
+                            } else {
+                                alert('Something Went Wrong.');
+                            }
+                        }
+                    });
+                });
+            });
+         }
+         
  
  
  
