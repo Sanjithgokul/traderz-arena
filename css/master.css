@@ -727,6 +727,10 @@ button#enquiryButton:disabled{
   .modal-dialog{
     top: 20%;
   }
+
+  .foooter-social-icon{
+    margin-bottom: 10px;
+  }
 }
 
 @media (max-width:375px){
@@ -734,10 +738,7 @@ button#enquiryButton:disabled{
     height: 320px;
   }
 
-  .foooter-social-icon{
-    margin-bottom: 0;
-
-  }
+  
 
   .footer .social-icon{
     height: 35px;
