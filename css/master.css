@@ -451,6 +451,7 @@ button:focus:not(:focus-visible){
   border-radius: 5px;
   display: flex;
   right: 74px;
+  height: 36px;
 }
 
 .foooter-social-icon{
