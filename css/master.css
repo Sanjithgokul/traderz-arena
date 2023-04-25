@@ -254,6 +254,7 @@ button:focus:not(:focus-visible){
   background: #E0F9F5;
   border-radius: 5px;
   padding: 10px;
+  height: 80px;
 }
 
 .year-content h4{
@@ -692,6 +693,10 @@ button#enquiryButton:disabled{
   .icon-menu{
     color: #fff;
   }
+
+  .footer{
+    height: 150px;
+  }
 }
 
 @media(min-width:576px){
@@ -718,6 +723,12 @@ button#enquiryButton:disabled{
 
   .modal-dialog{
     top: 20%;
+  }
+}
+
+@media (max-width:375px){
+  .testimonial-right {
+    height: 284px;
   }
 }
 
