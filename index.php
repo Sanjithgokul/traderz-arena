@@ -117,7 +117,7 @@
                                         <img width="100%" height="100%" loading="lazy" src="./images/persentage-new-123.svg" title="traderz-arena" alt="traderz-arena">
                                     </div>
                                     <div class="year-content ps-3">
-                                        <h4>20-25% Returns per Anum</h4>
+                                        <h4>20-25% Returns per Annum</h4>
                                     </div>
                                 </div>
                             </div>
