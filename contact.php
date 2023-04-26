@@ -31,7 +31,7 @@
                                 <li> <a href="https://www.facebook.com/traderz.arena/"><img width="40" height="40" loading="lazy" src="./images/facebook-contact.svg"  title="traderz-arena-facebook" alt="traderz-arena"></a></li>
                                 <li> <a href="https://twitter.com/ArenaTraderz"><img width="40" height="40" loading="lazy" src="./images/twitter-contact.svg"  title="traderz-arena-twitter" alt="traderz-arena"></a></li>
                                 <li> <a href="https://www.youtube.com/channel/UCrN6WFN-pbf8DywBdZsI79g"><img width="40" height="40" loading="lazy" src="./images/youtube-contact.svg" title="traderz-arena-youtube"  alt="traderz-arena"></a></li>
-                                <li> <a href="https://www.instagram.com/tradersarena10/?hl=en"><img width="40" height="40" loading="lazy" src="./images/instagram-contact.svg"  title="traderz-arena-instagram" alt="traderz-arena"></a></li>
+                                <li> <a href="#"><img width="40" height="40" loading="lazy" src="./images/instagram-contact.svg"  title="traderz-arena-instagram" alt="traderz-arena"></a></li>
                             </ul>
                             </div>
                         </div>
