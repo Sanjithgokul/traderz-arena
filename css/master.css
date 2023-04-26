@@ -756,6 +756,10 @@ button#enquiryButton:disabled{
     height: 35px;
   }
 
+  .modal-dialog{
+    top: 13%;
+  }
+
 }
 
 
