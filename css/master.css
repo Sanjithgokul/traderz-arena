@@ -65,6 +65,7 @@
 
   h4{
     font-size: 16px;
+    margin-bottom: 0;
   }
  
   section{
@@ -711,8 +712,13 @@ button#enquiryButton:disabled{
 
 
 @media (max-width:449px){
-  .year-content h4{
-    font-size: 16px;
+  .year-content h4,
+  .year-content span{
+    font-size: 14px;
+  }
+
+  .back-clr{
+    height: 83px;
   }
 
   .text-bold,
@@ -731,14 +737,20 @@ button#enquiryButton:disabled{
   .foooter-social-icon{
     margin-bottom: 10px;
   }
+
+  .small-d{
+    margin-top: 0;
+  }
+
+  .mob-bottom{
+    margin-bottom: 20px;
+  }
 }
 
 @media (max-width:375px){
   .testimonial-right {
     height: 320px;
   }
-
-  
 
   .footer .social-icon{
     height: 35px;

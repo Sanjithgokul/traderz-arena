@@ -292,7 +292,7 @@
                     <div class="col-12 col-md-12 col-lg-6 test-clint-img small-d">
                        <img loading="lazy" width="100%" height="100%" src="./images/testimonial-new.webp" title="Testimonial-Clients" alt="Testimonial-Clients">
                     </div>
-                    <div class="col-12 col-md-12 col-lg-6 ">
+                    <div class="col-12 col-md-12 col-lg-6 mob-bottom">
                         <span class="tesimonial-right-span mb-3">Our Testimonials</span>
                         <h2 class="heading text-bold text-gray mb-4">What They’re Talking About Us</h2>
                         <div class="testimonial-right">
