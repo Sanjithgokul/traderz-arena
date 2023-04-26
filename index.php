@@ -457,40 +457,5 @@
     </section>
     <?php include("footer.php"); ?>
     <?php include("common-js.php"); ?>
-    <script>
-       $(document).ready(function() {
-        $("#emailForm").submit(function(event) {
-    // Stop the form from submitting normally
-    event.preventDefault();
-
-    // Get the data from the email field
-    var email = $("#email").val();
-
-    // Make a POST request using jQuery AJAX
-    $.ajax({
-      type: "POST",
-      url: "/submit-form",
-      data: {
-        email: email
-      },
-      success: function(data) {
-        // Handle the successful response here
-        console.log(data);
-      },
-      error: function(jqXHR, textStatus, errorThrown) {
-        // Handle the error response here
-        console.log(textStatus, errorThrown);
-      }
-    });
-  });
-});
-</script>
- 
-<script>
-     $('new-model').on('close-btn', function () {
-          window.alert('hidden event fired!');
-    })
-</script>
-
 </body>
 </html>
