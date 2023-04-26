@@ -60,7 +60,7 @@ function processemailform(service,$this){
                     type: "POST",
                     contentType: "application/json; charset=utf-8",
                     dataType: "json",
-                    url: "http://13.234.243.107:3000/common/homeContactForm",
+                    url: "https://traderzarena.com/api/common/homeContactForm",
                     data: JSON.stringify(sendInfo),
                     success: function(response, statusText, XHR) {
                         if(response.status ==='success') {
@@ -127,7 +127,7 @@ function processcontactemailform(service,$this){
                     type: "POST",
                     contentType: "application/json; charset=utf-8",
                     dataType: "json",
-                    url: "http://13.234.243.107:3000/common/contactUsForm",
+                    url: "https://traderzarena.com/api/common/contactUsForm",
                     data: JSON.stringify(sendInfo),
                     success: function(response, statusText, XHR) {
                         if(response.status ==='success' ) {
@@ -196,7 +196,7 @@ function processquickemail(service,$this){
                         type: "POST",
                         contentType: "application/json; charset=utf-8",
                         dataType: "json",
-                        url: "http://13.234.243.107:3000/common/quickContact",
+                        url: "https://traderzarena.com/api/common/quickContact",
                         data: JSON.stringify(sendInfo),
                         success: function(response, statusText, XHR) {
                             if(response.status ==='success' ) {
