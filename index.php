@@ -299,7 +299,7 @@
                             <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                                 <div class="carousel-inner">
                                     <div class="carousel-item active">
-                                        <p>Deepak K L's training is a game-changer! My husband now has clarity on result-oriented trading, thanks to his in-depth knowledge and daily trading experience. We are grateful and wish Traderz Arena all the best.</p>
+                                        <p class="text-justify">Deepak K L's training is a game-changer! My husband now has clarity on result-oriented trading, thanks to his in-depth knowledge and daily trading experience. We are grateful and wish Traderz Arena all the best.</p>
                                         <h3 class="testi-name">Poorani Anbarasu</h3>
                                         <div class="testi-des">
                                             <div class="testides-name">
@@ -311,7 +311,7 @@
                                         </div>
                                     </div>
                                     <div class="carousel-item">
-                                    <p>Thanks to the excellent coaching and mentoring from Deepak and Dana Karthikeyan, I am now confident in executing equity trading and option strategies. I highly recommend Traderz Arena for anyone seeking to learn and succeed in the stock market.</p>
+                                        <p class="text-justify">Thanks to the excellent coaching and mentoring from Deepak and Dana Karthikeyan, I am now confident in executing equity trading and option strategies. I highly recommend Traderz Arena for anyone seeking to learn and succeed in the stock market.</p>
                                         <h3 class="testi-name">Anbarasu</h3>
                                         <div class="testi-des">
                                             <div class="testides-name">
@@ -323,7 +323,7 @@
                                         </div>
                                     </div>
                                     <div class="carousel-item">
-                                    <p>Deepak K L's training is a game-changer! My husband now has clarity on result-oriented trading, thanks to his in-depth knowledge and daily trading experience. We are grateful and wish Traderz Arena all the best.</p>
+                                        <p class="text-justify">Deepak K L's training is a game-changer! My husband now has clarity on result-oriented trading, thanks to his in-depth knowledge and daily trading experience. We are grateful and wish Traderz Arena all the best.</p>
                                         <h3 class="testi-name">Poorani Anbarasu</h3>
                                         <div class="testi-des">
                                             <div class="testides-name">
