@@ -58,8 +58,9 @@
                                 <span role="alert" class="error-msg" id="emailField_err">Please fill your Email ID.</span>
                             </div>
                             <div class="mb-3">
-                                <input type="text" class="form-control subject required" required='' id="subjectField"  placeholder="Subject" name="subject">
-                            </div>
+                            <input type="number" class="form-control number required" required='' id="number_Field"  placeholder="Mobile Number" name="number" required>
+                            <span role="alert" class="error-msg" id="number_Field_err">Please enter a valid number</span>
+                        </div>
                             <div class="mb-3">
                                 <textarea class="form-control message" rows="5" required='' id="messageField"  placeholder="Your Message" name="message"></textarea>
                             </div>
