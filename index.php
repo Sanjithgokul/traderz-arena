@@ -301,18 +301,16 @@
                                 <div class="carousel-inner">
                                     <div class="carousel-item active">
                                         <p class="text-justify">Thanks to the excellent coaching and mentoring from Deepak and Dana Karthikeyan, I am now confident in executing equity trading and option strategies. I highly recommend Traderz Arena for anyone seeking to learn and succeed in the stock market.</p>
-                                        <h3 class="testi-name">Chaitanya</h3>
+                                        <h3 class="testi-name">V. Anbarasu</h3>
                                         <div class="testi-des">
-                                            <div class="testides-name">
-                                                <h4 class="description">Adetprite Solutions</h4>
-                                            </div>
+    
                                             <div class="testi-img">
                                                 <img  width="100%" height="100%" loading="lazy" src="./images/new-quote.svg"  title="traderz-arena" alt="traderz-arena">
                                             </div>
                                         </div>
                                     </div>
                                     <div class="carousel-item">
-                                        <p class="text-justify">Deepak K L's training is a game-changer! My husband now has clarity on result-oriented trading, thanks to his in-depth knowledge and daily trading experience. We are grateful and wish Traderz Arena all the best.</p>
+                                        <p class="text-justify">Deepak K L's stock trading training sessions have been a game-changer for my husband. His in-depth knowledge and daily trading experience have provided valuable insights into result-oriented trading. We are grateful for his wonderful training and personal support and wish Traderz Arena all the best.</p>
                                         <h3 class="testi-name">Poorani Anbarasu</h3>
                                         <div class="testi-des">
                                             <div class="testides-name">

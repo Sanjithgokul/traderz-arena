@@ -9,16 +9,16 @@
               <div class="collapse navbar-collapse navbar-collapse-btn" id="collapsibleNavbar">
                 <ul class="navbar-nav">
                   <li class="nav-item">
-                    <a  href="#home-sec" class="nav-link active" href="http://www.traderzarena.com/">Home</a>
+                    <a class="nav-link active nav-item-1" href="http://www.traderzarena.com/" >Home</a>
                   </li>
                   <li class="nav-item">
-                    <a i href="#about-sec" class="nav-link" href="#">About </a>
+                    <a href="#about-sec" class="nav-link nav-item-1" >About </a>
                   </li>
                   <li class="nav-item">
-                    <a id href="#course-sec" class="nav-link" href="#">Courses</a>
+                    <a href="#course-sec" class="nav-link nav-item-1" >Courses</a>
                   </li>
                   <li class="nav-item">
-                    <a  href="#blog-sec" class="nav-link" href="#">Blog</a>
+                    <a href="#blog-sec" class="nav-link nav-item-1" >Blog</a>
                   </li>
                   <li class="header-btn">
                     <button type="button" onclick="window.location.href='contact.php'">Contact us</button>

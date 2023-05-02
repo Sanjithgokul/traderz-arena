@@ -706,6 +706,10 @@ button#enquiryButton:disabled{
   .modal-dialog {
     max-width: 435px;
   }
+
+  .nav-item-1{
+    /* display: ; */
+  }
 }
 
 

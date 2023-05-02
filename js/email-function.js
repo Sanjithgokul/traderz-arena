@@ -11,6 +11,20 @@ var invalidMessage = {
     SERVICE_EMPTY_FIELD: "Please select a service"
 }
 
+const navLinks = document.querySelectorAll('.nav-item-1')
+const menuToggle = document.getElementById('collapsibleNavbar')
+const bsCollapse = new bootstrap.Collapse(menuToggle, {toggle:false})
+console.log("nav links", navLinks);
+console.log("menu toggle", menuToggle);
+navLinks.forEach((l) => {
+    l.addEventListener('click', () => { 
+        if ( screen.width <= 576) {
+            console.log("screen.width", screen.width); 
+            console.log("nav item", l); 
+            bsCollapse.toggle(); 
+        }
+    })
+})
 
 function processemailform(service,$this){
    
