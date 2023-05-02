@@ -742,6 +742,10 @@ button#enquiryButton:disabled{
   .mob-bottom{
     margin-bottom: 20px;
   }
+
+  .banner-content{
+    padding: 15px 0;
+  }
 }
 
 @media (max-width:375px){
