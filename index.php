@@ -65,9 +65,10 @@
                         <span class="text-white">Learn from market experts & invest your course fee in live trading.</span>
                         <div class="form-section mt-5 mb-3">
                             <form  id="contact-form"  action="#" method="post">
-                                <input type="email" class="input-field required email" placeholder="Enter Your Email Address" id="enquiryEmail" name="email" required>
+                                <input type="email" class="input-field email required" placeholder="Enter Your Email Address" id="emailField" name="email" required>
                                 <button onclick="processemailform('HOME_EMAIL_FUNCTION',this) " class="sub-btn" type="button" id="enquiryButton">Submit</button>
                             </form>
+                            <span role="alert" class="error-msg" id="emailField_err">Please fill your Email ID.</span>
                         </div>
                     </div>
                 </div>
