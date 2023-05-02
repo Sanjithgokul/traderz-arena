@@ -11,17 +11,6 @@ var invalidMessage = {
     SERVICE_EMPTY_FIELD: "Please select a service"
 }
 
-const enquiryButton = document.querySelector("#enquiryButton");
-const enquiryInput = document.querySelector("#enquiryEmail");
-const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
-
-enquiryInput.addEventListener("input", function(){
-    if (emailRegex.test(enquiryInput.value)){
-        enquiryButton.removeAttribute("Disabled")
-    } else {
-        enquiryButton.setAttribute("Disabled", true)
-    }
-})
 
 function processemailform(service,$this){
    
