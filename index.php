@@ -291,7 +291,7 @@
             <div class="testimonial-sec">
                 <div class="row justify-content-center align-items-center reverse">
                     <div class="col-12 col-md-12 col-lg-6 test-clint-img small-d">
-                       <img loading="lazy" width="100%" height="100%" src="./images/testimonial-speech.webp" title="Testimonial-Clients" alt="Testimonial-Clients">
+                       <img loading="lazy" width="100%" height="100%" src="./images/testi-speech.webp" title="Testimonial-Clients" alt="Testimonial-Clients">
                     </div>
                     <div class="col-12 col-md-12 col-lg-6 mob-bottom">
                         <span class="tesimonial-right-span mb-3">Our Testimonials</span>

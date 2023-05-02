@@ -647,10 +647,6 @@ button#enquiryButton:disabled{
     margin-top: 50px;
   }
 
-  .modal-dialog {
-    max-width: 435px;
-  }
-
   .backround-banner{
     min-height:115vh;
   }
