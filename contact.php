@@ -48,7 +48,7 @@
                 <div class="col-sm-12 col-md-10 col-lg-6 d-flex-contact">
                     <div class="contact-form">
                         <form  id="contact-form" action="/action_page.php">
-                            <h3 class="form-heading text-gray d-flex">Get Free quote</h3>
+                            <h3 class="form-heading text-gray d-flex">Quick Contact</h3>
                             <div class="mb-3 mt-3">
                                 <input type="text" class="form-control name required" required='' id="nameField"  placeholder="Your Name" name="name">
                                 <span role="alert" class="error-msg" id="nameField_err">Please fill your Full Name.</span>
