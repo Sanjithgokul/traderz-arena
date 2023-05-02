@@ -21,7 +21,7 @@
                     <a  href="#blog-sec" class="nav-link" href="#">Blog</a>
                   </li>
                   <li class="header-btn">
-                    <button onclick="window.location.href='contact.php'">Contact us</button>
+                    <button type="button" onclick="window.location.href='contact.php'">Contact us</button>
                   </li>
                 </ul>
               </div>
