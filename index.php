@@ -219,7 +219,7 @@
                                             <li>Weekly Expiry Trading Techniques</li>
                                             <li>Intraday/Positional OI analysis</li>
                                             <li>Index Intraday Trading</li>
-                                            <li>Inraday Adjustment Concepts</li>
+                                            <li>Intraday Adjustment Concepts</li>
                                             <!-- <li>Intraday PalysisCR An</li> -->
                                             <li>1 Month Support</li>
                                         </ul>
