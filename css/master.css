@@ -580,6 +580,12 @@ button#enquiryButton:disabled{
   color: #dc3545;
 }
 
+.modal-dialog {
+  height: calc(100vh - 100px);
+  display: flex;
+  align-items: center;
+}
+
 @media (max-width: 1400px){
   .backround-banner{
     min-height: 100vh;
@@ -643,7 +649,6 @@ button#enquiryButton:disabled{
 
   .modal-dialog {
     max-width: 435px;
-    top: 127px;
   }
 
   .backround-banner{
@@ -699,7 +704,6 @@ button#enquiryButton:disabled{
 @media(min-width:576px){
   .modal-dialog {
     max-width: 435px;
-    top: 100px;
   }
 }
 
@@ -723,9 +727,9 @@ button#enquiryButton:disabled{
     margin-top: 10px;
   }
 
-  .modal-dialog{
+  /* .modal-dialog{
     top: 20%;
-  }
+  } */
 
   .foooter-social-icon{
     margin-bottom: 10px;
@@ -749,9 +753,9 @@ button#enquiryButton:disabled{
     height: 35px;
   }
 
-  .modal-dialog{
+  /* .modal-dialog{
     top: 5%;
-  }
+  } */
 
 }
 
