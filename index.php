@@ -132,9 +132,9 @@
                                 </div>
                             </div>
                         </div>
-                        <div class="banner-btn b-clr mb-3">
+                        <!-- <div class="banner-btn b-clr mb-3">
                             <button>View More</button>
-                        </div>
+                        </div> -->
                     </div>
                 </div>
             </div>
