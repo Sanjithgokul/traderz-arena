@@ -174,7 +174,7 @@ button:focus:not(:focus-visible){
   background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
-  min-height: 85vh;
+  min-height: 80vh;
 }
 
 .form-section .input-field{
