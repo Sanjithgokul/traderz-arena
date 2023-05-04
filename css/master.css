@@ -593,7 +593,7 @@ button#enquiryButton:disabled{
 
 @media (max-width: 1400px){
   .backround-banner{
-    min-height: 100vh;
+    min-height: 90vh;
   }
 }
   
