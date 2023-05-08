@@ -9,10 +9,9 @@
 <body>
 <?php include("header.php"); ?>
 
-    
-
 
 <?php include("common-js.php"); ?>
 
 </body>
+
 </html>

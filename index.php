@@ -41,7 +41,7 @@
                                   <option selected hidden value="none">Select Courses</option>
                                   <option class="text-clr" value="Expert Trading Course">Expert Trading Course</option>
                                   <option class="text-clr" value="Options Trading">Options Trading</option>
-                                  <option class="text-clr" value="Intex Trading">Intex Trading</option>
+                                  <option class="text-clr" value="Intex Trading">Index Trading</option>
                                   <option class="text-clr" value="Mentorship Program">Mentorship Program</option>
                                 </select>
                             </div>
