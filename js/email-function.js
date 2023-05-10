@@ -26,6 +26,15 @@ navLinks.forEach((l) => {
     })
 })
 
+$('#navbar-nav-1 .nav-item a').on('click', function(){
+    let el = $(this)
+    setTimeout(function(){
+        $('#navbar-nav-1 .nav-item a').removeClass('active');
+        el.addClass('active');
+    }, 400)
+});
+
+
 function processemailform(service,$this){
    
     validation=validateForm($this, service);
