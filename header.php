@@ -9,7 +9,7 @@
               <div class="collapse navbar-collapse navbar-collapse-btn" id="collapsibleNavbar">
                 <ul class="navbar-nav">
                   <li class="nav-item">
-                    <a class="nav-link active nav-item-1" href="http://www.traderzarena.com/" >Home</a>
+                    <a class="nav-link nav-item-1" href="http://www.traderzarena.com/" >Home</a>
                   </li>
                   <li class="nav-item">
                     <a href="#about-sec" class="nav-link nav-item-1" >About </a>
