@@ -7,7 +7,7 @@
                 <span class="icon-menu"></span>
               </button>
               <div class="collapse navbar-collapse navbar-collapse-btn" id="collapsibleNavbar">
-                <ul class="navbar-nav">
+                <ul id="navbar-nav-1" class="navbar-nav">
                   <li class="nav-item">
                     <a class="nav-link nav-item-1" href="http://www.traderzarena.com/" >Home</a>
                   </li>

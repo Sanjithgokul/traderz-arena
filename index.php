@@ -264,7 +264,7 @@
         </div>
     </section>
 
-    <section id="course-sec" class="section-4 mt-5">
+    <section id="#" class="section-4 mt-5">
         <div class="container">
             <div class="profile-section">
                 <div class="row justify-content-center align-items-center reverse">
