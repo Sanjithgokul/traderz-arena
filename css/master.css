@@ -117,6 +117,10 @@ a{
   color: #50C9C0;
 }
 
+.navbar-brand{
+  margin-top: 8px;
+}
+
 .navbar-toggler {
   padding: 0.25rem 0.75rem;
   font-size: 1.25rem;
@@ -164,7 +168,17 @@ button:focus:not(:focus-visible){
 
 #about-sec,
 #course-sec{
-  scroll-margin-top: 100px;
+  scroll-margin-top:100px;
+}
+
+.about-us{
+  padding:30px 0px 0px 10px;
+  margin: 10px;
+}
+
+.course-details{
+  padding:20px;
+  margin:10px;
 }
 
 
@@ -754,7 +768,7 @@ button#enquiryButton:disabled{
 
 @media (max-width:375px){
   .testimonial-right {
-    height: 320px;
+    height: 372px;
   }
 
   .footer .social-icon{

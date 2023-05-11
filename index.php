@@ -3,7 +3,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="icon" href="/images/favicon.svg" type="image/svg" sizes="13x15">
+    <link rel="icon" href="/images/favicon.svg" type="image/svg" sizes="any">
     <?php include("common-css.php"); ?>
     <title>Traderz Arena</title>
 </head>
@@ -82,7 +82,7 @@
     <section id="about-sec" class="section-2">
         <div class="about-us">
             <div class="container">
-                <div class="row justify-content-center align-items-center reverse">
+                <div class="row justify-content-center align-items-center reverse" >
                     <div class="col-sm-12 col-md-12 col-lg-6 small-d">
                         <img width="100%" height="100%" loading="lazy" src="./images/banner-2.webp" title="traderz-arena" alt="traderz-arena">
                     </div>
@@ -299,22 +299,22 @@
                         <div class="testimonial-right">
                             <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                                 <div class="carousel-inner">
-                                    <div class="carousel-item active">
+                                    <div class="carousel-item active" style="margin: 15px 10px 10px 10px;">
                                         <p class="text-justify">Thanks to the excellent coaching and mentoring from Deepak and Dana Karthikeyan, I am now confident in executing equity trading and option strategies. I highly recommend Traderz Arena for anyone seeking to learn and succeed in the stock market.</p>
                                         <h3 class="testi-name">V. Anbarasu</h3>
                                         <div class="testi-des">
-    
+                                                         
                                             <div class="testi-img">
                                                 <img  width="100%" height="100%" loading="lazy" src="./images/new-quote.svg"  title="traderz-arena" alt="traderz-arena">
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="carousel-item">
+                                    <div class="carousel-item" >
                                         <p class="text-justify">Deepak K L's stock trading training sessions have been a game-changer for my husband. His in-depth knowledge and daily trading experience have provided valuable insights into result-oriented trading. We are grateful for his wonderful training and personal support and wish Traderz Arena all the best.</p>
                                         <h3 class="testi-name">Poorani Anbarasu</h3>
                                         <div class="testi-des">
                                             <div class="testides-name">
-                                            <h4 class="description">Adetprite Solutions</h4>
+                                            <h4 class="description">Adetprite Solutions</h4> 
                                             </div>
                                             <div class="testi-img">
                                                 <img width="100%" height="100%"  loading="lazy" src="./images/new-quote.svg" title="traderz-arena"  alt="traderz-arena">
