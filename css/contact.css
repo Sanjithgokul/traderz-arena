@@ -1,7 +1,6 @@
 .contact-backround-banner{
     background-image: url(../images/contact-backround.webp);
     background-size: cover;
-    background-attachment: fixed;
     background-repeat: no-repeat;
     background-position: center center;
     min-height: 65vh;

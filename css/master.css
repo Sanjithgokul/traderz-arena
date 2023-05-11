@@ -171,7 +171,6 @@ button:focus:not(:focus-visible){
 .backround-banner{
   background-image: url(../images/banner-bg.webp);
   background-size: cover;
-  background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
   min-height: 80vh;
