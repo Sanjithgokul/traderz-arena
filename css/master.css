@@ -466,6 +466,7 @@ button:focus:not(:focus-visible){
   position: relative;
 }
 
+
 .testides-name h4{
     color: #15CDCB !important;
     font-size: 16px;
@@ -691,6 +692,9 @@ button#enquiryButton:disabled{
 
 
 }
+
+
+
 @media (max-width: 574px) {
   .header-btn {
     padding-top: 10px;
@@ -729,6 +733,17 @@ button#enquiryButton:disabled{
 
   .nav-item-1{
     /* display: ; */
+  }
+
+  .testimonial-right{
+    height:278px;
+    position: relative;
+  }
+
+  .Rating-star{
+    position: absolute;
+    bottom:10px;
+    transform: translateY(38px);
   }
 }
 
@@ -770,6 +785,14 @@ button#enquiryButton:disabled{
 
   .banner-content{
     padding: 15px 0;
+  }
+
+  .testimonial-right{
+    height: 340px;
+  }
+
+  .Rating-star{
+    bottom: -25px;
   }
 }
 
