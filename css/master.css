@@ -32,12 +32,17 @@
     letter-spacing: 3px;
   }
 
+  :root {
+    --theme: #15CDCB;
+    --white: #ffffff;
+  }
+
   .text-white{
-    color: #fff;
+    color:var(--white);
   }
 
   .heading .text-primary{
-    color: #15CDCB !important;
+    color:var(--theme)!important;
     font-size: 58px;
   }
 
@@ -114,7 +119,7 @@ a{
 }
 
 .navbar-collapse-btn .nav-item a:hover{
-  color: #50C9C0;
+  color:var(--theme);
 }
 
 .navbar-brand{
@@ -125,7 +130,7 @@ a{
   padding: 0.25rem 0.75rem;
   font-size: 1.25rem;
   line-height: 1;
-  background-color: #15CDCB;
+  background-color:var(--theme);
   border: 1px solid transparent;
   border-radius: 0.25rem;
   transition: box-shadow .15s ease-in-out;
@@ -144,26 +149,26 @@ button:focus:not(:focus-visible){
 
 .header-btn button{
   padding: 10px 15px;
-  background: #50C9C0;
+  background:var(--theme);
   border-radius: 5px;
   border: unset;
-  color: #fff;
+  color:var(--white);
 }
 
 
 .header-menus a.nav-link.active {
-  color: #15CDCB;
+  color: var(--theme);
 }
 .navbar-collapse-btn .nav-btn a{
-  color: #fff;
+  color: var(--white);
 }
 
 .header-menus{
-  background: #fff;
+  background: var(--white);
   width: 100%;
   position: sticky;
   z-index: 99;
-  border-bottom: 2px solid #50C9C0;
+  border-bottom: 2px solid var(--theme);
   top: 0;
   height: 110px;
 }
@@ -194,13 +199,14 @@ button:focus:not(:focus-visible){
   background-repeat: no-repeat;
   background-position: center center;
   min-height: 80vh;
+  width: 100%;
 }
 
 .form-section .input-field{
   padding: 10px 30px;
-  border: 1px solid #fff;
+  border: 1px solid var(--white);
   border-radius: 5px;
-  color: #fff;
+  color: var(--white);
   background: transparent;
 }
 
@@ -215,8 +221,8 @@ button:focus:not(:focus-visible){
 .b-clr button,
 .sub-btn{
   border-radius: 5px;
-  color: #fff;
-  background: #50C9C0;
+  color: var(--white);
+  background:var(--theme);
   border:unset;
   padding: 10px 25px;
 }
@@ -231,21 +237,21 @@ button:focus:not(:focus-visible){
   background: #faa388;
   transform: scale(1.05) translateY(-2px);
   transition: all ease 0.2s;
-  color: #fff;
+  color: var(--white);
 }
 
 .course-btn-2 a:hover{
   background:#FBC84B;
   transform: scale(1.05) translateY(-2px);
   transition: all ease 0.2s;
-  color: #fff; 
+  color: var(--white); 
 }
 
 .course-btn-3 a:hover{
   background:#E94E52;
   transform: scale(1.05) translateY(-2px);
   transition: all ease 0.2s;
-  color: #fff;
+  color: var(--white);
 }
 
 .know-more a:hover,
@@ -255,11 +261,11 @@ button:focus:not(:focus-visible){
   background:  #000000; 
   transform: scale(1.05) translateY(-2px);
   transition: all ease 0.2s;
-  color: #fff;
+  color: var(--white);
 }
 
 .sub-btn:hover{
-  outline: 1px solid #fff;
+  outline: 1px solid var(--white);
 }
 
 .header-btn button:hover{
@@ -331,7 +337,7 @@ button:focus:not(:focus-visible){
 .form-control .custom-select{
   border: unset;
   width: 100%;
-  background: #fff;
+  background: var(--white);
 }
 
 .form-control .custom-select:focus-visible{
@@ -341,7 +347,7 @@ button:focus:not(:focus-visible){
 
 .course-details-inner{
   padding: 20px;
-  background: #FFFFFF;
+  background: var(--white);
   box-shadow: 0px 0px 15px rgba(0, 0, 0, 0.25);
   border-radius: 10px;
   width: 90%;
@@ -368,7 +374,7 @@ button:focus:not(:focus-visible){
 
 
 .profile-section{
-  background: #15CDCB;
+  background: var(--theme);
   padding: 20px;
   border-radius: 20px;
   position: relative;
@@ -379,8 +385,8 @@ button:focus:not(:focus-visible){
   background: transparent;
   padding: 10px 30px;
   border-radius: 10px;
-  border: 1px solid #fff;
-  color: #fff;
+  border: 1px solid var(--white);
+  color: var(--white);
 }
 
 
@@ -393,21 +399,21 @@ button:focus:not(:focus-visible){
 }
 
 .faq-sec button{
-  border: 1px solid #34D8C2;
+  border: 1px solid var(--theme);
   border-radius: 20px !important;
   margin-bottom: 10px;
 }
 
 .faq-sec .accordion-button{
-  background: #15CDCB;
-  color: #fff;
+  background: var(--theme);
+  color: var(--white);
   border-color: unset !important;
   box-shadow:unset;
 }
 
 .faq-sec .accordion-button.collapsed{
   background: transparent;
-  border-color: #15CDCB !important;
+  border-color:var(--theme) !important;
   color: #000;
 }
 
@@ -416,7 +422,7 @@ button:focus:not(:focus-visible){
 }
 
 .faq-sec .accordion-flush .accordion-collapse{
-  border: 1px solid #15CDCB;
+  border: 1px solid var(--theme);
   border-radius: 20px;
   margin-bottom: 10px;
 }
@@ -461,9 +467,8 @@ button:focus:not(:focus-visible){
 .testimonial-right{
   padding: 20px 15px; 
   border-radius: 10px;
-  background: #FFFFFF;
+  background: var(--white);
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
-  position: relative;
 }
 
 .testides-name h4{
@@ -472,7 +477,7 @@ button:focus:not(:focus-visible){
 }
 
 .Rating-star{
-  background: #15CDCB;
+  background: var(--theme);
   padding: 5px 10px;
   position: absolute;
   border-radius: 5px;
@@ -493,14 +498,14 @@ button:focus:not(:focus-visible){
 
 .know-more a{
   padding: 10px 30px;
-  background: #fff;
-  color: #15918f;
+  background: var(--white);
+  color: var(--theme);
   border-radius: 5px;
 }
 
 .thankyou a{
-  background: #50C9C0;
-  color: #fff;
+  background: var(--theme);
+  color: var(--white);
   border-radius: 5px;
   padding: 10px 15px;
 }
@@ -542,7 +547,7 @@ button:focus:not(:focus-visible){
 
 .popup-section .form-control{
   border: unset;
-  border-bottom: 1px solid #15CDCB;
+  border-bottom: 1px solid var(--theme);
   border-radius: 0;
 }
 
@@ -560,7 +565,7 @@ button:focus:not(:focus-visible){
 .modal-content .btn-close{
   position: absolute;
   right: -15px;
-  background-color: #fff;
+  background-color: var(--white);
   top: -20px;
   padding: 12px;
   border-radius: 20px;
@@ -700,7 +705,7 @@ button#enquiryButton:disabled{
     height: 0 !important;
     position: absolute;
     top: 111px;
-    background: #FFF;
+    background: var(--white);
     width: 100%;
     left: 0;
     overflow: hidden;
@@ -714,7 +719,7 @@ button#enquiryButton:disabled{
   }
 
   .icon-menu{
-    color: #fff;
+    color: var(--white);
   }
 
   .footer{
