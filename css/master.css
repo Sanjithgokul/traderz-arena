@@ -131,6 +131,12 @@ a{
   transition: box-shadow .15s ease-in-out;
 }
 
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+
 button:focus:not(:focus-visible){
   box-shadow: unset;
 }
@@ -185,7 +191,6 @@ button:focus:not(:focus-visible){
 .backround-banner{
   background-image: url(../images/banner-bg.webp);
   background-size: cover;
-  background-attachment: fixed;
   background-repeat: no-repeat;
   background-position: center center;
   min-height: 80vh;
@@ -326,6 +331,7 @@ button:focus:not(:focus-visible){
 .form-control .custom-select{
   border: unset;
   width: 100%;
+  background: #fff;
 }
 
 .form-control .custom-select:focus-visible{

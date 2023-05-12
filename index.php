@@ -31,7 +31,7 @@
                         </div>
                         <div class="mb-3">
                             <label for="fname">Mobile Number</label><br>
-                            <input type="number" class="form-control required" id="number_Field" name="number" required>
+                            <input type="number" class="form-control" id="number_Field" name="number" required>
                             <span role="alert" class="error-msg" id="number_Field_err">Please enter a valid number</span>
                         </div>
                         <div class="">
