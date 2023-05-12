@@ -303,7 +303,9 @@
                                         <p class="text-justify">Thanks to the excellent coaching and mentoring from Deepak and Dana Karthikeyan, I am now confident in executing equity trading and option strategies. I highly recommend Traderz Arena for anyone seeking to learn and succeed in the stock market.</p>
                                         <h3 class="testi-name">V. Anbarasu</h3>
                                         <div class="testi-des">
-                                                         
+                                            <div class="testides-name">
+                                                <h5 class="text-white">Adetprite</h5> 
+                                            </div>          
                                             <div class="testi-img">
                                                 <img  width="100%" height="100%" loading="lazy" src="./images/new-quote.svg"  title="traderz-arena" alt="traderz-arena">
                                             </div>
