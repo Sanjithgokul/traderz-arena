@@ -33,7 +33,7 @@
   }
 
   :root {
-    --theme: #15CDCB;
+    --theme: #5CCB5A;
     --white: #ffffff;
   }
 
@@ -234,7 +234,7 @@ button:focus:not(:focus-visible){
 
 
 .course-btn a:hover{
-  background: #faa388;
+  background: #ff9914;
   transform: scale(1.05) translateY(-2px);
   transition: all ease 0.2s;
   color: var(--white);
@@ -282,7 +282,7 @@ button:focus:not(:focus-visible){
 }
 
 .back-clr{
-  background: #E0F9F5;
+  background: #ECFFEC;
   border-radius: 5px;
   padding: 10px;
   height: 80px;
@@ -300,26 +300,28 @@ button:focus:not(:focus-visible){
 }
 
 .box-heading{
-  background: #F3A188;
+  background: #ff9914;
   padding: 25px;
   min-width: 95%;
   border-radius: 15px;
   position: relative;
 }
 
+
+
 .clr-2,
 .course-btn-2 a{
-  background: #FBC84B !important;
+  background: #0077B6 !important;
 }
 
 .clr-3,
 .course-btn-3 a{
-  background: #E94E52 !important;
+  background: #FB6F92 !important;
 }
 
 .clr-4,
 .course-btn-4 a{
-  background: #4BB04A !important;
+  background: #087E8B !important;
 }
 
 
@@ -368,7 +370,7 @@ button:focus:not(:focus-visible){
 } 
 .course-btn a{
   padding: 10px 25px;
-  background: #F3A188;
+  background: #ff9914;
   border-radius: 5px;
 }
 
@@ -391,7 +393,7 @@ button:focus:not(:focus-visible){
 
 
 .faq-sec {
-  background: url(../images/faq-backround.svg);
+  background: url(../images/faq-backround.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
