@@ -299,7 +299,7 @@
                         <div class="testimonial-right">
                             <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
                                 <div class="carousel-inner">
-                                    <div class="carousel-item active" style="margin: 15px 10px 10px 10px;">
+                                    <div class="carousel-item active">
                                         <p class="text-justify">Thanks to the excellent coaching and mentoring from Deepak and Dana Karthikeyan, I am now confident in executing equity trading and option strategies. I highly recommend Traderz Arena for anyone seeking to learn and succeed in the stock market.</p>
                                         <h3 class="testi-name">V. Anbarasu</h3>
                                         <div class="testi-des">
