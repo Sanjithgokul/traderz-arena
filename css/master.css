@@ -616,6 +616,10 @@ button#enquiryButton:disabled{
   align-items: center;
 }
 
+.carousel-inner{
+  height: 100%;
+}
+
 @media (max-width: 1400px){
   .backround-banner{
     min-height: 90vh;
@@ -683,6 +687,13 @@ button#enquiryButton:disabled{
 }
 
 
+@media (max-width:776px){
+  .testimonial-right{
+    height: 265px;
+  }
+}
+
+
 @media (min-width: 778px){
   .banner-btn{
     display: flex;
@@ -724,6 +735,10 @@ button#enquiryButton:disabled{
 
   .footer{
     height: 150px;
+  }
+
+  .testimonial-right{
+    height: 274px;
   }
 }
 
@@ -775,6 +790,10 @@ button#enquiryButton:disabled{
 
   .banner-content{
     padding: 15px 0;
+  }
+
+  .testimonial-right{
+    height: 318px;
   }
 }
 
