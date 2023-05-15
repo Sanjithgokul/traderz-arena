@@ -294,7 +294,7 @@ button:focus:not(:focus-visible){
 }
 
 .box-backround{
-  background-image: url(../images/section-3-backround.webp);
+  background-image: url(../images/wave-bg-3.webp);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -445,7 +445,7 @@ button:focus:not(:focus-visible){
 }
 
 .section-5{
-  background: url(../images/testimonial-back.webp);
+  background: url(../images/testi-back.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -644,7 +644,7 @@ button#enquiryButton:disabled{
   }
 
   .section-4{
-    background: url(../images/sect-4-bg.webp);
+    background: url(../images/wave-bg.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
