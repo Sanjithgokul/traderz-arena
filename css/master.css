@@ -485,12 +485,7 @@ button:focus:not(:focus-visible){
   transform: rotate(-180deg);
 }
 
-.section-5{
-  background: url(../images/testi-back.webp);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-}
+
 
 #owl-demo .item img{
   display: block;
@@ -709,6 +704,13 @@ button#enquiryButton:disabled{
   
 .section-5-1{
   background: url(../images/testimonial-bg.png);
+}
+
+.section-5{
+  background: url(../images/testi-back.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
 }
 
 
