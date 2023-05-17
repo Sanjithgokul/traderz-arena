@@ -320,7 +320,7 @@ button:focus:not(:focus-visible){
 }
 
 .box-backround-1{
-  background-image: url(../images/wave-new.svg);
+  background-image: url(../images/wave-new-1.svg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -671,6 +671,18 @@ button#enquiryButton:disabled{
   background-position: center center;
 }
 
+.carousel-control-prev-icon{
+  position: absolute;
+  left: -16px;
+  top: 133px;
+}
+
+.carousel-control-next-icon {
+  position: absolute;
+  right: 28px;
+  top: 133px;
+}
+
 @media (max-width: 1400px){
   .backround-banner{
     min-height: 90vh;
@@ -755,6 +767,10 @@ button#enquiryButton:disabled{
     min-height:115vh;
   }
 
+  .tesimonial-sec{
+    height: 72vh;
+  }
+
 
 }
 
@@ -762,6 +778,10 @@ button#enquiryButton:disabled{
 @media (max-width:776px){
   .testimonial-right{
     height: 265px;
+  }
+
+  .tesimonial-sec{
+    height: 85vh;
   }
 }
 
@@ -812,6 +832,10 @@ button#enquiryButton:disabled{
   .testimonial-right{
     height: 274px;
   }
+
+  .tesimonial-sec{
+    height: 80vh;
+  }
 }
 
 @media(min-width:576px){
@@ -836,7 +860,7 @@ button#enquiryButton:disabled{
   }
 
   .text-bold,
-  .heading .text-primary{
+  .heading, .text-primary{
     font-size: 42px !important;
   }
 
@@ -867,6 +891,10 @@ button#enquiryButton:disabled{
   .testimonial-right{
     height: 318px;
   }
+
+  .tesimonial-sec{
+    height: 80vh;
+  }
 }
 
 @media (max-width:375px){
@@ -876,6 +904,10 @@ button#enquiryButton:disabled{
 
   .footer .social-icon{
     height: 35px;
+  }
+
+  .tesimonial-sec{
+    height: 90vh;
   }
 
   /* .modal-dialog{

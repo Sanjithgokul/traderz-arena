@@ -297,6 +297,21 @@
                             <img  loading="lazy" src="./images/client-1.png" title="client" alt="client">
                         </div>
                         <h3 class="testi-name text-white text-center mb-2">V. Anbarasu</h3>
+                        <h5 class="client-des new-clr text-center mb-2">Adetprite Solutions</h5>
+                        <ul class="rating-star-1 d-flex mb-4">
+                            <li><img width="100%" height="100%" loading="lazy" src="./images/yellow-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
+                            <li><img width="100%" height="100%" loading="lazy" src="./images/yellow-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
+                            <li><img width="100%" height="100%" loading="lazy" src="./images/yellow-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
+                            <li><img width="100%" height="100%" loading="lazy" src="./images/yellow-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
+                            <li><img width="100%" height="100%" loading="lazy" src="./images/white-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
+                        </ul>
+                        <p class="text-white text-center">Thanks to the excellent coaching and mentoring from Deepak and Dana Karthikeyan, I am now confident in executing equity trading and option strategies. I highly recommend Traderz Arena for anyone seeking to learn and succeed in the stock market.</p>
+                    </div>
+                    <!-- <div class="carousel-item" >
+                        <div class="photo-sec d-flex">
+                            <img  loading="lazy" src="./images/client-2.png" title="client" alt="client">
+                        </div>
+                        <h3 class="testi-name text-white text-center mb-2">Poorani Anbarasu</h3>
                         <h5 class="client-des new-clr text-center mb-2">PRESITENT</h5>
                         <ul class="rating-star-1 d-flex mb-3">
                             <li><img width="100%" height="100%" loading="lazy" src="./images/yellow-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
@@ -305,27 +320,22 @@
                             <li><img width="100%" height="100%" loading="lazy" src="./images/yellow-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
                             <li><img width="100%" height="100%" loading="lazy" src="./images/white-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
                         </ul>
-                        <p class="text-white text-center">Thanks to the excellent coaching and mentoring from Deepak and Dana Karthikeyan, I am now confident in executing equity trading and option strategies. I highly recommend Traderz Arena for anyone seeking to learn and succeed in the stock market.</p>
-                        <div class="testi-des">
-                            <div class="testides-name">
-                                <h5 class="text-white new-clr">Adetprite</h5> 
-                            </div>          
-                            <div class="testi-img">
-                                <img  width="100%" height="100%" loading="lazy" src="./images/quotes-new-1.svg"  title="traderz-arena" alt="traderz-arena">
-                            </div>
-                        </div>
-                    </div>
+                        <p class="text-white text-center">Deepak K L's stock trading training sessions have been a game-changer for my husband. His in-depth knowledge and daily trading experience have provided valuable insights into result-oriented trading. We are grateful for his wonderful training and personal support and wish Traderz Arena all the best.</p>
+                    </div> -->
                     <div class="carousel-item" >
-                        <p class="text-justify">Deepak K L's stock trading training sessions have been a game-changer for my husband. His in-depth knowledge and daily trading experience have provided valuable insights into result-oriented trading. We are grateful for his wonderful training and personal support and wish Traderz Arena all the best.</p>
-                        <h3 class="testi-name new-clr">Poorani Anbarasu</h3>
-                        <div class="testi-des">
-                            <div class="testides-name">
-                                <h5 class="new-clr">Adetprite Solutions</h5> 
-                            </div>
-                            <div class="testi-img">
-                                <img width="100%" height="100%"  loading="lazy" src="./images/quotes-new-1.svg" title="traderz-arena"  alt="traderz-arena">
-                            </div>
+                        <div class="photo-sec d-flex">
+                            <img  loading="lazy" src="./images/client-3.png" title="client" alt="client">
                         </div>
+                        <h3 class="testi-name text-white text-center mb-2">Poorani Anbarasu</h3>
+                        <h5 class="client-des new-clr text-center mb-2">Adetprite Solutions</h5>
+                        <ul class="rating-star-1 d-flex mb-4">
+                            <li><img width="100%" height="100%" loading="lazy" src="./images/yellow-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
+                            <li><img width="100%" height="100%" loading="lazy" src="./images/yellow-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
+                            <li><img width="100%" height="100%" loading="lazy" src="./images/yellow-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
+                            <li><img width="100%" height="100%" loading="lazy" src="./images/yellow-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
+                            <li><img width="100%" height="100%" loading="lazy" src="./images/white-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
+                        </ul>
+                        <p class="text-white text-center">Thanks to the excellent coaching and mentoring from Deepak and Dana Karthikeyan, I am now confident in executing equity trading and option strategies. I highly recommend Traderz Arena for anyone seeking to learn and succeed in the stock market.</p>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
                       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
