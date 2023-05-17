@@ -803,7 +803,7 @@ button#enquiryButton:disabled{
   .navbar-collapse-btn {
     height: 0 !important;
     position: absolute;
-    top: 111px;
+    top: 96px;
     background: var(--white);
     width: 100%;
     left: 0;
