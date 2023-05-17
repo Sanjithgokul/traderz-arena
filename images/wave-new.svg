@@ -1,4 +1,5 @@
 <svg width="1918" height="841" viewBox="0 0 1918 841" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g opacity="0.4">
 <path d="M0 225.747L94.2104 159.922L254.56 342.565L386.787 263.521L670.619 539.252L845.874 444.013L1085.78 169.254L1299.69 50.6957L1523.86 123.682L1736.92 0L1917.44 132.527L1917.44 840.565L0 840.565L0 225.747Z" fill="url(#paint0_linear_366_5103)"/>
 <path d="M2 226L78.5 172.5" stroke="#086738" stroke-opacity="0.3"/>
 <path d="M95.5 164L254.5 342L384.5 264L672.5 541L845.5 446.5L1085.5 171L1303.5 50L1525 125L1737 1L1916 134.5" stroke="#086738" stroke-opacity="0.3"/>
@@ -10,6 +11,7 @@
 <circle cx="384.5" cy="263.5" r="14.5" stroke="#086738" stroke-opacity="0.3" stroke-width="4"/>
 <circle cx="93.5" cy="165.5" r="16.5" fill="#EAF0E7"/>
 <circle cx="93.5" cy="165.5" r="14.5" stroke="#086738" stroke-opacity="0.3" stroke-width="4"/>
+</g>
 <defs>
 <linearGradient id="paint0_linear_366_5103" x1="817.674" y1="33.0429" x2="962.039" y2="900.603" gradientUnits="userSpaceOnUse">
 <stop offset="0.0677083" stop-color="#52AA32" stop-opacity="0.1"/>
