@@ -85,7 +85,7 @@
             <div class="container">
                 <div class="row justify-content-center align-items-center reverse" >
                     <div class="col-sm-12 col-md-12 col-lg-6 small-d">
-                        <img width="100%" height="100%" loading="lazy" src="./images/section-2.svg" title="traderz-arena" alt="traderz-arena">
+                        <img width="90%" height="90%" loading="lazy" src="./images/section-2-new.svg" title="traderz-arena" alt="traderz-arena">
                     </div>
                     <div class="col-sm-12 col-md-12 col-lg-6">
                         <h2 class="heading text-bold text-gray">About Us</h2>
@@ -265,7 +265,7 @@
         </div>
     </section>
 
-    <section id="#" class="section-4 section-4-1 mt-5">
+    <section id="#" class="section-4-1 mt-5">
         <div class="container">
             <div class="profile-section profile-section-1">
                 <div class="row justify-content-center align-items-center reverse">

@@ -670,6 +670,12 @@ button#enquiryButton:disabled{
     font-size: 52px;
   }
 }
+
+@media (min-width: 1400px){
+  .heading{
+    font-size: 52px;
+  }
+}
   
 
 
@@ -696,7 +702,7 @@ button#enquiryButton:disabled{
   }
 
   .section-4-1{
-    background:url(../images/man-wave.svg) ;
+    background:url(../images/man-wave.svg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -707,9 +713,6 @@ button#enquiryButton:disabled{
   }
 
   
-.section-5-1{
-  background: url(../images/testimonial-bg.png);
-}
 
 .section-5{
   background: url(../images/testi-back.webp);
@@ -717,6 +720,10 @@ button#enquiryButton:disabled{
   background-repeat: no-repeat;
   background-position: center center;
 }
+.section-5-1{
+  background: url(../images/testimonial-bg.png);
+}
+
 
 
 }
