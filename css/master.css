@@ -33,8 +33,16 @@
   }
 
   :root {
-    --theme: #15CDCB;
+    --theme: #52AA32;
     --white: #ffffff;
+  }
+
+  .new-clr{
+    color: #52AA32 !important;
+  }
+
+  .footer-1{
+    background: #001E00;
   }
 
   .text-white{
@@ -202,6 +210,10 @@ button:focus:not(:focus-visible){
   width: 100%;
 }
 
+.backround-banner-1{
+  background-image: url(../images/new-bg-ban.png);
+}
+
 .form-section .input-field{
   padding: 10px 30px;
   border: 1px solid var(--white);
@@ -229,6 +241,10 @@ button:focus:not(:focus-visible){
 
 .sub-btn{
   margin-left: 16px;
+}
+
+.back-clr-1{
+  background: #F2F7F2 !important;
 }
 
 
@@ -281,6 +297,10 @@ button:focus:not(:focus-visible){
   background-position: center center;
 }
 
+.section-2-1{
+  background-image: url(../images/section-wave-2.svg);
+}
+
 .back-clr{
   background: #E0F9F5;
   border-radius: 5px;
@@ -297,6 +317,13 @@ button:focus:not(:focus-visible){
   background-image: url(../images/wave-bg-3.webp);
   background-size: cover;
   background-repeat: no-repeat;
+}
+
+.box-backround-1{
+  background-image: url(../images/wave-new.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
 }
 
 .box-heading{
@@ -378,6 +405,16 @@ button:focus:not(:focus-visible){
   padding: 20px;
   border-radius: 20px;
   position: relative;
+}
+
+.profile-section-1{
+  background: #F2F7F2 !important;
+  border: 3px solid #52AA32;
+}
+
+.know-more-1 a{
+  background: #428828 !important;
+  color: #fff !important;
 }
 
 
@@ -469,6 +506,10 @@ button:focus:not(:focus-visible){
   border-radius: 10px;
   background: var(--white);
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
+}
+
+.testimonial-right-1{
+  border: 5px solid #428828;
 }
 
 .testides-name h4{
@@ -650,9 +691,22 @@ button#enquiryButton:disabled{
     background-position: center center;
   }
 
+  .section-4-1{
+    background:url(../images/man-wave.svg) ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+
   .section-5{
     height: 75vh;
   }
+
+  
+.section-5-1{
+  background: url(../images/testimonial-bg.png);
+}
+
 
 }
 
