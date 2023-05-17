@@ -73,7 +73,7 @@
                     </div>
                 </div>
                 <div class="col-md-12 col-lg-6 col-xl-6 d-flex">
-                    <img width="100%" height="100%" loading="lazy" src="./images/new-clr.webp" title="traderz-arena" alt="traderz-arena">
+                    <img width="100%" height="100%" loading="lazy" src="./images/section-1234.svg" title="traderz-arena" alt="traderz-arena">
                 </div>
             </div>
         </div>
@@ -84,7 +84,7 @@
             <div class="container">
                 <div class="row justify-content-center align-items-center reverse" >
                     <div class="col-sm-12 col-md-12 col-lg-6 small-d">
-                        <img width="100%" height="100%" loading="lazy" src="./images/section-2-img.webp" title="traderz-arena" alt="traderz-arena">
+                        <img width="100%" height="100%" loading="lazy" src="./images/sec-2-new.svg" title="traderz-arena" alt="traderz-arena">
                     </div>
                     <div class="col-sm-12 col-md-12 col-lg-6">
                         <h2 class="heading text-bold text-gray">About Us</h2>
