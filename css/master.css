@@ -250,7 +250,7 @@ button:focus:not(:focus-visible){
 
 
 .course-btn a:hover{
-  background: #faa388;
+  background: #8C2F39;
   transform: scale(1.05) translateY(-2px);
   transition: all ease 0.2s;
   color: var(--white);
@@ -327,7 +327,7 @@ button:focus:not(:focus-visible){
 }
 
 .box-heading{
-  background: #F3A188;
+  background: #8C2F39;
   padding: 25px;
   min-width: 95%;
   border-radius: 15px;
@@ -336,17 +336,20 @@ button:focus:not(:focus-visible){
 
 .clr-2,
 .course-btn-2 a{
-  background: #FBC84B !important;
+  background: #0077B6 !important;
+  color:#fff;
 }
 
 .clr-3,
 .course-btn-3 a{
-  background: #E94E52 !important;
+  background: #FB6F92 !important;
+  color:#fff;
 }
 
 .clr-4,
 .course-btn-4 a{
-  background: #4BB04A !important;
+  background: #087E8B !important;
+  color:#fff;
 }
 
 
@@ -395,8 +398,9 @@ button:focus:not(:focus-visible){
 } 
 .course-btn a{
   padding: 10px 25px;
-  background: #F3A188;
+  background: #8C2F39;
   border-radius: 5px;
+  color: #fff;
 }
 
 
