@@ -62,7 +62,7 @@
                 <div class="col-md-12 col-lg-6 col-xl-6">
                     <div class="banner-content">
                         <span class="text-white mb-3">Track Expert Traders</span>
-                        <h1 class="heading text-white py-4 lh-5">We Train You How to Make <span class="text-primary"> Consistent Money!</span></h1>
+                        <h1 class="heading text-white py-4 lh-5">We Train You How to<span class="text-primary"> <b>Make Consistent Money!</b></span></h1>
                         <span class="text-white">Learn from market experts & invest your course fee in live trading.</span>
                         <div class="form-section mt-5 mb-3">
                             <form  id="contact-form"  action="#" method="post">
@@ -84,7 +84,7 @@
         <div class="about-us">
             <div class="container">
                 <div class="row justify-content-center align-items-center reverse" >
-                    <div class="col-sm-12 col-md-12 col-lg-6 small-d">
+                    <div class="col-sm-12 col-md-12 col-lg-6">
                         <img width="90%" height="90%" loading="lazy" src="./images/section-2-new.svg" title="traderz-arena" alt="traderz-arena">
                     </div>
                     <div class="col-sm-12 col-md-12 col-lg-6">
@@ -286,69 +286,60 @@
             </div>
         </div>
     </section>
-
-    <section class="section-5 section-5-1">
+    <section class="tesimonial-sec">
         <div class="container">
-            <div class="testimonial-sec">
-                <div class="row justify-content-center align-items-center reverse">
-                    <div class="col-12 col-md-12 col-lg-6 test-clint-img small-d">
-                       <img loading="lazy" width="100%" height="100%" src="./images/test-speack.webp" title="Testimonial-Clients" alt="Testimonial-Clients">
-                    </div>
-                    <div class="col-12 col-md-12 col-lg-6 mob-bottom">
-                        <span class="tesimonial-right-span mb-3">Our Testimonials</span>
-                        <h2 class="heading text-bold text-gray mb-4">What They’re Talking About Us</h2>
-                        <div class="testimonial-right testimonial-right-1">
-                            <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-                                <div class="carousel-inner">
-                                    <div class="carousel-item active">
-                                        <p class="text-justify">Thanks to the excellent coaching and mentoring from Deepak and Dana Karthikeyan, I am now confident in executing equity trading and option strategies. I highly recommend Traderz Arena for anyone seeking to learn and succeed in the stock market.</p>
-                                        <h3 class="testi-name new-clr">V. Anbarasu</h3>
-                                        <div class="testi-des">
-                                            <div class="testides-name">
-                                                <h5 class="text-white new-clr">Adetprite</h5> 
-                                            </div>          
-                                            <div class="testi-img">
-                                                <img  width="100%" height="100%" loading="lazy" src="./images/quotes-new-1.svg"  title="traderz-arena" alt="traderz-arena">
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <div class="carousel-item" >
-                                        <p class="text-justify">Deepak K L's stock trading training sessions have been a game-changer for my husband. His in-depth knowledge and daily trading experience have provided valuable insights into result-oriented trading. We are grateful for his wonderful training and personal support and wish Traderz Arena all the best.</p>
-                                        <h3 class="testi-name new-clr">Poorani Anbarasu</h3>
-                                        <div class="testi-des">
-                                            <div class="testides-name">
-                                            <h5 class="new-clr">Adetprite Solutions</h5> 
-                                            </div>
-                                            <div class="testi-img">
-                                                <img width="100%" height="100%"  loading="lazy" src="./images/quotes-new-1.svg" title="traderz-arena"  alt="traderz-arena">
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                                <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-                                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                                  <span class="visually-hidden">Previous</span>
-                                </button>
-                                <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-                                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                                  <span class="visually-hidden">Next</span>
-                                </button>
-                            </div>
-                            <div class="testi-star">
-                                <ul class="Rating-star">
-                                    <li><img width="100%" height="100%" loading="lazy" src="./images/testimonial-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
-                                    <li><img width="100%" height="100%" loading="lazy" src="./images/testimonial-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
-                                    <li><img width="100%" height="100%" loading="lazy" src="./images/testimonial-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
-                                    <li><img width="100%" height="100%" loading="lazy" src="./images/testimonial-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
-                                    <li><img width="100%" height="100%" loading="lazy" src="./images/testimonial-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
-                                </ul>
+            <div class="col-12 col-md-12 col-lg-12 mob-bottom">
+                <h2 class="heading text-white text-center mb-2">Our Testimonials</h2>
+                <h3 class="top-heading text-center text-white d-flex mb-3">What they’re talking about us</h3>
+                <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+                    <div class="carousel-item active">
+                        <div class="photo-sec d-flex">
+                            <img  loading="lazy" src="./images/client-1.png" title="client" alt="client">
+                        </div>
+                        <h3 class="testi-name text-white text-center mb-2">V. Anbarasu</h3>
+                        <h5 class="client-des new-clr text-center mb-2">PRESITENT</h5>
+                        <ul class="rating-star-1 d-flex mb-3">
+                            <li><img width="100%" height="100%" loading="lazy" src="./images/yellow-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
+                            <li><img width="100%" height="100%" loading="lazy" src="./images/yellow-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
+                            <li><img width="100%" height="100%" loading="lazy" src="./images/yellow-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
+                            <li><img width="100%" height="100%" loading="lazy" src="./images/yellow-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
+                            <li><img width="100%" height="100%" loading="lazy" src="./images/white-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
+                        </ul>
+                        <p class="text-white text-center">Thanks to the excellent coaching and mentoring from Deepak and Dana Karthikeyan, I am now confident in executing equity trading and option strategies. I highly recommend Traderz Arena for anyone seeking to learn and succeed in the stock market.</p>
+                        <div class="testi-des">
+                            <div class="testides-name">
+                                <h5 class="text-white new-clr">Adetprite</h5> 
+                            </div>          
+                            <div class="testi-img">
+                                <img  width="100%" height="100%" loading="lazy" src="./images/quotes-new-1.svg"  title="traderz-arena" alt="traderz-arena">
                             </div>
                         </div>
                     </div>
+                    <div class="carousel-item" >
+                        <p class="text-justify">Deepak K L's stock trading training sessions have been a game-changer for my husband. His in-depth knowledge and daily trading experience have provided valuable insights into result-oriented trading. We are grateful for his wonderful training and personal support and wish Traderz Arena all the best.</p>
+                        <h3 class="testi-name new-clr">Poorani Anbarasu</h3>
+                        <div class="testi-des">
+                            <div class="testides-name">
+                                <h5 class="new-clr">Adetprite Solutions</h5> 
+                            </div>
+                            <div class="testi-img">
+                                <img width="100%" height="100%"  loading="lazy" src="./images/quotes-new-1.svg" title="traderz-arena"  alt="traderz-arena">
+                            </div>
+                        </div>
+                    </div>
+                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                      <span class="visually-hidden">Previous</span>
+                    </button>
+                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                      <span class="visually-hidden">Next</span>
+                    </button>
                 </div>
             </div>
         </div>
     </section>
+   
 
     <section class="faq-sec py-5">
         <div class="container">

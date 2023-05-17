@@ -7,7 +7,7 @@
 
 
   h1,h2,h3,h4,h5,h6,a,p{
-    font-family: 'Poppins', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
     color: #333333;
   }
 
@@ -22,7 +22,7 @@
 
   h1{
     font-size:58px;
-    line-height: 66px;
+    line-height: 72px;
 
   }
 
@@ -84,7 +84,6 @@
   section{
     padding: 70px 0;
   }
-  
 
 ul{
   padding-left: 0;
@@ -310,7 +309,7 @@ button:focus:not(:focus-visible){
 }
 
 .year-content h4{
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 600;
 }
 
@@ -527,6 +526,10 @@ button:focus:not(:focus-visible){
   height: 36px;
 }
 
+.rating-star-1{
+  display: flex;
+}
+
 .foooter-social-icon{
   gap: 10px;
   margin-bottom: 0;
@@ -561,7 +564,7 @@ button:focus:not(:focus-visible){
 }
 
 .footer span{
-  font-size: 16px;
+  font-size: 17px;
 }
 
 
@@ -661,21 +664,19 @@ button#enquiryButton:disabled{
   height: 100%;
 }
 
+.tesimonial-sec{
+  background: url(../images/testi-bg.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
 @media (max-width: 1400px){
   .backround-banner{
     min-height: 90vh;
   }
-
-  .heading{
-    font-size: 48px;
-  }
 }
 
-@media (min-width: 1400px){
-  .heading{
-    font-size: 52px;
-  }
-}
   
 
 
@@ -702,7 +703,7 @@ button#enquiryButton:disabled{
   }
 
   .section-4-1{
-    background:url(../images/man-wave.svg);
+    background:url(../images/man-wave.svg) ;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -713,15 +714,12 @@ button#enquiryButton:disabled{
   }
 
   
-
-.section-5{
-  background: url(../images/testi-back.webp);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-}
 .section-5-1{
   background: url(../images/testimonial-bg.png);
+}
+
+.tesimonial-sec{
+  min-height: 80vh;
 }
 
 
@@ -756,6 +754,8 @@ button#enquiryButton:disabled{
   .backround-banner{
     min-height:115vh;
   }
+
+
 }
 
 
