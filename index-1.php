@@ -297,7 +297,7 @@
                             <img  loading="lazy" src="./images/client-1.png" title="client" alt="client">
                         </div>
                         <h3 class="testi-name text-white text-center mb-2">V. Anbarasu</h3>
-                        <h5 class="client-des new-clr text-center mb-2">Adetprite Solutions</h5>
+                        <!--<h5 class="client-des new-clr text-center mb-2">Adetprite Solutions</h5>-->
                         <ul class="rating-star-1 d-flex mb-4">
                             <li><img width="100%" height="100%" loading="lazy" src="./images/yellow-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
                             <li><img width="100%" height="100%" loading="lazy" src="./images/yellow-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
@@ -335,7 +335,7 @@
                             <li><img width="100%" height="100%" loading="lazy" src="./images/yellow-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
                             <li><img width="100%" height="100%" loading="lazy" src="./images/white-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
                         </ul>
-                        <p class="text-white text-center">Thanks to the excellent coaching and mentoring from Deepak and Dana Karthikeyan, I am now confident in executing equity trading and option strategies. I highly recommend Traderz Arena for anyone seeking to learn and succeed in the stock market.</p>
+                        <p class="text-white text-center">Deepak K L's stock trading training sessions have been a game-changer for my husband. His in-depth knowledge and daily trading experience have provided valuable insights into result-oriented trading. We are grateful for his wonderful training and personal support and wish Traderz Arena all the best.</p>
                     </div>
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
                       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
