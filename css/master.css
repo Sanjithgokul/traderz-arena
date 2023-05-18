@@ -146,6 +146,10 @@ button:focus:not(:focus-visible){
   box-shadow: unset;
 }
 
+.form-section .input-field{
+  color: #fff;
+}
+
 
 .header-btn button{
   padding: 10px 15px;
