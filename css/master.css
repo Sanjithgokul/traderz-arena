@@ -33,8 +33,16 @@
   }
 
   :root {
-    --theme: #5CCB5A;
+    --theme: #52AA32;
     --white: #ffffff;
+  }
+
+  .new-clr{
+    color: #52AA32 !important;
+  }
+
+  .footer-1{
+    background: #001E00;
   }
 
   .text-white{
@@ -122,10 +130,6 @@ a{
   color:var(--theme);
 }
 
-.navbar-brand{
-  margin-top: 8px;
-}
-
 .navbar-toggler {
   padding: 0.25rem 0.75rem;
   font-size: 1.25rem;
@@ -174,7 +178,7 @@ button:focus:not(:focus-visible){
   z-index: 99;
   border-bottom: 2px solid var(--theme);
   top: 0;
-  height: 110px;
+  height: 96px;
 }
 
 .year-content span{
@@ -206,6 +210,10 @@ button:focus:not(:focus-visible){
   width: 100%;
 }
 
+.backround-banner-1{
+  background-image: url(../images/new-bg-ban.png);
+}
+
 .form-section .input-field{
   padding: 10px 30px;
   border: 1px solid var(--white);
@@ -235,10 +243,14 @@ button:focus:not(:focus-visible){
   margin-left: 16px;
 }
 
+.back-clr-1{
+  background: #F2F7F2 !important;
+}
+
 
 
 .course-btn a:hover{
-  background: #ff9914;
+  background: #8C2F39;
   transform: scale(1.05) translateY(-2px);
   transition: all ease 0.2s;
   color: var(--white);
@@ -285,8 +297,12 @@ button:focus:not(:focus-visible){
   background-position: center center;
 }
 
+.section-2-1{
+  background-image: url(../images/section-wave-2.svg);
+}
+
 .back-clr{
-  background: #ECFFEC;
+  background: #E0F9F5;
   border-radius: 5px;
   padding: 10px;
   height: 80px;
@@ -298,34 +314,42 @@ button:focus:not(:focus-visible){
 }
 
 .box-backround{
-  background-image: url(../images/section-3-backround.webp);
+  background-image: url(../images/wave-bg-3.webp);
   background-size: cover;
   background-repeat: no-repeat;
 }
 
+.box-backround-1{
+  background-image: url(../images/wave-new-1.svg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+}
+
 .box-heading{
-  background: #ff9914;
+  background: #8C2F39;
   padding: 25px;
   min-width: 95%;
   border-radius: 15px;
   position: relative;
 }
 
-
-
 .clr-2,
 .course-btn-2 a{
   background: #0077B6 !important;
+  color:#fff;
 }
 
 .clr-3,
 .course-btn-3 a{
   background: #FB6F92 !important;
+  color:#fff;
 }
 
 .clr-4,
 .course-btn-4 a{
   background: #087E8B !important;
+  color:#fff;
 }
 
 
@@ -374,8 +398,9 @@ button:focus:not(:focus-visible){
 } 
 .course-btn a{
   padding: 10px 25px;
-  background: #ff9914;
+  background: #8C2F39;
   border-radius: 5px;
+  color: #fff;
 }
 
 
@@ -384,6 +409,16 @@ button:focus:not(:focus-visible){
   padding: 20px;
   border-radius: 20px;
   position: relative;
+}
+
+.profile-section-1{
+  background: #F2F7F2 !important;
+  border: 3px solid #52AA32;
+}
+
+.know-more-1 a{
+  background: #428828 !important;
+  color: #fff !important;
 }
 
 
@@ -397,7 +432,7 @@ button:focus:not(:focus-visible){
 
 
 .faq-sec {
-  background: url(../images/faq-backround.webp);
+  background: url(../images/faq-backround.svg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -450,12 +485,7 @@ button:focus:not(:focus-visible){
   transform: rotate(-180deg);
 }
 
-.section-5{
-  background: url(../images/testimonial-back.webp);
-  background-size: cover;
-  background-repeat: no-repeat;
-  background-position: center center;
-}
+
 
 #owl-demo .item img{
   display: block;
@@ -477,6 +507,9 @@ button:focus:not(:focus-visible){
   box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.25);
 }
 
+.testimonial-right-1{
+  border: 5px solid #428828;
+}
 
 .testides-name h4{
     color: #15CDCB !important;
@@ -491,6 +524,10 @@ button:focus:not(:focus-visible){
   display: flex;
   right: 74px;
   height: 36px;
+}
+
+.rating-star-1{
+  display: flex;
 }
 
 .foooter-social-icon{
@@ -623,11 +660,35 @@ button#enquiryButton:disabled{
   align-items: center;
 }
 
+.carousel-inner{
+  height: 100%;
+}
+
+.tesimonial-sec{
+  background: url(../images/testi-bg.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+}
+
+.carousel-control-prev-icon{
+  position: absolute;
+  left: -16px;
+  top: 133px;
+}
+
+.carousel-control-next-icon {
+  position: absolute;
+  right: 28px;
+  top: 133px;
+}
+
 @media (max-width: 1400px){
   .backround-banner{
     min-height: 90vh;
   }
 }
+
   
 
 
@@ -647,7 +708,14 @@ button#enquiryButton:disabled{
   }
 
   .section-4{
-    background: url(../images/sect-4-bg.webp);
+    background: url(../images/wave-bg.webp);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+  }
+
+  .section-4-1{
+    background:url(../images/man-wave.svg) ;
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -656,6 +724,17 @@ button#enquiryButton:disabled{
   .section-5{
     height: 75vh;
   }
+
+  
+.section-5-1{
+  background: url(../images/testimonial-bg.png);
+}
+
+.tesimonial-sec{
+  min-height: 80vh;
+}
+
+
 
 }
 
@@ -687,6 +766,23 @@ button#enquiryButton:disabled{
   .backround-banner{
     min-height:115vh;
   }
+
+  .tesimonial-sec{
+    height: 72vh;
+  }
+
+
+}
+
+
+@media (max-width:776px){
+  .testimonial-right{
+    height: 265px;
+  }
+
+  .tesimonial-sec{
+    height: 85vh;
+  }
 }
 
 
@@ -703,9 +799,6 @@ button#enquiryButton:disabled{
 
 
 }
-
-
-
 @media (max-width: 574px) {
   .header-btn {
     padding-top: 10px;
@@ -714,7 +807,7 @@ button#enquiryButton:disabled{
   .navbar-collapse-btn {
     height: 0 !important;
     position: absolute;
-    top: 111px;
+    top: 96px;
     background: var(--white);
     width: 100%;
     left: 0;
@@ -735,6 +828,14 @@ button#enquiryButton:disabled{
   .footer{
     height: 150px;
   }
+
+  .testimonial-right{
+    height: 274px;
+  }
+
+  .tesimonial-sec{
+    height: 80vh;
+  }
 }
 
 @media(min-width:576px){
@@ -744,17 +845,6 @@ button#enquiryButton:disabled{
 
   .nav-item-1{
     /* display: ; */
-  }
-
-  .testimonial-right{
-    height:278px;
-    position: relative;
-  }
-
-  .Rating-star{
-    position: absolute;
-    bottom:10px;
-    transform: translateY(38px);
   }
 }
 
@@ -770,7 +860,7 @@ button#enquiryButton:disabled{
   }
 
   .text-bold,
-  .heading .text-primary{
+  .heading, .text-primary{
     font-size: 42px !important;
   }
 
@@ -799,11 +889,11 @@ button#enquiryButton:disabled{
   }
 
   .testimonial-right{
-    height: 340px;
+    height: 318px;
   }
 
-  .Rating-star{
-    bottom: -25px;
+  .tesimonial-sec{
+    height: 80vh;
   }
 }
 
@@ -814,6 +904,10 @@ button#enquiryButton:disabled{
 
   .footer .social-icon{
     height: 35px;
+  }
+
+  .tesimonial-sec{
+    height: 90vh;
   }
 
   /* .modal-dialog{
