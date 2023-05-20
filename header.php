@@ -9,6 +9,7 @@
               <div class="collapse navbar-collapse navbar-collapse-btn" id="collapsibleNavbar">
                 <ul id="navbar-nav-1" class="navbar-nav">
                   <li class="nav-item">
+                    <!-- http://www.traderzarena.com/-->
                     <a class="nav-link nav-item-1" href="http://www.traderzarena.com/" >Home</a>
                   </li>
                   <li class="nav-item">
