@@ -3,11 +3,11 @@
     padding: 0;
     box-sizing: border-box;
     scroll-behavior: smooth;
+    font-family: 'ubuntu', sans-serif;
   }
 
 
   h1,h2,h3,h4,h5,h6,a,p{
-    font-family: 'Ubuntu', sans-serif;
     color: #333333;
   }
 
@@ -183,7 +183,7 @@ button:focus:not(:focus-visible){
 
 #about-sec,
 #course-sec{
-  scroll-margin-top:100px;
+  scroll-margin-top: 40px;
 }
 
 .about-us{
@@ -661,7 +661,7 @@ button#enquiryButton:disabled{
 }
 
 .tesimonial-sec{
-  background: url(../images/testi-bg.webp);
+  /* background: url(../images/testi-bg.webp); */
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
