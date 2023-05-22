@@ -47,6 +47,9 @@
 }
 
 /* cele icon modification */
+.year-box {
+    padding: 10px;
+}
 .year .year-box .cele-img-odd {
     width: 80px;
     height: 80px;
