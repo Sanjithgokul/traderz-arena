@@ -15,12 +15,12 @@
     padding: 0;
     box-sizing: border-box;
     scroll-behavior: smooth;
+    font-family: 'ubuntu', sans-serif;
     font-family: "ubuntu r", sans-serif, system-ui;
   }
 
 
   h1,h2,h3,h4,h5,h6,a,p{
-    /* font-family: 'Ubuntu', sans-serif,; */
     color: #333333;
   }
 
@@ -204,9 +204,15 @@ button:focus:not(:focus-visible){
 
 #about-sec,
 #course-sec{
-  scroll-margin-top:100px;
+  scroll-margin-top: 40px;
 }
 
+<<<<<<< HEAD
+=======
+.about-us{
+  margin: 10px;
+}
+>>>>>>> 423a3f8f5fc22f5abcfe868f667799fe3d325fa4
 
 .course-details{
   padding:20px;
@@ -678,7 +684,7 @@ button#enquiryButton:disabled{
 }
 
 .tesimonial-sec{
-  background: url(../images/testi-bg.webp);
+  /* background: url(../images/testi-bg.webp); */
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -1006,10 +1012,6 @@ button#enquiryButton:disabled{
 @media(min-width:576px){
   .modal-dialog {
     max-width: 435px;
-  }
-
-  .nav-item-1{
-    /* display: ; */
   }
 
   .tesimonial-sec{
