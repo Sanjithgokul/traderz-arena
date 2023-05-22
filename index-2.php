@@ -114,7 +114,7 @@
                         <div class="row d-flex justify-content-between mt-4 year">
 
                             <!-- First box -->
-                            <div class="year-box col-6 col-md-6 col-lg mb-4">
+                            <div class="year-box col-6 col-md-6 col-lg mb-4 d-flex">
                                 <div class="exp-section-odd back-clr  back-clr-1 d-flex">
                                     <div class="cele-img cele-img-odd">
                                         <img width="100%" height="100%" loading="lazy" src="./images/years-cel-red.svg"
@@ -128,7 +128,7 @@
                             </div>
 
                             <!-- Second box -->
-                            <div class="year-box col-6 col-md-6 col-lg mb-4">
+                            <div class="year-box col-6 col-md-6 col-lg mb-4 d-flex">
                                 <div class="exp-section-even back-clr back-clr-1  d-flex">
                                     <div class="cele-img cele-img-even">
                                         <img width="100%" height="100%" loading="lazy"
@@ -142,7 +142,7 @@
                             </div>
 
                             <!-- Third box -->
-                            <div class="year-box col-6 col-md-6 col-lg mb-4">
+                            <div class="year-box col-6 col-md-6 col-lg mb-4 d-flex">
                                 <div class="exp-section-odd back-clr back-clr-1  d-flex">
                                     <div class="cele-img cele-img-odd">
                                         <img width="100%" height="100%" loading="lazy" src="./images/years-cel-red.svg"
@@ -155,7 +155,7 @@
                             </div>
 
                             <!-- Forth box -->
-                            <div class="year-box col-6 col-md-6 col-lg mb-4">
+                            <div class="year-box col-6 col-md-6 col-lg mb-4 d-flex">
                                 <div class="exp-section-even back-clr back-clr-1  d-flex">
                                     <div class="cele-img cele-img-even">
                                         <img width="100%" height="100%" loading="lazy"
@@ -441,7 +441,7 @@
                                     </div>
                                 </div>
                                 <div class="carousel-details">
-                                    <h3>What They’re Talking About Us</h3>
+                                    <!-- <h3>What They’re Talking About Us</h3> -->
                                     <p class="text-justify">Thanks to the excellent coaching and mentoring from Deepak and Dana Karthikeyan,
                                         I am now confident in executing equity trading and option strategies. I highly
                                         recommend Traderz Arena for anyone seeking to learn and succeed in the stock

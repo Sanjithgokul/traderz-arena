@@ -48,7 +48,8 @@
 
 /* cele icon modification */
 .year .year-box .cele-img-odd {
-    width: 5rem;
+    width: 80px;
+    height: 80px;
     padding: 10px;
     border: 15px solid #F9F9F3;
     border-radius: 50%;
@@ -58,7 +59,8 @@
     background-color: #FFE1DC;
 }
 .year .year-box .cele-img-even {
-    width: 5rem;
+    width: 80px;
+    height: 80px;
     padding: 10px;
     border: 15px solid #F9F9F3;
     border-radius: 50%;
@@ -393,5 +395,11 @@
 @media (max-width: 560px) {
     .courses-details {
         grid-template-columns:  1fr;
+    }
+}
+@media (max-width: 375px) {
+    .year {
+        flex-direction: column;
+        gap: 30px;
     }
 }
