@@ -207,10 +207,6 @@ button:focus:not(:focus-visible){
   scroll-margin-top:100px;
 }
 
-.about-us{
-  padding:30px 0px 0px 10px;
-  margin: 10px;
-}
 
 .course-details{
   padding:20px;
@@ -688,7 +684,7 @@ button#enquiryButton:disabled{
   background-position: center center;
 }
 
-/* Testim */
+/* Testimonial */
 .carousel-slide{
   background-image: url(../images/testimonial-bg-new.png);
   background-position: center;
@@ -697,8 +693,9 @@ button#enquiryButton:disabled{
   background-color: rgba(243, 243, 243, 0.6);
   padding: 20px;
 }
+/* Testing */
 .carousel-slide .carousel{
-  max-width: 1200px;
+  max-width: 1280px;
   margin: auto;
   display: flex;
   align-items: center;
@@ -724,12 +721,12 @@ button#enquiryButton:disabled{
   width: 20px;
   height: 20px;
 }
-/*  */
+/* Testing */
 .carousel-slider{
   display: grid !important;
   grid-template-columns: 1fr 300px;
-  gap: 60px;
-  padding-right: 40px;
+  gap: 30px;
+  padding: 0 40px;
 }
 .carousel-profile{
   display: flex;
@@ -737,51 +734,67 @@ button#enquiryButton:disabled{
   max-width: 300px;
   margin: auto;
 }
+/* Testing */
 .carousel-header img{
   width: 100px;
-  margin-bottom: 20px;
+  margin-bottom:20px;
+  /* margin-left:55px; */
 }
 .carousel-info{
   display: flex;
   align-items: baseline;
   gap: 0 16px;
   padding-bottom: 10px;
-  padding-left: 40px;
+  padding-left: 56px;
+  flex-wrap: wrap;
 }
 .carousel-info .carousel-rating{
   margin-left: auto;
 }
+/* Testing */
 .carousel-info .carousel-rating .star{
   display: flex;
   align-items: center;
+  padding-left:8px;
 }
+/* Testing */
 .carousel-info .carousel-rating img{
-  width: 30px;
-  height: 30px;
+  min-width: 30px;
+  min-width: 30px;
+  max-height: 30px;
+  max-height: 30px;
   aspect-ratio: 1;
 }
+/* Testing */
 .carousel-info .carousel-user-name p{
   font-size: 24px;
-  margin: 0;
+  margin-left: 10px; 
   font-weight: 600;
+  white-space: nowrap;
 }
 .carousel-info .carousel-user-role p{
   font-weight: 600;
   font-size: 14px;
   color: #FE1C04;
   margin: 0;
+  margin-left:10px;
+  white-space: nowrap;
 }
+/* Testing */
 .carousel-details{
-  padding-left: 40px;
+  padding-left: 56px;
 }
+
 .carousel-details h3{
   font-size: 32px !important;
   margin: 0 0 10px;
   font-weight: 600 !important;
 }
+/* Test */
 .carousel-details p{
   font-size: 16px !important;
-  margin: 0;
+  margin-left:10px;
+  text-align: justify;
 }
 .carousel-close-quote{
   display: flex;
@@ -884,7 +897,9 @@ button#enquiryButton:disabled{
   .tesimonial-sec{
     height: 86vh; /*72vh*/
   }
-
+  .carousel-slide .carousel{
+    min-height: 80vh;
+  }
 
 }
 
@@ -913,6 +928,20 @@ button#enquiryButton:disabled{
     }
     .carousel-info .carousel-rating img{
       width: 20px;
+    }
+    .carousel-info .carousel-rating img{
+      min-width: 20px;
+      min-height: 20px;
+      max-width: 20px;
+      max-height: 20px;
+      aspect-ratio: 1;
+    }
+    .carousel-details,
+    .carousel-info{
+      padding: 0;
+    }
+    .carousel-slide .carousel{
+      min-height: 85vh;
     }
 }
 
@@ -968,6 +997,9 @@ button#enquiryButton:disabled{
 
   .tesimonial-sec{
     height: 90vh; /*80vh*/
+  }
+  .carousel-slide .carousel{
+    min-height: 100vh;
   }
 }
 
@@ -1040,6 +1072,11 @@ button#enquiryButton:disabled{
   .section-4-1 .mt-5{
     margin-top:1rem !important;/*Testing*/
   }
+   
+  /* Testing */
+  .carousel-slide{
+    padding: 0;
+  } 
 
 }
 
@@ -1059,4 +1096,9 @@ button#enquiryButton:disabled{
   .section-2, .section-3{
     padding-top:30px; /*Testing*/
   }
+
+  /* Testing */
+  .carousel-slide{
+    padding: 10px;
+  } 
 }

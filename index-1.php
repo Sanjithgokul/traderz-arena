@@ -295,7 +295,7 @@
         </div>
     </section>
 
-    <section id="#" class="section-4-1 mt-5">
+    <section id="hidden-sec" class="section-4-1 mt-5">
         <div class="container">
             <div class="profile-section profile-section-1">
                 <div class="row justify-content-center align-items-center reverse">
@@ -441,7 +441,7 @@
                                     </div>
                                 </div>
                                 <div class="carousel-details">
-                                    <h3>What They’re Talking About Us</h3>
+                                    <!-- <h3>What They’re Talking About Us</h3> -->
                                     <p>Thanks to the excellent coaching and mentoring from Deepak and Dana Karthikeyan, I am now confident in executing equity trading and option strategies. I highly recommend Traderz Arena for anyone seeking to learn and succeed in the stock market.</p>
                                 </div>
                                 <div class="carousel-close-quote">
@@ -490,7 +490,7 @@
                                     </div>
                                 </div>
                                 <div class="carousel-details">
-                                    <h3>Amazing trading coerces of here.</h3>
+                                    <!-- <h3>Amazing trading coerces of here.</h3> -->
                                     <p>Deepak K L's stock trading training sessions have been a game-changer for my husband. His in-depth knowledge and daily trading experience have provided valuable insights into result-oriented trading. We are grateful for his wonderful training and personal support and wish Traderz Arena all the best.</p>
                                 </div>
                                 <div class="carousel-close-quote">
@@ -502,8 +502,6 @@
                             </div>
                         </div>
                     </div>
-                    
-
                     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls"
                         data-bs-slide="prev">
                         <span class="carousel-control-prev-icon" aria-hidden="true"></span>

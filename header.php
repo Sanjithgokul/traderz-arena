@@ -19,7 +19,7 @@
                     <a href="#course-sec" class="nav-link nav-item-1" >Courses</a>
                   </li>
                   <li class="nav-item">
-                    <a href="#blog-sec" class="nav-link nav-item-1" >Blog</a>
+                    <a href="#" class="nav-link nav-item-1" >Blog</a>
                   </li>
                   <li class="header-btn">
                     <button type="button" onclick="window.location.href='contact.php'">Contact us</button>
