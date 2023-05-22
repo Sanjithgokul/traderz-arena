@@ -48,7 +48,7 @@
                                     <option class="text-clr" value="Expert Trading Course">Expert Trading Course
                                     </option>
                                     <option class="text-clr" value="Options Trading">Options Trading</option>
-                                    <option class="text-clr" value="Intex Trading">Index Trading</option>
+                                    <option class="text-clr" value="Intex Trading">Intex Trading</option>
                                     <option class="text-clr" value="Mentorship Program">Mentorship Program</option>
                                 </select>
                             </div>
@@ -235,7 +235,7 @@
                         <div class="col-12 col-md-6 col-lg-4 box-1 d-flex mb-5">
                             <div class="box-inner">
                                 <div class="box-heading  clr-4 mb-3">
-                                    <h3 class="top-heading text-center text-white  d-flex"> Index Trading</h3>
+                                    <h3 class="top-heading text-center text-white  d-flex"> Intex Trading</h3>
                                     <div class="span-sec">
                                         <h4 class="m d-flex mb-2 text-white"><b class="px-2">Duration:</b> 2 Weeks</h4>
                                         <h4 class="r d-flex text-white"> <b class="px-2">Fee:</b> 25,000 INR + GST</h4>
@@ -247,7 +247,7 @@
                                             <li>Positional Expiry Trading Concepts</li>
                                             <li>Weekly Expiry Trading Techniques</li>
                                             <li>Intraday/Positional OI analysis</li>
-                                            <li>Index Intraday Trading</li>
+                                            <li>Intex Intraday Trading</li>
                                             <li>Intraday Adjustment Concepts</li>
                                             <!-- <li>Intraday PalysisCR An</li> -->
                                             <li>1 Month Support</li>
@@ -295,7 +295,7 @@
         </div>
     </section>
 
-    <section id="hidden-sec" class="section-4-1 mt-5">
+    <section id="#hidden-sec" class="section-4-1 mt-5">
         <div class="container">
             <div class="profile-section profile-section-1">
                 <div class="row justify-content-center align-items-center reverse">

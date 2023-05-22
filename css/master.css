@@ -19,6 +19,7 @@
     font-family: "ubuntu r", sans-serif, system-ui;
   }
 
+ 
 
   h1,h2,h3,h4,h5,h6,a,p{
     color: #333333;
@@ -206,13 +207,6 @@ button:focus:not(:focus-visible){
 #course-sec{
   scroll-margin-top: 40px;
 }
-
-<<<<<<< HEAD
-=======
-.about-us{
-  margin: 10px;
-}
->>>>>>> 423a3f8f5fc22f5abcfe868f667799fe3d325fa4
 
 .course-details{
   padding:20px;
