@@ -204,7 +204,7 @@ button:focus:not(:focus-visible){
 
 #about-sec,
 #course-sec{
-  scroll-margin-top: 40px;
+  /* scroll-margin-top: 40px; */
 }
 
 .course-details{
@@ -213,18 +213,22 @@ button:focus:not(:focus-visible){
 }
 
 
-.backround-banner{
-  background-image: url(../images/banner-bg.webp);
+.backround-banner-1{
+  /* background-image: url(../images/banner-bg.webp); */
+  background-image: url(../images/new-bg-ban.png);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  min-height: 80vh; /* Testing : 80vh*/
+  /* Testing : 80vh*/
+  min-height: 80vh; 
   width: 100%;
+  margin-top: -96px;
+  padding-top: 96px;
 }
 
-.backround-banner-1{
+/* .backround-banner-1{
   background-image: url(../images/new-bg-ban.png);
-}
+} */
 
 .form-section .input-field{
   padding: 10px 30px;
@@ -810,18 +814,23 @@ button#enquiryButton:disabled{
 
 
 .space {
-  margin-top: 70px;
+  padding-top: 70px;
 }
 /* 
 .extra{
   height:10px;
 } */
 
+.spy-element{
+  height: 65px;
+}
+
 
 @media (max-width: 1400px){
   .backround-banner{
     min-height: 90vh;
   }
+
 }
 
 
@@ -950,6 +959,15 @@ button#enquiryButton:disabled{
     .carousel-slide .carousel{
       min-height: 85vh;
     }
+    
+/* Testing */
+  .section-2{
+    margin-top: -30px;
+  }
+
+  .space{
+    padding-top: 0px;
+  }
 }
 
 
@@ -1008,6 +1026,16 @@ button#enquiryButton:disabled{
   .carousel-slide .carousel{
     min-height: 100vh;
   }
+
+/* Testing */
+  .section-2{
+    margin-top: -22px;
+  }
+
+  .space{
+    padding-top: 0px;
+  }
+
 }
 
 @media(min-width:576px){
@@ -1079,7 +1107,17 @@ button#enquiryButton:disabled{
   /* Testing */
   .carousel-slide{
     padding: 0;
-  } 
+  }
+  
+  
+/* Testing */
+  .section-2{
+    margin-top: -28px;
+  }
+
+  .space{
+    padding-top: 0px;
+  }
 
 }
 

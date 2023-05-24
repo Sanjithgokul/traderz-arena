@@ -11,9 +11,9 @@
                   <li class="nav-item">
                     <a href="#hidden-sec" class="nav-link nav-item-1" ></a>
                   </li>
-                  <li class="nav-item">
+                  <li class="nav-item active">
                     <!-- http://www.traderzarena.com/-->
-                    <a class="nav-link nav-item-1 active" href="http://www.traderzarena.com/" >Home</a>
+                    <a class="nav-link nav-item-1 " href="#home" >Home</a>
                   </li>
                   <li class="nav-item">
                     <a href="#about-sec" class="nav-link nav-item-1" >About </a>

@@ -13,7 +13,7 @@
 
 <body data-bs-spy="scroll" data-bs-target="#navbar-example">
     <!-- Modal -->
-
+    
     <div class="popup-section">
         <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
             aria-labelledby="staticBackdropLabel" aria-hidden="true">
@@ -64,7 +64,8 @@
     </div>
 
 
-    <div class="backround-banner backround-banner-1 d-flex">
+    <div class="backround-banner backround-banner-1 d-flex flex-column" id="home">
+        <div class="spy-element"></div>
         <div class="container">
             <div class="row justify-content-center">
                 <div class="col-md-12 col-lg-6 col-xl-6">
@@ -91,10 +92,12 @@
                 </div>
             </div>
         </div>
+        <div class="spy-element" id="about-sec"></div>
     </div>
 
     <!--Testing-->
-    <section id="about-sec" class="section-2 section-2-1">
+    <section id="about-sec" class="section-2 section-2-1 pb-0">
+        <div class="spy-element"></div>
         <div class="about-us">
             <div class="container">
                 <div class="row justify-content-center align-items-center reverse">
@@ -167,8 +170,8 @@
             </div>
         </div>
     </section>
-
-    <section id="course-sec" class="section-3 box-backround-1">
+    <div class="spy-element" id="course-sec"></div>
+    <section class="section-3 box-backround-1">
         <div class="course-details">
             <div class="container mb-4">
                 <h2 class="heading text-bold text-gray text-center space">Main Courses </h2>
