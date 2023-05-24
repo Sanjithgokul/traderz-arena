@@ -94,14 +94,13 @@
     </div>
 
     <!--Testing-->
-    <section id="about-sec" class="section-2 section-2-1 ">
+    <section id="about-sec" class="section-2 section-2-1">
         <div class="about-us">
-         <br>
             <div class="container">
                 <div class="row justify-content-center align-items-center reverse">
                     <div class="col-sm-12 col-md-12 col-lg-6">
                         <img width="90%" height="90%" loading="lazy" src="./images/section-2-new.svg"
-                            title="traderz-arena" alt="traderz-arena" style="transform:translateY(100px);">
+                            title="traderz-arena" alt="traderz-arena">
                     </div>
                     <div class="col-sm-12 col-md-12 col-lg-6">
                         <h2 class="heading text-bold text-gray space">About Us</h2>
@@ -288,14 +287,14 @@
                                 </div>
                             </div>
                         </div>
-                        <span class="course-span text-center"> <b>Note:</b> Earn back your training fee through profitable trading. <span class="condition"> **</span> Terms & Conditions apply.</span>
+                        <span class="course-span text-center"> <b>Note:</b> Earn back your training fee through profitable trading.<span class="condition"> **</span>  Terms & Conditions apply</span>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <section id="hidden-sec" class="section-4-1 mt-5">
+    <section id="hidden-sec" class="section-4-1 space mt-5">
         <div class="container">
             <div class="profile-section profile-section-1">
                 <div class="row justify-content-center align-items-center reverse">
@@ -313,7 +312,7 @@
                         <div class="know-more know-more-1 pt-2">
                             <a type="button" class="btn btn-primary">Know More</a>
                         </div>
-                    </div>F
+                    </div>
                     <div class="col-12 col-md-12 col-lg-5 d-flex">
                         <div class="deepak-profile">
                             <img loading="lazy" width="100%" height="100%" src="./images/deepak-traderz-arena.svg"
@@ -442,7 +441,10 @@
                                 </div>
                                 <div class="carousel-details">
                                     <!-- <h3>What They’re Talking About Us</h3> -->
-                                    <p>Thanks to the excellent coaching and mentoring from Deepak and Kumar Dana Karthikeyan, I am now confident in executing equity trading and option strategies. I highly recommend Traderz Arena for anyone seeking to learn and succeed in the stock market.</p>
+                                    <p>Thanks to the excellent coaching and mentoring from Deepak and Kumar Dana Karthikeyan,
+                                        I am now confident in executing equity trading and option strategies. I highly
+                                        recommend Traderz Arena for anyone seeking to learn and succeed in the stock
+                                        market.</p>
                                 </div>
                                 <div class="carousel-close-quote">
                                     <img src="../images/red-quotes.svg" alt="quotes">
@@ -453,7 +455,7 @@
                             </div>
                         </div>
                     </div>
-                    
+
                     <!-- carousel two -->
                     <div class="carousel-item">
                         <div class="carousel-slider">
@@ -491,7 +493,10 @@
                                 </div>
                                 <div class="carousel-details">
                                     <!-- <h3>Amazing trading coerces of here.</h3> -->
-                                    <p>Deepak K L's stock trading training sessions have been a game-changer for my husband. His in-depth knowledge and daily trading experience have provided valuable insights into result-oriented trading. We are grateful for his wonderful training and personal support and wish Traderz Arena all the best.</p>
+                                    <p>Deepak K L's stock trading training sessions have been a game-changer for my
+                                        husband. His in-depth knowledge and daily trading experience have provided
+                                        valuable insights into result-oriented trading. We are grateful for his
+                                        wonderful training and personal support and wish Traderz Arena all the best.</p>
                                 </div>
                                 <div class="carousel-close-quote">
                                     <img src="../images/red-quotes.svg" alt="quotes">
