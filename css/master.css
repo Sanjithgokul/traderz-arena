@@ -14,12 +14,11 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-    scroll-behavior: smooth;
+    scroll-behavior: smooth; 
     font-family: 'ubuntu', sans-serif;
     font-family: "ubuntu r", sans-serif, system-ui;
   }
 
- 
 
   h1,h2,h3,h4,h5,h6,a,p{
     color: #333333;
@@ -809,6 +808,14 @@ button#enquiryButton:disabled{
   overflow: hidden;
 }
 
+
+.space {
+  margin-top: 70px;
+}
+/* 
+.extra{
+  height:10px;
+} */
 
 
 @media (max-width: 1400px){

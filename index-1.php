@@ -94,16 +94,17 @@
     </div>
 
     <!--Testing-->
-    <section id="about-sec" class="section-2 section-2-1">
+    <section id="about-sec" class="section-2 section-2-1 ">
         <div class="about-us">
+         <br>
             <div class="container">
                 <div class="row justify-content-center align-items-center reverse">
                     <div class="col-sm-12 col-md-12 col-lg-6">
                         <img width="90%" height="90%" loading="lazy" src="./images/section-2-new.svg"
-                            title="traderz-arena" alt="traderz-arena">
+                            title="traderz-arena" alt="traderz-arena" style="transform:translateY(100px);">
                     </div>
                     <div class="col-sm-12 col-md-12 col-lg-6">
-                        <h2 class="heading text-bold text-gray">About Us</h2>
+                        <h2 class="heading text-bold text-gray space">About Us</h2>
                         <p class="text-gray lh-2 text-justify">At Traderz Arena, We take pride in delivering exceptional
                             training that empowers individuals to thrive and generate profits in all market conditions
                             (bear or bull market). Our technically sound experts train you to create your trading
@@ -171,7 +172,7 @@
     <section id="course-sec" class="section-3 box-backround-1">
         <div class="course-details">
             <div class="container mb-4">
-                <h2 class="heading text-bold text-gray text-center">Main Courses </h2>
+                <h2 class="heading text-bold text-gray text-center space">Main Courses </h2>
                 <p class="sub-head  text-center">View our exclusive courses and packages that are suited to the learning
                     model you prefer. </p>
             </div>
@@ -287,20 +288,19 @@
                                 </div>
                             </div>
                         </div>
-                        <span class="course-span text-center"> <b>Note:</b> For all courses we guarantee you the payback
-                            policy of training fee. <span class="condition"> **</span> Conditions Apply</span>
+                        <span class="course-span text-center"> <b>Note:</b> Earn back your training fee through profitable trading. <span class="condition"> **</span> Terms & Conditions apply.</span>
                     </div>
                 </div>
             </div>
         </div>
     </section>
 
-    <section id="#hidden-sec" class="section-4-1 mt-5">
+    <section id="hidden-sec" class="section-4-1 mt-5">
         <div class="container">
             <div class="profile-section profile-section-1">
                 <div class="row justify-content-center align-items-center reverse">
                     <div class="col-12 col-md-12 col-lg-7">
-                        <h2 class="heading text-bold text-gray mb-4">Deepak K L</h2>
+                        <h2 class="heading text-bold text-gray mb-4 ">Deepak K L</h2>
                         <p class="text-gray lh-2 text-justify">A trailblazing entrepreneur who has unlocked the secrets
                             of financial investment and trading with over a decade of experience.His unique investing
                             model and exceptional money management skills have made him a successful investor and
@@ -313,7 +313,7 @@
                         <div class="know-more know-more-1 pt-2">
                             <a type="button" class="btn btn-primary">Know More</a>
                         </div>
-                    </div>
+                    </div>F
                     <div class="col-12 col-md-12 col-lg-5 d-flex">
                         <div class="deepak-profile">
                             <img loading="lazy" width="100%" height="100%" src="./images/deepak-traderz-arena.svg"
@@ -442,7 +442,7 @@
                                 </div>
                                 <div class="carousel-details">
                                     <!-- <h3>What They’re Talking About Us</h3> -->
-                                    <p>Thanks to the excellent coaching and mentoring from Deepak and Dana Karthikeyan, I am now confident in executing equity trading and option strategies. I highly recommend Traderz Arena for anyone seeking to learn and succeed in the stock market.</p>
+                                    <p>Thanks to the excellent coaching and mentoring from Deepak and Kumar Dana Karthikeyan, I am now confident in executing equity trading and option strategies. I highly recommend Traderz Arena for anyone seeking to learn and succeed in the stock market.</p>
                                 </div>
                                 <div class="carousel-close-quote">
                                     <img src="../images/red-quotes.svg" alt="quotes">
@@ -690,7 +690,6 @@
         </div>
     </div>
     <?php include("common-js.php"); ?>
-
 </body>
 
 </html>
