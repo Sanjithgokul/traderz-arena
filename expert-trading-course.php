@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="/images/favicon.svg" type="image/svg" sizes="any">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous"/>
     <?php include("common-css.php"); ?>
     <title>Traderz Arena</title>
 </head>
@@ -64,7 +65,7 @@
     </div>
 
 
-    <div class="backround-banner backround-banner-1 d-flex flex-column" id="home">
+    <div class="backround-banner backround-banner-1 d-flex flex-column" id="course">
         <div class="spy-element"></div>
         <div class="container">
             <div class="row justify-content-center">
@@ -114,8 +115,8 @@
                 <div class="col-sm-12 col-md-8 col-lg-8  expert-course-left">
                     <!-- Tabs -->
                     <div class="container expert-course-list text-align-center">
-                        <ul class="nav nav-tabs" role="tablist">
-                            <li class="nav-items"><a class="nav-link active expert-course-title" href="#description"
+                        <ul class="nav nav-tabs flex-no-warp course-navbar  flex-nowarp" role="tablist">
+                            <li class="nav-items "><a class="nav-link active" href="#description"
                                     data-bs-toggle="tab">Description</a></li>
                             <li class="nav-items"><a class="nav-link" href="#wti" data-bs-toggle="tab">What’s
                                     included</a></li>
@@ -146,7 +147,7 @@
                                     <li>3 months of support</li>
                                 </ul>
                                 <!-- call to action btn -->
-                                    <button onclick=" " type="button" class="btn btn-primary mt-3" style="background-color:#52AA32;">Get Started</button>  
+                                    <button onclick=" " type="button" class="btn btn-primary mt-3 mb-5" style="background-color:#52AA32;">Get Started</button>  
                             </div>
                             <!-- Aticle-two -->
                             <div class="container  tab-pane fade article-two mt-5" id="wti">
@@ -169,21 +170,23 @@
                                 <div class="dashed"></div>
                                 <!-- start  one-->
                                 <h5 class="mb-3">I. Stock Market Base Analysis</h5>
+                                <p class="title-in-detail mt-4 mb-4">This chapter covers the fundamental analysis of the stock market including financial statements and economic indicators.</p>
                                 <h4 class="mt-4 mb-3">Chapter 1: Fundamental Analysis</h4>
-                                <ul class="list-main-course">
+                                <ul class="list-main-course-bullet">
                                     <li class="lh-6">Understanding Fundamental Analysis </li>
                                     <li class="lh-6">Choosing the Perfect Stock for Investment Returns with Financial Statements</li>
                                 </ul>
 
                                 <h4 class="mt-4 mb-3">Chapter 2: Technical Analysis</h4>
-                                <ul class="list-main-course">
+                                <ul class="list-main-course-bullet">
                                     <li class="lh-6">Understanding Technical Analysis</li>
                                     <li class="lh-6">Finding the Current Status and Future Price Action Movement of Stocks/Indexes</li>
                                 </ul>
                                <!-- start  two-->
                                 <h5 class="mb-3 mt-5">II. Equity Investment Concepts</h5>
+                                <p class="title-in-detail mt-4 mb-4">This chapter covers the fundamentals of equity investment including stocks, risk and return, and valuation techniques.</p>
                                 <h4 class="mt-4 mb-3">Chapter 1: Value Buying Concept (Fundamentals)</h4>
-                                <ul class="list-main-course">
+                                <ul class="list-main-course-bullet">
                                     <li class="lh-6">Choosing the Right Sector/Stock for Better Returns</li>
                                     <li class="lh-6">Fair Value Selection of Stocks</li>
                                     <li class="lh-6">Sector Rotation</li>
@@ -191,9 +194,10 @@
                                 </ul>
                                 <!-- start  three-->
                                 <h5 class="mb-3 mt-5">III. Derivatives Trading (Futures & Options Trading)</h5>
+                                <p class="title-in-detail mt-4 mb-4">In this chapter, learn about futures and options trading and how they are used as derivative instruments for hedging and speculation.</p>
                                 <h4 class="mt-4 mb-3">Chapter 1: Technical Analysis of Charts</h4>
-                                <h4 class="mt-4 mb-3">Understanding Candlestick Patterns</h4>
-                                <ul class="list-main-course">
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Understanding Candlestick Patterns</p>
+                                <ul class="list-main-course-bullet">
                                     <li class="lh-6">Hekin-Ashi Concepts</li>
                                     <li class="lh-6">Pattern Analysis</li>
                                     <li class="lh-6">Trend Concepts</li>
@@ -202,23 +206,106 @@
                                     <li class="lh-6">Divergence Concept</li>
                                 </ul>
                                 <h4 class="mt-4 mb-3">Chapter 2: Gap Trading Concept</h4>
+                                <ul class="list-main-course-bullet">
+                                    <li class="lh-6">Exploit price gaps</li>
+                                    <li class="lh-6">Gap up/down strategies</li>
+                                    <li class="lh-6">Technical indicators/patterns</li>
+                                    <li class="lh-6">Influencing gap factors With trading examples</li>
+                                </ul>
+
                                 <h4 class="mt-4 mb-3">Chapter 3: Bottom Fishing/Trend Reversal Concepts</h4>
+                                <p class="title-in-detail mt-4 mb-4"></p>
+                                <ul class="list-main-course-bullet">
+                                    <li class="lh-6">Bottom fishing explained</li>
+                                    <li class="lh-6">Identifying trend reversals</li>
+                                    <li class="lh-6">Support and resistance levels</li>
+                                    <li class="lh-6">Candlestick patterns analysis</li>
+                                    <li class="lh-6">Examples of bottom fishing/trend reversal</li>
+                                </ul>
+
                                 <h4 class="mt-4 mb-3">Chapter 4: Positional and Intraday Money-Making Concepts with Option Strategies</h4>
+                                <ul class="list-main-course-bullet">
+                                    <li class="lh-6">Positional trading strategies</li>
+                                    <li class="lh-6">Intraday trading concepts</li>
+                                    <li class="lh-6">Money-making options strategies</li>
+                                    <li class="lh-6">Hedging and speculation techniques</li>
+                                    <li class="lh-6">Examples provided for clarity</li>
+                                </ul>
+
                                 <h4 class="mt-4 mb-3">Chapter 5: Trend Following System</h4>
+                                <ul class="list-main-course-bullet">
+                                    <li class="lh-6">Using trend-following systems</li>
+                                    <li class="lh-6">Technical indicators for experts</li>
+                                    <li class="lh-6">Entry and exit rules</li>
+                                    <li class="lh-6">Risk management strategies</li>
+                                    <li class="lh-6">Real-world trading examples</li>
+                                </ul>
+
                                 <h4 class="mt-4 mb-3">Chapter 6: Earnings Trade</h4>
+                                <ul class="list-main-course-bullet">
+                                    <li class="lh-6">Understanding earnings trades</li>
+                                    <li class="lh-6">Strategies for trading earnings</li>
+                                    <li class="lh-6">Analysis of earnings data</li>
+                                    <li class="lh-6">Potential risks and rewards</li>
+                                    <li class="lh-6">Expert trading examples</li>
+                                </ul>
+
                                 <h4 class="mt-4 mb-3">Chapter 7: Time Frame Analysis and Defining Your Trading Style</h4>
+                                <ul class="list-main-course-bullet">
+                                    <li class="lh-6">Importance of time frames</li>
+                                    <li class="lh-6">Trading styles explained</li>
+                                    <li class="lh-6">Long-term vs. short-term</li>
+                                    <li class="lh-6">Technical analysis strategies</li>
+                                    <li class="lh-6">Finding your style examples</li>
+                                </ul>
                                 <!-- start  four-->
                                 <h5 class="mb-3 mt-5">IV. Options Strategies Construction (With Adjustments)</h5>
+                                <p class="title-in-detail mt-4 mb-4">This chapter covers the construction of options strategies, including adjustments for managing risk and maximizing profit potential.</p>
                                 <h4 class="mt-4 mb-3">Chapter 1: Straddle Concept</h4>
-                                <h4 class="mt-4 mb-3">Chapter 2: Strangle</h4>
-                                <h4 class="mt-4 mb-3">Chapter 3: Ratio Spread</h4>
-                                <h4 class="mt-4 mb-3">Chapter 4: Iron Fly</h4>
-                                <h4 class="mt-4 mb-3">Chapter 5: Iron Condor</h4>
-                                <h4 class="mt-4 mb-3">Chapter 6: Combination of Two or Three Strategies</h4>
+                                <ul class="list-main-course-bullet">
+                                    <li class="lh-6">Long/short straddle explained</li>
+                                    <li class="lh-6">Options expiration date strategy</li>
+                                    <li class="lh-6">Managing straddle risks</li>
+                                </ul>
+
+                                <h4 class="mt-4 mb-3">Chapter 2: Ratio Spread</h4>
+                                <ul class="list-main-course-bullet">
+                                    <li class="lh-6">Bullish/bearish ratio spread</li>
+                                    <li class="lh-6">Using technical analyses</li>
+                                    <li class="lh-6">Risk management techniques</li>
+                                </ul>
+
+                                <h4 class="mt-4 mb-3">Chapter 3: Iron Fly</h4>
+                                <ul class="list-main-course-bullet">
+                                    <li class="lh-6">Using iron fly for Income</li>
+                                    <li class="lh-6">Analyzing implied volatility</li>
+                                    <li class="lh-6">Managing risk and profit</li>
+                                </ul>
+
+                                <h4 class="mt-4 mb-3">Chapter 4: Iron Condor</h4>
+                                <ul class="list-main-course-bullet">
+                                    <li class="lh-6">Understanding iron condor spreads</li>
+                                    <li class="lh-6">Technical indicators for analysis</li>
+                                    <li class="lh-6">Profit and risk potentials</li>
+                                </ul>
+
+                                <h4 class="mt-4 mb-3">Chapter 5: Combination of Two or Three Strategies</h4>
+                                <ul class="list-main-course-bullet">
+                                    <li class="lh-6">Strategies combination explained</li>
+                                    <li class="lh-6">Risk management practices</li>
+                                    <li class="lh-6">Real-world trading examples</li>
+                                </ul>
+
                                 <!-- start five-->
                                 <h5 class="mb-3 mt-5">V. Xerox Trading</h5>
-                                <ul class="list-main-course">
+                                <p class="title-in-detail mt-4 mb-4">This chapter focuses on trading Xerox stocks, with a detailed analysis of its financials and historical performance.</p>
+                                <ul class="list-main-course-bullet">
                                     <li class="lh-6">Copy Trading of Experts (Position Sizing and RR Depends on Capital and Risk Taking Ability of Individual)</li>
+                                    <li class="lh-6">Analyzing Xerox stock</li>
+                                    <li class="lh-6">Financial statements review</li>
+                                    <li class="lh-6">Trading strategies for Xerox</li>
+                                    <li class="lh-6">Historical performance analysis</li>
+                                    <li class="lh-6">Real-world trading examples</li>
                                 </ul>
                                 
                             </div>
