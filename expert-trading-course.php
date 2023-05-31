@@ -24,7 +24,7 @@
                         <!-- <span class="text-white mb-3">Track Expert Traders</span> -->
                         <h1 class="heading text-white py-4 lh-5" style="text-align:center;">Expert Trading Course</h1>
                         <!-- <span class="text-primary"> <b>strategy</b></span> -->
-                        <p class="heading sub-heading text-white mb-4">Put <span class="text-primary"><b>strategy</b></span>
+                        <p class="sub-heading text-white mb-4">Put <span class="text-primary"><b>strategy</b></span>
                             into action</p>
                         <!-- <div class="form-section mt-5 mb-3">
                             <form id="contact-form" action="#" method="post">
@@ -43,7 +43,7 @@
 
     <!-- Master the Expert Trading with us -->
     <section class="master-expert">
-        <h2 class="master-expert-heading">Master The Expert Trading With Us</h2>
+        <h2 class="master-expert-heading" style="0px 4px">Master The Expert Trading With Us</h2>
         <div class="underline"></div>
         <div class="container master-expert-desc">
             <p class="text-gray lh-2 text-justify mt-4">Welcome to Traderz Arena's Expert Trading Course! This course is
