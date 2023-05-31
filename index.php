@@ -14,7 +14,7 @@
 <body data-bs-spy="scroll" data-bs-target="#navbar-example">
     <!-- Modal -->
     
-    <div class="popup-section">
+    <!-- <div class="popup-section">
         <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
             aria-labelledby="staticBackdropLabel" aria-hidden="true">
             <div class="modal-dialog">
@@ -61,7 +61,7 @@
                 </div>
             </div>
         </div>
-    </div>
+    </div> -->
 
 
     <div class="backround-banner backround-banner-1 d-flex flex-column" id="home">
@@ -71,7 +71,7 @@
                 <div class="col-md-12 col-lg-6 col-xl-6">
                     <div class="banner-content">
                         <span class="text-white mb-3">Track Expert Traders</span>
-                        <h1 class="heading text-white py-4 lh-5">We Train You on How to<span class="text-primary"><b>Make
+                        <h1 class="heading text-white py-4 lh-5">We Train You on How to <span class="text-primary"><b>Make
                                     Consistent Money!</b></span></h1>
                         <span class="text-white">Learn from market experts & invest your course fee in live
                             trading.</span>
@@ -204,7 +204,7 @@
                                     </div>
                                 </div>
                                 <div class="course-btn course-btn-2 d-flex">
-                                    <a data-bs-toggle="modal" data-bs-target="#staticBackdrop" href="#">Read More</a>
+                                    <a  href="https://traderzarena.com/expert-trading-course.php">Read More</a>
                                 </div>
                             </div>
                         </div>
