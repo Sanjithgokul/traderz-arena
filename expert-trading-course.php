@@ -19,12 +19,12 @@
         <div class="spy-element"></div>
         <div class="container">
             <div class="row justify-content-center">
-                <div class="col-md-12 col-lg-6 col-xl-6 mb-5">
+                <div class="col-md-12 col-lg-12 col-xl-12 mb-5">
                     <div class="banner-content-main">
                         <!-- <span class="text-white mb-3">Track Expert Traders</span> -->
                         <h1 class="heading text-white py-4 lh-5" style="text-align:center;">Expert Trading Course</h1>
                         <!-- <span class="text-primary"> <b>strategy</b></span> -->
-                        <p class="sub-heading text-white mb-4">Put <span class="text-primary"><b>strategy</b></span>
+                        <p class="heading sub-heading text-white mb-4">Put <span class="text-primary"><b>strategy</b></span>
                             into action</p>
                         <!-- <div class="form-section mt-5 mb-3">
                             <form id="contact-form" action="#" method="post">

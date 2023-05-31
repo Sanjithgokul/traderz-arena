@@ -71,7 +71,7 @@
                 <div class="col-md-12 col-lg-6 col-xl-6">
                     <div class="banner-content">
                         <span class="text-white mb-3">Track Expert Traders</span>
-                        <h1 class="heading text-white py-4 lh-5">We Train You How to<span class="text-primary"> <b>Make
+                        <h1 class="heading text-white py-4 lh-5">We Train You on How to<span class="text-primary"><b>Make
                                     Consistent Money!</b></span></h1>
                         <span class="text-white">Learn from market experts & invest your course fee in live
                             trading.</span>

@@ -24,7 +24,7 @@
                   <li class="nav-item">
                     <a href="#" class="nav-link nav-item-1" >Blog</a>
                   </li>
-                  <li class="header-btn">
+                  <li class="header-btn text-nowrap">
                     <button type="button" onclick="window.location.href='contact.php'">Contact us</button>
                   </li>
                 </ul>

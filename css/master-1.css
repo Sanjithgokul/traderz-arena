@@ -16,6 +16,8 @@
 .master-expert-heading {
  text-align: center;
  letter-spacing:unset;
+ font-size:2rem !important;
+ font-weight:bold !important;
 }
 
 .underline{
@@ -241,6 +243,7 @@ overflow:auto;
     .backround-banner {
       min-height: 65vh;
   }
+  
   }
 
 
