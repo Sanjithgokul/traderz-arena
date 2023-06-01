@@ -15,7 +15,7 @@
                           </li>
                           <li class="nav-item active">
                               <!-- http://www.traderzarena.com/-->
-                              <a class="nav-link nav-item-1 " href="#home">Home</a>
+                              <a class="nav-link nav-item-1 " href="https://traderzarena.com/">Home</a>
                           </li>
                           <li class="nav-item">
                               <a href="#about-sec" class="nav-link nav-item-1">About </a>
