@@ -23,10 +23,10 @@
                           <li class="nav-item dropdown">
                               <a href="#course-sec" class="nav-link nav-item-1 dropdown-toggle" role="button" data-bs-toggle="dropdown" aria-expanded="false">Courses</a>
                               <ul class="dropdown-menu home-dropdown-menu mt-3">
-                                  <li><a class="dropdown-item fw-normal" href="#"><i class="fas fa-book book-icon" style="padding:0px 5px"></i>Expert Trading Course</a></li>
-                                  <li><a class="dropdown-item fw-normal" href="#"><i class="fas fa-book book-icon" style="padding:0px 5px"></i>Options Trading</a></li>
-                                  <li><a class="dropdown-item fw-normal" href="#"><i class="fas fa-book book-icon" style="padding:0px 5px"></i>Intex Trading</a></li>
-                                  <li><a class="dropdown-item fw-normal" href="#"><i class="fas fa-book book-icon" style="padding:0px 5px"></i>Mentorship Program</a></li>
+                                  <li><a class="dropdown-item fw-normal" href="https://traderzarena.com/expert-trading-course.php"><i class="fas fa-book book-icon" style="padding:0px 5px"></i>Expert Trading Course</a></li>
+                                  <li><a class="dropdown-item fw-normal" href="https://traderzarena.com/options-trading-course.php"><i class="fas fa-book book-icon" style="padding:0px 5px"></i>Options Trading</a></li>
+                                  <li><a class="dropdown-item fw-normal" href="https://traderzarena.com/intex-trading-course.php"><i class="fas fa-book book-icon" style="padding:0px 5px"></i>Intex Trading</a></li>
+                                  <li><a class="dropdown-item fw-normal" href="https://traderzarena.com/mentorship-program-course.php"><i class="fas fa-book book-icon" style="padding:0px 5px"></i>Mentorship Program</a></li>
                               </ul>
                           </li>
                           <li class="nav-item">

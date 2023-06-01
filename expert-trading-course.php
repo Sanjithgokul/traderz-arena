@@ -4,10 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Join Traderz Arena's expert trading course and learn the skills to trade like a pro. Get trained by experienced traders and start making profits today!">
     <link rel="icon" href="/images/favicon.svg" type="image/svg" sizes="any">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap" rel="stylesheet">
     <?php include("common-css.php"); ?>
-    <title>Expert Trading Course</title>
+    <title>Learn to trade like a Pro with Traderz Arena's Expert Trading Course</title>
 </head>
 <?php include("header.php"); ?>
 

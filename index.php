@@ -231,7 +231,7 @@
                                     </div>
                                 </div>
                                 <div class="course-btn course-btn-3 d-flex">
-                                    <a data-bs-toggle="modal" data-bs-target="#staticBackdrop" href="#">Read More</a>
+                                    <a  href="https://traderzarena.com/options-trading-course.php">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -258,7 +258,7 @@
                                     </div>
                                 </div>
                                 <div class="course-btn course-btn-4 d-flex">
-                                    <a data-bs-toggle="modal" data-bs-target="#staticBackdrop" href="#">Read More</a>
+                                    <a  href="https://traderzarena.com/intex-trading-course.php">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -286,7 +286,7 @@
                                     </div>
                                 </div>
                                 <div class="course-btn d-flex">
-                                    <a data-bs-toggle="modal" data-bs-target="#staticBackdrop" href="#">Read More</a>
+                                    <a  href="https://traderzarena.com/mentorship-program-course.php">Read More</a>
                                 </div>
                             </div>
                         </div>

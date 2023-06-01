@@ -4,10 +4,11 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Enroll in our mentorship program for complete A-Z trading concepts. Traderz Arena's expert trading course includes options trading, advanced techniques & more.">
     <link rel="icon" href="/images/favicon.svg" type="image/svg" sizes="any">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap" rel="stylesheet">
     <?php include("common-css.php"); ?>
-    <title>Mentorship Program</title>
+    <title>Transform Your Trading Strategy with Traderz Arena's Mentorship Program</title>
 </head>
 <?php include("header.php"); ?>
 
