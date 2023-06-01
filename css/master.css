@@ -825,6 +825,18 @@ button#enquiryButton:disabled{
   height: 65px;
 }
 
+/* Test */
+.home-dropdown-menu{
+  border-color:var(--theme);
+}
+
+.book-icon:hover{
+color: var(--theme);
+}
+
+
+
+
 
 @media (max-width: 1400px){
   .backround-banner{

@@ -7,7 +7,7 @@
     <link rel="icon" href="/images/favicon.svg" type="image/svg" sizes="any">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap" rel="stylesheet">
     <?php include("common-css.php"); ?>
-    <title>Expert Trading Course</title>
+    <title>Mentorship Program</title>
 </head>
 <?php include("header.php"); ?>
 
@@ -20,10 +20,9 @@
                 <div class="col-md-12 col-lg-12 col-xl-12 mb-5">
                     <div class="banner-content-main">
                         <!-- <span class="text-white mb-3">Track Expert Traders</span> -->
-                        <h1 class="heading text-white py-4 lh-5" style="text-align:center;">Expert Trading Course</h1>
+                        <h1 class="heading text-white py-4 lh-5" style="text-align:center;">Mentorship Program Course</h1>
                         <!-- <span class="text-primary"> <b>strategy</b></span> -->
-                        <p class="sub-heading text-white mb-4">Put <span class="text-primary"><b>Strategy</b></span>
-                            Into Action</p>
+                        <p class="sub-heading text-white mb-4">A to Z Guide To <span class="text-primary"><b> Stock Market Investment</b></span></p>
                         <!-- <div class="form-section mt-5 mb-3">
                             <form id="contact-form" action="#" method="post">
                                 <input type="email" class="input-field email required"
@@ -41,17 +40,10 @@
 
     <!-- Master the Expert Trading with us -->
     <section class="master-expert">
-        <h2 class="master-expert-heading" style="padding:0px 4px;">Master The Expert Trading With Us</h2>
+        <h2 class="master-expert-heading" style="padding:0px 4px;">Stock Marketing Mentorship Program</h2>
         <div class="underline"></div>
         <div class="container master-expert-desc">
-            <p class="text-gray lh-2 text-justify mt-4">Welcome to Traderz Arena's Expert Trading Course! This course is
-                designed for traders with a solid
-                foundation in trading, who are looking to take their skills to the next level. Our expert instructors
-                will guide you through advanced trading strategies and techniques, including technical analysis, risk
-                management, and trading psychology. You'll gain a deeper understanding of market dynamics and develop
-                the skills to make informed trading decisions. Enroll now and start your journey toward becoming an
-                expert trader!
-            </p>
+            <p class="text-gray lh-2 text-justify mt-4">The mentorship program teaches fundamental and technical aspects of stock marketing. you will learn about investment types, markets, chart types, and technical theories. Besides trend analysis and moving averages, the program covers technical analysis indicators and sentimental indicators. Hands-on experience will be given in implementing chart and candlestick patterns, and you will learn how to use chart formations for trend reversal and continuation.</p>
         </div>
 
         </div>
@@ -81,20 +73,18 @@
                             <div class="container tab-pane  active article-one mt-5 mb-5 p-0" id="description">
                                 <h5>Description</h5>
                                 <div class="dashed"></div>
-                                <p><span class="sub-details">Unlock your trading potential and become a master trader with Traderz Arena's Expert Trading Course. Over the course of 3 months (120 hours), you'll learn advanced trading strategies and techniques that will take your trading skills to the next level. This course is ideal for working professionals, full-time/part-time traders, and 12th and graduate students.</span></p>
+                                <p><span class="sub-details">During this mentorship program, you will learn about different types of investments, markets, chart types, and technical theories. This is under the guidance of experienced mentors. Aside from chart and candlestick patterns, students will also learn about trend reversals and continuation charts. you can able to analyze market trends and make informed investment decisions by the end of the program.</span></p>
                                 <h4 class="mb-3">Course details :</h4>
-                                <p class="mb-3">Duration: <span class="sub-details">3 Months (120 Hrs.)</span></p>
-                                <p class="mb-3">Fee: <span class="sub-details">100,000 INR + GST</span></p>
-                                <p class="mb-3">Eligible People: <span class="sub-details">Working Professional, Full
-                                        time/Part Time
-                                        trader, 12th and Graduate Students</span></p>
+                                <p class="mb-3">Duration: <span class="sub-details">  6 Months</span></p>
+                                <p class="mb-3">Fee: <span class="sub-details">500,000 INR</span></p>
+                                <p class="mb-3">Eligible People: <span class="sub-details">Working Professional, Full time/Part Time trader, 12th and Graduate Students</span></p>
                                 <p class="mb-3">What you will learn:</p>
                                 <ul class="list-main-course">
-                                    <li>Stock market basics, including fundamental and technical analysis</li>
-                                    <li>Options trading and strategies</li>
-                                    <li>Advanced techniques and adjustments</li>
-                                    <li>Xerox trading (bonus)</li>
-                                    <li>3 months of support</li>
+                                    <li>Market Overview and investment types</li>
+                                    <li>Fundamental analysis concepts such as stock selection and sectoral rotation</li>
+                                    <li>Technical analysis techniques including chart types, theories, and indicators</li>
+                                    <li>Sentimental indicators and chart formations for trend analysis and continuation</li>
+                                    <li>Volume and open interest analysis for support and resistance levels</li>
                                 </ul>
                                 <!-- call to action btn -->
                                 <button onclick=" " type="button" class="btn call-to-btn cont_form_active  mt-3">Get
@@ -105,14 +95,10 @@
                                 <h5>What's included</h5>
                                 <div class="dashed"></div>
                                 <ul class="list-main-course">
-                                    <li class="lh-6">In-depth understanding of stock market analysis with both
-                                        fundamental and technical analysis</li>
-                                    <li class="lh-6">Hands-on experience in options trading and strategies, including
-                                        advanced techniques and adjustments</li>
-                                    <li class="lh-6">Comprehensive knowledge of Xerox trading, allowing you to copy the
-                                        experts and achieve optimal results</li>
-                                    <li class="lh-6">Personalized support for 3 months, ensuring that you have all the
-                                        resources you need to succeed</li>
+                                    <li class="lh-6">Access to online learning materials</li>
+                                    <li class="lh-6">Live webinars and Q&A sessions with industry experts</li>
+                                    <li class="lh-6">Trading simulations and practice exercises</li>
+                                    <li class="lh-6">Personalized feedback and support from mentors</li>
                                 </ul>
                             </div>
                             <!-- Article-three -->
@@ -120,157 +106,133 @@
                                 <h5>Lessons</h5>
                                 <div class="dashed"></div>
                                 <!-- start  one-->
-                                <h5 class="mb-3">I. Stock Market Base Analysis</h5>
-                                <p class="title-in-detail mt-4 mb-4">This chapter covers the fundamental analysis of the
-                                    stock market including financial statements and economic indicators.</p>
-                                <h4 class="mt-4 mb-3">Chapter 1: Fundamental Analysis</h4>
+                                <h5 class="mb-3">I. A to Z Guide to Stock Market Investment - Mentorship Program</h5>
+                                <p class="title-in-detail mt-4 mb-4">A comprehensive mentorship program for stock market investment, covering fundamental and technical analysis, chart patterns, trend analysis, and more for informed decision-making.</p>
+                                <h4 class="mt-4 mb-3">Chapter 1: Introduction</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Offers a complete guide to stock market investment through a mentorship program.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Understanding Fundamental Analysis</li>
-                                    <li class="lh-6">Choosing the Perfect Stock for Investment Returns with Financial
-                                        Statements</li>
+                                    <li class="lh-6">Market Overview</li>
+                                    <li class="lh-6">Investment Types</li>
+                                    <li class="lh-6">Types of Market</li>
+                                    <li class="lh-6">Types of Analysis</li>
                                 </ul>
 
-                                <h4 class="mt-4 mb-3">Chapter 2: Technical Analysis</h4>
+                                <h4 class="mt-4 mb-3">Chapter 2: Introduction to Fundamental Analysis</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Provides an introduction to fundamental analysis, which involves analyzing financial statements and company information to determine the value of a stock.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Understanding Technical Analysis</li>
-                                    <li class="lh-6">Finding the Current Status and Future Price Action Movement of
-                                        Stocks/Indexes</li>
-                                </ul>
-                                <!-- start  two-->
-                                <h5 class="mb-3 mt-5">II. Equity Investment Concepts</h5>
-                                <p class="title-in-detail mt-4 mb-4">This chapter covers the fundamentals of equity
-                                    investment including stocks, risk and return, and valuation techniques.</p>
-                                <h4 class="mt-4 mb-3">Chapter 1: Value Buying Concept (Fundamentals)</h4>
-                                <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Choosing the Right Sector/Stock for Better Returns</li>
-                                    <li class="lh-6">Fair Value Selection of Stocks</li>
-                                    <li class="lh-6">Sector Rotation</li>
-                                    <li class="lh-6">Passive Income for Investment</li>
-                                </ul>
-                                <!-- start  three-->
-                                <h5 class="mb-3 mt-5">III. Derivatives Trading (Futures & Options Trading)</h5>
-                                <p class="title-in-detail mt-4 mb-4">In this chapter, learn about futures and options
-                                    trading and how they are used as derivative instruments for hedging and speculation.
-                                </p>
-                                <h4 class="mt-4 mb-3">Chapter 1: Technical Analysis of Charts</h4>
-                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Understanding Candlestick Patterns</p>
-                                <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Hekin-Ashi Concepts</li>
-                                    <li class="lh-6">Pattern Analysis</li>
-                                    <li class="lh-6">Trend Concepts</li>
-                                    <li class="lh-6">Moving Average Concepts</li>
-                                    <li class="lh-6">Fibonacci Retracement Concept</li>
-                                    <li class="lh-6">Divergence Concept</li>
-                                </ul>
-                                <h4 class="mt-4 mb-3">Chapter 2: Gap Trading Concept</h4>
-                                <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Exploit price gaps</li>
-                                    <li class="lh-6">Gap up/down strategies</li>
-                                    <li class="lh-6">Technical indicators/patterns</li>
-                                    <li class="lh-6">Influencing gap factors With trading examples</li>
+                                    <li class="lh-6">Stock Selection Concepts</li>
+                                    <li class="lh-6">Sectoral Rotation</li>
+                                    <li class="lh-6">Value Buying Concepts</li>
                                 </ul>
 
-                                <h4 class="mt-4 mb-3">Chapter 3: Bottom Fishing/Trend Reversal Concepts</h4>
-                                <p class="title-in-detail mt-4 mb-4"></p>
+                                <h4 class="mt-4 mb-3">Chapter 3: Introduction to Technical Analysis</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Explains technical analysis, which involves analyzing price and volume data using charts and technical indicators to make investment decisions.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Bottom fishing explained</li>
-                                    <li class="lh-6">Identifying trend reversals</li>
-                                    <li class="lh-6">Support and resistance levels</li>
-                                    <li class="lh-6">Candlestick patterns analysis</li>
-                                    <li class="lh-6">Examples of bottom fishing/trend reversal</li>
+                                    <li class="lh-6">Meaning of Technical Analysis</li>
+                                    <li class="lh-6">Major Factor behind technical analysis</li>
+                                    <li class="lh-6">Advantages of Technical Analysis</li>
+                                    <li class="lh-6">Difference between Fundamental and Technical Analysis</li>
+                                    <li class="lh-6">Career and scope in Technical Analysis.</li>
                                 </ul>
 
-                                <h4 class="mt-4 mb-3">Chapter 4: Positional and Intraday Money-Making Concepts with
-                                    Option Strategies</h4>
+                                <h4 class="mt-4 mb-3">Chapter 4: Types of Charts</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Discusses the various types of charts that are used in technical analysis such as line charts, bar charts, and candlestick charts.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Positional trading strategies</li>
-                                    <li class="lh-6">Intraday trading concepts</li>
-                                    <li class="lh-6">Money-making options strategies</li>
-                                    <li class="lh-6">Hedging and speculation techniques</li>
-                                    <li class="lh-6">Examples provided for clarity</li>
+                                    <li class="lh-6">Bar chart</li>
+                                    <li class="lh-6">Line chart</li>
+                                    <li class="lh-6">Point & figure chart</li>
+                                    <li class="lh-6">Candlesticks Patterns</li>
                                 </ul>
 
-                                <h4 class="mt-4 mb-3">Chapter 5: Trend Following System</h4>
+                                <h4 class="mt-4 mb-3">Chapter 5: Technical Theories</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Provides an overview of different technical theories such as Dow Theory, Elliot Wave Theory, and more.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Using trend-following systems</li>
-                                    <li class="lh-6">Technical indicators for experts</li>
-                                    <li class="lh-6">Entry and exit rules</li>
-                                    <li class="lh-6">Risk management strategies</li>
-                                    <li class="lh-6">Real-world trading examples</li>
+                                    <li class="lh-6">Dow Theory Theories</li>
+                                    <li class="lh-6">Elliott Wave Principles</li>
+                                    <li class="lh-6">Fibonacci Sequence</li>
+                                    <li class="lh-6">Cycle Analysis</li>
                                 </ul>
 
-                                <h4 class="mt-4 mb-3">Chapter 6: Earnings Trade</h4>
+                                <h4 class="mt-4 mb-3">Chapter 6: Implementing Chart & Candlestick Patterns</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Demonstrates how to implement chart and candlestick patterns when analyzing price trends so that investors can make informed decisions.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Understanding earnings trades</li>
-                                    <li class="lh-6">Strategies for trading earnings</li>
-                                    <li class="lh-6">Analysis of earnings data</li>
-                                    <li class="lh-6">Potential risks and rewards</li>
-                                    <li class="lh-6">Expert trading examples</li>
+                                    <li class="lh-6">Support & Resistance levels</li>
+                                    <li class="lh-6">Trends</li>
+                                    <li class="lh-6">Moving Average</li>
+                                    <li class="lh-6">Trade the Gaps</li>
+                                    <li class="lh-6">Volume</li>
+                                    <li class="lh-6">Candle Structure</li>
                                 </ul>
 
-                                <h4 class="mt-4 mb-3">Chapter 7: Time Frame Analysis and Defining Your Trading Style
-                                </h4>
+                                <h4 class="mt-4 mb-3">Chapter 7: Trend Analysis</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Discusses trend analysis, which involves identifying whether the stock is in an uptrend, downtrend, or sideways trend and how to act accordingly.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Importance of time frames</li>
-                                    <li class="lh-6">Trading styles explained</li>
-                                    <li class="lh-6">Long-term vs. short-term</li>
-                                    <li class="lh-6">Technical analysis strategies</li>
-                                    <li class="lh-6">Finding your style examples</li>
-                                </ul>
-                                <!-- start  four-->
-                                <h5 class="mb-3 mt-5">IV. Options Strategies Construction (With Adjustments)</h5>
-                                <p class="title-in-detail mt-4 mb-4">This chapter covers the construction of options
-                                    strategies, including adjustments for managing risk and maximizing profit potential.
-                                </p>
-                                <h4 class="mt-4 mb-3">Chapter 1: Straddle Concept</h4>
-                                <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Long/short straddle explained</li>
-                                    <li class="lh-6">Options expiration date strategy</li>
-                                    <li class="lh-6">Managing straddle risks</li>
+                                    <li class="lh-6">Trends</li>
+                                    <li class="lh-6">Duration</li>
+                                    <li class="lh-6">Trend lines</li>
+                                    <li class="lh-6">Channel lines</li>
+                                    <li class="lh-6">Breakout trend lines: rules of confirmation</li>
                                 </ul>
 
-                                <h4 class="mt-4 mb-3">Chapter 2: Ratio Spread</h4>
+                                <h4 class="mt-4 mb-3">Chapter 8: Moving Averages</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Provides an in-depth understanding of Moving Averages and how they are used to predict potential price movement.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Bullish/bearish ratio spread</li>
-                                    <li class="lh-6">Using technical analyses</li>
-                                    <li class="lh-6">Risk management techniques</li>
+                                    <li class="lh-6">Definition</li>
+                                    <li class="lh-6">Benefits</li>
+                                    <li class="lh-6">Types</li>
+                                    <li class="lh-6">Number of moving averages</li>
+                                    <li class="lh-6">Time Frame</li>
+                                    <li class="lh-6">Double & Triple crossover</li>
+                                    <li class="lh-6">Golden crosses</li>
                                 </ul>
 
-                                <h4 class="mt-4 mb-3">Chapter 3: Iron Fly</h4>
+                                <h4 class="mt-4 mb-3">Chapter 9: Technical Analysis Indicators</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Discusses technical analysis indicators such as Relative Strength Index (RSI), Moving Average Convergence Divergence (MACD), and more.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Using iron fly for Income</li>
-                                    <li class="lh-6">Analyzing implied volatility</li>
-                                    <li class="lh-6">Managing risk and profit</li>
+                                    <li class="lh-6">Relative strength index</li>
+                                    <li class="lh-6">Stochastic (%K D)</li>
+                                    <li class="lh-6">Moving average convergence & divergence (MACD)</li>
+                                    <li class="lh-6">Bollinger bands</li>
+                                    <li class="lh-6">Super Trend & ADX</li>
                                 </ul>
 
-                                <h4 class="mt-4 mb-3">Chapter 4: Iron Condor</h4>
+                                <h4 class="mt-4 mb-3">Chapter 10: Sentimental Indicators</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Explains Sentimental Indicators, such as Bullish Percent Index, VIX (Volatility Index) and Put-Call Ratio.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Understanding iron condor spreads</li>
-                                    <li class="lh-6">Technical indicators for analysis</li>
-                                    <li class="lh-6">Profit and risk potentials</li>
+                                    <li class="lh-6">Put/Call ratio</li>
+                                    <li class="lh-6">Bull/bear Indicators</li>
+                                    <li class="lh-6">Insider activity</li>
+                                    <li class="lh-6">CBOE Volatility index</li>
+                                    <li class="lh-6">VIX</li>
                                 </ul>
 
-                                <h4 class="mt-4 mb-3">Chapter 5: Combination of Two or Three Strategies</h4>
+                                <h4 class="mt-4 mb-3">Chapter 11: Chart Formations: Trend Reversal Formations</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Describes trend reversal formations such as Head & Shoulders, Double Tops & Bottoms, and more.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Strategies combination explained</li>
-                                    <li class="lh-6">Risk management practices</li>
-                                    <li class="lh-6">Real-world trading examples</li>
+                                    <li class="lh-6">Head and Shoulders</li>
+                                    <li class="lh-6">Double Tops and Double Bottoms</li>
+                                    <li class="lh-6">Triple Tops and Triple Bottoms</li>
+                                    <li class="lh-6">V-tops (spikes)</li>
+                                    <li class="lh-6">Rounded Tops and Rounded Bottoms (Cup & saucers)</li>
                                 </ul>
 
-                                <!-- start five-->
-                                <h5 class="mb-3 mt-5">V. Xerox Trading</h5>
-                                <p class="title-in-detail mt-4 mb-3">This chapter focuses on trading Xerox stocks, with
-                                    a detailed analysis of its financials and historical performance.</p>
+                                <h4 class="mt-4 mb-3">Chapter 12: Chart Formations: Trend Continuation Formation</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Discusses trend continuation formations such as Flags & Pennants and Cup & Handle.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Copy Trading of Experts (Position Sizing and RR Depends on Capital
-                                        and Risk Taking Ability of Individual)</li>
-                                    <li class="lh-6">Analyzing Xerox stock</li>
-                                    <li class="lh-6">Financial statements review</li>
-                                    <li class="lh-6">Trading strategies for Xerox</li>
-                                    <li class="lh-6">Historical performance analysis</li>
-                                    <li class="lh-6">Real-world trading examples</li>
+                                    <li class="lh-6">Flags</li>
+                                    <li class="lh-6">Pennant</li>
+                                    <li class="lh-6">Triangles</li>
+                                    <li class="lh-6">Wedges</li>
                                 </ul>
 
+                                <h4 class="mt-4 mb-3">Chapter 13: Volume & Open Interest</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Explains how Volume & Open Interest are calculated and utilized to analyze the market.</p>
+                                <ul class="list-main-course-bullet">
+                                    <li class="lh-6">Volume & open interest With Support & resistance</li>
+                                    <li class="lh-6">Using open interest to find bull & bear signal</li>
+                                    <li class="lh-6">Intermarket Technical Analysis</li>
+                                </ul>
+                               
                             </div>
 
                             <!-- Review -->

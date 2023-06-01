@@ -7,7 +7,7 @@
     <link rel="icon" href="/images/favicon.svg" type="image/svg" sizes="any">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap" rel="stylesheet">
     <?php include("common-css.php"); ?>
-    <title>Expert Trading Course</title>
+    <title>Options Trading Course</title>
 </head>
 <?php include("header.php"); ?>
 
@@ -20,10 +20,9 @@
                 <div class="col-md-12 col-lg-12 col-xl-12 mb-5">
                     <div class="banner-content-main">
                         <!-- <span class="text-white mb-3">Track Expert Traders</span> -->
-                        <h1 class="heading text-white py-4 lh-5" style="text-align:center;">Expert Trading Course</h1>
+                        <h1 class="heading text-white py-4 lh-5" style="text-align:center;">Options Trading Course</h1>
                         <!-- <span class="text-primary"> <b>strategy</b></span> -->
-                        <p class="sub-heading text-white mb-4">Put <span class="text-primary"><b>Strategy</b></span>
-                            Into Action</p>
+                        <p class="sub-heading text-white mb-4">Where <span class="text-primary"><b>Risk Meets</b></span> Reward</p>
                         <!-- <div class="form-section mt-5 mb-3">
                             <form id="contact-form" action="#" method="post">
                                 <input type="email" class="input-field email required"
@@ -41,17 +40,11 @@
 
     <!-- Master the Expert Trading with us -->
     <section class="master-expert">
-        <h2 class="master-expert-heading" style="padding:0px 4px;">Master The Expert Trading With Us</h2>
+        <h2 class="master-expert-heading" style="padding:0px 4px;">Rise above the rest: Options trading with traderz arena</h2>
         <div class="underline"></div>
         <div class="container master-expert-desc">
-            <p class="text-gray lh-2 text-justify mt-4">Welcome to Traderz Arena's Expert Trading Course! This course is
-                designed for traders with a solid
-                foundation in trading, who are looking to take their skills to the next level. Our expert instructors
-                will guide you through advanced trading strategies and techniques, including technical analysis, risk
-                management, and trading psychology. You'll gain a deeper understanding of market dynamics and develop
-                the skills to make informed trading decisions. Enroll now and start your journey toward becoming an
-                expert trader!
-            </p>
+            <p class="text-gray lh-2 text-justify mt-4">Traderz Arena's Options Trading course will improve your trading skills. Learn options trading basics and advanced strategies like Candlestick Patterns and Gap Trading. You can generate monthly income with Options Strategies Construction and Gap up & Gap Down Trading.</p>
+            <p class="text-gray lh-2 text-justify mt-4">We also cover Derivatives Trading, Futures & Options Trading, and effective Options Strategies like Straddle, Strangle, Ratio Spread, and Iron Condor. Learn how to make adjustments when things don't go according to plan and explore Options Arbitrage, including Conversion, Reversal, and Dividend Arbitrage.Join Traderz Arena today!</p>
         </div>
 
         </div>
@@ -83,18 +76,16 @@
                                 <div class="dashed"></div>
                                 <p><span class="sub-details">Unlock your trading potential and become a master trader with Traderz Arena's Expert Trading Course. Over the course of 3 months (120 hours), you'll learn advanced trading strategies and techniques that will take your trading skills to the next level. This course is ideal for working professionals, full-time/part-time traders, and 12th and graduate students.</span></p>
                                 <h4 class="mb-3">Course details :</h4>
-                                <p class="mb-3">Duration: <span class="sub-details">3 Months (120 Hrs.)</span></p>
-                                <p class="mb-3">Fee: <span class="sub-details">100,000 INR + GST</span></p>
-                                <p class="mb-3">Eligible People: <span class="sub-details">Working Professional, Full
-                                        time/Part Time
-                                        trader, 12th and Graduate Students</span></p>
+                                <p class="mb-3">Duration: <span class="sub-details"> 1 month (Weekend & one Live Trading session/week)</span></p>
+                                <p class="mb-3">Fee: <span class="sub-details">50,000 INR + GST</span></p>
+                                <p class="mb-3">Eligible People: <span class="sub-details">Working Professional, Full time/Part Time trader, 12th and Graduate Students</span></p>
                                 <p class="mb-3">What you will learn:</p>
                                 <ul class="list-main-course">
-                                    <li>Stock market basics, including fundamental and technical analysis</li>
-                                    <li>Options trading and strategies</li>
-                                    <li>Advanced techniques and adjustments</li>
-                                    <li>Xerox trading (bonus)</li>
-                                    <li>3 months of support</li>
+                                    <li>Master the art of Options Trading with Intraday and Swing Trading techniques.</li>
+                                    <li>Develop an understanding of Technical Analysis, Candlestick Patterns, and Chart Patterns.</li>
+                                    <li>Learn to analyze different Time Frames and identify Gap Trading opportunities.</li>
+                                    <li>Construct and adjust Options Strategies to maximize profits.</li>
+                                    <li>Discover Options Arbitrage techniques to create risk-free trades.</li>
                                 </ul>
                                 <!-- call to action btn -->
                                 <button onclick=" " type="button" class="btn call-to-btn cont_form_active  mt-3">Get
@@ -105,14 +96,9 @@
                                 <h5>What's included</h5>
                                 <div class="dashed"></div>
                                 <ul class="list-main-course">
-                                    <li class="lh-6">In-depth understanding of stock market analysis with both
-                                        fundamental and technical analysis</li>
-                                    <li class="lh-6">Hands-on experience in options trading and strategies, including
-                                        advanced techniques and adjustments</li>
-                                    <li class="lh-6">Comprehensive knowledge of Xerox trading, allowing you to copy the
-                                        experts and achieve optimal results</li>
-                                    <li class="lh-6">Personalized support for 3 months, ensuring that you have all the
-                                        resources you need to succeed</li>
+                                    <li class="lh-6">Comprehensive course syllabus with easy-to-follow lessons.</li>
+                                    <li class="lh-6">1-month support from experienced traders.</li>
+                                    <li class="lh-6">Access to all the necessary tools and resources.</li>
                                 </ul>
                             </div>
                             <!-- Article-three -->
@@ -120,157 +106,69 @@
                                 <h5>Lessons</h5>
                                 <div class="dashed"></div>
                                 <!-- start  one-->
-                                <h5 class="mb-3">I. Stock Market Base Analysis</h5>
-                                <p class="title-in-detail mt-4 mb-4">This chapter covers the fundamental analysis of the
-                                    stock market including financial statements and economic indicators.</p>
-                                <h4 class="mt-4 mb-3">Chapter 1: Fundamental Analysis</h4>
+                                <h5 class="mb-3">I. Options Trading (Intraday/Swing Trading)</h5>
+                                <p class="title-in-detail mt-4 mb-4">Learn the basics of options trading, including intraday and swing trading strategies, to help maximize profits and minimize risk in the stock market.</p>
+                                <h4 class="mt-4 mb-3">Chapter 1: Derivatives Trading (Futures & Options Trading)</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Discover the advanced world of derivatives trading, including futures and options trading, to gain knowledge on leveraging market opportunities and managing risks.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Understanding Fundamental Analysis</li>
-                                    <li class="lh-6">Choosing the Perfect Stock for Investment Returns with Financial
-                                        Statements</li>
+                                    <li class="lh-6">What are Futures & Options?</li>
+                                    <li class="lh-6">Options Basics: Introduction, Call Option, Put Option, Strike Price, Option Premium, Moneyness, Expiration, Exercise & Assignment.</li>
+                                    <li class="lh-6">Futures Basics: Futures Contract Specs, Futures Margin, Long Futures Position, Short Futures Position, Long Hedge, Short Hedge, Understanding Basis.</li>
                                 </ul>
 
-                                <h4 class="mt-4 mb-3">Chapter 2: Technical Analysis</h4>
+                                <h4 class="mt-4 mb-3">Chapter 2:  Technical Analysis of Chart</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Master the art of technical analysis by studying charts, detecting patterns, and understanding market trends to make better-informed investment decisions and maximize returns.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Understanding Technical Analysis</li>
-                                    <li class="lh-6">Finding the Current Status and Future Price Action Movement of
-                                        Stocks/Indexes</li>
-                                </ul>
-                                <!-- start  two-->
-                                <h5 class="mb-3 mt-5">II. Equity Investment Concepts</h5>
-                                <p class="title-in-detail mt-4 mb-4">This chapter covers the fundamentals of equity
-                                    investment including stocks, risk and return, and valuation techniques.</p>
-                                <h4 class="mt-4 mb-3">Chapter 1: Value Buying Concept (Fundamentals)</h4>
-                                <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Choosing the Right Sector/Stock for Better Returns</li>
-                                    <li class="lh-6">Fair Value Selection of Stocks</li>
-                                    <li class="lh-6">Sector Rotation</li>
-                                    <li class="lh-6">Passive Income for Investment</li>
-                                </ul>
-                                <!-- start  three-->
-                                <h5 class="mb-3 mt-5">III. Derivatives Trading (Futures & Options Trading)</h5>
-                                <p class="title-in-detail mt-4 mb-4">In this chapter, learn about futures and options
-                                    trading and how they are used as derivative instruments for hedging and speculation.
-                                </p>
-                                <h4 class="mt-4 mb-3">Chapter 1: Technical Analysis of Charts</h4>
-                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Understanding Candlestick Patterns</p>
-                                <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Hekin-Ashi Concepts</li>
+                                    <li class="lh-6">Candlestick Patterns</li>
+                                    <li class="lh-6">Heikin-Ashi concepts</li>
                                     <li class="lh-6">Pattern Analysis</li>
                                     <li class="lh-6">Trend Concepts</li>
                                     <li class="lh-6">Moving Average Concepts</li>
-                                    <li class="lh-6">Fibonacci Retracement Concept</li>
+                                    <li class="lh-6">Fibonacci Retracement concept</li>
                                     <li class="lh-6">Divergence Concept</li>
                                 </ul>
-                                <h4 class="mt-4 mb-3">Chapter 2: Gap Trading Concept</h4>
+
+                                <h4 class="mt-4 mb-3">Chapter 3: Gap Trading Concept</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Learn the strategies and techniques of gap trading, including identifying gap patterns and utilizing trade setups, to make profitable trades in volatile markets.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Exploit price gaps</li>
-                                    <li class="lh-6">Gap up/down strategies</li>
-                                    <li class="lh-6">Technical indicators/patterns</li>
-                                    <li class="lh-6">Influencing gap factors With trading examples</li>
+                                    <li class="lh-6">Gap Up & Gap Down Trading (Quick Profits)</li>
+                                    <li class="lh-6">Bottom fishing/Trend reversal concepts</li>
                                 </ul>
 
-                                <h4 class="mt-4 mb-3">Chapter 3: Bottom Fishing/Trend Reversal Concepts</h4>
-                                <p class="title-in-detail mt-4 mb-4"></p>
+                                <h4 class="mt-4 mb-3">Chapter 4: Positional & Intraday Money-making Concept with Option Strategies</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Explore the world of positional and intraday trading with options strategies, including iron condor and long straddle, to maximize profits and mitigate risks in the stock market.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Bottom fishing explained</li>
-                                    <li class="lh-6">Identifying trend reversals</li>
-                                    <li class="lh-6">Support and resistance levels</li>
-                                    <li class="lh-6">Candlestick patterns analysis</li>
-                                    <li class="lh-6">Examples of bottom fishing/trend reversal</li>
+                                    <li class="lh-6">Trend Following System</li>
+                                    <li class="lh-6">Earnings Trade</li>
+                                    <li class="lh-6">Time Frame Analysis & Define Your Trading Style</li>
                                 </ul>
 
-                                <h4 class="mt-4 mb-3">Chapter 4: Positional and Intraday Money-Making Concepts with
-                                    Option Strategies</h4>
+                                <h4 class="mt-4 mb-3">Chapter 5: Options Strategies Construction (With Adjustments)</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Enhance your options trading skills by constructing effective options strategies along with necessary adjustments to minimize losses and maximize returns in complex market situations.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Positional trading strategies</li>
-                                    <li class="lh-6">Intraday trading concepts</li>
-                                    <li class="lh-6">Money-making options strategies</li>
-                                    <li class="lh-6">Hedging and speculation techniques</li>
-                                    <li class="lh-6">Examples provided for clarity</li>
+                                    <li class="lh-6">Straddle Concept</li>
+                                    <li class="lh-6">Strangle</li>
+                                    <li class="lh-6">Ratio Spread</li>
+                                    <li class="lh-6">Iron Fly</li>
+                                    <li class="lh-6">Iron Condor</li>
+                                    <li class="lh-6">Bull Call Spread</li>
+                                    <li class="lh-6">Bear Call Spread</li>
+                                    <li class="lh-6">Bull Put Spread</li>
+                                    <li class="lh-6">Bear Put Spread</li>
+                                    <li class="lh-6">Covered Call</li>
+                                    <li class="lh-6">Cash Secured Put</li>
+                                    <li class="lh-6">Combination of Two or Three Strategies</li>
                                 </ul>
 
-                                <h4 class="mt-4 mb-3">Chapter 5: Trend Following System</h4>
+                                <h4 class="mt-4 mb-3">Chapter 6: Options Arbitrage</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Learn the concepts of options arbitrage, including conversion, reversal, and box spread to identify and capitalize on market inefficiencies, resulting in profits with minimal risk.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Using trend-following systems</li>
-                                    <li class="lh-6">Technical indicators for experts</li>
-                                    <li class="lh-6">Entry and exit rules</li>
-                                    <li class="lh-6">Risk management strategies</li>
-                                    <li class="lh-6">Real-world trading examples</li>
+                                    <li class="lh-6">Understanding arbitrage</li>
+                                    <li class="lh-6">Conversion strategies</li>
+                                    <li class="lh-6">Reversal techniques</li>
+                                    <li class="lh-6">Box spreads</li>
                                 </ul>
-
-                                <h4 class="mt-4 mb-3">Chapter 6: Earnings Trade</h4>
-                                <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Understanding earnings trades</li>
-                                    <li class="lh-6">Strategies for trading earnings</li>
-                                    <li class="lh-6">Analysis of earnings data</li>
-                                    <li class="lh-6">Potential risks and rewards</li>
-                                    <li class="lh-6">Expert trading examples</li>
-                                </ul>
-
-                                <h4 class="mt-4 mb-3">Chapter 7: Time Frame Analysis and Defining Your Trading Style
-                                </h4>
-                                <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Importance of time frames</li>
-                                    <li class="lh-6">Trading styles explained</li>
-                                    <li class="lh-6">Long-term vs. short-term</li>
-                                    <li class="lh-6">Technical analysis strategies</li>
-                                    <li class="lh-6">Finding your style examples</li>
-                                </ul>
-                                <!-- start  four-->
-                                <h5 class="mb-3 mt-5">IV. Options Strategies Construction (With Adjustments)</h5>
-                                <p class="title-in-detail mt-4 mb-4">This chapter covers the construction of options
-                                    strategies, including adjustments for managing risk and maximizing profit potential.
-                                </p>
-                                <h4 class="mt-4 mb-3">Chapter 1: Straddle Concept</h4>
-                                <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Long/short straddle explained</li>
-                                    <li class="lh-6">Options expiration date strategy</li>
-                                    <li class="lh-6">Managing straddle risks</li>
-                                </ul>
-
-                                <h4 class="mt-4 mb-3">Chapter 2: Ratio Spread</h4>
-                                <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Bullish/bearish ratio spread</li>
-                                    <li class="lh-6">Using technical analyses</li>
-                                    <li class="lh-6">Risk management techniques</li>
-                                </ul>
-
-                                <h4 class="mt-4 mb-3">Chapter 3: Iron Fly</h4>
-                                <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Using iron fly for Income</li>
-                                    <li class="lh-6">Analyzing implied volatility</li>
-                                    <li class="lh-6">Managing risk and profit</li>
-                                </ul>
-
-                                <h4 class="mt-4 mb-3">Chapter 4: Iron Condor</h4>
-                                <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Understanding iron condor spreads</li>
-                                    <li class="lh-6">Technical indicators for analysis</li>
-                                    <li class="lh-6">Profit and risk potentials</li>
-                                </ul>
-
-                                <h4 class="mt-4 mb-3">Chapter 5: Combination of Two or Three Strategies</h4>
-                                <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Strategies combination explained</li>
-                                    <li class="lh-6">Risk management practices</li>
-                                    <li class="lh-6">Real-world trading examples</li>
-                                </ul>
-
-                                <!-- start five-->
-                                <h5 class="mb-3 mt-5">V. Xerox Trading</h5>
-                                <p class="title-in-detail mt-4 mb-3">This chapter focuses on trading Xerox stocks, with
-                                    a detailed analysis of its financials and historical performance.</p>
-                                <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Copy Trading of Experts (Position Sizing and RR Depends on Capital
-                                        and Risk Taking Ability of Individual)</li>
-                                    <li class="lh-6">Analyzing Xerox stock</li>
-                                    <li class="lh-6">Financial statements review</li>
-                                    <li class="lh-6">Trading strategies for Xerox</li>
-                                    <li class="lh-6">Historical performance analysis</li>
-                                    <li class="lh-6">Real-world trading examples</li>
-                                </ul>
-
+                               
                             </div>
 
                             <!-- Review -->

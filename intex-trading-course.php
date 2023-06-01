@@ -7,7 +7,7 @@
     <link rel="icon" href="/images/favicon.svg" type="image/svg" sizes="any">
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap" rel="stylesheet">
     <?php include("common-css.php"); ?>
-    <title>Expert Trading Course</title>
+    <title>Intex Trading Course</title>
 </head>
 <?php include("header.php"); ?>
 
@@ -20,10 +20,9 @@
                 <div class="col-md-12 col-lg-12 col-xl-12 mb-5">
                     <div class="banner-content-main">
                         <!-- <span class="text-white mb-3">Track Expert Traders</span> -->
-                        <h1 class="heading text-white py-4 lh-5" style="text-align:center;">Expert Trading Course</h1>
+                        <h1 class="heading text-white py-4 lh-5" style="text-align:center;">Intex Trading Course</h1>
                         <!-- <span class="text-primary"> <b>strategy</b></span> -->
-                        <p class="sub-heading text-white mb-4">Put <span class="text-primary"><b>Strategy</b></span>
-                            Into Action</p>
+                        <p class="sub-heading text-white mb-4">Trade The <span class="text-primary"><b>Intex</b></span> , Rule The<span class="text-primary"><b> Market</b></span></p>
                         <!-- <div class="form-section mt-5 mb-3">
                             <form id="contact-form" action="#" method="post">
                                 <input type="email" class="input-field email required"
@@ -41,17 +40,11 @@
 
     <!-- Master the Expert Trading with us -->
     <section class="master-expert">
-        <h2 class="master-expert-heading" style="padding:0px 4px;">Master The Expert Trading With Us</h2>
+        <h2 class="master-expert-heading" style="padding:0px 4px;"> Intex Trading Course - Master the Art of Trading Indices</h2>
         <div class="underline"></div>
         <div class="container master-expert-desc">
-            <p class="text-gray lh-2 text-justify mt-4">Welcome to Traderz Arena's Expert Trading Course! This course is
-                designed for traders with a solid
-                foundation in trading, who are looking to take their skills to the next level. Our expert instructors
-                will guide you through advanced trading strategies and techniques, including technical analysis, risk
-                management, and trading psychology. You'll gain a deeper understanding of market dynamics and develop
-                the skills to make informed trading decisions. Enroll now and start your journey toward becoming an
-                expert trader!
-            </p>
+            <p class="text-gray lh-2 text-justify mt-4">The Traderz Arena Intex Trading Course is designed to equip you with the knowledge and skills needed to master the art of trading indices. With a focus on practical learning and real-world scenarios, this course offers a comprehensive understanding of Intex trading, including trend analysis, chart formations, technical analysis indicators, sentimental indicators, and volume analysis.</p>
+            <p class="text-gray lh-2 text-justify mt-4">Through this course, you will learn to trade with precision and confidence, using the latest techniques and tools to maximize profits and minimize risks. Whether you're a beginner or an experienced trader, this course offers something for everyone, with personalized support and one-on-one mentoring from expert traders.</p>
         </div>
 
         </div>
@@ -81,20 +74,20 @@
                             <div class="container tab-pane  active article-one mt-5 mb-5 p-0" id="description">
                                 <h5>Description</h5>
                                 <div class="dashed"></div>
-                                <p><span class="sub-details">Unlock your trading potential and become a master trader with Traderz Arena's Expert Trading Course. Over the course of 3 months (120 hours), you'll learn advanced trading strategies and techniques that will take your trading skills to the next level. This course is ideal for working professionals, full-time/part-time traders, and 12th and graduate students.</span></p>
+                                <p><span class="sub-details">The Traderz Arena Intex Trading Course focuses on intraday trading in the Intex market, covering various techniques such as Gap Theory, Timing the Market Trends, Adjustment Concepts, and Open Interest Analysis. Additionally, the course offers one month of support to ensure you have a comprehensive understanding of the concepts covered.</span></p>
                                 <h4 class="mb-3">Course details :</h4>
-                                <p class="mb-3">Duration: <span class="sub-details">3 Months (120 Hrs.)</span></p>
-                                <p class="mb-3">Fee: <span class="sub-details">100,000 INR + GST</span></p>
-                                <p class="mb-3">Eligible People: <span class="sub-details">Working Professional, Full
-                                        time/Part Time
-                                        trader, 12th and Graduate Students</span></p>
+                                <p class="mb-3">Duration: <span class="sub-details"> 2 Weeks</span></p>
+                                <p class="mb-3">Fee: <span class="sub-details">25,000 INR + GST</span></p>
+                                <p class="mb-3">Eligible People: <span class="sub-details">Working Professional, Full time/Part Time trader, 12th and Graduate Students</span></p>
                                 <p class="mb-3">What you will learn:</p>
                                 <ul class="list-main-course">
-                                    <li>Stock market basics, including fundamental and technical analysis</li>
-                                    <li>Options trading and strategies</li>
-                                    <li>Advanced techniques and adjustments</li>
-                                    <li>Xerox trading (bonus)</li>
-                                    <li>3 months of support</li>
+                                    <li>Intex Intraday Trading with a potential 30-35% ROI</li>
+                                    <li>Gap Theory and timing market trends</li>
+                                    <li>Adjustment concepts and Open Interest Analysis (OI Analysis)</li>
+                                    <li>How to use technical analysis indicators, including Relative Strength Intex, Stochastic, MACD, Bollinger Bands, and ADX</li>
+                                    <li>Sentimental indicators, including Put/Call Ratio, Bull/Bear Indicators, Insider Activity, and CBOE Volatility Intex (VIX)</li>
+                                    <li>Volume and Open Interest with Support and Resistance levels</li>
+                                    <li>Intermarket Technical Analysis</li>
                                 </ul>
                                 <!-- call to action btn -->
                                 <button onclick=" " type="button" class="btn call-to-btn cont_form_active  mt-3">Get
@@ -105,14 +98,9 @@
                                 <h5>What's included</h5>
                                 <div class="dashed"></div>
                                 <ul class="list-main-course">
-                                    <li class="lh-6">In-depth understanding of stock market analysis with both
-                                        fundamental and technical analysis</li>
-                                    <li class="lh-6">Hands-on experience in options trading and strategies, including
-                                        advanced techniques and adjustments</li>
-                                    <li class="lh-6">Comprehensive knowledge of Xerox trading, allowing you to copy the
-                                        experts and achieve optimal results</li>
-                                    <li class="lh-6">Personalized support for 3 months, ensuring that you have all the
-                                        resources you need to succeed</li>
+                                    <li class="lh-6">4-week course with the live market trading</li>
+                                    <li class="lh-6">1-month support</li>
+                                    <li class="lh-6">Course material and resources</li>
                                 </ul>
                             </div>
                             <!-- Article-three -->
@@ -120,157 +108,70 @@
                                 <h5>Lessons</h5>
                                 <div class="dashed"></div>
                                 <!-- start  one-->
-                                <h5 class="mb-3">I. Stock Market Base Analysis</h5>
-                                <p class="title-in-detail mt-4 mb-4">This chapter covers the fundamental analysis of the
-                                    stock market including financial statements and economic indicators.</p>
-                                <h4 class="mt-4 mb-3">Chapter 1: Fundamental Analysis</h4>
+                                <h5 class="mb-3">I. Intex Trading Course</h5>
+                                <p class="title-in-detail mt-4 mb-4">Learn essential skills and strategies for successful trading in the Intex Trading Course.</p>
+                                <h4 class="mt-4 mb-3">Chapter 1: Trend Analysis</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">In this chapter of the Intex Trading Course, you will master the art of trend analysis and learn how to identify and capitalize on market trends.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Understanding Fundamental Analysis</li>
-                                    <li class="lh-6">Choosing the Perfect Stock for Investment Returns with Financial
-                                        Statements</li>
+                                    <li class="lh-6">Trends and their duration</li>
+                                    <li class="lh-6">Trend lines and channel lines</li>
+                                    <li class="lh-6">Breakout trend lines and rules of confirmation</li>
                                 </ul>
 
-                                <h4 class="mt-4 mb-3">Chapter 2: Technical Analysis</h4>
+                                <h4 class="mt-4 mb-3">Chapter 2: Moving Averages</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Learn how to effectively use moving averages to make informed trading decisions and improve your overall strategy.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Understanding Technical Analysis</li>
-                                    <li class="lh-6">Finding the Current Status and Future Price Action Movement of
-                                        Stocks/Indexes</li>
-                                </ul>
-                                <!-- start  two-->
-                                <h5 class="mb-3 mt-5">II. Equity Investment Concepts</h5>
-                                <p class="title-in-detail mt-4 mb-4">This chapter covers the fundamentals of equity
-                                    investment including stocks, risk and return, and valuation techniques.</p>
-                                <h4 class="mt-4 mb-3">Chapter 1: Value Buying Concept (Fundamentals)</h4>
-                                <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Choosing the Right Sector/Stock for Better Returns</li>
-                                    <li class="lh-6">Fair Value Selection of Stocks</li>
-                                    <li class="lh-6">Sector Rotation</li>
-                                    <li class="lh-6">Passive Income for Investment</li>
-                                </ul>
-                                <!-- start  three-->
-                                <h5 class="mb-3 mt-5">III. Derivatives Trading (Futures & Options Trading)</h5>
-                                <p class="title-in-detail mt-4 mb-4">In this chapter, learn about futures and options
-                                    trading and how they are used as derivative instruments for hedging and speculation.
-                                </p>
-                                <h4 class="mt-4 mb-3">Chapter 1: Technical Analysis of Charts</h4>
-                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Understanding Candlestick Patterns</p>
-                                <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Hekin-Ashi Concepts</li>
-                                    <li class="lh-6">Pattern Analysis</li>
-                                    <li class="lh-6">Trend Concepts</li>
-                                    <li class="lh-6">Moving Average Concepts</li>
-                                    <li class="lh-6">Fibonacci Retracement Concept</li>
-                                    <li class="lh-6">Divergence Concept</li>
-                                </ul>
-                                <h4 class="mt-4 mb-3">Chapter 2: Gap Trading Concept</h4>
-                                <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Exploit price gaps</li>
-                                    <li class="lh-6">Gap up/down strategies</li>
-                                    <li class="lh-6">Technical indicators/patterns</li>
-                                    <li class="lh-6">Influencing gap factors With trading examples</li>
+                                    <li class="lh-6">Definition and benefits of moving averages</li>
+                                    <li class="lh-6">Types of moving averages and their time frame</li>
+                                    <li class="lh-6">Double and Triple crossover and Golden crosses</li>
                                 </ul>
 
-                                <h4 class="mt-4 mb-3">Chapter 3: Bottom Fishing/Trend Reversal Concepts</h4>
-                                <p class="title-in-detail mt-4 mb-4"></p>
+                                <h4 class="mt-4 mb-3">Chapter 3: Technical Analysis Indicators</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Explore the most popular technical analysis indicators used to interpret market trends and make profitable trades.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Bottom fishing explained</li>
-                                    <li class="lh-6">Identifying trend reversals</li>
-                                    <li class="lh-6">Support and resistance levels</li>
-                                    <li class="lh-6">Candlestick patterns analysis</li>
-                                    <li class="lh-6">Examples of bottom fishing/trend reversal</li>
+                                    <li class="lh-6">Relative Strength Intex (RSI)</li>
+                                    <li class="lh-6">Stochastic (%K D)</li>
+                                    <li class="lh-6">Moving Average Convergence & Divergence (MACD)</li>
+                                    <li class="lh-6">Bollinger Bands and Super Trend & ADX</li>
                                 </ul>
 
-                                <h4 class="mt-4 mb-3">Chapter 4: Positional and Intraday Money-Making Concepts with
-                                    Option Strategies</h4>
+                                <h4 class="mt-4 mb-3">Chapter 4: Sentimental Indicators</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">In this section, you will learn how to use sentimental indicators to evaluate market sentiment and make informed trading decisions.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Positional trading strategies</li>
-                                    <li class="lh-6">Intraday trading concepts</li>
-                                    <li class="lh-6">Money-making options strategies</li>
-                                    <li class="lh-6">Hedging and speculation techniques</li>
-                                    <li class="lh-6">Examples provided for clarity</li>
+                                    <li class="lh-6">Put/Call ratio</li>
+                                    <li class="lh-6">Bull/bear indicators</li>
+                                    <li class="lh-6">Insider activity</li>
+                                    <li class="lh-6">CBOE Volatility Intex (VIX)</li>
+                                    
                                 </ul>
 
-                                <h4 class="mt-4 mb-3">Chapter 5: Trend Following System</h4>
+                                <h4 class="mt-4 mb-3">Chapter 5: Chart Formations: Trend Reversal Formations</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Learn how to identify and interpret trend reversal formations in chart patterns to make informed trading decisions.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Using trend-following systems</li>
-                                    <li class="lh-6">Technical indicators for experts</li>
-                                    <li class="lh-6">Entry and exit rules</li>
-                                    <li class="lh-6">Risk management strategies</li>
-                                    <li class="lh-6">Real-world trading examples</li>
+                                    <li class="lh-6">Head and Shoulders</li>
+                                    <li class="lh-6">Double Tops and Double Bottoms</li>
+                                    <li class="lh-6">Triple Tops and Triple Bottoms</li>
+                                    <li class="lh-6">V-tops (spikes)</li>
+                                    <li class="lh-6">Rounded Tops and Rounded Bottoms (Cups & Saucers)</li>
                                 </ul>
 
-                                <h4 class="mt-4 mb-3">Chapter 6: Earnings Trade</h4>
+                                <h4 class="mt-4 mb-3">Chapter 6: Chart Formations: Trend Continuation Formation</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Discover how to identify and interpret trend continuation formations in chart patterns to confidently trade in the direction of the trend.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Understanding earnings trades</li>
-                                    <li class="lh-6">Strategies for trading earnings</li>
-                                    <li class="lh-6">Analysis of earnings data</li>
-                                    <li class="lh-6">Potential risks and rewards</li>
-                                    <li class="lh-6">Expert trading examples</li>
+                                    <li class="lh-6">Flags</li>
+                                    <li class="lh-6">Pennant</li>
+                                    <li class="lh-6">Triangles</li>
+                                    <li class="lh-6">Wedges</li>
                                 </ul>
 
-                                <h4 class="mt-4 mb-3">Chapter 7: Time Frame Analysis and Defining Your Trading Style
-                                </h4>
+                                <h4 class="mt-4 mb-3">Chapter 7: Volume and Open Interest</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">This chapter will provide an overview of the volume and open interest as important indicators of market activity and potential price movements in futures and options trading.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Importance of time frames</li>
-                                    <li class="lh-6">Trading styles explained</li>
-                                    <li class="lh-6">Long-term vs. short-term</li>
-                                    <li class="lh-6">Technical analysis strategies</li>
-                                    <li class="lh-6">Finding your style examples</li>
+                                    <li class="lh-6">Volume and Open Interest with Support and Resistance levels</li>
+                                    <li class="lh-6">Using Open Interest to find Bull and Bear signals</li>
+                                    <li class="lh-6">Intermarket Technical Analysis</li>
                                 </ul>
-                                <!-- start  four-->
-                                <h5 class="mb-3 mt-5">IV. Options Strategies Construction (With Adjustments)</h5>
-                                <p class="title-in-detail mt-4 mb-4">This chapter covers the construction of options
-                                    strategies, including adjustments for managing risk and maximizing profit potential.
-                                </p>
-                                <h4 class="mt-4 mb-3">Chapter 1: Straddle Concept</h4>
-                                <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Long/short straddle explained</li>
-                                    <li class="lh-6">Options expiration date strategy</li>
-                                    <li class="lh-6">Managing straddle risks</li>
-                                </ul>
-
-                                <h4 class="mt-4 mb-3">Chapter 2: Ratio Spread</h4>
-                                <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Bullish/bearish ratio spread</li>
-                                    <li class="lh-6">Using technical analyses</li>
-                                    <li class="lh-6">Risk management techniques</li>
-                                </ul>
-
-                                <h4 class="mt-4 mb-3">Chapter 3: Iron Fly</h4>
-                                <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Using iron fly for Income</li>
-                                    <li class="lh-6">Analyzing implied volatility</li>
-                                    <li class="lh-6">Managing risk and profit</li>
-                                </ul>
-
-                                <h4 class="mt-4 mb-3">Chapter 4: Iron Condor</h4>
-                                <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Understanding iron condor spreads</li>
-                                    <li class="lh-6">Technical indicators for analysis</li>
-                                    <li class="lh-6">Profit and risk potentials</li>
-                                </ul>
-
-                                <h4 class="mt-4 mb-3">Chapter 5: Combination of Two or Three Strategies</h4>
-                                <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Strategies combination explained</li>
-                                    <li class="lh-6">Risk management practices</li>
-                                    <li class="lh-6">Real-world trading examples</li>
-                                </ul>
-
-                                <!-- start five-->
-                                <h5 class="mb-3 mt-5">V. Xerox Trading</h5>
-                                <p class="title-in-detail mt-4 mb-3">This chapter focuses on trading Xerox stocks, with
-                                    a detailed analysis of its financials and historical performance.</p>
-                                <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Copy Trading of Experts (Position Sizing and RR Depends on Capital
-                                        and Risk Taking Ability of Individual)</li>
-                                    <li class="lh-6">Analyzing Xerox stock</li>
-                                    <li class="lh-6">Financial statements review</li>
-                                    <li class="lh-6">Trading strategies for Xerox</li>
-                                    <li class="lh-6">Historical performance analysis</li>
-                                    <li class="lh-6">Real-world trading examples</li>
-                                </ul>
-
+                               
                             </div>
 
                             <!-- Review -->
