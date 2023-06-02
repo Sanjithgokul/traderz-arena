@@ -134,9 +134,9 @@ a{
   align-items: center;
 }
 
-/* .navbar-collapse-btn{
+ .navbar-collapse-btn{
   justify-content: flex-end;
-} */
+} 
 
 .navbar-collapse-btn .nav-item a{
   font-size: 17px;
@@ -865,7 +865,7 @@ color: var(--theme);
 
 
 
-@media(min-width: 990px){
+@media (min-width: 990px){
   .deepak-profile{
     position: absolute;
     bottom: 0;
@@ -1012,7 +1012,7 @@ color: var(--theme);
 }
 
 
-@media (min-width: 778px){
+@media (max-width: 778px){
   .banner-btn{
     display: flex;
     align-items: center;
@@ -1034,12 +1034,12 @@ color: var(--theme);
 }
 
 
-@media(max-width: 767px){
+/* @media(min-width: 767px){
   .bi-binoculars-fill{
     display: flex;
     padding-top: 6px;
   }
-}
+} */
 
 @media (max-width: 574px) {
   .header-btn {
