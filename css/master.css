@@ -141,7 +141,7 @@ a{
 .navbar-collapse-btn .nav-item a{
   font-size: 17px;
   font-weight: 600;
-  color: #070C0F;
+  color: #333;
 }
 
 .navbar-collapse-btn .nav-item a:hover{
@@ -176,6 +176,10 @@ button:focus:not(:focus-visible){
   color: #fff;
 }
 
+.header-btn{
+  display: flex;
+  align-items: center;
+}
 
 .header-btn button{
   padding: 10px 15px;
