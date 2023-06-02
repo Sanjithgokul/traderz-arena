@@ -850,13 +850,21 @@ color: var(--theme);
 }
 
 
-
+@media (min-width: 1500px) {
+  .bi-binoculars-fill{
+    padding-right:10px;
+  }
+}
 
 
 
 @media (max-width: 1400px){
   .backround-banner{
     min-height: 90vh;
+  }
+
+  .bi-binoculars-fill{
+    padding-right:10px;
   }
 
 }
@@ -949,6 +957,7 @@ color: var(--theme);
   .bi-binoculars-fill{
     display: flex;
     flex-direction: column;
+    padding: 3px 10px 3px 10px;
   }
 }
 
@@ -993,14 +1002,19 @@ color: var(--theme);
       min-height: 85vh;
     }
     
-/* Testing */
-  .section-2{
-    margin-top: -30px;
-  }
+  /* Testing */
+    .section-2{
+      margin-top: -30px;
+    }
 
-  .space{
-    padding-top: 0px;
-  }
+    .space{
+      padding-top: 0px;
+    }
+
+    .bi-binoculars-fill{
+      display: contents;
+    }
+
 }
 
 
@@ -1019,7 +1033,20 @@ color: var(--theme);
   padding-top:20px;
  }
 
+ .bi-binoculars-fill{
+  padding: 3px 10px 6px 10px;
 }
+
+}
+
+
+@media(max-width: 767px){
+  .bi-binoculars-fill{
+    display: flex;
+    padding-top: 6px;
+  }
+}
+
 @media (max-width: 574px) {
   .header-btn {
     padding-top: 10px;
