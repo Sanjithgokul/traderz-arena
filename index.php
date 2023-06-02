@@ -1,4 +1,4 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
 
 <head>
@@ -88,7 +88,7 @@
                     </div>
                 </div>
                 <div class="col-md-12 col-lg-6 col-xl-6 d-flex">
-                    <img width="100%" height="100%" loading="lazy" src="./images/section-1234.svg" title="traderz-arena"
+                    <img width="100%" height="100%" loading="lazy" src="./images/section-1234.webp" title="traderz-arena"
                         alt="traderz-arena">
                 </div>
             </div>
@@ -103,7 +103,7 @@
             <div class="container">
                 <div class="row justify-content-center align-items-center reverse">
                     <div class="col-sm-12 col-md-12 col-lg-6">
-                        <img width="90%" height="90%" loading="lazy" src="./images/section-2-new.svg"
+                        <img width="90%" height="90%" loading="lazy" src="./images/section-2-new.webp"
                             title="traderz-arena" alt="traderz-arena">
                     </div>
                     <div class="col-sm-12 col-md-12 col-lg-6">
@@ -319,7 +319,7 @@
                     </div>
                     <div class="col-12 col-md-12 col-lg-5 d-flex">
                         <div class="deepak-profile">
-                            <img loading="lazy" width="100%" height="100%" src="./images/deepak-traderz-arena.svg"
+                            <img loading="lazy" width="100%" height="100%" src="./images/deepak-traderz-arena.webp"
                                 alt="traderz-arena-deepak" title="traderz-arena-deepak">
                         </div>
                     </div>

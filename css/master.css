@@ -134,9 +134,9 @@ a{
   align-items: center;
 }
 
-.navbar-collapse-btn{
+/* .navbar-collapse-btn{
   justify-content: flex-end;
-}
+} */
 
 .navbar-collapse-btn .nav-item a{
   font-size: 17px;
@@ -211,11 +211,6 @@ button:focus:not(:focus-visible){
   font-size: 16px;
 }
 
-#about-sec,
-#course-sec{
-  /* scroll-margin-top: 40px; */
-}
-
 .course-details{
   padding:20px;
   margin:10px;
@@ -223,21 +218,16 @@ button:focus:not(:focus-visible){
 
 
 .backround-banner-1{
-  /* background-image: url(../images/banner-bg.webp); */
   background-image: url(../images/new-bg-ban.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
-  /* Testing : 80vh*/
   min-height: 80vh; 
   width: 100%;
   margin-top: -96px;
   padding-top: 96px;
 }
 
-/* .backround-banner-1{
-  background-image: url(../images/new-bg-ban.png);
-} */
 
 .form-section .input-field{
   padding: 10px 30px;
@@ -323,7 +313,7 @@ button:focus:not(:focus-visible){
 }
 
 .section-2-1{
-  background-image: url(../images/section-wave-2.svg);
+  background-image: url(../images/section-wave-2.webp);
 }
 
 .back-clr{
@@ -345,7 +335,7 @@ button:focus:not(:focus-visible){
 }
 
 .box-backround-1{
-  background-image: url(../images/wave-new-1.svg);
+  background-image: url(../images/wave-new-1.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -457,7 +447,7 @@ button:focus:not(:focus-visible){
 
 
 .faq-sec {
-  background: url(../images/faq-backround.svg);
+  background: url(../images/faq-backround.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
