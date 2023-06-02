@@ -191,7 +191,7 @@ function processquickemail(service,$this){
                         name: data["name"],
                         email : data["email"],
                         mobile_no: data["number"],
-                        course_type : data["service"],
+                        course_type : data["courses"],
                         ipAddress: ip,
                         url:$(location).attr('href'),
                         city: details.city,

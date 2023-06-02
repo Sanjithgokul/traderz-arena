@@ -33,6 +33,11 @@
     max-width: 100%;
   }
 
+  /* Testing */
+  .carousel-profile > img{
+    max-width: 100%;
+  }
+
   h1{
     font-size:58px;
     line-height: 72px;
@@ -215,7 +220,7 @@ button:focus:not(:focus-visible){
 
 .backround-banner-1{
   /* background-image: url(../images/banner-bg.webp); */
-  background-image: url(../images/new-bg-ban.png);
+  background-image: url(../images/new-bg-ban.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -689,7 +694,7 @@ button#enquiryButton:disabled{
 
 /* Testimonial */
 .carousel-slide{
-  background-image: url(../images/testimonial-bg-new.png);
+  background-image: url(../images/testimonial-bg-new.webp);
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
@@ -833,6 +838,12 @@ button#enquiryButton:disabled{
 .book-icon:hover{
 color: var(--theme);
 }
+
+/* Testing */
+.dropdown:hover >.dropdown-menu{
+  display:block;
+}
+
 
 
 
@@ -1058,6 +1069,7 @@ color: var(--theme);
   .tesimonial-sec{
     height: 90vh; /*80vh*/
   }
+
 }
 
 
