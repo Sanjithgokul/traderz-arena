@@ -1036,6 +1036,14 @@ color: var(--theme);
  .carousel-info{
   padding-left: 0;
  }
+ /* Testing */
+ .extra-bottom-space{
+  margin-bottom: 0px !important;
+ }
+
+ .footer-content-box{
+  gap:10px;
+ }
 
 }
 
