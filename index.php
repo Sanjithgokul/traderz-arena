@@ -413,7 +413,7 @@
                         <div class="carousel-slider">
                             <div class="carousel-details-container">
                                 <div class="carousel-header">
-                                    <img src="../images/green-quotes.svg" alt="quotes">
+                                    <img loading="lazy" src="../images/green-quotes.svg" alt="quotes">
                                 </div>
 
                                 <div class="carousel-info">
@@ -451,11 +451,11 @@
                                         market.</p>
                                 </div>
                                 <div class="carousel-close-quote">
-                                    <img src="../images/red-quotes.svg" alt="quotes">
+                                    <img loading="lazy" src="../images/red-quotes.svg" alt="quotes">
                                 </div>
                             </div>
                             <div class="carousel-profile">
-                                <img src="../images/testimonial-person.svg" alt="Person">
+                                <img loading="lazy" src="../images/testimonial-person.svg" alt="Person">
                             </div>
                         </div>
                     </div>
@@ -465,7 +465,7 @@
                         <div class="carousel-slider">
                             <div class="carousel-details-container">
                                 <div class="carousel-header">
-                                    <img src="../images/green-quotes.svg" alt="quotes">
+                                    <img loading="lazy" src="../images/green-quotes.svg" alt="quotes">
                                 </div>
 
                                 <div class="carousel-info">
@@ -503,11 +503,11 @@
                                         wonderful training and personal support and wish Traderz Arena all the best.</p>
                                 </div>
                                 <div class="carousel-close-quote">
-                                    <img src="../images/red-quotes.svg" alt="quotes">
+                                    <img loading="lazy" src="../images/red-quotes.svg" alt="quotes">
                                 </div>
                             </div>
                             <div class="carousel-profile">
-                                <img src="../images/testimonial-person-2.svg" alt="Person">
+                                <img loading="lazy" src="../images/testimonial-person-2.svg" alt="Person">
                             </div>
                         </div>
                     </div>
