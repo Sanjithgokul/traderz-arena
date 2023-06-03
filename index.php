@@ -319,7 +319,7 @@
                     </div>
                     <div class="col-12 col-md-12 col-lg-5 d-flex">
                         <div class="deepak-profile">
-                            <img loading="lazy" width="100%" height="100%" src="./images/deepak-traderz-arena.webp"
+                            <img loading="lazy" width="100%" height="100%" src="./images/deepak-traderz-arena.svg"
                                 alt="traderz-arena-deepak" title="traderz-arena-deepak">
                         </div>
                     </div>

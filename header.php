@@ -21,7 +21,7 @@
                               <a href="#about-sec" class="nav-link nav-item-1 main-icon"><i class="bi bi-person-circle p-2"></i>About</a>
                           </li>
                           <li class="nav-item dropdown">
-                              <a href="#course-sec" class="nav-link nav-item-1 dropdown-toggle main-icon" role="button" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi bi-binoculars-fill "></i>Courses</a>
+                              <a href="#course-sec" class="nav-link nav-item-1 dropdown-toggle main-icon" role="button" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi bi-binoculars-fill"></i>Courses</a>
                               <ul class="dropdown-menu home-dropdown-menu ">
                                   <li><a class="dropdown-item fw-normal" href="https://traderzarena.com/expert-trading-course.php"><i class="bi bi-book-half book-icon" style="padding:0px 12px 0px 0px"></i>Expert Trading Course</a></li>
                                   <li><a class="dropdown-item fw-normal" href="https://traderzarena.com/options-trading-course.php"><i class="bi bi-book-half book-icon" style="padding:0px 12px 0px 0px"></i>Options Trading</a></li>
@@ -32,11 +32,11 @@
                           <li class="nav-item">
                               <a href="#" class="nav-link nav-item-1 main-icon"><i class="bi bi-file-text-fill p-2"></i>Blog</a>
                           </li>
-                          <li class="header-btn text-nowrap">
-                              <button type="button" onclick="window.location.href='contact.php'"><i class="bi bi-telephone-fill p-2"></i>Contact us</button>
-                          </li>
                           <li class="nav-item">
                               <a href="#hidden-sec" class="nav-link nav-item-1"></a>
+                          </li>
+                          <li class="header-btn text-nowrap">
+                              <button type="button" onclick="window.location.href='contact.php'"><i class="bi bi-telephone-fill p-2"></i>Contact us</button>
                           </li>
                       </ul>
                   </div>
