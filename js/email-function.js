@@ -16,12 +16,21 @@ const menuToggle = document.getElementById('collapsibleNavbar')
 const bsCollapse = new bootstrap.Collapse(menuToggle, {toggle:false})
 console.log("nav links", navLinks);
 console.log("menu toggle", menuToggle);
+console.log("Nav Links", navLinks)
 navLinks.forEach((l) => {
     l.addEventListener('click', () => { 
         if ( screen.width <= 576) {
             console.log("screen.width", screen.width); 
             console.log("nav item", l); 
-            bsCollapse.toggle(); 
+            console.log("collapse", bsCollapse._config.toggle)
+            // console.log("Is dropdown", l.classList.contains("dropdown-toggle"))
+            if (!(l.classList.contains("dropdown-toggle"))) {
+                bsCollapse.toggle(); 
+            } else {
+                if (!(bsCollapse._config.toggle)) {
+                    // bsCollapse.toggle(); 
+                }
+            }
         }
     })
 })
