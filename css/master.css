@@ -330,13 +330,13 @@ button:focus:not(:focus-visible){
 }
 
 .box-backround{
-  background-image: url(../images/wave-bg-3.webp);
+  background-image: url(../images/wave-bg-3.svg);
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .box-backround-1{
-  background-image: url(../images/wave-new-1.webp);
+  background-image: url(../images/wave-new-1.svg);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: top;
@@ -842,9 +842,7 @@ color: var(--theme);
   text-align: center;
 }
 
-.bi::before, [class^="bi-"]::before, [class*=" bi-"]::before{
-  padding-right: 5px;
-}
+
 
 
 
@@ -901,6 +899,9 @@ color: var(--theme);
   min-height: 86vh; /*80vh*/
 }
 
+.navbar-expand-sm .navbar-nav{
+  gap: 15PX;
+}
 
 }
 
@@ -999,6 +1000,10 @@ color: var(--theme);
       padding-left: 56px;
     }
 
+    .dropdown .bi-binoculars-fill::before{
+      padding-right: 6px;
+    }
+
 }
 
 
@@ -1014,6 +1019,10 @@ color: var(--theme);
  .carousel-slider{
   grid-template-columns: 1fr;
   gap: 10px;
+ }
+
+ .bi::before, [class^="bi-"]::before, [class*=" bi-"]::before{
+  padding-right: 6px;
  }
 
 }
