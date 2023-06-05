@@ -76,7 +76,7 @@
                             <div class="container tab-pane  active article-one mt-5 mb-5 p-0" id="description">
                                 <h5>Description</h5>
                                 <div class="dashed"></div>
-                                <p><span class="sub-details">Unlock your trading potential and become a master trader with Traderz Arena's Expert Trading Course. Over the course of 3 months (120 hours), you'll learn advanced trading strategies and techniques that will take your trading skills to the next level. This course is ideal for working professionals, full-time/part-time traders, and 12th and graduate students.</span></p>
+                                <p><span class="sub-details">Discover your trading style and create a winning plan with our 1-month support and guidance. This course is suitable for both beginners and experienced traders. Our expert coaches will show you how to analyze the market, set up trades and develop a trading strategy that fits your goals. With our help, you can achieve your financial goals and become a successful trader.</span></p>
                                 <h4 class="mb-3">Course details :</h4>
                                 <p class="mb-3">Duration: <span class="sub-details"> 1 month (Weekend & one Live Trading session/week)</span></p>
                                 <p class="mb-3">Fee: <span class="sub-details">50,000 INR + GST</span></p>

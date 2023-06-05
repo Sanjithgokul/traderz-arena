@@ -76,7 +76,7 @@
                             <div class="container tab-pane  active article-one mt-5 mb-5 p-0" id="description">
                                 <h5>Description</h5>
                                 <div class="dashed"></div>
-                                <p><span class="sub-details">The Traderz Arena Intex Trading Course focuses on intraday trading in the Intex market, covering various techniques such as Gap Theory, Timing the Market Trends, Adjustment Concepts, and Open Interest Analysis. Additionally, the course offers one month of support to ensure you have a comprehensive understanding of the concepts covered.</span></p>
+                                <p><span class="sub-details">The Traderz Arena Intex Trading Course focuses on intraday trading in the Index market, covering various techniques such as Gap Theory, Timing the Market Trends, Adjustment Concepts, and Open Interest Analysis. Additionally, the course offers one month of support to ensure you have a comprehensive understanding of the concepts covered.</span></p>
                                 <h4 class="mb-3">Course details :</h4>
                                 <p class="mb-3">Duration: <span class="sub-details"> 2 Weeks</span></p>
                                 <p class="mb-3">Fee: <span class="sub-details">25,000 INR + GST</span></p>
@@ -112,68 +112,89 @@
                                 <!-- start  one-->
                                 <h5 class="mb-3">I. Intex Trading Course</h5>
                                 <p class="title-in-detail mt-4 mb-4">Learn essential skills and strategies for successful trading in the Intex Trading Course.</p>
-                                <h4 class="mt-4 mb-3">Chapter 1: Trend Analysis</h4>
-                                <p class="mt-4 mb-3 ml-5 subtitle-heading">In this chapter of the Intex Trading Course, you will master the art of trend analysis and learn how to identify and capitalize on market trends.</p>
+                                <h4 class="mt-4 mb-3">Chapter 1: Positional Expiry Trading Concepts (Wednesday Trade)</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">This chapter provides insights on Positional Expiry Trading Concepts and Wednesday Trades for profitable trading, making trades with a higher probability of success.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Trends and their duration</li>
-                                    <li class="lh-6">Trend lines and channel lines</li>
-                                    <li class="lh-6">Breakout trend lines and rules of confirmation</li>
+                                    <li class="lh-6">Wednesday trade</li>
+                                    <li class="lh-6">Technical concepts</li>
+                                    <li class="lh-6">Profitable strategies</li>
+                                    <li class="lh-6">Risk management</li>
                                 </ul>
 
-                                <h4 class="mt-4 mb-3">Chapter 2: Moving Averages</h4>
-                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Learn how to effectively use moving averages to make informed trading decisions and improve your overall strategy.</p>
+                                <h4 class="mt-4 mb-3">Chapter 2: Weekly Expiry Trading Techniques</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Explore Weekly Expiry Trading Techniques and learn about effective trade timing methods.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Definition and benefits of moving averages</li>
-                                    <li class="lh-6">Types of moving averages and their time frame</li>
-                                    <li class="lh-6">Double and Triple crossover and Golden crosses</li>
+                                    <li class="lh-6">Trading techniques</li>
+                                    <li class="lh-6">Advanced concepts</li>
+                                    <li class="lh-6">Intraday volatility</li>
+                                    <li class="lh-6">Technical Analysis</li>
                                 </ul>
 
-                                <h4 class="mt-4 mb-3">Chapter 3: Technical Analysis Indicators</h4>
-                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Explore the most popular technical analysis indicators used to interpret market trends and make profitable trades.</p>
+                                <h4 class="mt-4 mb-3">Chapter 3: Opening Technique</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Discover Opening Techniques for initiating successful trading positions with minimal risks and maximizing profits.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Relative Strength Intex (RSI)</li>
-                                    <li class="lh-6">Stochastic (%K D)</li>
-                                    <li class="lh-6">Moving Average Convergence & Divergence (MACD)</li>
-                                    <li class="lh-6">Bollinger Bands and Super Trend & ADX</li>
+                                    <li class="lh-6">Market psychology</li>
+                                    <li class="lh-6">Entry and exit</li>
+                                    <li class="lh-6">Confluence analysis</li>
+                                    <li class="lh-6">Technical charting</li>
                                 </ul>
 
-                                <h4 class="mt-4 mb-3">Chapter 4: Sentimental Indicators</h4>
-                                <p class="mt-4 mb-3 ml-5 subtitle-heading">In this section, you will learn how to use sentimental indicators to evaluate market sentiment and make informed trading decisions.</p>
+                                <h4 class="mt-4 mb-3">Chapter 4: Decay Trade</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Gain knowledge on the unique Decay Trading strategy to time your trades effectively in a decaying market.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Put/Call ratio</li>
-                                    <li class="lh-6">Bull/bear indicators</li>
-                                    <li class="lh-6">Insider activity</li>
-                                    <li class="lh-6">CBOE Volatility Intex (VIX)</li>
+                                    <li class="lh-6">Options trading</li>
+                                    <li class="lh-6">Theta decay</li>
+                                    <li class="lh-6">Time-based profits</li>
+                                    <li class="lh-6">Trade management</li>
                                     
                                 </ul>
 
-                                <h4 class="mt-4 mb-3">Chapter 5: Chart Formations: Trend Reversal Formations</h4>
-                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Learn how to identify and interpret trend reversal formations in chart patterns to make informed trading decisions.</p>
+                                <h4 class="mt-4 mb-3">Chapter 5: Jackpot Trade</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Learn the Jackpot Trade strategy, an effective trading technique to achieve high-profit opportunities.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Head and Shoulders</li>
-                                    <li class="lh-6">Double Tops and Double Bottoms</li>
-                                    <li class="lh-6">Triple Tops and Triple Bottoms</li>
-                                    <li class="lh-6">V-tops (spikes)</li>
-                                    <li class="lh-6">Rounded Tops and Rounded Bottoms (Cups & Saucers)</li>
+                                    <li class="lh-6">High-risk trading</li>
+                                    <li class="lh-6">Position sizing</li>
+                                    <li class="lh-6">Technical analysis</li>
+                                    <li class="lh-6">Trade execution</li>
                                 </ul>
 
-                                <h4 class="mt-4 mb-3">Chapter 6: Chart Formations: Trend Continuation Formation</h4>
-                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Discover how to identify and interpret trend continuation formations in chart patterns to confidently trade in the direction of the trend.</p>
+                                <h4 class="mt-4 mb-3">Chapter 6: OI Analysis (Open Interest Analysis)</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Understand how OI Analysis helps in understanding market trends and time trades effectively.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Flags</li>
-                                    <li class="lh-6">Pennant</li>
-                                    <li class="lh-6">Triangles</li>
-                                    <li class="lh-6">Wedges</li>
+                                    <li class="lh-6">Volume analysis</li>
+                                    <li class="lh-6">Options activity</li>
+                                    <li class="lh-6">Market sentiment</li>
+                                    <li class="lh-6">Trading strategies</li>
                                 </ul>
 
-                                <h4 class="mt-4 mb-3">Chapter 7: Volume and Open Interest</h4>
-                                <p class="mt-4 mb-3 ml-5 subtitle-heading">This chapter will provide an overview of the volume and open interest as important indicators of market activity and potential price movements in futures and options trading.</p>
+                                <h4 class="mt-4 mb-3">Chapter 7: Index Intraday Trading (30-35% ROI)</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Discover the art of Index Intraday Trading and achieve 30-35% ROI.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">Volume and Open Interest with Support and Resistance levels</li>
-                                    <li class="lh-6">Using Open Interest to find Bull and Bear signals</li>
-                                    <li class="lh-6">Intermarket Technical Analysis</li>
+                                    <li class="lh-6">High ROI trading</li>
+                                    <li class="lh-6">Market analysis</li>
+                                    <li class="lh-6">Price action</li>
+                                    <li class="lh-6">Intraday strategies</li>
+                                </ul>
+
+                                <h4 class="mt-4 mb-3">Chapter 8: Intraday Adjustment Concepts</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Learn Intraday Adjustment concepts to make minor adjustments and maximize profits.</p>
+                                <ul class="list-main-course-bullet">
+                                    <li class="lh-6">Risk management</li>
+                                    <li class="lh-6">Trade setup adjustment</li>
+                                    <li class="lh-6">Market analysis</li>
+                                    <li class="lh-6">Technical indicators</li>
+                                </ul>
+
+                                <h4 class="mt-4 mb-3">Chapter 9: Intraday PalsyCR An</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Understand the intricacies of Intraday PalsyCR An, a unique trading strategy, and utilize 1 Month of Support to stay profitable.</p>
+                                <ul class="list-main-course-bullet">
+                                    <li class="lh-6">Profitable strategies</li>
+                                    <li class="lh-6">Trading psychology</li>
+                                    <li class="lh-6">Price action</li>
+                                    <li class="lh-6">Market analysis</li>
                                 </ul>
                                
+                                <h4 class="mt-4 mb-3">1 Month Support</h4>
                             </div>
 
                             <!-- Review -->

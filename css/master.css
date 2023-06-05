@@ -953,9 +953,10 @@ color: var(--theme);
     white-space: unset;
   }
 
-  .dropdown-toggle::after{
+  /* Testing */
+  /* .dropdown-toggle::after{
     content: unset;
-  }  
+  }   */
 }
 
 
@@ -1028,6 +1029,7 @@ color: var(--theme);
   gap: 10px;
  }
 
+
  .bi::before, [class^="bi-"]::before, [class*=" bi-"]::before{
   padding-right: 6px;
  }
@@ -1064,7 +1066,8 @@ color: var(--theme);
 
   #collapsibleNavbar.show {
     height: 270px !important;
-    padding: 20px;  
+    padding: 20px; 
+    overflow:scroll; 
   }
 
   .icon-menu{
@@ -1116,6 +1119,7 @@ color: var(--theme);
     padding: 0 !important;
   }
 
+
 }
 
 @media (min-width:576px){
@@ -1126,9 +1130,10 @@ color: var(--theme);
   .tesimonial-sec{
     height: 90vh; /*80vh*/
   }
-
   
 }
+
+
 
 
 @media (max-width:449px){
