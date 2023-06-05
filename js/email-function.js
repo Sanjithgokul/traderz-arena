@@ -35,42 +35,41 @@ navLinks.forEach((l) => {
     })
 })
 
-$('.navbar-toggler').on('click', function(){
-    console.log("Button clicked")
-    const navLinks = document.querySelector('.nav-item')
-    navLinks.addEventListener('mousemove', () => { 
-        console.log("mosue OVered on the Links")
-    })
+// $('.navbar-toggler').on('click', function(){
+//     console.log("Button clicked")
+//     const navLinks = document.querySelector('.nav-item')
+//     navLinks.addEventListener('mousemove', () => { 
+//         console.log("mosue OVered on the Links")
+//     })
 
-    // console.log("navlinks", navLinks)
-    // navLinks.forEach((l) => {
-    //     l.addEventListener('mousemove', () => { 
-    //         console.log("mosue OVered on the Links")
-    //     })
-    // })
-})
+//     // console.log("navlinks", navLinks)
+//     // navLinks.forEach((l) => {
+//     //     l.addEventListener('mousemove', () => { 
+//     //         console.log("mosue OVered on the Links")
+//     //     })
+//     // })
+// })
 
 
-$('#navbar-nav-1 .nav-item a').on('click', function(){
-    let el = $(this)
-    setTimeout(function(){
-        $('#navbar-nav-1 .nav-item a').removeClass('active');
-        el.addClass('active');
-    }, 400)
-});
+// $('#navbar-nav-1 .nav-item a').on('click', function(){
+//     let el = $(this)
+//     setTimeout(function(){
+//         $('#navbar-nav-1 .nav-item a').removeClass('active');
+//         el.addClass('active');
+//     }, 400)
+// });
 
 //Testing
-$(document).ready(function () {
-    $(document).click(
-        function (event) {
-            var target = $(event.target);
-            var _mobileMenuOpen = $(".navbar-collapse").hasClass("show");
-            if (_mobileMenuOpen === true && !target.hasClass("navbar-toggler")) {
-                $("button.navbar-toggler").click();
-            }
+$(document).click(function (event) {
+    if ($(event.target).parents(".navbar-collapse").length < 1) {
+        var clickover = $(event.target);
+        var $navbar = $(".navbar-collapse");               
+        var _opened = $navbar.hasClass("in");
+        if (_opened === true && !clickover.hasClass("navbar-toggle")) {      
+            $navbar.collapse('hide');
         }
-    );
-});
+      }
+    });
 
 // const header = document.getElementById("traderz-arena-header");
 // const navBar = document.getElementById("collapsibleNavbar");
