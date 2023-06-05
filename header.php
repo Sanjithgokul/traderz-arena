@@ -1,4 +1,4 @@
-  <header class="header-menus">
+  <header class="header-menus" id="traderz-arena-header">
       <div class="container">
           <nav class="navbar navbar-expand-sm" id="navbar-example">
               <div class="container-fluid backround">

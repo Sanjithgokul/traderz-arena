@@ -14,7 +14,7 @@ var invalidMessage = {
 const navLinks = document.querySelectorAll('.nav-item-1')
 const menuToggle = document.getElementById('collapsibleNavbar')
 const bsCollapse = new bootstrap.Collapse(menuToggle, {toggle:false})
-console.log("nav links", navLinks);
+console.log("bsCollapse", bsCollapse)
 console.log("menu toggle", menuToggle);
 console.log("Nav Links", navLinks)
 navLinks.forEach((l) => {
@@ -35,6 +35,22 @@ navLinks.forEach((l) => {
     })
 })
 
+$('.navbar-toggler').on('click', function(){
+    console.log("Button clicked")
+    const navLinks = document.querySelector('.nav-item')
+    navLinks.addEventListener('mousemove', () => { 
+        console.log("mosue OVered on the Links")
+    })
+
+    // console.log("navlinks", navLinks)
+    // navLinks.forEach((l) => {
+    //     l.addEventListener('mousemove', () => { 
+    //         console.log("mosue OVered on the Links")
+    //     })
+    // })
+})
+
+
 $('#navbar-nav-1 .nav-item a').on('click', function(){
     let el = $(this)
     setTimeout(function(){
@@ -43,6 +59,50 @@ $('#navbar-nav-1 .nav-item a').on('click', function(){
     }, 400)
 });
 
+//Testing
+$(document).ready(function () {
+    $(document).click(
+        function (event) {
+            var target = $(event.target);
+            var _mobileMenuOpen = $(".navbar-collapse").hasClass("show");
+            if (_mobileMenuOpen === true && !target.hasClass("navbar-toggler")) {
+                $("button.navbar-toggler").click();
+            }
+        }
+    );
+});
+
+// const header = document.getElementById("traderz-arena-header");
+// const navBar = document.getElementById("collapsibleNavbar");
+
+// console.log("hedaer", header);
+
+// $('#traderz-arena-header').mouseover(function(event) { 
+//     console.log("event", event);
+//     bsCollapse.show();
+// })
+
+// $('#traderz-arena-header').mouseout(function(event) { 
+//     console.log("mosueOut", event); 
+//     bsCollapse.hide();
+// })
+
+
+// header.addEventListener("mouseover",function (event) {
+//     console.log("event", event);
+//     console.log("onFocus", document.hasFocus());
+//     console.log("active element", document.activeElement);
+//     // if (document.hasFocus()) {
+//         bsCollapse.show();
+//     // } else {
+//     //     bsCollapse.hide();
+//     // }
+// });
+
+// header.addEventListener("mouseout", function (event) { 
+//     console.log("mosueOut", event); 
+//     bsCollapse.hide();
+// });
 
 function processemailform(service,$this){
    
