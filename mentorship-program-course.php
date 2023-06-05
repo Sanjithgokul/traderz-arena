@@ -42,7 +42,7 @@
 
     <!-- Master the Expert Trading with us -->
     <section class="master-expert">
-        <h2 class="master-expert-heading" style="padding:0px 4px;">Stock Marketing Mentorship Program</h2>
+        <h2 class="master-expert-heading">Stock Marketing Mentorship Program</h2>
         <div class="underline"></div>
         <div class="container master-expert-desc">
             <p class="text-gray lh-2 text-justify mt-4">The mentorship program teaches fundamental and technical aspects of stock marketing. you will learn about investment types, markets, chart types, and technical theories. Besides trend analysis and moving averages, the program covers technical analysis indicators and sentimental indicators. Hands-on experience will be given in implementing chart and candlestick patterns, and you will learn how to use chart formations for trend reversal and continuation.</p>

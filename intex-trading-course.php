@@ -42,7 +42,7 @@
 
     <!-- Master the Expert Trading with us -->
     <section class="master-expert">
-        <h2 class="master-expert-heading" style="padding:0px 4px;"> Intex Trading Course - Master the Art of Trading Indices</h2>
+        <h2 class="master-expert-heading"> Intex Trading Course - Master the Art of Trading Indices</h2>
         <div class="underline"></div>
         <div class="container master-expert-desc">
             <p class="text-gray lh-2 text-justify mt-4">The Traderz Arena Intex Trading Course is designed to equip you with the knowledge and skills needed to master the art of trading indices. With a focus on practical learning and real-world scenarios, this course offers a comprehensive understanding of Intex trading, including trend analysis, chart formations, technical analysis indicators, sentimental indicators, and volume analysis.</p>

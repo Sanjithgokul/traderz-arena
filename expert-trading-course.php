@@ -43,7 +43,7 @@
 
     <!-- Master the Expert Trading with us -->
     <section class="master-expert">
-        <h2 class="master-expert-heading" style="padding:0px 4px;">Master The Expert Trading With Us</h2>
+        <h2 class="master-expert-heading">Master The Expert Trading With Us</h2>
         <div class="underline"></div>
         <div class="container master-expert-desc">
             <p class="text-gray lh-2 text-justify mt-4">Welcome to Traderz Arena's Expert Trading Course! This course is

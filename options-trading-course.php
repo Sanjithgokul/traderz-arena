@@ -42,7 +42,7 @@
 
     <!-- Master the Expert Trading with us -->
     <section class="master-expert">
-        <h2 class="master-expert-heading" style="padding:0px 4px;">Rise above the rest: Options trading with traderz arena</h2>
+        <h2 class="master-expert-heading">Rise above the rest: Options trading with traderz arena</h2>
         <div class="underline"></div>
         <div class="container master-expert-desc">
             <p class="text-gray lh-2 text-justify mt-4">Traderz Arena's Options Trading course will improve your trading skills. Learn options trading basics and advanced strategies like Candlestick Patterns and Gap Trading. You can generate monthly income with Options Strategies Construction and Gap up & Gap Down Trading.</p>
