@@ -1,14 +1,17 @@
 @font-face {
   font-family: "ubuntu m";
   src: url("../assets/fonts/Ubuntu-Medium.ttf");
+  font-display: swap;
 }
 @font-face {
   font-family: "ubuntu r";
   src: url("../assets/fonts/Ubuntu-Regular.ttf");
+  font-display: swap;
 }
 @font-face {
   font-family: "ubuntu b";
   src: url("../assets/fonts/Ubuntu-Bold.ttf");
+  font-display: swap;
 }
 * {
     margin: 0;

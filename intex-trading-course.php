@@ -100,7 +100,7 @@
                                 <h5>What's included</h5>
                                 <div class="dashed"></div>
                                 <ul class="list-main-course">
-                                    <li class="lh-6">4-week course with the live market trading</li>
+                                    <li class="lh-6">2-week course with the live market trading</li>
                                     <li class="lh-6">1-month support</li>
                                     <li class="lh-6">Course material and resources</li>
                                 </ul>
