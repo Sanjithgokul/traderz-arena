@@ -75,7 +75,7 @@
                             <div class="container tab-pane  active article-one mt-5 mb-5 p-0" id="description">
                                 <h5>Description</h5>
                                 <div class="dashed"></div>
-                                <p><span class="sub-details">During this mentorship program, you will learn about different types of investments, markets, chart types, and technical theories. This is under the guidance of experienced mentors. Aside from chart and candlestick patterns, students will also learn about trend reversals and continuation charts. you can able to analyze market trends and make informed investment decisions by the end of the program.</span></p>
+                                <p class="sub-details text-justify">During this mentorship program, you will learn about different types of investments, markets, chart types, and technical theories. This is under the guidance of experienced mentors. Aside from chart and candlestick patterns, students will also learn about trend reversals and continuation charts. you can able to analyze market trends and make informed investment decisions by the end of the program.</p>
                                 <h4 class="mb-3">Course details :</h4>
                                 <p class="mb-3">Duration: <span class="sub-details">  6 Months</span></p>
                                 <p class="mb-3">Fee: <span class="sub-details">500,000 INR</span></p>
@@ -265,7 +265,7 @@
                                         </ul>
                                     </div>
                                 </div>
-                                <p class="mb-3 review-para">Thanks to the excellent coaching and mentoring from Deepak
+                                <p class="mb-3 review-para text-justify">Thanks to the excellent coaching and mentoring from Deepak
                                     and kumar Dana Karthikeyan, I am now confident in executing equity trading and
                                     option
                                     strategies. I highly recommend Traderz Arena for anyone seeking to learn and succeed
@@ -293,7 +293,7 @@
                                         </ul>
                                     </div>
                                 </div>
-                                <p class="mb-3 review-para">Deepak K L's training is a game-changer! My husband now has
+                                <p class="mb-3 review-para text-justify">Deepak K L's training is a game-changer! My husband now has
                                     clarity on result-oriented trading, thanks to his in-depth knowledge and daily
                                     trading experience. We are grateful and wish Traderz Arena all the best.</p>
                             </div>

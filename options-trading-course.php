@@ -76,7 +76,7 @@
                             <div class="container tab-pane  active article-one mt-5 mb-5 p-0" id="description">
                                 <h5>Description</h5>
                                 <div class="dashed"></div>
-                                <p><span class="sub-details">Discover your trading style and create a winning plan with our 1-month support and guidance. This course is suitable for both beginners and experienced traders. Our expert coaches will show you how to analyze the market, set up trades and develop a trading strategy that fits your goals. With our help, you can achieve your financial goals and become a successful trader.</span></p>
+                                <p class="sub-details text-justify">Discover your trading style and create a winning plan with our 1-month support and guidance. This course is suitable for both beginners and experienced traders. Our expert coaches will show you how to analyze the market, set up trades and develop a trading strategy that fits your goals. With our help, you can achieve your financial goals and become a successful trader.</p>
                                 <h4 class="mb-3">Course details :</h4>
                                 <p class="mb-3">Duration: <span class="sub-details"> 1 month (Weekend & one Live Trading session/week)</span></p>
                                 <p class="mb-3">Fee: <span class="sub-details">50,000 INR + GST</span></p>
@@ -201,7 +201,7 @@
                                         </ul>
                                     </div>
                                 </div>
-                                <p class="mb-3 review-para">Thanks to the excellent coaching and mentoring from Deepak
+                                <p class="mb-3 review-para text-justify">Thanks to the excellent coaching and mentoring from Deepak
                                     and kumar Dana Karthikeyan, I am now confident in executing equity trading and
                                     option
                                     strategies. I highly recommend Traderz Arena for anyone seeking to learn and succeed
@@ -229,7 +229,7 @@
                                         </ul>
                                     </div>
                                 </div>
-                                <p class="mb-3 review-para">Deepak K L's training is a game-changer! My husband now has
+                                <p class="mb-3 review-para text-justify">Deepak K L's training is a game-changer! My husband now has
                                     clarity on result-oriented trading, thanks to his in-depth knowledge and daily
                                     trading experience. We are grateful and wish Traderz Arena all the best.</p>
                             </div>

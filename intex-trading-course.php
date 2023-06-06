@@ -76,7 +76,7 @@
                             <div class="container tab-pane  active article-one mt-5 mb-5 p-0" id="description">
                                 <h5>Description</h5>
                                 <div class="dashed"></div>
-                                <p><span class="sub-details">The Traderz Arena Intex Trading Course focuses on intraday trading in the Index market, covering various techniques such as Gap Theory, Timing the Market Trends, Adjustment Concepts, and Open Interest Analysis. Additionally, the course offers one month of support to ensure you have a comprehensive understanding of the concepts covered.</span></p>
+                                <p class="sub-details text-justify">The Traderz Arena Intex Trading Course focuses on intraday trading in the Index market, covering various techniques such as Gap Theory, Timing the Market Trends, Adjustment Concepts, and Open Interest Analysis. Additionally, the course offers one month of support to ensure you have a comprehensive understanding of the concepts covered.</p>
                                 <h4 class="mb-3">Course details :</h4>
                                 <p class="mb-3">Duration: <span class="sub-details"> 2 Weeks</span></p>
                                 <p class="mb-3">Fee: <span class="sub-details">25,000 INR + GST</span></p>
@@ -225,7 +225,7 @@
                                         </ul>
                                     </div>
                                 </div>
-                                <p class="mb-3 review-para">Thanks to the excellent coaching and mentoring from Deepak
+                                <p class="mb-3 review-para text-justify">Thanks to the excellent coaching and mentoring from Deepak
                                     and kumar Dana Karthikeyan, I am now confident in executing equity trading and
                                     option
                                     strategies. I highly recommend Traderz Arena for anyone seeking to learn and succeed
@@ -253,7 +253,7 @@
                                         </ul>
                                     </div>
                                 </div>
-                                <p class="mb-3 review-para">Deepak K L's training is a game-changer! My husband now has
+                                <p class="mb-3 review-para text-justify">Deepak K L's training is a game-changer! My husband now has
                                     clarity on result-oriented trading, thanks to his in-depth knowledge and daily
                                     trading experience. We are grateful and wish Traderz Arena all the best.</p>
                             </div>
