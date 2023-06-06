@@ -59,7 +59,65 @@ navLinks.forEach((l) => {
 //     }, 400)
 // });
 
-//Testing
+// Testing Menu closed
+$(document).ready(function(){
+    $(".navbar-toggler").click(function () {
+        var $navbar = $("#toggle");
+        var opened = $navbar.hasClass("collapsed");
+        console.log(opened);
+        if(opened !== true){
+            $(".icon-menu").css("display","none");
+            $(".bi-x-lg").css({"display": "contents","color":"white"});
+        }else{ 
+            $(".icon-menu").css("display","inline");
+            $(".bi-x-lg").css("display", "none"); 
+           
+        }
+    });
+    
+   
+});
+
+// $(document).ready(function(){
+//     $(".navbar-toggler").click(function () {
+//         var $navbar = $(".navbar-collapse");
+//         var opened = $navbar.hasClass(" ");
+//         console.log(opened);
+//         if(opened !== false){
+//             $(".icon-menu").css("display","none");
+//             $(".bi-x-lg").css({"display": "contents","color":"white"});
+//         }
+//     });
+    
+   
+// });
+
+// {
+//     $(".icon-menu").css("display","none");
+//     $(".bi-x-lg").css({"display": "contents","color":"white"});
+   
+// }
+
+// $(document).ready(function() {
+//     $('.navbar-toggler').click(function() {
+//     //   var $navbar=$('.navbar-collapse'); // Toggle the visibility of the menu items // Toggle the "close" class on the menu button
+//       $('.navbar-collapse').toggle();
+//       $(this).toggleClass('show');
+//       if ($(this).hasClass('show')) {
+//         // $(this).text('x'); // Change the button text to "Close" when the menu is open
+//         $(".bi-x-lg").css("display", "none"); 
+//         $(".icon-menu").css("display","block");
+//       } else {
+//         // $(this).text('='); // Change the button text back to "Menu" when the menu is closed
+//         $(".icon-menu").css("display","none");
+//         $(".bi-x-lg").css({"display": "contents","color":"white"});
+//       }
+//     });
+//   });
+
+
+
+//Testing working
 $(document).click(function (event) {
     if ($(event.target).parents(".navbar-collapse").length < 1) {
         var clickover = $(event.target);
@@ -68,8 +126,22 @@ $(document).click(function (event) {
         if (_opened === true && !clickover.hasClass("navbar-toggle")) {      
             $navbar.collapse('hide');
         }
+
+        var $navbar = $("#toggle");
+        var opened = $navbar.hasClass("collapsed");
+        console.log(opened);
+        if(opened !== true){
+            $(".icon-menu").css("display","none");
+            $(".bi-x-lg").css({"display": "contents","color":"white"});
+        }else{ 
+            $(".icon-menu").css("display","inline");
+            $(".bi-x-lg").css("display", "none"); 
+           
+        }
       }
     });
+
+
 
 // const header = document.getElementById("traderz-arena-header");
 // const navBar = document.getElementById("collapsibleNavbar");

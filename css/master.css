@@ -845,6 +845,7 @@ color: var(--theme);
 }
 
 
+
 /* Testing */
 @media (hover:hover)
 {
@@ -1122,8 +1123,24 @@ color: var(--theme);
     padding: 0 !important;
   }
 
+  /* Testing  */
+.bi-x-lg{
+  display: none;
+  }
 
+.bi-x-lg::before {
+  padding: 0px;
 }
+  
+}
+
+/* Testing */
+@media (min-width: 576px) and (max-width: 767px){
+  .navbar-expand-sm .navbar-nav .dropdown-menu {
+    top:85px;
+}
+}
+
 
 @media (min-width:576px){
   .modal-dialog {

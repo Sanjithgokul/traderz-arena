@@ -4,9 +4,10 @@
               <div class="container-fluid backround">
                   <a class="navbar-brand" href="https://www.traderzarena.com/"><img loading="lazy" width="100"
                           src="./images/traderz-Logo.svg" title="Traderz-arena-logo" alt="Traderz-arena"></a>
-                  <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
-                      data-bs-target="#collapsibleNavbar">
+                          <!-- testing Using id=Toggle -->
+                  <button id="toggle" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar">
                       <span class="icon-menu"></span>
+                      <span  class="bi bi-x-lg"></span>
                   </button>
                   <div class="collapse navbar-collapse in navbar-collapse-btn" id="collapsibleNavbar">
                       <ul id="navbar-nav-1" class="navbar-nav">
