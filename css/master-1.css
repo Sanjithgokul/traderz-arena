@@ -246,6 +246,18 @@ overflow:auto;
   
   }
 
+  @media (max-width: 574px){
+
+  .article-one > p{
+    text-align: justify;
+  } 
+ 
+  .review-para{
+    text-align: justify;
+  }
+
+  }
+
 
 
   
