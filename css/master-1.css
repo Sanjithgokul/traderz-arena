@@ -238,6 +238,10 @@ overflow:auto;
   color:#fff;
 }
 
+.text-clr{
+    color: #7D858C !important;
+  }
+
 
   @media (max-width: 989px){
     .backround-banner {

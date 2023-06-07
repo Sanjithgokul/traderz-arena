@@ -68,7 +68,7 @@
                     <div class="container text-align-center expert-course-list p-0">
                         <ul class="nav nav-tabs flex-no-warp course-navbar  flex-nowarp" role="tablist">
                             <li class="nav-items "><a class="nav-link active" href="#description"
-                                    data-bs-toggle="tab">Description</a></li>
+                                    data-bs-toggle="tab" aria-current="page">Description</a></li>
                             <li class="nav-items"><a class="nav-link" href="#wti" data-bs-toggle="tab">What’s
                                     included</a></li>
                             <li class="nav-items"><a class="nav-link" href="#lessons" data-bs-toggle="tab">Lessons</a>
@@ -346,27 +346,27 @@
                         <form id="contact-form">
                             <div class="mb-3 mt-3">
                                 <label for="fname">Enter Name</label><br>
-                                <input type="text" class="form-control required" id="name_Field" name="name" required>
+                                <input type="text"  aria-labelledby="client Name" class="form-control required" id="name_Field" name="name" required>
                                 <span role="alert" class="error-msg" id="name_Field_err">Please fill your Full
                                     Name.</span>
                             </div>
                             <div class="mb-3">
                                 <label for="fname">Email Address</label><br>
-                                <input type="email" class="form-control required" id="email_Field" name="email"
+                                <input type="email" aria-labelledby="client email id" class="form-control required" id="email_Field" name="email"
                                     required>
                                 <span role="alert" class="error-msg" id="email_Field_err">Please fill your Email
                                     id.</span>
                             </div>
                             <div class="mb-3">
                                 <label for="fname">Mobile Number</label><br>
-                                <input type="number" class="form-control required" id="number_Field" name="number" required>
+                                <input type="number" aria-labelledby="client mobile number" class="form-control required" id="number_Field" name="number" required>
                                 <span role="alert" class="error-msg" id="number_Field_err">Please enter a valid
                                     number</span>
                             </div>
                             <div class="">
                                 <div class="form-control form-control-1">
                                     <label for="fname">Courses Type</label><br>
-                                    <select name="courses" class="custom-select text-clr py-2" id="inputGroupSelect01">
+                                    <select name="courses" aria-labelledby="Course Options" class="custom-select text-clr py-2" id="inputGroupSelect01">
                                         <option selected hidden value="none">Select Courses</option>
                                         <option class="text-clr" value="Expert Trading Course">Expert Trading Course
                                         </option>
