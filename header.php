@@ -34,7 +34,7 @@
                               <a href="#" class="nav-link nav-item-1 main-icon"><i class="bi bi-file-text-fill p-2"></i>Blog</a>
                           </li>
                           <li class="nav-item">
-                              <a href="#hidden-sec" class="nav-link nav-item-1"></a>
+                              <a href="#hidden-sec" aria-label="none section" class="nav-link nav-item-1"></a>
                           </li>
                           <li class="header-btn text-nowrap">
                               <button type="button" onclick="window.location.href='contact.php'"><i class="bi bi-telephone-fill p-2"></i>Contact us</button>
