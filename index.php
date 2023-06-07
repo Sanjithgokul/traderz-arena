@@ -6,6 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="icon" href="/images/favicon.svg" type="image/svg" sizes="any">
+
     <?php include("common-css.php"); ?>
     <title>Traderz Arena</title>
 </head>
@@ -464,7 +465,7 @@
                         <div class="carousel-slider">
                             <div class="carousel-details-container">
                                 <div class="carousel-header">
-                                    <img loading="lazy" src="../images/green-quotes.svg" alt="quotes">
+                                    <img loading="lazy"  src="../images/green-quotes.svg" alt="quotes">
                                 </div>
 
                                 <div class="carousel-info">

@@ -2,8 +2,7 @@
       <div class="container">
           <nav class="navbar navbar-expand-sm" id="navbar-example">
               <div class="container-fluid backround">
-                  <a class="navbar-brand" href="https://www.traderzarena.com/"><img loading="lazy" width="100"
-                          src="./images/traderz-Logo.svg" title="Traderz-arena-logo" alt="Traderz-arena"></a>
+                  <a class="navbar-brand" href="https://www.traderzarena.com/"><img loading="lazy" width="100" height="65" src="./images/traderz-Logo.svg" title="Traderz-arena-logo" alt="Traderz-arena"></a>
                           <!-- testing Using id=Toggle -->
                   <button id="toggle" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar" aria-label="click here">
                       <span class="icon-menu"></span>

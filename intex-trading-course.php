@@ -60,10 +60,10 @@
                     <!-- Tabs -->
                     <div class="container text-align-center expert-course-list p-0">
                         <ul class="nav nav-tabs flex-no-warp course-navbar  flex-nowarp" role="tablist">
-                            <li class="nav-items"><a class="nav-link active" href="#description" aria-label="Description" data-bs-toggle="tab">Description</a></li>
-                            <li class="nav-items"><a class="nav-link" aria-label="What’s included" href="#wti" data-bs-toggle="tab">What’s included</a></li>
-                            <li class="nav-items"><a class="nav-link"  aria-label="Lessons" href="#lessons" data-bs-toggle="tab">Lessons</a></li>
-                            <li class="nav-items"><a class="nav-link"  aria-label="Reviews" href="#review" data-bs-toggle="tab">Reviews</a></li>
+                            <li class="nav-items" role="listitems"><a class="nav-link active" href="#description" aria-label="Description" data-bs-toggle="tab">Description</a></li>
+                            <li class="nav-items" role="listitems"><a class="nav-link" aria-label="What’s included" href="#wti" data-bs-toggle="tab">What’s included</a></li>
+                            <li class="nav-items" role="listitems"><a class="nav-link"  aria-label="Lessons" href="#lessons" data-bs-toggle="tab">Lessons</a></li>
+                            <li class="nav-items" role="listitems"><a class="nav-link"  aria-label="Reviews" href="#review" data-bs-toggle="tab">Reviews</a></li>
                         </ul>
 
                         <div class="tab-content expert-course-tab">
