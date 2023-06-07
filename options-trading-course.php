@@ -7,7 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content=" Master the art of Options Trading with Traderz Arena's Intraday and Swing Trading course. Learn effective strategies and enhance your trading skills.">
     <link rel="icon" href="/images/favicon.svg" type="image/svg" sizes="any">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap" rel="stylesheet">
     <?php include("common-css.php"); ?>
     <title>Learn Intraday and Swing Trading in Options - Traderz Arena</title>
 </head>

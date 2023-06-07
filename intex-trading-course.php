@@ -7,7 +7,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="Learn how to trade indices with precision and confidence with Traderz Arena. Our practical learning and personalized support will help you understand Intex trading.">
     <link rel="icon" href="/images/favicon.svg" type="image/svg" sizes="any">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap" rel="stylesheet">
     <?php include("common-css.php"); ?>
     <title>Traderz Arena Intex Trading Course - Master the Art of Trading Indices</title>
 </head>
