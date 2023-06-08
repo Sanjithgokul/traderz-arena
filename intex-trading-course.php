@@ -47,8 +47,7 @@
         <div class="underline"></div>
         <div class="container master-expert-desc">
             <p class="text-gray lh-2 text-justify mt-4">The Traderz Arena Intex Trading Course is designed to equip you with the knowledge and skills needed to master the art of trading indices. With a focus on practical learning and real-world scenarios, this course offers a comprehensive understanding of Intex trading, including trend analysis, chart formations, technical analysis indicators, sentimental indicators, and volume analysis.</p>
-            <p class="text-gray lh-2 text-justify mt-4">Through this course, you will learn to trade with precision and confidence, using the latest techniques and tools to maximize profits and minimize risks. Whether you're a beginner or an experienced trader, this course offers something for everyone, with personalized support and one-on-one mentoring from expert traders.</p>
-        </div>
+            <p class="text-gray lh-2 text-justify mt-4">This course will teach you to trade with precision and confidence, using the latest techniques and tools to maximize profits and minimize risks. Whether you're a beginner or an experienced trader, this course offers something for everyone, with personalized support and one-on-one mentoring from expert traders.</div>
 
         </div>
     </section>
@@ -73,18 +72,18 @@
                             <div class="container tab-pane  active article-one mt-5 mb-5 p-0" id="description">
                                 <h5>Description</h5>
                                 <div class="dashed"></div>
-                                <p class="sub-details text-justify">The Traderz Arena Intex Trading Course focuses on intraday trading in the Index market, covering various techniques such as Gap Theory, Timing the Market Trends, Adjustment Concepts, and Open Interest Analysis. Additionally, the course offers one month of support to ensure you have a comprehensive understanding of the concepts covered.</p>
+                                <p class="sub-details text-justify">The Traderz Arena Intex Trading Course focuses on intraday trading in the Index market, covering various techniques such as Gap Theory, Timing the Market Trends, Adjustment Concepts, and Open Interest Analysis. Additionally, the course offers one month of support to ensure you comprehensively understand the concepts covered.</p>
                                 <h4 class="mb-3">Course details :</h4>
                                 <p class="mb-3">Duration: <span class="sub-details"> 2 Weeks</span></p>
                                 <p class="mb-3">Fee: <span class="sub-details">25,000 INR + GST</span></p>
                                 <p class="mb-3">Eligible People: <span class="sub-details">Working Professional, Full time/Part Time trader, 12th and Graduate Students</span></p>
                                 <p class="mb-3">What you will learn:</p>
                                 <ul class="list-main-course">
-                                    <li>Intex Intraday Trading with a potential 30-35% ROI</li>
+                                    <li>Index Intraday Trading with a potential 30-35% ROI</li>
                                     <li>Gap Theory and timing market trends</li>
                                     <li>Adjustment concepts and Open Interest Analysis (OI Analysis)</li>
-                                    <li>How to use technical analysis indicators, including Relative Strength Intex, Stochastic, MACD, Bollinger Bands, and ADX</li>
-                                    <li>Sentimental indicators, including Put/Call Ratio, Bull/Bear Indicators, Insider Activity, and CBOE Volatility Intex (VIX)</li>
+                                    <li>How to use technical analysis indicators, including Relative Strength Index, Stochastic, MACD, Bollinger Bands, and ADX</li>
+                                    <li>Sentimental indicators, including Put/Call Ratio, Bull/Bear Indicators, Insider Activity, and CBOE Volatility Index (VIX)</li>
                                     <li>Volume and Open Interest with Support and Resistance levels</li>
                                     <li>Intermarket Technical Analysis</li>
                                 </ul>
@@ -110,7 +109,7 @@
                                 <h5 class="mb-3">I. Intex Trading Course</h5>
                                 <p class="title-in-detail mt-4 mb-4">Learn essential skills and strategies for successful trading in the Intex Trading Course.</p>
                                 <h4 class="mt-4 mb-3">Chapter 1: Positional Expiry Trading Concepts (Wednesday Trade)</h4>
-                                <p class="mt-4 mb-3 ml-5 subtitle-heading">This chapter provides insights on Positional Expiry Trading Concepts and Wednesday Trades for profitable trading, making trades with a higher probability of success.</p>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">This chapter provides insights on Positional Expiry Trading Concepts which is Wednesday Trades for profitable trading, making trades with a higher probability of success.</p>
                                 <ul class="list-main-course-bullet">
                                     <li class="lh-6">Wednesday trade</li>
                                     <li class="lh-6">Technical concepts</li>
@@ -137,7 +136,7 @@
                                 </ul>
 
                                 <h4 class="mt-4 mb-3">Chapter 4: Decay Trade</h4>
-                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Gain knowledge on the unique Decay Trading strategy to time your trades effectively in a decaying market.</p>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Knowledge of the unique Decay Trading strategy to time your trades effectively in a decaying market.</p>
                                 <ul class="list-main-course-bullet">
                                     <li class="lh-6">Options trading</li>
                                     <li class="lh-6">Theta decay</li>
@@ -149,7 +148,7 @@
                                 <h4 class="mt-4 mb-3">Chapter 5: Jackpot Trade</h4>
                                 <p class="mt-4 mb-3 ml-5 subtitle-heading">Learn the Jackpot Trade strategy, an effective trading technique to achieve high-profit opportunities.</p>
                                 <ul class="list-main-course-bullet">
-                                    <li class="lh-6">High-risk trading</li>
+                                    <li class="lh-6">Defined-risk trading</li>
                                     <li class="lh-6">Position sizing</li>
                                     <li class="lh-6">Technical analysis</li>
                                     <li class="lh-6">Trade execution</li>
@@ -182,8 +181,8 @@
                                     <li class="lh-6">Technical indicators</li>
                                 </ul>
 
-                                <h4 class="mt-4 mb-3">Chapter 9: Intraday PalsyCR An</h4>
-                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Understand the intricacies of Intraday PalsyCR An, a unique trading strategy, and utilize 1 Month of Support to stay profitable.</p>
+                                <h4 class="mt-4 mb-3">Chapter 9: Intraday PCR Analysis</h4>
+                                <p class="mt-4 mb-3 ml-5 subtitle-heading">Understand the intricacies of Intraday PCR Analysis, and a unique trading strategy, and utilize 1 Month of Support to stay profitable.</p>
                                 <ul class="list-main-course-bullet">
                                     <li class="lh-6">Profitable strategies</li>
                                     <li class="lh-6">Trading psychology</li>
