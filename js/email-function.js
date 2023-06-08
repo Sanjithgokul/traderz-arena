@@ -59,6 +59,27 @@ navLinks.forEach((l) => {
 //     }, 400)
 // });
 
+//Close Testing
+$(document).ready(function(){
+    $(".nav-item").click(function () {
+        $(".icon-menu").css("display","inline");
+        $(".bi-x-lg").css("display", "none"); 
+    }); 
+   
+});
+
+//Close dropdown Testing
+$(document).ready(function(){
+    $(".dropdown").click(function () {
+        $(".icon-menu").css("display","none");
+        $(".bi-x-lg").css({"display": "contents","color":"white"});
+    }); 
+   
+});
+
+
+
+
 // Testing Menu closed
 $(document).ready(function(){
     $(".navbar-toggler").click(function () {
@@ -115,7 +136,12 @@ $(document).ready(function(){
 //     });
 //   });
 
-
+//scroll to particular section
+$("#course-dropdown").on('click',function() {
+    $('html, body').animate({
+        'scrollTop' : $("#course-sec").position().top
+    });
+});
 
 //Testing working
 $(document).click(function (event) {
@@ -130,7 +156,7 @@ $(document).click(function (event) {
         var $navbar = $("#toggle");
         var opened = $navbar.hasClass("collapsed");
         console.log(opened);
-        if(opened !== true){
+        if(opened !== true && !clickover.hasClass("navbar-toggle")){
             $(".icon-menu").css("display","none");
             $(".bi-x-lg").css({"display": "contents","color":"white"});
         }else{ 
