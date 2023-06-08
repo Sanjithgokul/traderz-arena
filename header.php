@@ -20,7 +20,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                           </li> -->
                           <li class="nav-item active">
                               <!-- http://www.traderzarena.com/-->
-                              <a class="nav-link nav-item-1 main-icon" href="https://traderzarena.com/"><i class="bi bi-house-door-fill p-2"></i>Home</a>
+                              <a class="nav-link nav-item-1 main-icon" href="https://traderzarena.com"><i class="bi bi-house-door-fill p-2"></i>Home</a>
                           </li>
                           <li class="nav-item">
                               <a href="#about-sec" class="nav-link nav-item-1 main-icon"><i class="bi bi-person-circle p-2"></i>About</a>
@@ -28,10 +28,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                           <li class="nav-item dropdown">
                               <a href="#course-sec" class="nav-link nav-item-1 dropdown-toggle main-icon" role="button" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi bi-binoculars-fill"></i>Courses</a>
                               <ul class="dropdown-menu home-dropdown-menu ">
-                                  <li><a class="dropdown-item fw-normal" href="https://traderzarena.com/expert-trading-course.php"><i class="bi bi-book-half book-icon" style="padding:0px 12px 0px 0px"></i>Expert Trading Course</a></li>
-                                  <li><a class="dropdown-item fw-normal" href="https://traderzarena.com/options-trading-course.php"><i class="bi bi-book-half book-icon" style="padding:0px 12px 0px 0px"></i>Options Trading</a></li>
-                                  <li><a class="dropdown-item fw-normal" href="https://traderzarena.com/intex-trading-course.php"><i class="bi bi-book-half book-icon" style="padding:0px 12px 0px 0px"></i>Intex Trading</a></li>
-                                  <li><a class="dropdown-item fw-normal" href="https://traderzarena.com/mentorship-program-course.php"><i class="bi bi-book-half book-icon" style="padding:0px 12px 0px 0px"></i>Mentorship Program</a></li>
+                                  <li><a class="dropdown-item fw-normal" href="/expert-trading-course.php"><i class="bi bi-book-half book-icon" style="padding:0px 12px 0px 0px"></i>Expert Trading Course</a></li>
+                                  <li><a class="dropdown-item fw-normal" href="/options-trading-course.php"><i class="bi bi-book-half book-icon" style="padding:0px 12px 0px 0px"></i>Options Trading</a></li>
+                                  <li><a class="dropdown-item fw-normal" href="/intex-trading-course.php"><i class="bi bi-book-half book-icon" style="padding:0px 12px 0px 0px"></i>Intex Trading</a></li>
+                                  <li><a class="dropdown-item fw-normal" href="/mentorship-program-course.php"><i class="bi bi-book-half book-icon" style="padding:0px 12px 0px 0px"></i>Mentorship Program</a></li>
                               </ul>
                           </li>
                           <li class="nav-item">
@@ -41,7 +41,8 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                               <a href="#hidden-sec" aria-label="none section" class="nav-link nav-item-1 hidden-sec"></a>
                           </li>
                           <li class="header-btn text-nowrap">
-                              <button type="button" onclick="window.location.href='contact.php'"><i class="bi bi-telephone-fill p-2"></i>Contact us</button>
+                              <!-- <button type="button" onclick="window.location.href='contact.php'"><i class="bi bi-telephone-fill p-2"></i>Contact us</button> -->
+                              <a href="/contact.php" class="button"><i class="bi bi-telephone-fill p-2"></i>Contact us</a>
                           </li>
                       </ul>
                   </div>

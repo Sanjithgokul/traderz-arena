@@ -16,7 +16,7 @@
 <body data-bs-spy="scroll" data-bs-target="#navbar-example">
 <?php include("header.php"); ?>
     
-    <div class="backround-banner backround-banner-1 d-flex flex-column" id="course-sec">
+    <div class="backround-banner-1 backround-banner-2 d-flex flex-column" id="course-sec">
         <div class="spy-element"></div>
         <div class="container">
             <div class="row justify-content-center">

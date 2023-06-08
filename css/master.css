@@ -174,8 +174,8 @@ button:focus:not(:focus-visible){
 }
 
 
-
-.header-btn button{
+/* testing */
+.header-btn .button{
   padding: 10px 15px;
   background:var(--theme);
   border-radius: 5px;
@@ -297,7 +297,8 @@ button:focus:not(:focus-visible){
   outline: 1px solid var(--white);
 }
 
-.header-btn button:hover{
+/* testing */
+.header-btn .button:hover{
   background:  #000000; 
   transform: scale(1.05) translateY(-2px);
   transition: all ease 0.2s;
@@ -839,8 +840,340 @@ color: var(--theme);
 }
 
 
+/* Contact.css - [Start] */
 
-/* Testing */
+.contact-backround-banner{
+  background-image: url(../images/contact-backround.webp);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  min-height: 65vh;
+  width: 100%;
+}
+
+.d-flex-icon{
+  display: flex;
+  justify-content: flex-start;
+}
+
+.contact-left{
+  padding: 30px 50px 30px 20px;
+  background: #15CDCB;
+  position: relative;
+  bottom: 102px;
+  border-radius: 10px;
+}
+
+.contact-email{
+  margin-bottom: 100px;
+}
+
+.first-bg{
+  background: #DAFFFC;
+}
+
+.contact-form textarea,
+.contact-form input {
+  padding: 15px;
+  border: unset;
+  color: #333 !important;
+  border-bottom: 1px solid var(--theme);
+  border-radius: 0;
+}
+
+
+.contact-form h3{
+  font-size: 28px !important;
+}
+
+.btn-primary{
+  color: #fff;
+  border-color: unset;
+  padding: 10px 40px;
+  border: unset;
+}
+
+.form-control:focus{
+  box-shadow: unset;
+}
+
+.contact-btn button:hover{
+  background: #000000;
+  color: #fff;
+}
+
+.contact-form form{
+  box-shadow: 0rem 0.5rem 2rem 0rem rgba(35, 44, 59, 0.1);
+  border-radius: 10px;
+  padding: 20px;
+}
+
+.foooter-social-icon li img{
+  transition: transform 0.5s;
+}
+
+.foooter-social-icon li img:hover{
+  transform: rotate(90deg);
+}
+
+.contact-email .foooter-social-icon{
+  display: flex;
+  align-items: center;
+}
+
+/* [end]- contactc css */
+
+
+/* master-1 css - [Start] */
+
+.sub-heading{
+  font-size:28px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.sub-heading .text-primary b{
+color:var(--theme);
+font-size:28px;
+}
+
+.master-expert{ 
+padding:70px 0px 30px 0px;
+}
+
+.master-expert-heading {
+text-align: center;
+letter-spacing:unset;
+font-size:2rem !important;
+font-weight:bold !important;
+}
+
+.underline{
+width: 80px;
+height: 3px;
+border-radius:30px;
+background-color:var(--theme);
+margin-left: auto;
+margin-right: auto;
+/* margin-top:20px; */
+}
+
+
+.expert-course-list >ul li{
+display: inline;
+margin-left:30px;
+color:black;
+}
+
+.expert-course-list >ul li a{
+color:black;
+}
+
+.expert-course-list ul li a:hover {
+color:var(--theme);
+}
+
+
+.submit-form{
+border:1px solid var(--theme);
+border-radius:10px;
+background-color: #fff;
+box-shadow: 0 0 5px #333;
+position:sticky; 
+top:120px;
+padding:30px;
+}
+
+.form-control{
+border: none;
+border-bottom: 1px solid;
+border-radius: 0;
+}
+
+.contact-btn>button {
+background-color: var(--theme);
+}
+
+.expert-course-details{
+border:1px solid #3333;
+padding: 40px;
+}
+
+.dashed{
+width:40px;
+height:3px;
+border:1px solid var(--theme);
+background-color: var(--theme);
+}
+
+
+.article-one h4{
+font-weight: bold;
+color: black;
+}
+
+.dashed{
+margin-bottom: 20px;
+}
+
+.article-one>p{
+font-weight: bold;
+color: black;
+}
+
+.article-one .sub-details{
+font-size:16px;
+font-weight:100;
+}
+
+.article-two >h4 , h5{
+font-weight: bold;
+color: black;
+ }
+
+
+   
+.list-main-course li{
+position: relative;
+padding-left: 1.75rem;
+}
+
+
+.list-main-course li::before{
+  content: "\f005";
+  font-family: "Font Awesome 5 Free";
+  padding: 0 10px 0 0;
+  color:var(--theme);
+  position:absolute;
+  left:0;
+}
+
+ 
+.list-main-course-bullet li{
+  margin-left: 30px; /*62px*/
+  position: relative;
+  padding-left: 1.75rem;
+}
+
+.list-main-course-bullet li::before{
+  list-style-type:none; /* list-style:initial;*/
+  content: "\f005";
+  font-family: "Font Awesome 5 Free";
+  padding: 0 10px 0 0;
+  color:var(--theme);
+  position:absolute;
+  left:0;
+}
+
+.title-in-detail{
+  font-size:16px;
+  /* font-weight: 600; */
+}
+
+.article-three >h4{
+  font-weight: bold;
+  color: black;
+  /* margin-left:18px; */
+}
+
+
+.article-three > .subtitle-heading{
+font-weight: bold;
+color: black;
+font-size: 14px;
+margin-left: 30px;
+}
+
+.article-three >h5{
+  font-weight: bold;
+  color: black;
+}
+
+.ratingstar-list{
+margin-left:10px;
+}
+
+.ratingstar-list ul li{
+  display: inline;
+}
+
+
+.course-rating-star{
+  width:15px;
+  height:15px;
+}
+
+.review-box{
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+}
+
+
+/* .review-sec>h4{
+  font-weight: bold;
+  color: black; 
+} */
+
+.review-box>p{
+  font-weight: bold;
+  color: black; 
+}
+
+.review-para{
+  font-size:16px;
+  /* font-weight: 600; */
+  color:black;
+}
+
+.accordion-main-content{
+  border: none;
+}
+
+.expert-course-list ul li a{
+font-weight: 600;
+}
+
+.course-navbar  .nav-link{
+border: unset;
+white-space:nowrap;
+}
+.course-navbar  .nav-link.active {
+border: none;
+color:var(--theme);
+border-bottom: 2px solid var(--theme);
+}
+
+.course-navbar .nav-link:focus-visible {
+border: none;
+}
+
+.course-navbar{
+flex-wrap: nowrap;
+overflow:auto;
+}
+
+.course-navbar::-webkit-scrollbar{
+width:0;
+}
+
+.call-to-btn{
+background-color:var(--theme);
+color:#fff;
+}
+.call-to-btn:hover{
+background-color:black;
+color:#fff;
+}
+
+.text-clr{
+  color: #7D858C !important;
+}
+
+/* [End]-master-1 css */
+
+
+/* For  Navbar dropdown Testing */
 @media (hover:hover)
 {
 .dropdown:hover > .dropdown-menu{
@@ -852,6 +1185,8 @@ color: var(--theme);
 
 
 
+
+/* All Repsonsable @media queries */
 
 @media (max-width: 1400px){
   .backround-banner{
@@ -910,6 +1245,51 @@ color: var(--theme);
 
 }
 
+/* contact.css -media queries */
+@media(min-width:997px){
+  .contact-left{
+      padding: 0px 80px 30px 20px;
+      background: #15CDCB;
+      width: 85%;
+  }
+
+  .d-flex-contact{
+      display: flex;
+      justify-content: center;
+  }
+
+  .contact-form{
+      width: 80%;
+      position: relative;
+      top: 100px;
+  }
+
+  .contact-form form{
+      position: relative;
+      bottom: 40px;
+  }
+
+}
+
+
+
+@media(max-width:998px){
+  .contact-align{
+      display: flex;
+      justify-content: center;
+  }
+
+  .contact-form-section{
+      padding-bottom: 30px;
+  }
+  .contact-form textarea,
+  .contact-form input {
+  padding: 16px;
+}
+}
+
+/* end of contact.css */
+
 
 @media(max-width:989px){
   .reverse{
@@ -951,10 +1331,11 @@ color: var(--theme);
     white-space: unset;
   }
 
-  /* Testing */
-  /* .dropdown-toggle::after{
-    content: unset;
-  }   */
+/* master-1.css */
+.backround-banner-2 {
+  min-height: 65vh;
+}
+
 }
 
 
