@@ -7,11 +7,13 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <!-- <link rel="icon" href="/images/favicon.svg" type="image/svg" sizes="any"> -->
     <?php include("common-css.php"); ?>
+    <?php include("tracking-codes.php"); ?>
     <title>Traderz Arena</title>
 </head>
-<?php include("header.php"); ?>
+
 
 <body data-bs-spy="scroll" data-bs-target="#navbar-example">
+<?php include("header.php"); ?>
     <!-- Modal -->
     
     <!-- <div class="popup-section">
@@ -87,8 +89,7 @@
                     </div>
                 </div>
                 <div class="col-md-12 col-lg-6 col-xl-6 d-flex">
-                    <img width="100%" height="100%" loading="lazy" src="./images/section-1234.webp" title="traderz-arena"
-                        alt="traderz-arena">
+                    <img width="100%" height="100%" loading="lazy" src="./images/section-1234.webp" title="traderz-arena" alt="traderz-arena">
                 </div>
             </div>
         </div>
@@ -412,7 +413,7 @@
                         <div class="carousel-slider">
                             <div class="carousel-details-container">
                                 <div class="carousel-header">
-                                    <img loading="lazy" src="../images/green-quotes.svg" alt="quotes">
+                                    <img loading="lazy" width="100" height="auto" src="../images/green-quotes.svg" alt="quotes">
                                 </div>
 
                                 <div class="carousel-info">
@@ -450,7 +451,7 @@
                                         market.</p>
                                 </div>
                                 <div class="carousel-close-quote">
-                                    <img loading="lazy" src="../images/red-quotes.svg" alt="quotes">
+                                    <img loading="lazy" width="50" hight="auto" src="../images/red-quotes.svg" alt="quotes">
                                 </div>
                             </div>
                             <div class="carousel-profile">
@@ -464,7 +465,7 @@
                         <div class="carousel-slider">
                             <div class="carousel-details-container">
                                 <div class="carousel-header">
-                                    <img loading="lazy"  src="../images/green-quotes.svg" alt="quotes">
+                                    <img loading="lazy" width="100" height="auto" src="../images/green-quotes.svg" alt="quotes">
                                 </div>
 
                                 <div class="carousel-info">
@@ -502,7 +503,7 @@
                                         wonderful training and personal support and wish Traderz Arena all the best.</p>
                                 </div>
                                 <div class="carousel-close-quote">
-                                    <img loading="lazy" src="../images/red-quotes.svg" alt="quotes">
+                                    <img loading="lazy" width="50" hight="auto" src="../images/red-quotes.svg" alt="quotes">
                                 </div>
                             </div>
                             <div class="carousel-profile">

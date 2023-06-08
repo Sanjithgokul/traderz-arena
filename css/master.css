@@ -992,7 +992,8 @@ color: var(--theme);
       padding: 0;
     } */
     .carousel-slide .carousel{
-      min-height: 85vh;
+      /* testing 85vh */
+      min-height: 72vh;
     }
 
     .space{
@@ -1133,6 +1134,12 @@ color: var(--theme);
   .navbar-expand-sm .navbar-nav .dropdown-menu {
     top:85px;
 }
+
+.hidden-sec{
+  display:none;
+}
+
+
 }
 
 

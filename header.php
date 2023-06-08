@@ -1,4 +1,9 @@
-  <header class="header-menus" id="traderz-arena-header">
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PRZ5WN6"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+<header class="header-menus" id="traderz-arena-header">
       <div class="container">
           <nav class="navbar navbar-expand-sm" id="navbar-example">
               <div class="container-fluid backround">
@@ -33,7 +38,7 @@
                               <a href="#" class="nav-link nav-item-1 main-icon"><i class="bi bi-file-text-fill p-2"></i>Blog</a>
                           </li>
                           <li class="nav-item">
-                              <a href="#hidden-sec" aria-label="none section" class="nav-link nav-item-1"></a>
+                              <a href="#hidden-sec" aria-label="none section" class="nav-link nav-item-1 hidden-sec"></a>
                           </li>
                           <li class="header-btn text-nowrap">
                               <button type="button" onclick="window.location.href='contact.php'"><i class="bi bi-telephone-fill p-2"></i>Contact us</button>
