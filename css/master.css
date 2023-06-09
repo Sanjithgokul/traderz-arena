@@ -567,11 +567,11 @@ button:focus:not(:focus-visible){
   border-radius: 5px;
   padding: 10px 15px;
 }
-
+/* 
 .tesimonial-right-span{
   font-size: 22px;
   font-weight: 600;
-}
+} */
 
 .box-inner{
   width: 100%;
@@ -858,7 +858,7 @@ color: var(--theme);
 
 .contact-left{
   padding: 30px 50px 30px 20px;
-  background: var(--theme);
+  background: #3fa34d;
   position: relative;
   bottom: 102px;
   border-radius: 10px;
@@ -992,7 +992,7 @@ border-radius: 0;
 }
 
 .contact-btn>button {
-background-color: var(--theme);
+background-color: #3fa34d;
 }
 
 .expert-course-details{
@@ -1250,7 +1250,7 @@ color:#fff;
 @media(min-width:997px){
   .contact-left{
       padding: 0px 80px 30px 20px;
-      background: var(--theme);
+      background: #3fa34d;
       width: 85%;
   }
 

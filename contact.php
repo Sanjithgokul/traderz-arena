@@ -34,28 +34,29 @@
 
                         <div class="contact-email">
                             <h4 class="m text-white mb-2"><b>ADDRESS</b></h4>
-                            <p class="text-justify text-white"> 2nd floor , Door No. 2, 634, First Main Rd,Lalithamba Nagar, Manapakkam,Chennai, Tamil Nadu 600125.</p>
-                        </div>
-
-                        <div class="contact-email">
-                            <h4 class="m text-white mb-2"><b>ON SOCIAL</b> </h4>
-                            <div class="social-icon mt-3">
-                            <ul class="foooter-social-icon">
-                                <li> <a href="https://www.facebook.com/traderz.arena/"><img width="40" height="40" loading="lazy" src="./images/facebook-contact.svg"  title="traderz-arena-facebook" alt="traderz-arena"></a></li>
-                                <li> <a href="https://twitter.com/ArenaTraderz"><img width="40" height="40" loading="lazy" src="./images/twitter-contact.svg"  title="traderz-arena-twitter" alt="traderz-arena"></a></li>
-                                <li> <a href="https://www.youtube.com/channel/UCrN6WFN-pbf8DywBdZsI79g"><img width="40" height="40" loading="lazy" src="./images/youtube-contact.svg" title="traderz-arena-youtube"  alt="traderz-arena"></a></li>
-                                <li> <a href="#"><img width="40" height="40" loading="lazy" src="./images/instagram-contact.svg"  title="traderz-arena-instagram" alt="traderz-arena"></a></li>
-                            </ul>
-                            </div>
+                            <p class="text-justify text-white">2nd floor, First Main Rd, Lalithamba Nagar, Manapakkam, Chennai - 600125.</p>
                         </div>
                         <!-- <div class="contact-email">
                             <h4 class="m text-white"><b>BY FORM</b></h4>
                             <p class="text-justify text-white lh-2">Use the contact form to send a message. I’ll get back to you within 24 business hours</p>
                         </div> -->
                         <div class="contact-email">
-                            <h4 class="m text-white"><b>HOURS</b></h4>
-                            <span class="tesimonial-right-span text-white">MON - FRI, 9:30am - 5:30pm IST</span>
+                            <h4 class="m text-white mb-2"><b>HOURS</b></h4>
+                            <p class="text-white">MON - FRI, 9:30am - 5:30pm IST</p>
                         </div>
+
+                        <div class="contact-email">
+                            <h4 class="m text-white mb-2"><b>ON SOCIAL</b> </h4>
+                            <div class="social-icon mt-3">
+                            <ul class="foooter-social-icon">
+                                <li> <a href="https://www.facebook.com/traderz.arena/"><img width="30" height="30" loading="lazy" src="./images/facebook-contact.svg"  title="traderz-arena-facebook" alt="traderz-arena"></a></li>
+                                <li> <a href="https://twitter.com/ArenaTraderz"><img width="30" height="30" loading="lazy" src="./images/twitter-contact.svg"  title="traderz-arena-twitter" alt="traderz-arena"></a></li>
+                                <li> <a href="https://www.youtube.com/channel/UCrN6WFN-pbf8DywBdZsI79g"><img width="30" height="30" loading="lazy" src="./images/youtube-contact.svg" title="traderz-arena-youtube"  alt="traderz-arena"></a></li>
+                                <li> <a href="#"><img width="30" height="30" loading="lazy" src="./images/instagram-contact.svg"  title="traderz-arena-instagram" alt="traderz-arena"></a></li>
+                            </ul>
+                            </div>
+                        </div>
+
                     </div>
                 </div>
                 <div class="col-sm-12 col-md-10 col-lg-6 d-flex-contact">
