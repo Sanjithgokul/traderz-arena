@@ -8,7 +8,6 @@
     <!-- <link rel="icon" href="/images/favicon.svg" type="image/svg" sizes="any"> -->
     <?php include("common-css.php"); ?>
     <?php include("tracking-codes.php"); ?>
-    
 </head>
 <body data-bs-spy="scroll" data-bs-target="#navbar-example">
 <?php include("header.php"); ?>
@@ -203,7 +202,7 @@
                                     </div>
                                 </div>
                                 <div class="course-btn course-btn-2 d-flex">
-                                    <a  href="https://traderzarena.com/expert-trading-course.php">Read More</a>
+                                    <a  href="/expert-trading-course.php">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -230,7 +229,7 @@
                                     </div>
                                 </div>
                                 <div class="course-btn course-btn-3 d-flex">
-                                    <a  href="https://traderzarena.com/options-trading-course.php">Read More</a>
+                                    <a  href="/options-trading-course.php">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -257,7 +256,7 @@
                                     </div>
                                 </div>
                                 <div class="course-btn course-btn-4 d-flex">
-                                    <a  href="https://traderzarena.com/intex-trading-course.php">Read More</a>
+                                    <a  href="/intex-trading-course.php">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -285,7 +284,7 @@
                                     </div>
                                 </div>
                                 <div class="course-btn d-flex">
-                                    <a  href="https://traderzarena.com/mentorship-program-course.php">Read More</a>
+                                    <a  href="/mentorship-program-course.php">Read More</a>
                                 </div>
                             </div>
                         </div>

@@ -5,12 +5,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Traderz Arena Intex Trading Course - Master the Art of Trading Indices</title>
     <meta name="description" content="Learn how to trade indices with precision and confidence with Traderz Arena. Our practical learning and personalized support will help you understand Intex trading.">
-    <!-- <link rel="icon" href="/images/favicon.svg" type="image/svg" sizes="any"> -->
     <link rel="preload stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous" />
     <?php include("common-css.php"); ?>
     <?php include("tracking-codes.php"); ?>
-    <title>Traderz Arena Intex Trading Course - Master the Art of Trading Indices</title>
+    
 </head>
 
 <body data-bs-spy="scroll" data-bs-target="#navbar-example">

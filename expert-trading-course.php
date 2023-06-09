@@ -5,12 +5,12 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Learn to trade like a Pro with Traderz Arena's Expert Trading Course</title>
     <meta name="description" content="Join Traderz Arena's expert trading course and learn the skills to trade like a pro. Get trained by experienced traders and start making profits today!">
-    <!-- <link rel="icon" href="/images/favicon.svg" type="image/svg" sizes="any"> -->
     <link rel="preload stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous" />
     <?php include("common-css.php"); ?>
     <?php include("tracking-codes.php"); ?>
-    <title>Learn to trade like a Pro with Traderz Arena's Expert Trading Course</title>
+    
 </head>
 
 <body data-bs-spy="scroll" data-bs-target="#navbar-example">
@@ -96,8 +96,7 @@
                                     <li>3 months of support</li>
                                 </ul>
                                 <!-- call to action btn -->
-                                <button onclick=" " type="button" class="btn call-to-btn cont_form_active  mt-3">Get
-                                    Started</button>
+                                <button onclick="" type="button" class="btn call-to-btn cont_form_active  mt-3">Get Started</button>
                             </div>
                             <!-- Aticle-two -->
                             <div class="container  tab-pane fade article-two mt-5 mb-5 p-0" id="wti">
