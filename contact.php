@@ -4,9 +4,10 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Traderz Arena</title>
     <?php include("common-css.php"); ?>
     <?php include("tracking-codes.php"); ?>
-    <title>Traderz Arena</title>
+    
 </head>
 <body>
 <?php include("header.php"); ?>
@@ -20,7 +21,7 @@
                 <div class="col-sm-12 col-md-10 col-lg-6">
                     <div class="contact-left">
                         <div class="contact-heading">
-                            <h2 class="heading text-bold text-white py-5">Contact Callie</h2>
+                            <h2 class="heading text-bold text-white py-5">Contact Details</h2>
                         </div>
                         <div class="contact-email">
                             <h4 class="m text-white mb-2"><b>BY MAIL</b></h4>
