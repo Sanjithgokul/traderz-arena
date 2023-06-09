@@ -858,14 +858,15 @@ color: var(--theme);
 
 .contact-left{
   padding: 30px 50px 30px 20px;
-  background: #15CDCB;
+  background: var(--theme);
   position: relative;
   bottom: 102px;
   border-radius: 10px;
 }
 
+/* test */
 .contact-email{
-  margin-bottom: 100px;
+  margin-bottom: 53px;
 }
 
 .first-bg{
@@ -877,7 +878,7 @@ color: var(--theme);
   padding: 15px;
   border: unset;
   color: #333 !important;
-  border-bottom: 1px solid var(--theme);
+  border-bottom: 1px solid var();
   border-radius: 0;
 }
 
@@ -1249,7 +1250,7 @@ color:#fff;
 @media(min-width:997px){
   .contact-left{
       padding: 0px 80px 30px 20px;
-      background: #15CDCB;
+      background: var(--theme);
       width: 85%;
   }
 

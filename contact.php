@@ -23,11 +23,22 @@
                             <h2 class="heading text-bold text-white py-5">Contact Callie</h2>
                         </div>
                         <div class="contact-email">
-                            <h4 class="m text-white"><b>BY MAIL</b></h4>
+                            <h4 class="m text-white mb-2"><b>BY MAIL</b></h4>
                             <p class="text-justify text-white">contact@traderzarena.com</p>
                         </div>
+
                         <div class="contact-email">
-                            <h4 class="m text-white"><b>ON SOCIAL</b> </h4>
+                            <h4 class="m text-white mb-2"><b>PHONE</b></h4>
+                            <p class="text-justify text-white">+91 76391 95577</p>
+                        </div>
+
+                        <div class="contact-email">
+                            <h4 class="m text-white mb-2"><b>ADDRESS</b></h4>
+                            <p class="text-justify text-white"> 2nd floor , Door No. 2, 634, First Main Rd,Lalithamba Nagar, Manapakkam,Chennai, Tamil Nadu 600125.</p>
+                        </div>
+
+                        <div class="contact-email">
+                            <h4 class="m text-white mb-2"><b>ON SOCIAL</b> </h4>
                             <div class="social-icon mt-3">
                             <ul class="foooter-social-icon">
                                 <li> <a href="https://www.facebook.com/traderz.arena/"><img width="40" height="40" loading="lazy" src="./images/facebook-contact.svg"  title="traderz-arena-facebook" alt="traderz-arena"></a></li>
@@ -43,7 +54,7 @@
                         </div> -->
                         <div class="contact-email">
                             <h4 class="m text-white"><b>HOURS</b></h4>
-                            <span class="tesimonial-right-span text-white">MON - FRI, 9am - 8pm EST</span>
+                            <span class="tesimonial-right-span text-white">MON - FRI, 9:30am - 5:30pm IST</span>
                         </div>
                     </div>
                 </div>
