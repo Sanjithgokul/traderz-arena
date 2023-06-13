@@ -5,9 +5,22 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Learn to trade like a Pro with Traderz Arena's Expert Trading Course</title>
-    <meta name="description" content="Join Traderz Arena's expert trading course and learn the skills to trade like a pro. Get trained by experienced traders and start making profits today!">
-    <link rel="preload stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous" />
+    <title>Learn Stock Market from Experts in Chennai - Start Earning Now!</title>
+<meta name="description" content="Gain expert knowledge and start earning big by enrolling in our stock market course in Chennai. Learn from experienced traders and unlock your potential now" />
+<link rel="canonical" href="https://www.traderzarena.com/expert-trading-course.php" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Learn Stock Market from Experts in Chennai - Start Earning Now!" />
+<meta property="og:description" content="Gain expert knowledge and start earning big by enrolling in our stock market course in Chennai. Learn from experienced traders and unlock your potential now" />
+<meta property="og:url" content="https://www.traderzarena.com/expert-trading-course.php" />
+<meta property="og:site_name" content="TRADERZARENA" />
+<meta property="og:image" content="https://traderzarena.com/images/expert-trading-course.jpg">
+<meta name="twitter:site" content="@traderzarena" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Learn Stock Market from Experts in Chennai - Start Earning Now!" />
+<meta name="twitter:description" content="Gain expert knowledge and start earning big by enrolling in our stock market course in Chennai. Learn from experienced traders and unlock your potential now" />
+<meta name="twitter:image" content="https://traderzarena.com/images/expert-trading-course.jpg" />
+<link rel="preload stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous" />
     <?php include("common-css.php"); ?>
     <?php include("tracking-codes.php"); ?>
     

@@ -5,8 +5,21 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Learn Intraday and Swing Trading in Options - Traderz Arena</title>
-    <meta name="description" content=" Master the art of Options Trading with Traderz Arena's Intraday and Swing Trading course. Learn effective strategies and enhance your trading skills.">
+    <title>Best Option Trading Course In Chennai [Basic to Advance Level - 2023]</title>
+    <meta name="description" content="Looking for top-rated options trading courses to learn essential skills from basics to advanced strategies? Our courses offer a solid foundation and in-depth understanding of how options trading works." />
+    <link rel="canonical" href="https://www.traderzarena.com/options-trading-course.php" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Best Option Trading Course In Chennai [Basic to Advance Level - 2023]" />
+    <meta property="og:description" content="Looking for top-rated options trading courses to learn essential skills from basics to advanced strategies? Our courses offer a solid foundation and in-depth understanding of how options trading works." />
+    <meta property="og:url" content="https://www.traderzarena.com/options-trading-course.php" />
+    <meta property="og:site_name" content="TRADERZARENA" />
+    <meta property="og:image" content="https://traderzarena.com/images/option-trading-course.jpg">
+    <meta name="twitter:site" content="@traderzarena" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Best Option Trading Course In Chennai [Basic to Advance Level - 2023]" />
+    <meta name="twitter:description" content="Looking for top-rated options trading courses to learn essential skills from basics to advanced strategies? Our courses offer a solid foundation and in-depth understanding of how options trading works." />
+    <meta name="twitter:image" content="https://traderzarena.com/images/option-trading-course.jpg" />
     <link rel="preload stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous" />
     <?php include("common-css.php"); ?>
     <?php include("tracking-codes.php"); ?>

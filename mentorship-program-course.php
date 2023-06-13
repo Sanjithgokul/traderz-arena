@@ -5,8 +5,21 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Transform Your Trading Strategy with Traderz Arena's Mentorship Program</title>
-    <meta name="description" content="Enroll in our mentorship program for complete A-Z trading concepts. Traderz Arena's expert trading course includes options trading, advanced techniques & more.">
+    <title>Mentorship Program Course - Learn to Trade Successfully from Experienced Traders</title>
+<meta name="description" content="Looking to develop your trading skills? Enroll in a mentorship program course and Learn from experts who have made it in the financial market. Sign up today and take your trading career to the next level." />
+<link rel="canonical" href="https://traderzarena.com/mentorship-program-course.php" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Mentorship Program Course - Learn to Trade Successfully from Experienced Traders" />
+<meta property="og:description" content="Looking to develop your trading skills? Enroll in a mentorship program course and Learn from experts who have made it in the financial market. Sign up today and take your trading career to the next level." />
+<meta property="og:url" content="https://traderzarena.com/mentorship-program-course.php" />
+<meta property="og:site_name" content="TRADERZARENA" />
+<meta property="og:image" content="https://traderzarena.com/images/mentorship-program-course.jpg">
+<meta name="twitter:site" content="@traderzarena" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Mentorship Program Course - Learn to Trade Successfully from Experienced Traders" />
+<meta name="twitter:description" content="Looking to develop your trading skills? Enroll in a mentorship program course and Learn from experts who have made it in the financial market. Sign up today and take your trading career to the next level." />
+<meta name="twitter:image" content="https://traderzarena.com/images/mentorship-program-course.jpg" />    
     <link rel="preload stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous" />
     <?php include("common-css.php"); ?>
     <?php include("tracking-codes.php"); ?>
