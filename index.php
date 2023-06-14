@@ -6,12 +6,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Chennai's Best Trading Institute To Learn Stock Market | 100% Practical</title>
     <meta name="description" content="Become a successful trader with Traderzarena. Start earning from the stock market by Investing your course fee in live trading & Gain confidence by learning essential concepts, tools, and techniques." />
-    <link rel="canonical" href="https://www.traderzarena.com/" />
+    <link rel="canonical" href="https://traderzarena.com/" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Chennai's Best Trading Institute To Learn Stock Market" />
     <meta property="og:description" content="Become a successful trader with Traderzarena. Start earning from the stock market by Investing your course fee in live trading & Gain confidence by learning essential concepts, tools, and techniques." />
-    <meta property="og:url" content="https://www.traderzarena.com/" />
+    <meta property="og:url" content="https://traderzarena.com/" />
     <meta property="og:site_name" content="TRADERZARENA" />
     <meta property="og:image" content="https://traderzarena.com/images/trading-course-online.jpg">
     <meta name="twitter:site" content="@traderzarena" />

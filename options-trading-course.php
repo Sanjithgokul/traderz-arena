@@ -7,12 +7,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Best Option Trading Course In Chennai [Basic to Advance Level - 2023]</title>
     <meta name="description" content="Looking for top-rated options trading courses to learn essential skills from basics to advanced strategies? Our courses offer a solid foundation and in-depth understanding of how options trading works." />
-    <link rel="canonical" href="https://www.traderzarena.com/options-trading-course.php" />
+    <link rel="canonical" href="https://traderzarena.com/options-trading-course.php" />
     <meta property="og:locale" content="en_US" />
     <meta property="og:type" content="website" />
     <meta property="og:title" content="Best Option Trading Course In Chennai [Basic to Advance Level - 2023]" />
     <meta property="og:description" content="Looking for top-rated options trading courses to learn essential skills from basics to advanced strategies? Our courses offer a solid foundation and in-depth understanding of how options trading works." />
-    <meta property="og:url" content="https://www.traderzarena.com/options-trading-course.php" />
+    <meta property="og:url" content="https://traderzarena.com/options-trading-course.php" />
     <meta property="og:site_name" content="TRADERZARENA" />
     <meta property="og:image" content="https://traderzarena.com/images/option-trading-course.jpg">
     <meta name="twitter:site" content="@traderzarena" />

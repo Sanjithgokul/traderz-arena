@@ -7,12 +7,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Learn Stock Market from Experts in Chennai - Start Earning Now!</title>
 <meta name="description" content="Gain expert knowledge and start earning big by enrolling in our stock market course in Chennai. Learn from experienced traders and unlock your potential now" />
-<link rel="canonical" href="https://www.traderzarena.com/expert-trading-course.php" />
+<link rel="canonical" href="https://traderzarena.com/expert-trading-course.php" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Learn Stock Market from Experts in Chennai - Start Earning Now!" />
 <meta property="og:description" content="Gain expert knowledge and start earning big by enrolling in our stock market course in Chennai. Learn from experienced traders and unlock your potential now" />
-<meta property="og:url" content="https://www.traderzarena.com/expert-trading-course.php" />
+<meta property="og:url" content="https://traderzarena.com/expert-trading-course.php" />
 <meta property="og:site_name" content="TRADERZARENA" />
 <meta property="og:image" content="https://traderzarena.com/images/expert-trading-course.jpg">
 <meta name="twitter:site" content="@traderzarena" />

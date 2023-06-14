@@ -7,12 +7,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Intex Trading Course - Start your Profitable Trading Journey Today!</title>
 <meta name="description" content="Learn how to become a better trader and earn more money, Consider signing up for the Intex Trading Course. With our program, you’ll build a solid foundation for a successful trading career." />
-<link rel="canonical" href="https://www.traderzarena.com/intex-trading-course.php" />
+<link rel="canonical" href="https://traderzarena.com/intex-trading-course.php" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Intex Trading Course - Start your Profitable Trading Journey Today!" />
 <meta property="og:description" content="Learn how to become a better trader and earn more money, Consider signing up for the Intex Trading Course. With our program, you’ll build a solid foundation for a successful trading career." />
-<meta property="og:url" content="https://www.traderzarena.com/intex-trading-course.php" />
+<meta property="og:url" content="https://traderzarena.com/intex-trading-course.php" />
 <meta property="og:site_name" content="TRADERZARENA" />
 // <meta property="og:image" content="https://traderzarena.com/images/intex-trading-course.jpg">
 <meta name="twitter:site" content="@traderzarena" />

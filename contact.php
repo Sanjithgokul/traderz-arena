@@ -4,17 +4,29 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Traderz Arena</title>
+<title>Get in Touch For Any Trading Related Queries - Traderz Arena</title>
+<meta name="description" content="Looking for the best share market training courses in Chennai?Connect with us today for thorough training and expert guidance." />
+<link rel="canonical" href="https://traderzarena.com/contact.php" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Get in Touch For Any Trading Related Queries - TraderzArena" />        
+<meta property="og:description" content="Looking for the best share market training courses in Chennai?Connect with us today for thorough training and expert guidance." />
+<meta property="og:url" content="https://traderzarena.com/contact.php" />
+<meta property="og:site_name" content="TRADERZARENA" />
+<meta property="og:image" content="https://traderzarena.com/images/contact-traderzarena.jpg">
+<meta name="twitter:site" content="@traderzarena" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Get in Touch For Any Trading Related Queries - TraderzArena" />
+<meta name="twitter:description" content="Looking for the best share market training courses in Chennai?Connect with us today for thorough training and expert guidance." />   
+<meta name="twitter:image" content="https://traderzarena.com/images/contact-traderzarena.jpg">
     <?php include("common-css.php"); ?>
     <?php include("tracking-codes.php"); ?>
     
 </head>
 <body>
 <?php include("header.php"); ?>
-
     <div class="contact-backround-banner py-5 d-flex">
     </div>
-
     <div class="contact-form-section">
         <div class="container">
             <div class="row contact-align">
