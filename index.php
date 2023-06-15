@@ -22,92 +22,14 @@
     <?php include("common-css.php"); ?>
     <?php include("tracking-codes.php"); ?>
 
-     <!-- web page Schema -->
-
-     <script type="application/ld+json">
-    {
-    "@context":"https://schema.org",
-    "@graph":[
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://traderzarena.com/","url":"https://traderzarena.com/","name":"Chennai's Best Trading Institute To Learn Stock Market | 100% Practical","isPartOf":{"@id":"https://traderzarena.com/#website"},"primaryImageOfPage":{"@id":"https://traderzarena.com/#primaryimage"},"image":{"@id":"https://traderzarena.com/#primaryimage"},"thumbnailUrl":"https://traderzarena.com/images/trading-course-online.jpg","description":"Become a successful trader with Traderzarena. Start earning from the stock market by Investing your course fee in live trading & Gain confidence by learning essential concepts, tools, and techniques.","breadcrumb":{"@id":"https://traderzarena.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://traderzarena.com/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://traderzarena.com/#primaryimage","url":"https://traderzarena.com/images/trading-course-online.jpg","contentUrl":"https://traderzarena.com/images/trading-course-online.jpg","width":1200,"height":630,"caption":"Online advanced Trading Course"},{"@type":"BreadcrumbList","@id":"https://traderzarena.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://traderzarena.com/#website","url":"https://traderzarena.com/","name":"Traderz Arena","description":"Wit. Wisdom. Value Investing.","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://traderzarena.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+    <script type="application/ld+json">
         {
-            "@type":"WebPage",
-            "@id":"https://traderzarena.com/",
-            "url":"https://traderzarena.com/",
-            "name":"Chennai's Best Trading Institute To Learn Stock Market | 100% Practical",
-            "isPartOf":{
-                "@id":"https://www.traderzarena.com/#website"
-            },
-            "primaryImageOfPage":{
-                "@id":"https://www.traderzarena.com/#primaryimage"
-            },
-            "image":{
-                "@id":"https://www.traderzarena.com/#primaryimage"
-            },
-            // "thumbnailUrl":"https://traderzarena.com/images/trading-course-online.jpg",
-            "description":"Become a successful trader with Traderzarena. Start earning from the stock market by Investing your course fee in live trading & Gain confidence by learning essential concepts, tools, and techniques.",
-            "breadcrumb":{
-                "@id":"https://www.traderzarena.com/#breadcrumb"
-            },
-            "inLanguage":"en-US",
-            "potentialAction":[
-                {
-                "@type":"ReadAction",
-                "target":[
-                    "https://www.traderzarena.com/"
-                ]
-                }
-            ]
-        },
-        {
-            "@type":"ImageObject",
-            "inLanguage":"en-US",
-            "@id":"https://www.traderzarena.com/#primaryimage",
-            // "url":"https://www.yourwebsite.com/images/og-image.jpg", 
-            // "contentUrl":"https://www.yourwebsite.com/images/og-image.jpg",
-            "width":1000,
-            "height":1600
-        },
-        {
-            "@type":"BreadcrumbList",
-            "@id":"https://www.traderzarena.com/#breadcrumb",
-            "itemListElement":[
-                {
-                "@type":"ListItem",
-                "position":1,
-                "name":"Home"
-                }
-            ]
-        },
-        {
-            "@type":"WebSite",
-            "@id":"https://www.traderzarena.com/#website",
-            "url":"https://www.traderzarena.com/",
-            "name":"Traderz Arena",
-            "description":"Wit. Wisdom. Value Investing.",
-            "potentialAction":[
-                {
-                "@type":"SearchAction",
-                "target":{
-                    "@type":"EntryPoint",
-                    "urlTemplate":"https://www.traderzarena.com/?s={search_term_string}"
-                },
-                "query-input":"required name=search_term_string"
-                }
-            ],
-            "inLanguage":"en-US"
-        }
-    ]
-    }
-    </script>
-    <!-- End of web page Schema -->
-
-<!-- Business Schema -->
-<script type="application/ld+json">
-        {
-            "@context": "http://schema.org",
+            "@context": "https://schema.org",
             "@type": "Organization",
             "name": "Traderz Aerna",
-            "logo": "https://www.traderzarena.com/images/traderz-Logo.svg",
-            "url": "https://www.traderzarena.com/",
+            "logo": "https://traderzarena.com/images/traderz-Logo.svg",
+            "url": "https://traderzarena.com/",
             "description": "Become a successful trader with Traderzarena. Start earning from the stock market by Investing your course fee in live trading & Gain confidence by learning essential concepts, tools, and techniques.",
             "founder": [
                 {
@@ -119,8 +41,8 @@
             ],
             "address": {
                 "@type": "PostalAddress",
-                "streetAddress": "2nd floor, Door No. 2, 634, First Main Rd,",
-                "addressLocality": "Lalithamba Nagar, Manapakkam,",
+                "streetAddress": "2nd floor, Door No. 2, 634, First Main Rd",
+                "addressLocality": "Lalithamba Nagar, Manapakkam",
                 "addressRegion": "Chennai, Tamil Nadu",
                 "postalCode": "600125",
                 "addressCountry": "India"
@@ -135,7 +57,7 @@
                 "@type": "ContactPoint",
                 // "telephone": "+91 76391 95577",
                 "contactType": "Customer Service",
-                "email": "contact@traderzarena.com",
+                "email": "admin@traderzarena.com",
                 "areaServed": [
                 "IN"
                 ]
@@ -144,7 +66,8 @@
     </script>
     <!-- Business Schema -->
 
- <!-- course Schema -->
+
+    <!-- course Schema -->
  <script type="application/ld+json">
     {
       "@context": "https://schema.org",
@@ -155,13 +78,13 @@
           "position": 1,
           "item": {
             "@type": "Course",
-            "url":"https://www.traderzarena.com/mentorship-program-course.php",
+            "url":"https://traderzarena.com/mentorship-program-course.php",
             "name": "Mentorship Program Course",
-            "description": "Join the mentorship program and learn about investments, markets, chart types, and technical theories with experienced mentors. Gain insight into trend reversals and chart patterns to make informed investment decisions.",
+            "description": "Looking to develop your trading skills? Enroll in a mentorship program course and Learn from experts who have made it in the financial market. Sign up today and take your trading career to the next level.",
             "provider": {
               "@type": "Organization",
               "name": "Traderz Arena",
-              "sameAs": "https://www.traderzarena.com/"
+              "sameAs": "https://traderzarena.com/"
            }
           }
         },
@@ -170,13 +93,13 @@
           "position": 2,
           "item": {
             "@type": "Course",
-            "url":"https://www.traderzarena.com/expert-trading-course.php",
+            "url":"https://traderzarena.com/expert-trading-course.php",
             "name": "Expect Trading Course",
-            "description": "Advance your trading skills with Traderz Arena's Expert Trading Course. Our 3-month program provides advanced strategies for traders of all levels.",
+            "description": "Gain expert knowledge and start earning big by enrolling in our stock market course in Chennai. Learn from experienced traders and unlock your potential now",
             "provider": {
               "@type": "Organization",
               "name": "Traderz Arena",
-              "sameAs": "https://www.traderzarena.com/"
+              "sameAs": "https://traderzarena.com/"
            }
          }
         },
@@ -185,13 +108,13 @@
           "position": 3,
           "item": {
             "@type": "Course",
-            "url":"https://www.traderzarena.com/options-trading-course.php",
+            "url":"https://traderzarena.com/options-trading-course.php",
             "name": "Option Trading Course",
-            "description": "Join our course for beginner and experienced traders. Our expert coaches teach market analysis, trade setup, and strategy building for financial success.",
+            "description": "Looking for top-rated options trading courses to learn essential skills from basics to advanced strategies? Our courses offer a solid foundation and in-depth understanding of how options trading works.",
             "provider": {
               "@type": "Organization",
               "name": "Traderz Arena",
-              "sameAs": "https://www.traderzarena.com/"
+              "sameAs": "https://traderzarena.com/"
            }
           }
         },
@@ -200,13 +123,13 @@
           "position": 4,
           "item": {
             "@type": "Course",
-            "url":"https://www.traderzarena.com/intex-trading-course.php",
+            "url":"https://traderzarena.com/intex-trading-course.php",
             "name": "Intex Trading Course",
-            "description": "Learn how to utilize cutting-edge technical analysis software, stay ahead with real-time market updates and maximize your trading success.",
+            "description": "Learn how to become a better trader and earn more money, Consider signing up for the Intex Trading Course. With our program, you’ll build a solid foundation for a successful trading career.",
             "provider": {
               "@type": "Organization",
               "name": "Traderz Arena",
-              "sameAs": "https://www.traderzarena.com/"
+              "sameAs": "https://traderzarena.com/"
            }
           }
         }
@@ -214,6 +137,8 @@
     }
     </script>
     <!-- End of course Schema -->
+
+
 
 </head>
 <body data-bs-spy="scroll" data-bs-target="#navbar-example">
