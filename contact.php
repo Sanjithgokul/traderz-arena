@@ -76,7 +76,7 @@
                     <div class="contact-form">
                         <form  id="contact-form" action="/action_page.php">
                             <h3 class="form-heading text-gray d-flex">Quick Contact</h3>
-                            <div class="mb-3 mt-3">
+                            <div class="mb-3 mt-4">
                             <label for="fname">Your Name</label><br>
                                 <input type="text" class="form-control name required" required='' id="nameField"  name="name">
                                 <span role="alert" class="error-msg" id="nameField_err">Please fill your Full Name.</span>
