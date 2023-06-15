@@ -30,8 +30,8 @@
     "@graph":[
         {
             "@type":"WebPage",
-            "@id":"https://www.traderzarena.com/",
-            "url":"https://www.traderzarena.com/",
+            "@id":"https://traderzarena.com/",
+            "url":"https://traderzarena.com/",
             "name":"Chennai's Best Trading Institute To Learn Stock Market | 100% Practical",
             "isPartOf":{
                 "@id":"https://www.traderzarena.com/#website"
