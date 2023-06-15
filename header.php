@@ -1,13 +1,14 @@
 <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PRZ5WN6"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
 <!-- End Google Tag Manager (noscript) -->
 
 <header class="header-menus" id="traderz-arena-header">
       <div class="container">
           <nav class="navbar navbar-expand-sm" id="navbar-example">
               <div class="container-fluid backround">
-                  <a class="navbar-brand" href="https://www.traderzarena.com/"><img loading="lazy" width="100" height="65" src="./images/traderz-Logo.svg" title="Traderz-arena-logo" alt="Traderz-arena"></a>
+                  <a class="navbar-brand" href="/"><img loading="lazy" width="100" height="65" src="./images/traderz-Logo.svg" title="Traderz-arena-logo" alt="Traderz-arena"></a>
                           <!-- testing Using id=Toggle -->
                   <button id="toggle" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#collapsibleNavbar" aria-label="click here">
                       <span class="icon-menu"></span>
@@ -20,7 +21,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                           </li> -->
                           <li class="nav-item active">
                               <!-- http://www.traderzarena.com/-->
-                              <a class="nav-link nav-item-1 main-icon" href="https://traderzarena.com"><i class="bi bi-house-door-fill p-2"></i>Home</a>
+                              <a class="nav-link nav-item-1 main-icon" href="/"><i class="bi bi-house-door-fill p-2"></i>Home</a>
                           </li>
                           <li class="nav-item">
                               <a href="/index.php#about-sec" class="nav-link nav-item-1 main-icon"><i class="bi bi-person-circle p-2"></i>About</a>

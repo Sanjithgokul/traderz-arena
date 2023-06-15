@@ -50,7 +50,7 @@
   h2 {
     font-size: 46px !important;
     line-height: 60px !important;
-    letter-spacing: 3px;
+    /*letter-spacing: 3px; */
   }
 
   :root {

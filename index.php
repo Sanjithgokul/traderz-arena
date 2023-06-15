@@ -1,17 +1,146 @@
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <!-- <link rel="icon" href="/images/favicon.svg" type="image/svg" sizes="any"> -->
+    <title>Chennai's Best Trading Institute To Learn Stock Market | 100% Practical</title>
+    <meta name="description" content="Become a successful trader with Traderzarena. Start earning from the stock market by Investing your course fee in live trading & Gain confidence by learning essential concepts, tools, and techniques." />
+    <link rel="canonical" href="https://traderzarena.com/" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Chennai's Best Trading Institute To Learn Stock Market" />
+    <meta property="og:description" content="Become a successful trader with Traderzarena. Start earning from the stock market by Investing your course fee in live trading & Gain confidence by learning essential concepts, tools, and techniques." />
+    <meta property="og:url" content="https://traderzarena.com/" />
+    <meta property="og:site_name" content="TRADERZARENA" />
+    <meta property="og:image" content="https://traderzarena.com/images/trading-course-online.jpg">
+    <meta name="twitter:site" content="@traderzarena" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Chennai's Best Trading Institute To Learn Stock Market" />
+    <meta name="twitter:description" content="Become a successful trader with Traderzarena. Start earning from the stock market by Investing your course fee in live trading & Gain confidence by learning essential concepts, tools, and techniques." />
+    <meta name="twitter:image" content="https://traderzarena.com/images/trading-course-online.jpg" />
     <?php include("common-css.php"); ?>
     <?php include("tracking-codes.php"); ?>
-    <title>Traderz Arena</title>
+
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://traderzarena.com/","url":"https://traderzarena.com/","name":"Chennai's Best Trading Institute To Learn Stock Market | 100% Practical","isPartOf":{"@id":"https://traderzarena.com/#website"},"primaryImageOfPage":{"@id":"https://traderzarena.com/#primaryimage"},"image":{"@id":"https://traderzarena.com/#primaryimage"},"thumbnailUrl":"https://traderzarena.com/images/trading-course-online.jpg","description":"Become a successful trader with Traderzarena. Start earning from the stock market by Investing your course fee in live trading & Gain confidence by learning essential concepts, tools, and techniques.","breadcrumb":{"@id":"https://traderzarena.com/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://traderzarena.com/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://traderzarena.com/#primaryimage","url":"https://traderzarena.com/images/trading-course-online.jpg","contentUrl":"https://traderzarena.com/images/trading-course-online.jpg","width":1200,"height":630,"caption":"Online advanced Trading Course"},{"@type":"BreadcrumbList","@id":"https://traderzarena.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home"}]},{"@type":"WebSite","@id":"https://traderzarena.com/#website","url":"https://traderzarena.com/","name":"Traderz Arena","description":"Wit. Wisdom. Value Investing.","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://traderzarena.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+    <script type="application/ld+json">
+        {
+            "@context": "https://schema.org",
+            "@type": "Organization",
+            "name": "Traderz Aerna",
+            "logo": "https://traderzarena.com/images/traderz-Logo.svg",
+            "url": "https://traderzarena.com/",
+            "description": "Become a successful trader with Traderzarena. Start earning from the stock market by Investing your course fee in live trading & Gain confidence by learning essential concepts, tools, and techniques.",
+            "founder": [
+                {
+                "@type": "Person",
+                "name": "Deepak K L",
+                "jobTitle": "Founder & CEO",
+                "image": "./images/deepak-traderz-arena.svg"
+                }
+            ],
+            "address": {
+                "@type": "PostalAddress",
+                "streetAddress": "2nd floor, Door No. 2, 634, First Main Rd",
+                "addressLocality": "Lalithamba Nagar, Manapakkam",
+                "addressRegion": "Chennai, Tamil Nadu",
+                "postalCode": "600125",
+                "addressCountry": "India"
+            },
+            "sameAs": [
+                // "https://www.facebook.com/yourusername/",
+                // "https://twitter.com/yourusername",
+                // "https://in.linkedin.com/company/yourusername",
+                // "https://www.youtube.com/yourusername"
+            ],
+            "contactPoint": {
+                "@type": "ContactPoint",
+                // "telephone": "+91 76391 95577",
+                "contactType": "Customer Service",
+                "email": "admin@traderzarena.com",
+                "areaServed": [
+                "IN"
+                ]
+            }
+        }
+    </script>
+    <!-- Business Schema -->
+
+
+    <!-- course Schema -->
+ <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "ItemList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@type": "Course",
+            "url":"https://traderzarena.com/mentorship-program-course.php",
+            "name": "Mentorship Program Course",
+            "description": "Looking to develop your trading skills? Enroll in a mentorship program course and Learn from experts who have made it in the financial market. Sign up today and take your trading career to the next level.",
+            "provider": {
+              "@type": "Organization",
+              "name": "Traderz Arena",
+              "sameAs": "https://traderzarena.com/"
+           }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@type": "Course",
+            "url":"https://traderzarena.com/expert-trading-course.php",
+            "name": "Expect Trading Course",
+            "description": "Gain expert knowledge and start earning big by enrolling in our stock market course in Chennai. Learn from experienced traders and unlock your potential now",
+            "provider": {
+              "@type": "Organization",
+              "name": "Traderz Arena",
+              "sameAs": "https://traderzarena.com/"
+           }
+         }
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "item": {
+            "@type": "Course",
+            "url":"https://traderzarena.com/options-trading-course.php",
+            "name": "Option Trading Course",
+            "description": "Looking for top-rated options trading courses to learn essential skills from basics to advanced strategies? Our courses offer a solid foundation and in-depth understanding of how options trading works.",
+            "provider": {
+              "@type": "Organization",
+              "name": "Traderz Arena",
+              "sameAs": "https://traderzarena.com/"
+           }
+          }
+        },
+        {
+          "@type": "ListItem",
+          "position": 4,
+          "item": {
+            "@type": "Course",
+            "url":"https://traderzarena.com/intex-trading-course.php",
+            "name": "Intex Trading Course",
+            "description": "Learn how to become a better trader and earn more money, Consider signing up for the Intex Trading Course. With our program, you’ll build a solid foundation for a successful trading career.",
+            "provider": {
+              "@type": "Organization",
+              "name": "Traderz Arena",
+              "sameAs": "https://traderzarena.com/"
+           }
+          }
+        }
+      ]
+    }
+    </script>
+    <!-- End of course Schema -->
+
+
+
 </head>
-
-
 <body data-bs-spy="scroll" data-bs-target="#navbar-example">
 <?php include("header.php"); ?>
     <!-- Modal -->
@@ -206,7 +335,7 @@
                                     </div>
                                 </div>
                                 <div class="course-btn course-btn-2 d-flex">
-                                    <a  href="https://traderzarena.com/expert-trading-course.php">Read More</a>
+                                    <a  href="/expert-trading-course.php">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -233,7 +362,7 @@
                                     </div>
                                 </div>
                                 <div class="course-btn course-btn-3 d-flex">
-                                    <a  href="https://traderzarena.com/options-trading-course.php">Read More</a>
+                                    <a  href="/options-trading-course.php">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -260,7 +389,7 @@
                                     </div>
                                 </div>
                                 <div class="course-btn course-btn-4 d-flex">
-                                    <a  href="https://traderzarena.com/intex-trading-course.php">Read More</a>
+                                    <a  href="/intex-trading-course.php">Read More</a>
                                 </div>
                             </div>
                         </div>
@@ -288,7 +417,7 @@
                                     </div>
                                 </div>
                                 <div class="course-btn d-flex">
-                                    <a  href="https://traderzarena.com/mentorship-program-course.php">Read More</a>
+                                    <a  href="/mentorship-program-course.php">Read More</a>
                                 </div>
                             </div>
                         </div>

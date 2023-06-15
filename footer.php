@@ -13,7 +13,7 @@
                 </div>
                 <div class="col-12 col-md-4 col-lg-4 mb-3 extra-bottom-space">
                     <div class="copy-right d-flex text-center">
-                        <span class="text-white">Copyright © 2023 All Rights Reserved.</span>
+                        <span class="text-white">Copyright © <?php echo date("Y"); ?>. All Rights Reserved.</span>
                     </div>
                 </div>
                 <div class="col-12 col-md-4 col-lg-4 mb-3 extra-bottom-space">

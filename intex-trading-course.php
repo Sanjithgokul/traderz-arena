@@ -5,12 +5,27 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Learn how to trade indices with precision and confidence with Traderz Arena. Our practical learning and personalized support will help you understand Intex trading.">
-    <!-- <link rel="icon" href="/images/favicon.svg" type="image/svg" sizes="any"> -->
+    <title>Intex Trading Course - Start your Profitable Trading Journey Today!</title>
+<meta name="description" content="Learn how to become a better trader and earn more money, Consider signing up for the Intex Trading Course. With our program, you’ll build a solid foundation for a successful trading career." />
+<link rel="canonical" href="https://traderzarena.com/intex-trading-course.php" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Intex Trading Course - Start your Profitable Trading Journey Today!" />
+<meta property="og:description" content="Learn how to become a better trader and earn more money, Consider signing up for the Intex Trading Course. With our program, you’ll build a solid foundation for a successful trading career." />
+<meta property="og:url" content="https://traderzarena.com/intex-trading-course.php" />
+<meta property="og:site_name" content="TRADERZARENA" />
+<meta property="og:image" content="https://traderzarena.com/images/intex-trading-course.jpg">
+<meta name="twitter:site" content="@traderzarena" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Intex Trading Course - Start your Profitable Trading Journey Today!" />
+<meta name="twitter:description" content="Learn how to become a better trader and earn more money, Consider signing up for the Intex Trading Course. With our program, you’ll build a solid foundation for a successful trading career." />
+<meta name="twitter:image" content="https://traderzarena.com/images/intex-trading-course.jpg" />
     <link rel="preload stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous" />
     <?php include("common-css.php"); ?>
     <?php include("tracking-codes.php"); ?>
-    <title>Traderz Arena Intex Trading Course - Master the Art of Trading Indices</title>
+
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://traderzarena.com/intex-trading-course.php/","url":"https://traderzarena.com/intex-trading-course.php/","name":"Intex Trading Course - Start your Profitable Trading Journey Today!","isPartOf":{"@id":"https://traderzarena.com/#website"},"primaryImageOfPage":{"@id":"https://traderzarena.com/intex-trading-course.php/#primaryimage"},"image":{"@id":"https://traderzarena.com/intex-trading-course.php/#primaryimage"},"thumbnailUrl":"https://traderzarena.com/images/intex-trading-course.jpg","description":"Learn how to become a better trader and earn more money, Consider signing up for the Intex Trading Course. With our program, you’ll build a solid foundation for a successful trading career.","breadcrumb":{"@id":"https://traderzarena.com/intex-trading-course.php/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://traderzarena.com/intex-trading-course.php/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://traderzarena.com/#primaryimage","url":"https://traderzarena.com/images/intex-trading-course.jpg","contentUrl":"https://traderzarena.com/images/intex-trading-course.jpg","width":1200,"height":630,"caption":"Intex Trading Course"},{"@type":"BreadcrumbList","@id":"https://traderzarena.com/intex-trading-course.php/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://traderzarena.com/"},{"@type":"ListItem","position":2,"name":"intex trading course"}]},{"@type":"WebSite","@id":"https://traderzarena.com/#website","url":"https://traderzarena.com/","name":"Traderz Arena","description":"Wit. Wisdom. Value Investing.","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://traderzarena.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+    
 </head>
 
 <body data-bs-spy="scroll" data-bs-target="#navbar-example">

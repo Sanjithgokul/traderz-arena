@@ -5,12 +5,25 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta name="description" content="Join Traderz Arena's expert trading course and learn the skills to trade like a pro. Get trained by experienced traders and start making profits today!">
-    <!-- <link rel="icon" href="/images/favicon.svg" type="image/svg" sizes="any"> -->
-    <link rel="preload stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous" />
+    <title>Learn Stock Market from Experts in Chennai - Start Earning Now!</title>
+<meta name="description" content="Gain expert knowledge and start earning big by enrolling in our stock market course in Chennai. Learn from experienced traders and unlock your potential now" />
+<link rel="canonical" href="https://traderzarena.com/expert-trading-course.php" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Learn Stock Market from Experts in Chennai - Start Earning Now!" />
+<meta property="og:description" content="Gain expert knowledge and start earning big by enrolling in our stock market course in Chennai. Learn from experienced traders and unlock your potential now" />
+<meta property="og:url" content="https://traderzarena.com/expert-trading-course.php" />
+<meta property="og:site_name" content="TRADERZARENA" />
+<meta property="og:image" content="https://traderzarena.com/images/expert-trading-course.jpg">
+<meta name="twitter:site" content="@traderzarena" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Learn Stock Market from Experts in Chennai - Start Earning Now!" />
+<meta name="twitter:description" content="Gain expert knowledge and start earning big by enrolling in our stock market course in Chennai. Learn from experienced traders and unlock your potential now" />
+<meta name="twitter:image" content="https://traderzarena.com/images/expert-trading-course.jpg" />
+<link rel="preload stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous" />
     <?php include("common-css.php"); ?>
     <?php include("tracking-codes.php"); ?>
-    <title>Learn to trade like a Pro with Traderz Arena's Expert Trading Course</title>
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://traderzarena.com/expert-trading-course.php/","url":"https://traderzarena.com/expert-trading-course.php/","name":"Learn Stock Market from Experts in Chennai - Start Earning Now!","isPartOf":{"@id":"https://traderzarena.com/#website"},"primaryImageOfPage":{"@id":"https://traderzarena.com/expert-trading-course.php/#primaryimage"},"image":{"@id":"https://traderzarena.com/expert-trading-course.php/#primaryimage"},"thumbnailUrl":"https://traderzarena.com/images/expert-trading-course.jpg","description":"Gain expert knowledge and start earning big by enrolling in our stock market course in Chennai. Learn from experienced traders and unlock your potential now","breadcrumb":{"@id":"https://traderzarena.com/expert-trading-course.php/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://traderzarena.com/expert-trading-course.php/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://traderzarena.com/#primaryimage","url":"https://traderzarena.com/images/expert-trading-course.jpg","contentUrl":"https://traderzarena.com/images/expert-trading-course.jpg","width":1200,"height":630,"caption":"Expert Trading Course"},{"@type":"BreadcrumbList","@id":"https://traderzarena.com/expert-trading-course.php/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://traderzarena.com/"},{"@type":"ListItem","position":2,"name":"expert trading course"}]},{"@type":"WebSite","@id":"https://traderzarena.com/#website","url":"https://traderzarena.com/","name":"Traderz Arena","description":"Wit. Wisdom. Value Investing.","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://traderzarena.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>  
 </head>
 
 <body data-bs-spy="scroll" data-bs-target="#navbar-example">
@@ -96,8 +109,7 @@
                                     <li>3 months of support</li>
                                 </ul>
                                 <!-- call to action btn -->
-                                <button onclick=" " type="button" class="btn call-to-btn cont_form_active  mt-3">Get
-                                    Started</button>
+                                <button onclick="" type="button" class="btn call-to-btn cont_form_active  mt-3">Get Started</button>
                             </div>
                             <!-- Aticle-two -->
                             <div class="container  tab-pane fade article-two mt-5 mb-5 p-0" id="wti">
