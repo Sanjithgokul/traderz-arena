@@ -1,16 +1,13 @@
-Options +FollowSymLinks
-IndexIgnore /
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	
+	RewriteCond %{HTTPS} off
+	RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+	
+	RewriteCond %{HTTP_HOST} ^www\.traderzarena\.com$
+    RewriteRule ^/?$ "https\:\/\/traderzarena\.com\/" [R=301,L]
 
-RewriteEngine On
-RewriteCond %{REQUEST_FILENAME} !-f
-RewriteCond %{REQUEST_FILENAME} !-d
-RewriteRule . /index.php [L]
-RedirectMatch 404 /\.git
+	RewriteCond %{THE_REQUEST} ^.*/index.php
+	RewriteRule ^(.*)index.php$ https://traderzarena.com/$1 [R=301,L]
 
-RewriteBase /
-RewriteCond %{REQUEST_URI} ^/$
-RewriteRule ^(.*)$ /index.php [L,R=301]
-
-RewriteCond %{HTTP_HOST} ^www.traderzarena.com [NC]
-
-RewriteRule ^(.*)$ https://traderzarena.com/$1 [L,R=301]
+</IfModule>
