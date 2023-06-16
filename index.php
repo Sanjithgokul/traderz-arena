@@ -659,141 +659,142 @@
 
 
     <section class="faq-sec py-5">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-lg-9">
-                    <div class="title_block text-center">
-                        <h2 class="title fw-bold text-dark">FAQ</h2>
-                        <p class="sub-title text-gray text-center pt-3">Know more about our processes and how we work,
-                            with the help of the following FAQs.</p>
-                    </div>
+    <div class="container" itemscope itemtype="https://schema.org/FAQPage" itemscope itemprop="mainEntity">
+        <div class="row justify-content-center">
+            <div class="col-lg-9">
+                <div class="title_block text-center">
+                    <h2 class="title fw-bold text-dark">FAQ</h2>
+                    <p class="sub-title text-gray text-center pt-3">Know more about our processes and how we work,
+                        with the help of the following FAQs.</p>
                 </div>
-                <div class="col-lg-10">
-                    <div class="accordion accordion-flush pt-5" id="faqAccordion">
-                        <div class="accordion-item">
-                            <h4 class="accordion-header" id="headingOne">
-                                <button class="accordion-button accordion-button-1 smooth-trans lh-2" type="button"
-                                    data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true"
-                                    aria-controls="collapseOne">
-                                    How to make a consistent profit in the Stock market?
-                                    <span class="accordion_icon"></span>
-                                </button>
-                            </h4>
-                            <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
-                                data-bs-parent="#faqAccordion">
-                                <div class="accordion-body">
-                                    <p class="text-justify lh-2 mb-3">Making consistent profits in the stock market
-                                        requires a solid understanding of market dynamics and the ability to accurately
-                                        analyze and interpret market trends. It's important to conduct thorough research
-                                        on the companies you're interested in investing in, including their financial
-                                        health, competitive landscape, and industry trends. Additionally, it's important
-                                        to have a clear investment strategy and risk management plan in place to help
-                                        minimize losses.</p>
+            </div>
+            <div class="col-lg-10">
+                <div class="accordion accordion-flush pt-5" id="faqAccordion">
+                    <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                        <h4 class="accordion-header" id="headingOne" itemprop="name">
+                            <button class="accordion-button accordion-button-1 smooth-trans lh-2" type="button"
+                                data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true"
+                                aria-controls="collapseOne">
+                                How to make a consistent profit in the Stock market?
+                                <span class="accordion_icon"></span>
+                            </button>
+                        </h4>
+                        <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne"
+                            data-bs-parent="#faqAccordion" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer" >
+                            <div class="accordion-body" itemprop="text">
+                                <p class="text-justify lh-2 mb-3">Making consistent profits in the stock market
+                                    requires a solid understanding of market dynamics and the ability to accurately
+                                    analyze and interpret market trends. It's important to conduct thorough research
+                                    on the companies you're interested in investing in, including their financial
+                                    health, competitive landscape, and industry trends. Additionally, it's important
+                                    to have a clear investment strategy and risk management plan in place to help
+                                    minimize losses.</p>
 
-                                </div>
                             </div>
                         </div>
-                        <!-- <div class="accordion-item">
-                            <h4 class="accordion-header" id="headingTwo">
-                                <button class="accordion-button accordion-button-1 collapsed smooth-trans lh-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                    How to pick the right stock?
-                                    <span class="accordion_icon"></span>
-                                </button>
-                            </h4>
-                            <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion">
-                                <div class="accordion-body">
-                                    <p class="text-justify lh-2">There are many factors to consider when selecting the right stocks to invest in, including a company's financial health, growth potential, competitive advantages, and industry trends. It's important to conduct thorough research and analysis to identify companies that are well-positioned to succeed in the long term.</p>
-                                </div>
-                            </div>
-                        </div> -->
-                        <div class="accordion-item">
-                            <h4 class="accordion-header" id="headingThree">
-                                <button class="accordion-button accordion-button-1 collapsed smooth-trans lh-2"
-                                    type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree"
-                                    aria-expanded="false" aria-controls="collapseThree">
-                                    How to analyze the stock trend?
-                                    <span class="accordion_icon"></span>
-                                </button>
-                            </h4>
-                            <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
-                                data-bs-parent="#faqAccordion">
-                                <div class="accordion-body">
-                                    <p class="text-justify lh-2">There are many tools and techniques available for
-                                        analyzing stock trends, including technical analysis and fundamental analysis.
-                                        Technical analysis involves analyzing charts and technical indicators to
-                                        identify patterns and trends, while fundamental analysis involves analyzing a
-                                        company's financial health and industry trends to identify long-term growth
-                                        potential.</p>
-                                </div>
+                    </div>
+                    <!-- <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                        <h4 class="accordion-header" id="headingTwo" itemprop="name">
+                            <button class="accordion-button accordion-button-1 collapsed smooth-trans lh-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                                How to pick the right stock?
+                                <span class="accordion_icon"></span>
+                            </button>
+                        </h4>
+                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                            <div class="accordion-body" itemprop="text">
+                                <p class="text-justify lh-2">There are many factors to consider when selecting the right stocks to invest in, including a company's financial health, growth potential, competitive advantages, and industry trends. It's important to conduct thorough research and analysis to identify companies that are well-positioned to succeed in the long term.</p>
                             </div>
                         </div>
-                        <div class="accordion-item">
-                            <h4 class="accordion-header" id="headingFour">
-                                <button class="accordion-button accordion-button-1 collapsed smooth-trans lh-2"
-                                    type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour"
-                                    aria-expanded="false" aria-controls="collapseFour">
-                                    Is there a way to earn rental income for our investment in the stock market?
-                                    <span class="accordion_icon"></span>
-                                </button>
-                            </h4>
-                            <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
-                                data-bs-parent="#faqAccordion">
-                                <div class="accordion-body">
-                                    <p class="text-justify lh-2">While there is no direct way to earn rental income from
-                                        the stock market, there are some investment strategies that can provide regular
-                                        income streams, such as dividend-paying stocks and bonds. It's important to
-                                        research and select investments that align with your financial goals and risk
-                                        tolerance.</p>
-                                </div>
+                    </div> -->
+                    <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                        <h4 class="accordion-header" id="headingThree" itemprop="name">
+                            <button class="accordion-button accordion-button-1 collapsed smooth-trans lh-2"
+                                type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree"
+                                aria-expanded="false" aria-controls="collapseThree">
+                                How to analyze the stock trend?
+                                <span class="accordion_icon"></span>
+                            </button>
+                        </h4>
+                        <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree"
+                            data-bs-parent="#faqAccordion" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                            <div class="accordion-body" itemprop="text">
+                                <p class="text-justify lh-2">There are many tools and techniques available for
+                                    analyzing stock trends, including technical analysis and fundamental analysis.
+                                    Technical analysis involves analyzing charts and technical indicators to
+                                    identify patterns and trends, while fundamental analysis involves analyzing a
+                                    company's financial health and industry trends to identify long-term growth
+                                    potential.</p>
                             </div>
                         </div>
-                        <div class="accordion-item">
-                            <h4 class="accordion-header" id="headingFive">
-                                <button class="accordion-button accordion-button-1 collapsed smooth-trans lh-2"
-                                    type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive"
-                                    aria-expanded="false" aria-controls="collapseFive">
-                                    How to arrive at the right value/price of a stock?
-                                    <span class="accordion_icon"></span>
-                                </button>
-                            </h4>
-                            <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
-                                data-bs-parent="#faqAccordion">
-                                <div class="accordion-body">
-                                    <p class="text-justify lh-2 mb-3">Determining the right value or price of a stock
-                                        involves analyzing a range of factors, including a company's financial health,
-                                        growth potential, and industry trends. This can be done through fundamental
-                                        analysis, which involves analyzing financial statements and industry trends to
-                                        estimate a company's intrinsic value.</p>
-                                </div>
+                    </div>
+                    <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                        <h4 class="accordion-header" id="headingFour" itemprop="name">
+                            <button class="accordion-button accordion-button-1 collapsed smooth-trans lh-2"
+                                type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour"
+                                aria-expanded="false" aria-controls="collapseFour">
+                                Is there a way to earn rental income for our investment in the stock market?
+                                <span class="accordion_icon"></span>
+                            </button>
+                        </h4>
+                        <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour"
+                            data-bs-parent="#faqAccordion" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                            <div class="accordion-body" itemprop="text">
+                                <p class="text-justify lh-2">While there is no direct way to earn rental income from
+                                    the stock market, there are some investment strategies that can provide regular
+                                    income streams, such as dividend-paying stocks and bonds. It's important to
+                                    research and select investments that align with your financial goals and risk
+                                    tolerance.</p>
                             </div>
                         </div>
-                        <div class="accordion-item">
-                            <h4 class="accordion-header" id="headingSix">
-                                <button class="accordion-button accordion-button-1 collapsed smooth-trans lh-2"
-                                    type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix"
-                                    aria-expanded="false" aria-controls="collapseFive">
-                                    Are there any fundamental rules I can follow to navigate safely in the stock market?
-                                    <span class="accordion_icon"></span>
-                                </button>
-                            </h4>
-                            <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix"
-                                data-bs-parent="#faqAccordion">
-                                <div class="accordion-body">
-                                    <p class="text-justify lh-2 mb-3">Some fundamental rules can help investors navigate
-                                        the stock market safely, such as diversifying their portfolio, investing for the
-                                        long term, and avoiding emotional decision-making. It's also important to have a
-                                        clear investment strategy and risk management plan in place to help minimize
-                                        losses. Additionally, conducting thorough research and analysis before making
-                                        investment decisions can help reduce risk and increase the chances of long-term
-                                        success.</p>
-                                </div>
+                    </div>
+                    <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                        <h4 class="accordion-header" id="headingFive" itemprop="name">
+                            <button class="accordion-button accordion-button-1 collapsed smooth-trans lh-2"
+                                type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive"
+                                aria-expanded="false" aria-controls="collapseFive">
+                                How to arrive at the right value/price of a stock?
+                                <span class="accordion_icon"></span>
+                            </button>
+                        </h4>
+                        <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive"
+                            data-bs-parent="#faqAccordion" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                            <div class="accordion-body" itemprop="text">
+                                <p class="text-justify lh-2 mb-3">Determining the right value or price of a stock
+                                    involves analyzing a range of factors, including a company's financial health,
+                                    growth potential, and industry trends. This can be done through fundamental
+                                    analysis, which involves analyzing financial statements and industry trends to
+                                    estimate a company's intrinsic value.</p>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+                        <h4 class="accordion-header" id="headingSix" itemprop="name">
+                            <button class="accordion-button accordion-button-1 collapsed smooth-trans lh-2"
+                                type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix"
+                                aria-expanded="false" aria-controls="collapseFive">
+                                Are there any fundamental rules I can follow to navigate safely in the stock market?
+                                <span class="accordion_icon"></span>
+                            </button>
+                        </h4>
+                        <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix"
+                            data-bs-parent="#faqAccordion" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+                            <div class="accordion-body" itemprop="text">
+                                <p class="text-justify lh-2 mb-3">Some fundamental rules can help investors navigate
+                                    the stock market safely, such as diversifying their portfolio, investing for the
+                                    long term, and avoiding emotional decision-making. It's also important to have a
+                                    clear investment strategy and risk management plan in place to help minimize
+                                    losses. Additionally, conducting thorough research and analysis before making
+                                    investment decisions can help reduce risk and increase the chances of long-term
+                                    success.</p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
+    </div>
+</section>
+
     <?php include("footer.php"); ?>
     <?php include("common-js.php"); ?>
 </body>
