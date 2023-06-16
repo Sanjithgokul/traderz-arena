@@ -77,22 +77,22 @@
                         <form  id="contact-form" action="/action_page.php">
                             <h3 class="form-heading text-gray d-flex">Quick Contact</h3>
                             <div class="mb-3 mt-4">
-                            <label for="fname">Your Name</label><br>
+                            <label for="nameField">Your Name</label><br>
                                 <input type="text" class="form-control name required" required='' id="nameField"  name="name" aria-labelledby="your name">
                                 <span role="alert" class="error-msg" id="nameField_err">Please fill your Full Name.</span>
                             </div>
                             <div class="mb-3">
-                            <label for="fname">Email Address </label><br>
+                            <label for="emailField">Email Address </label><br>
                                 <input type="email" class="form-control email required"  required='' id="emailField"  name="email" aria-labelledby="email address">
                                 <span role="alert" class="error-msg" id="emailField_err">Please fill your Email ID.</span>
                             </div>
                             <div class="mb-3">
-                            <label for="fname">Mobile Number</label><br>
+                            <label for="number_Field">Mobile Number</label><br>
                             <input type="number" class="form-control number required" required='' id="number_Field"  name="number" aria-labelledby="mobile number" required>
                             <span role="alert" class="error-msg" id="number_Field_err">Please enter a valid number</span>
                         </div>
                             <div class="mb-3">
-                            <label for="fname">Write Message</label><br>
+                            <label for="messageField">Write Message</label><br>
                                 <textarea class="form-control message" rows="5" required='' id="messageField"  name="message" aria-labelledby="write message"></textarea>
                             </div>
                             <div class="contact-btn d-flex">
@@ -115,7 +115,7 @@
                     <p class="sub-title text-gray text-center pt-3">It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.</p>
                 </div>
                 <div class="col-12 col-md-12 col-lg-12">
-                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.296065117775!2d80.17474387591723!3d13.016808813883795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52616eb0f20bc3%3A0xf88a89dd560efaf5!2sTraderz%20Arena!5e0!3m2!1sen!2sin!4v1681731234250!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+                <iframe title="location" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3887.296065117775!2d80.17474387591723!3d13.016808813883795!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52616eb0f20bc3%3A0xf88a89dd560efaf5!2sTraderz%20Arena!5e0!3m2!1sen!2sin!4v1681731234250!5m2!1sen!2sin" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
                 </div>
             </div>
         </div>
