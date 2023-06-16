@@ -218,7 +218,7 @@
                     </div>
                 </div>
                 <div class="col-md-12 col-lg-6 col-xl-6 d-flex">
-                    <img width="100%" height="100%" loading="lazy" src="./images/section-1234.webp" title="traderz-arena" alt="traderz-arena">
+                    <img width="100%" height="100%" loading="lazy" src="./images/section-1234-1.webp" title="traderz-arena" alt="traderz-arena">
                 </div>
             </div>
         </div>
@@ -232,7 +232,7 @@
             <div class="container">
                 <div class="row justify-content-center align-items-center reverse">
                     <div class="col-sm-12 col-md-12 col-lg-6">
-                        <img width="90%" height="90%" loading="lazy" src="./images/section-2-new.webp"
+                        <img width="90%" height="90%" loading="lazy" src="./images/section-2-new-1.webp"
                             title="traderz-arena" alt="traderz-arena">
                     </div>
                     <div class="col-sm-12 col-md-12 col-lg-6">
@@ -543,7 +543,7 @@
                         <div class="carousel-slider">
                             <div class="carousel-details-container">
                                 <div class="carousel-header">
-                                    <img loading="lazy" width="100" height="auto" src="../images/green-quotes.svg" alt="quotes">
+                                    <img loading="lazy" width="100" height="76" src="../images/green-quotes.svg" alt="quotes">
                                 </div>
 
                                 <div class="carousel-info">
@@ -555,19 +555,19 @@
                                     </div>
                                     <div class="carousel-rating">
                                         <ul class="star m-0">
-                                            <li><img class="ratingStar" loading="lazy" src="./images/yellow-star.svg"
+                                            <li><img class="ratingStar" width="20" hight="20" loading="lazy" src="./images/yellow-star.svg"
                                                     title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena">
                                             </li>
-                                            <li><img class="ratingStar" loading="lazy" src="./images/yellow-star.svg"
+                                            <li><img class="ratingStar" width="20" hight="20" loading="lazy" src="./images/yellow-star.svg"
                                                     title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena">
                                             </li>
-                                            <li><img class="ratingStar" loading="lazy" src="./images/yellow-star.svg"
+                                            <li><img class="ratingStar" width="20" hight="20" loading="lazy" src="./images/yellow-star.svg"
                                                     title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena">
                                             </li>
-                                            <li><img class="ratingStar" loading="lazy" src="./images/yellow-star.svg"
+                                            <li><img class="ratingStar" width="20" hight="20" loading="lazy" src="./images/yellow-star.svg"
                                                     title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena">
                                             </li>
-                                            <li><img class="ratingStar" loading="lazy" src="./images/black-star.svg"
+                                            <li><img class="ratingStar" width="20" hight="20" loading="lazy" src="./images/black-star.svg"
                                                     title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena">
                                             </li>
                                         </ul>
@@ -581,7 +581,7 @@
                                         market.</p>
                                 </div>
                                 <div class="carousel-close-quote">
-                                    <img loading="lazy" width="50" hight="auto" src="../images/red-quotes.svg" alt="quotes">
+                                    <img loading="lazy" width="50" hight="38" src="../images/red-quotes.svg" alt="quotes">
                                 </div>
                             </div>
                             <div class="carousel-profile">
@@ -595,7 +595,7 @@
                         <div class="carousel-slider">
                             <div class="carousel-details-container">
                                 <div class="carousel-header">
-                                    <img loading="lazy" width="100" height="auto" src="../images/green-quotes.svg" alt="quotes">
+                                    <img loading="lazy" width="100" height="76" src="../images/green-quotes.svg" alt="quotes">
                                 </div>
 
                                 <div class="carousel-info">
@@ -607,19 +607,19 @@
                                     </div>
                                     <div class="carousel-rating">
                                         <ul class="star m-0">
-                                            <li><img class="ratingStar" loading="lazy" src="./images/yellow-star.svg"
+                                            <li><img class="ratingStar" width="20" hight="20" loading="lazy" src="./images/yellow-star.svg"
                                                     title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena">
                                             </li>
-                                            <li><img class="ratingStar" loading="lazy" src="./images/yellow-star.svg"
+                                            <li><img class="ratingStar" width="20" hight="20" loading="lazy" src="./images/yellow-star.svg"
                                                     title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena">
                                             </li>
-                                            <li><img class="ratingStar" loading="lazy" src="./images/yellow-star.svg"
+                                            <li><img class="ratingStar" width="20" hight="20" loading="lazy" src="./images/yellow-star.svg"
                                                     title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena">
                                             </li>
-                                            <li><img class="ratingStar" loading="lazy" src="./images/yellow-star.svg"
+                                            <li><img class="ratingStar" width="20" hight="20" loading="lazy" src="./images/yellow-star.svg"
                                                     title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena">
                                             </li>
-                                            <li><img class="ratingStar" loading="lazy" src="./images/black-star.svg"
+                                            <li><img class="ratingStar" width="20" hight="20" loading="lazy" src="./images/black-star.svg"
                                                     title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena">
                                             </li>
                                         </ul>
@@ -633,7 +633,7 @@
                                         wonderful training and personal support and wish Traderz Arena all the best.</p>
                                 </div>
                                 <div class="carousel-close-quote">
-                                    <img loading="lazy" width="50" hight="auto" src="../images/red-quotes.svg" alt="quotes">
+                                    <img loading="lazy" width="50" hight="38" src="../images/red-quotes.svg" alt="quotes">
                                 </div>
                             </div>
                             <div class="carousel-profile">
