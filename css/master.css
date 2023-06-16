@@ -799,9 +799,10 @@ button#enquiryButton:disabled{
   align-items: center;
   justify-content: flex-end;
 }
-.carousel-close-quote img{
+
+/* .carousel-close-quote img{
   width: 50px;
-}
+} */ 
 
 .testimonial-section{
   overflow: hidden;
