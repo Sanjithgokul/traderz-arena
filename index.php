@@ -581,7 +581,7 @@
                                         market.</p>
                                 </div>
                                 <div class="carousel-close-quote">
-                                    <img loading="lazy" width="50" hight="38" src="../images/red-quotes.svg" alt="quotes">
+                                    <img loading="lazy" width="50" hight="48" src="../images/red-quotes.svg" alt="quotes">
                                 </div>
                             </div>
                             <div class="carousel-profile">
@@ -633,7 +633,7 @@
                                         wonderful training and personal support and wish Traderz Arena all the best.</p>
                                 </div>
                                 <div class="carousel-close-quote">
-                                    <img loading="lazy" width="50" hight="38" src="../images/red-quotes.svg" alt="quotes">
+                                    <img loading="lazy" width="50" hight="48" src="../images/red-quotes.svg" alt="quotes">
                                 </div>
                             </div>
                             <div class="carousel-profile">
