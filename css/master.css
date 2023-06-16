@@ -878,7 +878,7 @@ color: var(--theme);
   padding: 15px;
   border: unset;
   color: #333 !important;
-  border-bottom: 1px solid var();
+  border-bottom: 1px solid;
   border-radius: 0;
 }
 
@@ -904,7 +904,9 @@ color: var(--theme);
 }
 
 .contact-form form{
-  box-shadow: 0rem 0.5rem 2rem 0rem rgba(35, 44, 59, 0.1);
+  box-shadow: 0 0 5px #333;
+  border: 1px solid var(--theme);
+  /* box-shadow: 0rem 0.5rem 2rem 0rem rgba(35, 44, 59, 0.1); */
   border-radius: 10px;
   padding: 20px;
 }

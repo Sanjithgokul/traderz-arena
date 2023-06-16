@@ -76,20 +76,24 @@
                     <div class="contact-form">
                         <form  id="contact-form" action="/action_page.php">
                             <h3 class="form-heading text-gray d-flex">Quick Contact</h3>
-                            <div class="mb-3 mt-3">
-                                <input type="text" class="form-control name required" required='' id="nameField"  placeholder="Your Name" name="name">
+                            <div class="mb-3 mt-4">
+                            <label for="fname">Your Name</label><br>
+                                <input type="text" class="form-control name required" required='' id="nameField"  name="name">
                                 <span role="alert" class="error-msg" id="nameField_err">Please fill your Full Name.</span>
                             </div>
                             <div class="mb-3">
-                                <input type="email" class="form-control email required"  required='' id="emailField"  placeholder="Email Address" name="email">
+                            <label for="fname">Email Address </label><br>
+                                <input type="email" class="form-control email required"  required='' id="emailField"  name="email">
                                 <span role="alert" class="error-msg" id="emailField_err">Please fill your Email ID.</span>
                             </div>
                             <div class="mb-3">
-                            <input type="number" class="form-control number required" required='' id="number_Field"  placeholder="Mobile Number" name="number" required>
+                            <label for="fname">Mobile Number</label><br>
+                            <input type="number" class="form-control number required" required='' id="number_Field"  name="number" required>
                             <span role="alert" class="error-msg" id="number_Field_err">Please enter a valid number</span>
                         </div>
                             <div class="mb-3">
-                                <textarea class="form-control message" rows="5" required='' id="messageField"  placeholder="Your Message" name="message"></textarea>
+                            <label for="fname">Write Message</label><br>
+                                <textarea class="form-control message" rows="5" required='' id="messageField"  name="message"></textarea>
                             </div>
                             <div class="contact-btn d-flex">
                                 <button onclick="processcontactemailform('CONTACT_EMAIL_FORM',this) " class="sub-btn" type="button" id="conatctpagebtn">Submit</button>

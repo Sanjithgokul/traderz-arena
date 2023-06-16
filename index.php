@@ -300,8 +300,9 @@
             </div>
         </div>
     </section>
-    <div class="spy-element" id="course-sec"></div>
-    <section class="section-3 box-backround-1">
+    <!-- <div class="spy-element" id="course-sec"></div> -->
+    <section class="section-3 box-backround-1" id="course-sec">
+    <div class="spy-element"></div>
         <div class="course-details">
             <div class="container mb-4">
                 <h2 class="heading text-bold text-gray text-center space">Main Courses </h2>
