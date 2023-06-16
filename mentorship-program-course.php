@@ -73,11 +73,11 @@
                 <div class="col-sm-12 col-md-8 col-lg-8  expert-course-left">
                     <!-- Tabs -->
                     <div class="container text-align-center expert-course-list p-0">
-                        <ul class="nav nav-tabs flex-no-warp course-navbar  flex-nowarp" role="tablist">
-                            <li class="nav-items"><a class="nav-link active" aria-label="Description" href="#description" data-bs-toggle="tab">Description</a></li>
-                            <li class="nav-items"><a class="nav-link" aria-label="What’s included" href="#wti" data-bs-toggle="tab">What’s included</a></li>
-                            <li class="nav-items"><a class="nav-link" aria-label="Lessons" href="#lessons" data-bs-toggle="tab">Lessons</a></li>
-                            <li class="nav-items"><a class="nav-link" aria-label="Reviews" href="#review" data-bs-toggle="tab">Reviews</a>
+                        <ul class="nav nav-tabs flex-no-warp course-navbar  flex-nowarp" role="tablist" aria-label="Tab list of courses">
+                            <li class="nav-items" aria-label="Description"><a class="nav-link active" href="#description" data-bs-toggle="tab">Description</a></li>
+                            <li class="nav-items" aria-label="What’s included"><a class="nav-link" href="#wti" data-bs-toggle="tab">What’s included</a></li>
+                            <li class="nav-items" aria-label="Lessons"><a class="nav-link" href="#lessons" data-bs-toggle="tab">Lessons</a></li>
+                            <li class="nav-items" aria-label="Reviews"><a class="nav-link" href="#review" data-bs-toggle="tab">Reviews</a>
                             </li>
                         </ul>
 

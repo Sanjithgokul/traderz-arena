@@ -78,22 +78,22 @@
                             <h3 class="form-heading text-gray d-flex">Quick Contact</h3>
                             <div class="mb-3 mt-4">
                             <label for="fname">Your Name</label><br>
-                                <input type="text" class="form-control name required" required='' id="nameField"  name="name">
+                                <input type="text" class="form-control name required" required='' id="nameField"  name="name" aria-labelledby="your name">
                                 <span role="alert" class="error-msg" id="nameField_err">Please fill your Full Name.</span>
                             </div>
                             <div class="mb-3">
                             <label for="fname">Email Address </label><br>
-                                <input type="email" class="form-control email required"  required='' id="emailField"  name="email">
+                                <input type="email" class="form-control email required"  required='' id="emailField"  name="email" aria-labelledby="email address">
                                 <span role="alert" class="error-msg" id="emailField_err">Please fill your Email ID.</span>
                             </div>
                             <div class="mb-3">
                             <label for="fname">Mobile Number</label><br>
-                            <input type="number" class="form-control number required" required='' id="number_Field"  name="number" required>
+                            <input type="number" class="form-control number required" required='' id="number_Field"  name="number" aria-labelledby="mobile number" required>
                             <span role="alert" class="error-msg" id="number_Field_err">Please enter a valid number</span>
                         </div>
                             <div class="mb-3">
                             <label for="fname">Write Message</label><br>
-                                <textarea class="form-control message" rows="5" required='' id="messageField"  name="message"></textarea>
+                                <textarea class="form-control message" rows="5" required='' id="messageField"  name="message" aria-labelledby="write message"></textarea>
                             </div>
                             <div class="contact-btn d-flex">
                                 <button onclick="processcontactemailform('CONTACT_EMAIL_FORM',this) " class="sub-btn" type="button" id="conatctpagebtn">Submit</button>
