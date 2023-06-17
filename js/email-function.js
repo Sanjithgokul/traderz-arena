@@ -138,9 +138,9 @@ $(document).ready(function(){
 
 //scroll to particular section
 $("#course-dropdown").on('click',function() {
-    // $('html, body').animate({
-    //     'scrollTop' : $("#course-sec").position().top
-    // });
+    $('html, body').animate({
+        'scrollTop' : $("#course-sec").position().top
+    });
     window.location.href = "/index.php#course-sec";
 });
 
