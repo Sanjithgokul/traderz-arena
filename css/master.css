@@ -1340,6 +1340,8 @@ color:#fff;
   min-height: 65vh;
 }
 
+
+
 }
 
 
@@ -1431,6 +1433,12 @@ color:#fff;
   gap:10px;
  }
 
+  /* Testing */
+  .sec-img-one img{
+    width: 100%;
+    height: 100%;
+   }
+
 }
 
 
@@ -1511,6 +1519,7 @@ color:#fff;
 .bi-x-lg::before {
   padding: 0px;
 }
+
   
 }
 

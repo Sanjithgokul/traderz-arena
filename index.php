@@ -217,8 +217,9 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md-12 col-lg-6 col-xl-6 d-flex">
-                    <img width="100%" height="100%" loading="lazy" src="./images/section-1234-1.webp" title="traderz-arena" alt="traderz-arena">
+                <div class="col-md-12 col-lg-6 col-xl-6 d-flex sec-img-one"> 
+                    <!-- Test -->
+                    <img width="634" height="472" loading="lazy" src="./images/section-1234-1.webp" title="traderz-arena" alt="traderz-arena">
                 </div>
             </div>
         </div>
@@ -581,7 +582,7 @@
                                         market.</p>
                                 </div>
                                 <div class="carousel-close-quote">
-                                    <img loading="lazy" width="63" hight="48" src="../images/red-quotes.svg" alt="quotes">
+                                    <img loading="lazy" width="63" height="48" src="../images/red-quotes.svg" alt="quotes">
                                 </div>
                             </div>
                             <div class="carousel-profile">
@@ -633,7 +634,7 @@
                                         wonderful training and personal support and wish Traderz Arena all the best.</p>
                                 </div>
                                 <div class="carousel-close-quote">
-                                    <img loading="lazy" width="63" hight="48" src="../images/red-quotes.svg" alt="quotes">
+                                    <img loading="lazy" width="63" height="48" src="../images/red-quotes.svg" alt="quotes">
                                 </div>
                             </div>
                             <div class="carousel-profile">
