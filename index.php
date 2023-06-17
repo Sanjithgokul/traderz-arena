@@ -444,7 +444,7 @@
                         <p class="text-gray lh-2 text-justify">Get ready to unlock the path to financial success with
                             Deepak K L - a true maverick in the world of trading and investment.</p>
                         <div class="know-more know-more-1 pt-2">
-                            <a type="button" class="btn btn-primary">Know More</a>
+                            <a href="#" type="button" class="btn btn-primary">Know More</a>
                         </div>
                     </div>
                     <div class="col-12 col-md-12 col-lg-5 d-flex">
@@ -581,7 +581,7 @@
                                         market.</p>
                                 </div>
                                 <div class="carousel-close-quote">
-                                    <img loading="lazy" width="50" hight="48" src="../images/red-quotes.svg" alt="quotes">
+                                    <img loading="lazy" width="63" hight="48" src="../images/red-quotes.svg" alt="quotes">
                                 </div>
                             </div>
                             <div class="carousel-profile">
@@ -633,7 +633,7 @@
                                         wonderful training and personal support and wish Traderz Arena all the best.</p>
                                 </div>
                                 <div class="carousel-close-quote">
-                                    <img loading="lazy" width="50" hight="48" src="../images/red-quotes.svg" alt="quotes">
+                                    <img loading="lazy" width="63" hight="48" src="../images/red-quotes.svg" alt="quotes">
                                 </div>
                             </div>
                             <div class="carousel-profile">

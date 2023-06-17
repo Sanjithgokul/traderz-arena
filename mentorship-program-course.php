@@ -73,7 +73,7 @@
                 <div class="col-sm-12 col-md-8 col-lg-8  expert-course-left">
                     <!-- Tabs -->
                     <div class="container text-align-center expert-course-list p-0">
-                        <ul class="nav nav-tabs flex-no-warp course-navbar  flex-nowarp" role="tablist" aria-label="Tab list of courses">
+                        <ul class="nav nav-tabs flex-no-warp course-navbar  flex-nowarp" aria-label="Tab list of courses">
                             <li class="nav-items" aria-label="Description"><a class="nav-link active" href="#description" data-bs-toggle="tab">Description</a></li>
                             <li class="nav-items" aria-label="What’s included"><a class="nav-link" href="#wti" data-bs-toggle="tab">What’s included</a></li>
                             <li class="nav-items" aria-label="Lessons"><a class="nav-link" href="#lessons" data-bs-toggle="tab">Lessons</a></li>
@@ -87,7 +87,8 @@
                                 <h5>Description</h5>
                                 <div class="dashed"></div>
                                 <p class="sub-details text-justify">During this mentorship program, you will learn about different types of investments, markets, chart types, and technical theories. This is under the guidance of experienced mentors. Aside from chart and candlestick patterns, students will also learn about trend reversals and continuation charts. you can able to analyze market trends and make informed investment decisions by the end of the program.</p>
-                                <h4 class="mb-3">Course details :</h4>
+                                <h5>Course details :</h5>
+                                <div class="dashed"></div>
                                 <p class="mb-3">Duration: <span class="sub-details">  6 Months</span></p>
                                 <p class="mb-3">Fee: <span class="sub-details">500,000 INR</span></p>
                                 <p class="mb-3">Eligible People: <span class="sub-details">Working Professional, Full time/Part Time trader, 12th and Graduate Students</span></p>
@@ -319,31 +320,30 @@
                     <div class="submit-form form_contact">
                         <form id="contact-form">
                             <div class="mb-3 mt-3">
-                                <label for="fname">Enter Name</label><br>
+                                <label for="name_Field">Enter Name</label><br>
                                 <input type="text" aria-labelledby="client Name" class="form-control required" id="name_Field" name="name" required>
                                 <span role="alert" class="error-msg" id="name_Field_err">Please fill your Full
                                     Name.</span>
                             </div>
                             <div class="mb-3">
-                                <label for="fname">Email Address</label><br>
+                                <label for="email_Field">Email Address</label><br>
                                 <input type="email" aria-labelledby="client email id" class="form-control required" id="email_Field" name="email"
                                     required>
                                 <span role="alert" class="error-msg" id="email_Field_err">Please fill your Email
                                     id.</span>
                             </div>
                             <div class="mb-3">
-                                <label for="fname">Mobile Number</label><br>
+                                <label for="number_Field">Mobile Number</label><br>
                                 <input type="number" aria-labelledby="client mobile number" class="form-control required" id="number_Field" name="number" required>
                                 <span role="alert" class="error-msg" id="number_Field_err">Please enter a valid
                                     number</span>
                             </div>
                             <div class="">
                                 <div class="form-control form-control-1">
-                                    <label for="fname">Courses Type</label><br>
+                                    <label for="inputGroupSelect01">Courses Type</label><br>
                                     <select name="courses" aria-labelledby="Course Options" class="custom-select text-clr py-2" id="inputGroupSelect01">
                                         <option selected hidden value="none">Select Courses</option>
-                                        <option class="text-clr" value="Expert Trading Course">Expert Trading Course
-                                        </option>
+                                        <option class="text-clr" value="Expert Trading Course">Expert Trading Course</option>
                                         <option class="text-clr" value="Options Trading">Options Trading</option>
                                         <option class="text-clr" value="Intex Trading">Intex Trading</option>
                                         <option class="text-clr" value="Mentorship Program">Mentorship Program

@@ -75,7 +75,7 @@
                 <div class="col-sm-12 col-md-8 col-lg-8  expert-course-left">
                     <!-- Tabs -->
                     <div class="container text-align-center expert-course-list p-0">
-                        <ul class="nav nav-tabs flex-no-warp course-navbar  flex-nowarp" role="tablist" aria-label="Tab list of courses">
+                        <ul class="nav nav-tabs flex-no-warp course-navbar  flex-nowarp" aria-label="Tab list of courses">
                             <li class="nav-items" aria-label="Description"><a class="nav-link active"  href="#description" data-bs-toggle="tab">Description</a></li>
                             <li class="nav-items" aria-label="What’s included"><a class="nav-link"  href="#wti" data-bs-toggle="tab">What’s included</a></li>
                             <li class="nav-items" aria-label="Lessons"><a class="nav-link"  href="#lessons" data-bs-toggle="tab">Lessons</a></li>
@@ -88,7 +88,8 @@
                                 <h5>Description</h5>
                                 <div class="dashed"></div>
                                 <p class="sub-details text-justify">Discover your trading style and create a winning plan with our 1-month support and guidance. This course is suitable for both beginners and experienced traders. Our expert coaches will show you how to analyze the market, set up trades and develop a trading strategy that fits your goals. With our help, you can achieve your financial goals and become a successful trader.</p>
-                                <h4 class="mb-3">Course details :</h4>
+                                <h5>Course details :</h5>
+                                <div class="dashed"></div>
                                 <p class="mb-3">Duration: <span class="sub-details"> 1 month (Weekend & one Live Trading session/week)</span></p>
                                 <p class="mb-3">Fee: <span class="sub-details">50,000 INR + GST</span></p>
                                 <p class="mb-3">Eligible People: <span class="sub-details">Working Professional, Full time/Part Time trader, 12th and Graduate Students</span></p>
@@ -255,27 +256,27 @@
                     <div class="submit-form form_contact">
                         <form id="contact-form">
                             <div class="mb-3 mt-3">
-                                <label for="fname">Enter Name</label><br>
+                                <label for="name_Field">Enter Name</label><br>
                                 <input type="text" aria-labelledby="client Name" class="form-control required" id="name_Field" name="name" required>
                                 <span role="alert" class="error-msg" id="name_Field_err">Please fill your Full
                                     Name.</span>
                             </div>
                             <div class="mb-3">
-                                <label for="fname">Email Address</label><br>
+                                <label for="email_Field">Email Address</label><br>
                                 <input type="email" aria-labelledby="client email id" class="form-control required" id="email_Field" name="email"
                                     required>
                                 <span role="alert" class="error-msg" id="email_Field_err">Please fill your Email
                                     id.</span>
                             </div>
                             <div class="mb-3">
-                                <label for="fname">Mobile Number</label><br>
+                                <label for="number_Field">Mobile Number</label><br>
                                 <input type="number" z class="form-control required" id="number_Field" name="number" required>
                                 <span role="alert" class="error-msg" id="number_Field_err">Please enter a valid
                                     number</span>
                             </div>
                             <div class="">
                                 <div class="form-control form-control-1">
-                                    <label for="fname">Courses Type</label><br>
+                                    <label for="inputGroupSelect01">Courses Type</label><br>
                                     <select name="courses" aria-labelledby="Course Options" class="custom-select text-clr py-2" id="inputGroupSelect01">
                                         <option selected hidden value="none">Select Courses</option>
                                         <option class="text-clr" value="Expert Trading Course">Expert Trading Course
