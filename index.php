@@ -143,58 +143,6 @@
 </head>
 <body data-bs-spy="scroll" data-bs-target="#navbar-example">
 <?php include("header.php"); ?>
-    <!-- Modal -->
-    
-    <!-- <div class="popup-section">
-        <div class="modal fade" id="staticBackdrop" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1"
-            aria-labelledby="staticBackdropLabel" aria-hidden="true">
-            <div class="modal-dialog">
-                <div class="modal-content">
-                    <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
-                    <div class="modal-header">
-                        <h3 class="modal-title" id="staticBackdropLabel">Quick Contact</h3>
-                    </div>
-                    <form id="contact-form">
-                        <div class="mb-3 mt-3">
-                            <label for="fname">Enter Name</label><br>
-                            <input type="text" class="form-control required" id="name_Field" name="name" required>
-                            <span role="alert" class="error-msg" id="name_Field_err">Please fill your Full Name.</span>
-                        </div>
-                        <div class="mb-3">
-                            <label for="fname">Email Address</label><br>
-                            <input type="email" class="form-control required" id="email_Field" name="email" required>
-                            <span role="alert" class="error-msg" id="email_Field_err">Please fill your Email id.</span>
-                        </div>
-                        <div class="mb-3">
-                            <label for="fname">Mobile Number</label><br>
-                            <input type="number" class="form-control" id="number_Field" name="number" required>
-                            <span role="alert" class="error-msg" id="number_Field_err">Please enter a valid
-                                number</span>
-                        </div>
-                        <div class="">
-                            <div class="form-control form-control-1">
-                                <label for="fname">Courses Type</label><br>
-                                <select name="courses" class="custom-select text-clr py-2" id="inputGroupSelect01">
-                                    <option selected hidden value="none">Select Courses</option>
-                                    <option class="text-clr" value="Expert Trading Course">Expert Trading Course
-                                    </option>
-                                    <option class="text-clr" value="Options Trading">Options Trading</option>
-                                    <option class="text-clr" value="Intex Trading">Intex Trading</option>
-                                    <option class="text-clr" value="Mentorship Program">Mentorship Program</option>
-                                </select>
-                            </div>
-                        </div>
-                        <div class="contact-btn d-flex mt-2">
-                            <button onclick="processquickemail('QUICK_CONTACT_EMAIL',this) " type="button"
-                                class="btn btn-primary">Submit</button>
-                        </div>
-                    </form>
-                </div>
-            </div>
-        </div>
-    </div> -->
-
-
     <div class="backround-banner backround-banner-1 d-flex flex-column" id="home">
         <div class="spy-element"></div>
         <div class="container">
@@ -293,9 +241,7 @@
                                 </div>
                             </div>
                         </div>
-                        <!-- <div class="banner-btn b-clr mb-3">
-                            <button>View More</button>
-                        </div> -->
+                       
                     </div>
                 </div>
             </div>
@@ -458,72 +404,6 @@
             </div>
         </div>
     </section>
-
-
-    <!-- Testing -->
-    <!-- <section class="tesimonial-sec" id="" >
-        <div class="container">
-            <div class="col-12 col-md-12 col-lg-12 mob-bottom">
-                <h2 class="heading text-white text-center mb-2">Our Testimonials</h2>
-                <p class="top-heading text-center text-white d-flex mb-3">What they’re talking about us</p>
-                <div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
-                    <div class="carousel-item active">
-                        <div class="photo-sec d-flex">
-                            <img  loading="lazy" src="./images/client-1.png" title="client" alt="client">
-                        </div>
-                        <h3 class="testi-name text-white text-center mb-2">V. Anbarasu</h3>
-                        <h5 class="client-des new-clr text-center mb-2">Adetprite Solutions</h5>
-                        <ul class="rating-star-1 d-flex mb-4">
-                            <li><img width="100%" height="100%" loading="lazy" src="./images/yellow-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
-                            <li><img width="100%" height="100%" loading="lazy" src="./images/yellow-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
-                            <li><img width="100%" height="100%" loading="lazy" src="./images/yellow-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
-                            <li><img width="100%" height="100%" loading="lazy" src="./images/yellow-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
-                            <li><img width="100%" height="100%" loading="lazy" src="./images/white-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
-                        </ul>
-                        <p class="text-white text-center">Thanks to the excellent coaching and mentoring from Deepak and Dana Karthikeyan, I am now confident in executing equity trading and option strategies. I highly recommend Traderz Arena for anyone seeking to learn and succeed in the stock market.</p>
-                    </div>
-                    // <div class="carousel-item" >
-                        <div class="photo-sec d-flex">
-                            <img  loading="lazy" src="./images/client-2.png" title="client" alt="client">
-                        </div>
-                        <h3 class="testi-name text-white text-center mb-2">Poorani Anbarasu</h3>
-                        <h5 class="client-des new-clr text-center mb-2">PRESITENT</h5>
-                        <ul class="rating-star-1 d-flex mb-3">
-                            <li><img width="100%" height="100%" loading="lazy" src="./images/yellow-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
-                            <li><img width="100%" height="100%" loading="lazy" src="./images/yellow-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
-                            <li><img width="100%" height="100%" loading="lazy" src="./images/yellow-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
-                            <li><img width="100%" height="100%" loading="lazy" src="./images/yellow-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
-                            <li><img width="100%" height="100%" loading="lazy" src="./images/white-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
-                        </ul>
-                        <p class="text-white text-center">Deepak K L's stock trading training sessions have been a game-changer for my husband. His in-depth knowledge and daily trading experience have provided valuable insights into result-oriented trading. We are grateful for his wonderful training and personal support and wish Traderz Arena all the best.</p>
-                    </div> -->
-    <!-- <div class="carousel-item" >
-                        <div class="photo-sec d-flex">
-                            <img  loading="lazy" src="./images/client-3.png" title="client" alt="client">
-                        </div>
-                        <h3 class="testi-name text-white text-center mb-2">Poorani Anbarasu</h3>
-                        <h5 class="client-des new-clr text-center mb-2">Adetprite Solutions</h5>
-                        <ul class="rating-star-1 d-flex mb-4">
-                            <li><img width="100%" height="100%" loading="lazy" src="./images/yellow-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
-                            <li><img width="100%" height="100%" loading="lazy" src="./images/yellow-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
-                            <li><img width="100%" height="100%" loading="lazy" src="./images/yellow-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
-                            <li><img width="100%" height="100%" loading="lazy" src="./images/yellow-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
-                            <li><img width="100%" height="100%" loading="lazy" src="./images/white-star.svg" title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena"></li>
-                        </ul>
-                        <p class="text-white text-center">Deepak K L's stock trading training sessions have been a game-changer for my husband. His in-depth knowledge and daily trading experience have provided valuable insights into result-oriented trading. We are grateful for his wonderful training and personal support and wish Traderz Arena all the best.</p>
-                    </div>
-                    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
-                      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                      <span class="visually-hidden">Previous</span>
-                    </button>
-                    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
-                      <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                      <span class="visually-hidden">Next</span>
-                    </button>
-                </div>
-            </div>
-        </div>
-    </section> -->
 
     <!-- Testing -->
 
@@ -694,19 +574,7 @@
                             </div>
                         </div>
                     </div>
-                    <!-- <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
-                        <h4 class="accordion-header" id="headingTwo" itemprop="name">
-                            <button class="accordion-button accordion-button-1 collapsed smooth-trans lh-2" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
-                                How to pick the right stock?
-                                <span class="accordion_icon"></span>
-                            </button>
-                        </h4>
-                        <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#faqAccordion" itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
-                            <div class="accordion-body" itemprop="text">
-                                <p class="text-justify lh-2">There are many factors to consider when selecting the right stocks to invest in, including a company's financial health, growth potential, competitive advantages, and industry trends. It's important to conduct thorough research and analysis to identify companies that are well-positioned to succeed in the long term.</p>
-                            </div>
-                        </div>
-                    </div> -->
+                   
                     <div class="accordion-item" itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
                         <h4 class="accordion-header" id="headingThree" itemprop="name">
                             <button class="accordion-button accordion-button-1 collapsed smooth-trans lh-2"

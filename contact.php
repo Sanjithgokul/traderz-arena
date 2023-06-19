@@ -49,10 +49,6 @@
                             <h4 class="m text-white mb-2"><b>ADDRESS</b></h4>
                             <p class="text-justify text-white">2nd floor, First Main Rd, Lalithamba Nagar, Manapakkam, Chennai - 600125.</p>
                         </div>
-                        <!-- <div class="contact-email">
-                            <h4 class="m text-white"><b>BY FORM</b></h4>
-                            <p class="text-justify text-white lh-2">Use the contact form to send a message. I’ll get back to you within 24 business hours</p>
-                        </div> -->
                         <div class="contact-email">
                             <h4 class="m text-white mb-2"><b>HOURS</b></h4>
                             <p class="text-white">MON - FRI, 9:30am - 5:30pm IST</p>

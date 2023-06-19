@@ -567,11 +567,6 @@ button:focus:not(:focus-visible){
   border-radius: 5px;
   padding: 10px 15px;
 }
-/* 
-.tesimonial-right-span{
-  font-size: 22px;
-  font-weight: 600;
-} */
 
 .box-inner{
   width: 100%;
@@ -679,7 +674,6 @@ button#enquiryButton:disabled{
 }
 
 .tesimonial-sec{
-  /* background: url(../images/testi-bg.webp); */
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -781,8 +775,6 @@ button#enquiryButton:disabled{
   white-space: nowrap;
 }
 /* Testing */
-
-
 .carousel-details h3{
   font-size: 32px !important;
   margin: 0 0 10px;
@@ -800,9 +792,6 @@ button#enquiryButton:disabled{
   justify-content: flex-end;
 }
 
-/* .carousel-close-quote img{
-  width: 50px;
-} */ 
 
 .testimonial-section{
   overflow: hidden;
@@ -812,10 +801,6 @@ button#enquiryButton:disabled{
 .space {
   padding-top: 70px;
 }
-/* 
-.extra{
-  height:10px;
-} */
 
 .spy-element{
   height: 65px;
@@ -829,11 +814,6 @@ button#enquiryButton:disabled{
 .book-icon:hover{
 color: var(--theme);
 }
-
-/* Testing */
-/* .dropdown:hover > .dropdown-menu{
-  display: block;
-} */
 
 /* testing */
 .main-icon{
@@ -907,7 +887,6 @@ color: var(--theme);
 .contact-form form{
   box-shadow: 0 0 5px #333;
   border: 1px solid var(--theme);
-  /* box-shadow: 0rem 0.5rem 2rem 0rem rgba(35, 44, 59, 0.1); */
   border-radius: 10px;
   padding: 20px;
 }
@@ -959,7 +938,6 @@ border-radius:30px;
 background-color:var(--theme);
 margin-left: auto;
 margin-right: auto;
-/* margin-top:20px; */
 }
 
 
@@ -1054,13 +1032,13 @@ padding-left: 1.75rem;
 
  
 .list-main-course-bullet li{
-  margin-left: 30px; /*62px*/
+  margin-left: 30px; 
   position: relative;
   padding-left: 1.75rem;
 }
 
 .list-main-course-bullet li::before{
-  list-style-type:none; /* list-style:initial;*/
+  list-style-type:none; 
   content: "\f005";
   font-family: "Font Awesome 5 Free";
   padding: 0 10px 0 0;
@@ -1114,10 +1092,6 @@ margin-left:10px;
 }
 
 
-/* .review-sec>h4{
-  font-weight: bold;
-  color: black; 
-} */
 
 .review-box>p{
   font-weight: bold;
@@ -1126,7 +1100,6 @@ margin-left:10px;
 
 .review-para{
   font-size:16px;
-  /* font-weight: 600; */
   color:black;
 }
 
@@ -1325,7 +1298,7 @@ color:#fff;
   }
 
   .tesimonial-sec{
-    height: 86vh; /*72vh*/
+    height: 86vh; 
   }
   .carousel-slide .carousel{
     min-height: 80vh;
@@ -1337,7 +1310,7 @@ color:#fff;
 
 /* master-1.css */
 .backround-banner-2 {
-  min-height: 65vh;
+  min-height: 64vh;
 }
 
 
@@ -1361,9 +1334,7 @@ color:#fff;
    .carousel-info{
      flex-wrap: wrap;
     }
-    /* .carousel-info .carousel-rating{
-      margin: 0%; 
-    } */
+   
     .carousel-info .carousel-rating img{
       width: 20px;
     }
@@ -1374,12 +1345,8 @@ color:#fff;
       max-height: 20px;
       aspect-ratio: 1;
     }
-    /* .carousel-details,
-    .carousel-info{
-      padding: 0;
-    } */
+   
     .carousel-slide .carousel{
-      /* testing 85vh */
       min-height: 72vh;
     }
 
@@ -1390,10 +1357,7 @@ color:#fff;
     .bi-binoculars-fill{
       display: contents;
     }
-    /* .carousel-details{
-      padding-left: 56px;
-    } */
-
+   
     .dropdown .bi-binoculars-fill::before{
       padding-right: 6px;
     }
