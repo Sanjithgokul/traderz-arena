@@ -137,7 +137,7 @@ a{
 
 .navbar-collapse-btn .nav-item a{
   font-size: 17px;
-  font-weight: 600;
+  /* font-weight: 600; */
   color: #333;
 }
 
