@@ -40,15 +40,6 @@
                         <h1 class="heading text-white py-4 lh-5" style="text-align:center;">Options Trading Course</h1>
                         <!-- <span class="text-primary"> <b>strategy</b></span> -->
                         <p class="sub-heading text-white mb-4">Where <span class="text-primary"><b>Risk Meets</b></span> Reward</p>
-                        <!-- <div class="form-section mt-5 mb-3">
-                            <form id="contact-form" action="#" method="post">
-                                <input type="email" class="input-field email required"
-                                    placeholder="Enter Your Email Address" id="emailField" name="email" required>
-                                <button onclick="processemailform('HOME_EMAIL_FUNCTION',this) " class="sub-btn"
-                                    type="button" id="enquiryButton">Submit</button>
-                            </form>
-                            <span role="alert" class="error-msg" id="emailField_err">Please fill your Email ID.</span>
-                        </div> -->
                     </div>
                 </div>
             </div>
