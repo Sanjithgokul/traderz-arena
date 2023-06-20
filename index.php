@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chennai's Trading Institute To Learn Stock Market | 100% Practical</title>
+    <title>Chennai's Best Trading Institute To Learn Stock Market | 100% Practical</title>
     <meta name="description" content="Become a successful trader with Traderzarena. Start earning from the stock market by Investing your course fee in live trading & Gain confidence by learning essential concepts, tools, and techniques." />
     <link rel="canonical" href="https://traderzarena.com/" />
     <meta property="og:locale" content="en_US" />
