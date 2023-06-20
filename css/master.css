@@ -1150,6 +1150,12 @@ color:#fff;
 /* [End]-master-1 css */
 
 
+/* 404 page */
+.new-404-page{
+  padding:128px 0px;
+}
+
+
 /* For  Navbar dropdown Testing */
 @media (hover:hover)
 {
@@ -1157,9 +1163,6 @@ color:#fff;
   display: block;
 }
 }
-
-
-
 
 
 
