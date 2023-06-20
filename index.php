@@ -233,7 +233,7 @@
                                 <div class="back-clr back-clr-1  d-flex" style="justify-content:flex-start;">
                                     <div class="cele-img">
                                         <img width="100%" height="100%" loading="lazy" src="./images/community-12.svg"
-                                            title="traderz-arena" alt="traderz-arena">
+                                            title="Traderz Arena Trading Community" alt="Traderz arena trading community icon">
                                     </div>
                                     <div class="year-content ps-3">
                                         <h4>Community Trading</h4>
@@ -397,7 +397,7 @@
                     <div class="col-12 col-md-12 col-lg-5 d-flex">
                         <div class="deepak-profile">
                             <img loading="lazy" width="100%" height="100%" src="./images/deepak-traderz-arena.svg"
-                                alt="traderz-arena-deepak" title="traderz-arena-deepak">
+                                alt="Traderz arena founder" title="Mr.Deepak">
                         </div>
                     </div>
                 </div>
@@ -437,19 +437,19 @@
                                     <div class="carousel-rating">
                                         <ul class="star m-0">
                                             <li><img class="ratingStar" width="20" hight="20" loading="lazy" src="./images/yellow-star.svg"
-                                                    title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena">
+                                                    title="Star Ratings" alt="Traderz arena Reviews">
                                             </li>
                                             <li><img class="ratingStar" width="20" hight="20" loading="lazy" src="./images/yellow-star.svg"
-                                                    title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena">
+                                                    title="Star Ratings" alt="Traderz arena Reviews">
                                             </li>
                                             <li><img class="ratingStar" width="20" hight="20" loading="lazy" src="./images/yellow-star.svg"
-                                                    title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena">
+                                                    title="Star Ratings" alt="Traderz arena Reviews">
                                             </li>
                                             <li><img class="ratingStar" width="20" hight="20" loading="lazy" src="./images/yellow-star.svg"
-                                                    title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena">
+                                                    title="Star Ratings" alt="Traderz arena Reviews">
                                             </li>
                                             <li><img class="ratingStar" width="20" hight="20" loading="lazy" src="./images/black-star.svg"
-                                                    title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena">
+                                                    title="Star Ratings" alt="Traderz arena Reviews">
                                             </li>
                                         </ul>
                                     </div>
@@ -489,19 +489,19 @@
                                     <div class="carousel-rating">
                                         <ul class="star m-0">
                                             <li><img class="ratingStar" width="20" hight="20" loading="lazy" src="./images/yellow-star.svg"
-                                                    title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena">
+                                                    title="Star Ratings" alt="Traderz arena Reviews">
                                             </li>
                                             <li><img class="ratingStar" width="20" hight="20" loading="lazy" src="./images/yellow-star.svg"
-                                                    title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena">
+                                                    title="Star Ratings" alt="Traderz arena Reviews">
                                             </li>
                                             <li><img class="ratingStar" width="20" hight="20" loading="lazy" src="./images/yellow-star.svg"
-                                                    title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena">
+                                                    title="Star Ratings" alt="Traderz arena Reviews">
                                             </li>
                                             <li><img class="ratingStar" width="20" hight="20" loading="lazy" src="./images/yellow-star.svg"
-                                                    title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena">
+                                                    title="Star Ratings" alt="Traderz arena Reviews">
                                             </li>
                                             <li><img class="ratingStar" width="20" hight="20" loading="lazy" src="./images/black-star.svg"
-                                                    title="Rating-star-traderz-arena" alt="Rating-star-traderz-arena">
+                                                    title="Star Ratings" alt="Traderz arena Reviews">
                                             </li>
                                         </ul>
                                     </div>
