@@ -1167,20 +1167,14 @@ color:#fff;
 
 
 
-
 /* All Repsonsable @media queries */
 
 @media (max-width: 1400px){
   .backround-banner{
     min-height: 90vh;
   }
-   /*  404-page */
-  .new-404-page{
-    padding: 114px 0px;
-  } 
+
 }
-
-
 
 
 @media (min-width: 990px){
@@ -1256,6 +1250,12 @@ color:#fff;
       bottom: 40px;
   }
 
+  .new-404-page{
+    height:79vh;
+    display: flex;
+    align-items: center;
+  }
+
 }
 
 
@@ -1272,6 +1272,12 @@ color:#fff;
   .contact-form textarea,
   .contact-form input {
   padding: 16px;
+}
+
+.new-404-page{
+  height:76vh;
+  display: flex;
+  align-items: center;
 }
 
 
@@ -1372,11 +1378,6 @@ color:#fff;
       padding-right: 6px;
     }
 
-    /* 404-page */
-    /* .new-404-page{
-      padding: 93px 0px;
-    } */
-
 }
 
 
@@ -1415,7 +1416,7 @@ color:#fff;
    }
 
    /* 404-page */
-.new-404-page{
+/* .new-404-page{
   padding: 74px 0px;
 }
 
@@ -1426,7 +1427,7 @@ color:#fff;
 
  .footer-content-box{
   padding: 11px 0px;
- }
+ } */
 
 }
 
@@ -1510,7 +1511,7 @@ color:#fff;
 }
 
 /* 404-page */
-.new-404-page{
+/* .new-404-page{
   padding:20px 0px;
 }
 .page-404-header-img{
@@ -1521,7 +1522,7 @@ color:#fff;
  .footer-content-box{
  padding-bottom: 5px;
  gap:5px;
-  }
+  } */
 }
 
 
@@ -1536,7 +1537,7 @@ color:#fff;
 }
 
 /* 404-page */
-.new-404-page{
+/* .new-404-page{
   padding:39px 0px;
 }
 .page-404-header-img{
@@ -1547,7 +1548,7 @@ color:#fff;
  .footer-content-box{
  padding-bottom: 5px;
  gap: 5px;
- }
+ } */
 
 }
 
@@ -1631,13 +1632,13 @@ color:#fff;
   }
 
 /* 404-page */
-.new-404-page{
+/* .new-404-page{
   padding:21px 0px;
 }
 .page-404-header-img{
   width:200px;
   height:190px;
- }
+ } */
  
   
 }
@@ -1669,7 +1670,7 @@ color:#fff;
   } 
 
  /* 404-page */
- .new-404-page{
+ /* .new-404-page{
 padding: 1px 0px;
  }
  .new-404-page-subtitle{
@@ -1683,7 +1684,7 @@ padding: 1px 0px;
  .page-404-header-img{
   width:230px;
   height:230px;
- } 
+ }  */
 
 }
 
