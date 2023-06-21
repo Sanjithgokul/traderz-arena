@@ -6,29 +6,32 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>404 Page - Traderz Arena</title>
-    <meta name="description"content="Gain expert knowledge and start earning big by enrolling in our stock market course in Chennai. Learn from experienced traders and unlock your potential now" />
+    <meta name="description"
+        content="Gain expert knowledge and start earning big by enrolling in our stock market course in Chennai. Learn from experienced traders and unlock your potential now" />
     <link rel="canonical" href="https://traderzarena.com/expert-trading-course.php" />
-    <link rel="preload stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous" />
+    <link rel="preload stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
+        integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous" />
     <?php include("common-css.php"); ?>
     <?php include("tracking-codes.php"); ?>
-   
+
 </head>
 
 <body data-bs-spy="scroll" data-bs-target="#navbar-example">
     <?php include("header.php"); ?>
-   <section class="new-404-page">
-   <div class="container">
-    <div class="row  justify-content-center">
-    <img width="543" height="388" src="../images/page-not-found.svg" alt="Page dosen't exit">
-    <span class="new-404-page-subtitle mt-3 mb-2 text-center">Page Could Not Be Found</span>
-    </div>
-    <div class="header-btn justify-content-center mt-4">
-    <a href="/" class="button"><i class="bi bi-house-door-fill p-2"></i>Go Back to Home</a>
-    </div>
-   </div>
-   </section>
-
+    <section class="new-404-page">
+        <div class="container">
+            <div class="row justify-content-center">
+                <img width="543" height="388" class="page-404-header-img" src="../images/page-not-found-1.svg" alt="Page dosen't exit">
+                <span class="new-404-page-subtitle text-center mt-3">Page Could Not Be Found</span>
+                <div class="header-btn justify-content-center mt-5 page-404-header-btn">
+                    <a href="/" class="button"><i class="bi bi-house-door-fill p-2"></i>Go Back to Home</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    
     <?php include("footer.php"); ?>
+    <?php include("common-js.php"); ?>
 </body>
 <script async>
 $(".cont_form_active").on('click', function() {
