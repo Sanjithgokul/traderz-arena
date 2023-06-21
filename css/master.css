@@ -32,10 +32,6 @@
   }
 
 
-  /* img {
-    max-width: 100%;
-  } */
-
   /* Testing */
   .carousel-profile > img{
     max-width: 100%;
@@ -216,6 +212,7 @@ button:focus:not(:focus-visible){
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
+  /* test 80vh */
   min-height: 80vh; 
   width: 100%;
   margin-top: -96px;
@@ -235,9 +232,9 @@ button:focus:not(:focus-visible){
   padding: 0 20px;
 }
 
-.banner-btn{
+/* .banner-btn{
   gap: 20px;
-}
+} */
 
 .b-clr button,
 .sub-btn{
@@ -1222,6 +1219,12 @@ color:#fff;
 .navbar-expand-sm .navbar-nav{
   gap: 15PX;
 }
+
+.new-404-page{
+  height:79vh;
+  display: flex;
+  align-items: center;
+}
  
 
 }
@@ -1250,11 +1253,7 @@ color:#fff;
       bottom: 40px;
   }
 
-  .new-404-page{
-    height:79vh;
-    display: flex;
-    align-items: center;
-  }
+
 
 }
 
@@ -1274,11 +1273,7 @@ color:#fff;
   padding: 16px;
 }
 
-.new-404-page{
-  height:76vh;
-  display: flex;
-  align-items: center;
-}
+
 
 
 }
@@ -1329,6 +1324,12 @@ color:#fff;
 /* master-1.css */
 .backround-banner-2 {
   min-height: 64vh;
+}
+
+.new-404-page{
+  height:76vh;
+  display: flex;
+  align-items: center;
 }
 
 }
@@ -1415,19 +1416,7 @@ color:#fff;
     height: 100%;
    }
 
-   /* 404-page */
-/* .new-404-page{
-  padding: 74px 0px;
-}
 
-.page-404-header-img{
-  width:400px;
-  height:395px;
- }
-
- .footer-content-box{
-  padding: 11px 0px;
- } */
 
 }
 
@@ -1510,19 +1499,18 @@ color:#fff;
   padding: 0px;
 }
 
-/* 404-page */
-/* .new-404-page{
-  padding:20px 0px;
 }
-.page-404-header-img{
-  width:400px;
-  height:400px;
- }
 
- .footer-content-box{
- padding-bottom: 5px;
- gap:5px;
-  } */
+/* Testing */
+@media (min-width: 768px) and (max-width: 779px){
+/* testing */
+    .navbar-nav li:nth-child(4){
+    padding: 0px 20px;
+    margin-left:6px;
+   }
+
+
+
 }
 
 
@@ -1536,19 +1524,6 @@ color:#fff;
   display:none;
 }
 
-/* 404-page */
-/* .new-404-page{
-  padding:39px 0px;
-}
-.page-404-header-img{
-  width:400px;
-  height:400px;
- }
-
- .footer-content-box{
- padding-bottom: 5px;
- gap: 5px;
- } */
 
 }
 
@@ -1562,7 +1537,6 @@ color:#fff;
     height: 90vh; /*80vh*/
   }
 
-  /* Test */
   
 }
 
@@ -1631,16 +1605,6 @@ color:#fff;
     padding-top: 0px;
   }
 
-/* 404-page */
-/* .new-404-page{
-  padding:21px 0px;
-}
-.page-404-header-img{
-  width:200px;
-  height:190px;
- } */
- 
-  
 }
 
 
@@ -1669,22 +1633,6 @@ color:#fff;
     padding: 10px;
   } 
 
- /* 404-page */
- /* .new-404-page{
-padding: 1px 0px;
- }
- .new-404-page-subtitle{
-  font-size: 22px;
- }
-
- .footer-content-box {
-  gap: 2px;
-}
-
- .page-404-header-img{
-  width:230px;
-  height:230px;
- }  */
 
 }
 
