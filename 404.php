@@ -18,19 +18,22 @@
 
 <body data-bs-spy="scroll" data-bs-target="#navbar-example">
     <?php include("header.php"); ?>
-    <section class="new-404-page">
-        <div class="container">
-            <div class="row justify-content-center">
-                <img width="543" height="388" class="page-404-header-img" src="../images/page-not-found-1.svg" alt="Page dosen't exit">
-                <span class="new-404-page-subtitle text-center mt-3">Page Could Not Be Found</span>
-                <div class="header-btn justify-content-center mt-5 page-404-header-btn">
-                    <a href="/" class="button"><i class="bi bi-house-door-fill p-2"></i>Go Back to Home</a>
-                </div>
-            </div>
+    <section class="new-404-page-1">
+        <div class="img-container">
+            <img width="100%" height="100%" class="page-404-header-img" src="../images/page-not-found-1.svg"
+                alt="Page dosen't exit">
+        </div>
+        <div class="text-content">
+            <span class="new-404-page-subtitle">Page Could Not Be Found</span>
+        </div>
+        <div class="header-btn page-404-header-btn">
+            <a href="/" class="button"><i class="bi bi-house-door-fill p-2"></i>Go Back to Home</a>
+        </div>
+        <div class="footer-container">
+            <?php include("footer.php"); ?>
         </div>
     </section>
-    
-    <?php include("footer.php"); ?>
+
     <?php include("common-js.php"); ?>
 </body>
 <script async>
