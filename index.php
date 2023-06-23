@@ -48,7 +48,7 @@
                 "addressCountry": "India"
             },
             "sameAs": [
-                "https://www.facebook.com/yourusername/",
+                <!-- "https://www.facebook.com/yourusername/", -->
                 "https://twitter.com/TraderzArena",
                 "https://www.linkedin.com/company/traderzarena/",
                 <!-- "https://www.youtube.com/yourusername" -->
