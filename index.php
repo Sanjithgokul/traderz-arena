@@ -48,10 +48,11 @@
                 "addressCountry": "India"
             },
             "sameAs": [
-                // "https://www.facebook.com/yourusername/",
-                // "https://twitter.com/yourusername",
-                // "https://in.linkedin.com/company/yourusername",
-                // "https://www.youtube.com/yourusername"
+                "https://www.facebook.com/yourusername/",
+                "https://twitter.com/TraderzArena",
+                "https://www.linkedin.com/company/traderzarena/",
+                <!-- "https://www.youtube.com/yourusername" -->
+                "https://www.instagram.com/traderzarena/"
             ],
             "contactPoint": {
                 "@type": "ContactPoint",
@@ -221,7 +222,7 @@
                                 <div class="back-clr back-clr-1  d-flex" style="justify-content:flex-start;gap:17px;">
                                     <div class="cele-img">
                                         <img width="100%" height="100%" loading="lazy"
-                                            src="./images/persentage-new-123.svg" title="Traderz Arena Annum Returns"
+                                            src="./images/percentage-new-123.svg" title="Traderz Arena Annum Returns"
                                             alt="Traderz arena percentage icon">
                                     </div>
                                     <div class="year-content ps-3">
