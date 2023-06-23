@@ -172,7 +172,7 @@
                 </div>
             </div>
         </div>
-        <div class="spy-element" id="about-sec"></div>
+        <!-- <div class="spy-element" id="about-sec"></div> -->
     </div>
 
     <!--Testing-->
@@ -181,13 +181,13 @@
         <div class="about-us">
             <div class="container">
                 <div class="row justify-content-center align-items-center reverse">
-                    <div class="col-sm-12 col-md-12 col-lg-6">
+                    <div class="col-sm-12 col-md-12 col-lg-6 mt-3">
                         <img width="90%" height="90%" loading="lazy" src="./images/section-2-new-1.webp"
                             title="Trader Arenaz" alt="stock Trading illustration on Trader Arena's about us page">
                     </div>
-                    <div class="col-sm-12 col-md-12 col-lg-6">
+                    <div class="col-sm-12 col-md-12 col-lg-6 mt-5">
                         <h2 class="heading text-bold text-gray space">About Us</h2>
-                        <p class="text-gray lh-2 text-justify">At Traderz Arena, We take pride in delivering exceptional
+                        <p class="text-gray lh-2 text-justify mt-4">At Traderz Arena, We take pride in delivering exceptional
                             training that empowers individuals to thrive and generate profits in all market conditions
                             (bear or bull market). Our technically sound experts train you to create your trading
                             protocol and achieve wealth creation through value investment.</p>
