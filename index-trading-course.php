@@ -5,26 +5,26 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Intex Trading Course - Start your Profitable Trading Journey Today!</title>
-<meta name="description" content="Learn how to become a better trader and earn more money, Consider signing up for the Intex Trading Course. With our program, you’ll build a solid foundation for a successful trading career." />
-<link rel="canonical" href="https://traderzarena.com/intex-trading-course.php" />
+    <title>Index Trading Course - Start your Profitable Trading Journey Today!</title>
+<meta name="description" content="Learn how to become a better trader and earn more money, Consider signing up for the Index Trading Course. With our program, you’ll build a solid foundation for a successful trading career." />
+<link rel="canonical" href="https://traderzarena.com/index-trading-course.php" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="website" />
-<meta property="og:title" content="Intex Trading Course - Start your Profitable Trading Journey Today!" />
-<meta property="og:description" content="Learn how to become a better trader and earn more money, Consider signing up for the Intex Trading Course. With our program, you’ll build a solid foundation for a successful trading career." />
-<meta property="og:url" content="https://traderzarena.com/intex-trading-course.php" />
+<meta property="og:title" content="Index Trading Course - Start your Profitable Trading Journey Today!" />
+<meta property="og:description" content="Learn how to become a better trader and earn more money, Consider signing up for the Index Trading Course. With our program, you’ll build a solid foundation for a successful trading career." />
+<meta property="og:url" content="https://traderzarena.com/index-trading-course.php" />
 <meta property="og:site_name" content="TRADERZARENA" />
-<meta property="og:image" content="https://traderzarena.com/images/intex-trading-course.jpg">
+<meta property="og:image" content="https://traderzarena.com/images/index-trading-course.jpg">
 <meta name="twitter:site" content="@traderzarena" />
 <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Intex Trading Course - Start your Profitable Trading Journey Today!" />
-<meta name="twitter:description" content="Learn how to become a better trader and earn more money, Consider signing up for the Intex Trading Course. With our program, you’ll build a solid foundation for a successful trading career." />
-<meta name="twitter:image" content="https://traderzarena.com/images/intex-trading-course.jpg" />
+<meta name="twitter:title" content="Index Trading Course - Start your Profitable Trading Journey Today!" />
+<meta name="twitter:description" content="Learn how to become a better trader and earn more money, Consider signing up for the Index Trading Course. With our program, you’ll build a solid foundation for a successful trading career." />
+<meta name="twitter:image" content="https://traderzarena.com/images/index-trading-course.jpg" />
     <link rel="preload stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css" integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous" />
     <?php include("common-css.php"); ?>
     <?php include("tracking-codes.php"); ?>
 
-    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://traderzarena.com/intex-trading-course.php/","url":"https://traderzarena.com/intex-trading-course.php/","name":"Intex Trading Course - Start your Profitable Trading Journey Today!","isPartOf":{"@id":"https://traderzarena.com/#website"},"primaryImageOfPage":{"@id":"https://traderzarena.com/intex-trading-course.php/#primaryimage"},"image":{"@id":"https://traderzarena.com/intex-trading-course.php/#primaryimage"},"thumbnailUrl":"https://traderzarena.com/images/intex-trading-course.jpg","description":"Learn how to become a better trader and earn more money, Consider signing up for the Intex Trading Course. With our program, you’ll build a solid foundation for a successful trading career.","breadcrumb":{"@id":"https://traderzarena.com/intex-trading-course.php/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://traderzarena.com/intex-trading-course.php/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://traderzarena.com/#primaryimage","url":"https://traderzarena.com/images/intex-trading-course.jpg","contentUrl":"https://traderzarena.com/images/intex-trading-course.jpg","width":1200,"height":630,"caption":"Intex Trading Course"},{"@type":"BreadcrumbList","@id":"https://traderzarena.com/intex-trading-course.php/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://traderzarena.com/"},{"@type":"ListItem","position":2,"name":"intex trading course"}]},{"@type":"WebSite","@id":"https://traderzarena.com/#website","url":"https://traderzarena.com/","name":"Traderz Arena","description":"Wit. Wisdom. Value Investing.","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://traderzarena.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://traderzarena.com/index-trading-course.php/","url":"https://traderzarena.com/index-trading-course.php/","name":"Index Trading Course - Start your Profitable Trading Journey Today!","isPartOf":{"@id":"https://traderzarena.com/#website"},"primaryImageOfPage":{"@id":"https://traderzarena.com/index-trading-course.php/#primaryimage"},"image":{"@id":"https://traderzarena.com/index-trading-course.php/#primaryimage"},"thumbnailUrl":"https://traderzarena.com/images/index-trading-course.jpg","description":"Learn how to become a better trader and earn more money, Consider signing up for the Index Trading Course. With our program, you’ll build a solid foundation for a successful trading career.","breadcrumb":{"@id":"https://traderzarena.com/index-trading-course.php/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://traderzarena.com/index-trading-course.php/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://traderzarena.com/#primaryimage","url":"https://traderzarena.com/images/index-trading-course.jpg","contentUrl":"https://traderzarena.com/images/index-trading-course.jpg","width":1200,"height":630,"caption":"Index Trading Course"},{"@type":"BreadcrumbList","@id":"https://traderzarena.com/index-trading-course.php/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://traderzarena.com/"},{"@type":"ListItem","position":2,"name":"index trading course"}]},{"@type":"WebSite","@id":"https://traderzarena.com/#website","url":"https://traderzarena.com/","name":"Traderz Arena","description":"Wit. Wisdom. Value Investing.","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://traderzarena.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
     
 </head>
 
@@ -38,9 +38,9 @@
                 <div class="col-md-12 col-lg-12 col-xl-12 mb-5">
                     <div class="banner-content-main">
                         <!-- <span class="text-white mb-3">Track Expert Traders</span> -->
-                        <h1 class="heading text-white py-4 lh-5" style="text-align:center;">Intex Trading Course</h1>
+                        <h1 class="heading text-white py-4 lh-5" style="text-align:center;">Index Trading Course</h1>
                         <!-- <span class="text-primary"> <b>strategy</b></span> -->
-                        <p class="sub-heading text-white mb-4">Trade The <span class="text-primary"><b>Intex</b></span> , Rule The<span class="text-primary"><b> Market</b></span></p>
+                        <p class="sub-heading text-white mb-4">Trade The <span class="text-primary"><b>Index</b></span> , Rule The<span class="text-primary"><b> Market</b></span></p>
                     </div>
                 </div>
             </div>
@@ -49,10 +49,10 @@
 
     <!-- Master the Expert Trading with us -->
     <section class="master-expert">
-        <h2 class="master-expert-heading"> Intex Trading Course - Master the Art of Trading Indices</h2>
+        <h2 class="master-expert-heading"> Index Trading Course - Master the Art of Trading Indices</h2>
         <div class="underline"></div>
         <div class="container master-expert-desc">
-            <p class="text-gray lh-2 text-justify mt-4">The Traderz Arena Intex Trading Course is designed to equip you with the knowledge and skills needed to master the art of trading indices. With a focus on practical learning and real-world scenarios, this course offers a comprehensive understanding of Intex trading, including trend analysis, chart formations, technical analysis indicators, sentimental indicators, and volume analysis.</p>
+            <p class="text-gray lh-2 text-justify mt-4">The Traderz Arena Index Trading Course is designed to equip you with the knowledge and skills needed to master the art of trading indices. With a focus on practical learning and real-world scenarios, this course offers a comprehensive understanding of Index trading, including trend analysis, chart formations, technical analysis indicators, sentimental indicators, and volume analysis.</p>
             <p class="text-gray lh-2 text-justify mt-4">This course will teach you to trade with precision and confidence, using the latest techniques and tools to maximize profits and minimize risks. Whether you're a beginner or an experienced trader, this course offers something for everyone, with personalized support and one-on-one mentoring from expert traders.</div>
 
         </div>
@@ -78,7 +78,7 @@
                             <div class="container tab-pane  active article-one mt-5 mb-5 p-0" id="description">
                                 <h5>Description</h5>
                                 <div class="dashed"></div>
-                                <p class="sub-details text-justify">The Traderz Arena Intex Trading Course focuses on intraday trading in the Index market, covering various techniques such as Gap Theory, Timing the Market Trends, Adjustment Concepts, and Open Interest Analysis. Additionally, the course offers one month of support to ensure you comprehensively understand the concepts covered.</p>
+                                <p class="sub-details text-justify">The Traderz Arena Index Trading Course focuses on intraday trading in the Index market, covering various techniques such as Gap Theory, Timing the Market Trends, Adjustment Concepts, and Open Interest Analysis. Additionally, the course offers one month of support to ensure you comprehensively understand the concepts covered.</p>
                                 <h5>Course details :</h5>
                                 <div class="dashed"></div>
                                 <p class="mb-3">Duration: <span class="sub-details"> 2 Weeks</span></p>
@@ -113,8 +113,8 @@
                                 <h5>Lessons</h5>
                                 <div class="dashed"></div>
                                 <!-- start  one-->
-                                <h5 class="mb-3">I. Intex Trading Course</h5>
-                                <p class="title-in-detail mt-4 mb-4">Learn essential skills and strategies for successful trading in the Intex Trading Course.</p>
+                                <h5 class="mb-3">I. Index Trading Course</h5>
+                                <p class="title-in-detail mt-4 mb-4">Learn essential skills and strategies for successful trading in the Index Trading Course.</p>
                                 <h4 class="mt-4 mb-3">Chapter 1: Positional Expiry Trading Concepts (Wednesday Trade)</h4>
                                 <p class="mt-4 mb-3 ml-5 subtitle-heading">This chapter provides insights on Positional Expiry Trading Concepts which is Wednesday Trades for profitable trading, making trades with a higher probability of success.</p>
                                 <ul class="list-main-course-bullet">
@@ -297,7 +297,7 @@
                                         <option class="text-clr" value="Expert Trading Course">Expert Trading Course
                                         </option>
                                         <option class="text-clr" value="Options Trading">Options Trading</option>
-                                        <option class="text-clr" value="Intex Trading">Intex Trading</option>
+                                        <option class="text-clr" value="Index Trading">Index Trading</option>
                                         <option class="text-clr" value="Mentorship Program">Mentorship Program
                                         </option>
                                     </select>
