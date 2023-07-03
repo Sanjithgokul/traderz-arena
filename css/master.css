@@ -201,7 +201,8 @@ button:focus:not(:focus-visible) {
 .header-menus {
   background: var(--white);
   width: 100%;
-  position: sticky;
+  /* position: sticky; */
+  position:fixed;
   z-index: 99;
   border-bottom: 2px solid var(--theme);
   top: 0;
