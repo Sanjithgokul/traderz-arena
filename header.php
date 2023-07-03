@@ -27,7 +27,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
                               <a class="nav-link nav-item-1 main-icon" href="/"><i class="bi bi-house-door-fill p-2"></i>Home</a>
                           </li>
                           <li class="nav-item">
-                              <a href="/#about-sec" class="nav-link nav-item-1 main-icon"><i class="bi bi-person-circle p-2"></i>About</a>
+                              <a href="#about-sec" id="scroll-about" class="nav-link nav-item-1 main-icon"><i class="bi bi-person-circle p-2"></i>About</a>
                           </li>
                           <li class="nav-item dropdown">
                               <a href="#course-sec" id="course-dropdown" class="nav-link nav-item-1 dropdown-toggle main-icon" role="button" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi bi-binoculars-fill"></i>Courses</a>

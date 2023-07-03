@@ -144,6 +144,12 @@ $("#course-dropdown").on('click',function() {
     window.location.href = "/#course-sec";
 });
 
+
+//redirect for about-sec
+$("#scroll-about").on('click',function(){
+    window.location.href = "/#about-sec";
+});
+
 //Testing working
 $(document).click(function (event) {
     if ($(event.target).parents(".navbar-collapse").length < 1) {
