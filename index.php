@@ -124,9 +124,9 @@
           "position": 4,
           "item": {
             "@type": "Course",
-            "url":"https://traderzarena.com/intex-trading-course.php",
-            "name": "Intex Trading Course",
-            "description": "Learn how to become a better trader and earn more money, Consider signing up for the Intex Trading Course. With our program, you’ll build a solid foundation for a successful trading career.",
+            "url":"https://traderzarena.com/index-trading-course.php",
+            "name": "index Trading Course",
+            "description": "Learn how to become a better trader and earn more money, Consider signing up for the index Trading Course. With our program, you’ll build a solid foundation for a successful trading career.",
             "provider": {
               "@type": "Organization",
               "name": "Traderz Arena",
@@ -317,7 +317,7 @@
                         <div class="col-12 col-md-6 col-lg-4 box-1 d-flex mb-5">
                             <div class="box-inner">
                                 <div class="box-heading  clr-4 mb-3">
-                                    <h3 class="top-heading text-center text-white  d-flex"> Intex Trading</h3>
+                                    <h3 class="top-heading text-center text-white  d-flex"> index Trading</h3>
                                     <div class="span-sec">
                                         <h4 class="m d-flex mb-2 text-white"><b class="px-2">Duration:</b> 2 Weeks</h4>
                                         <h4 class="r d-flex text-white"> <b class="px-2">Fee:</b> 25,000 INR + GST</h4>
@@ -329,7 +329,7 @@
                                             <li>Positional Expiry Trading Concepts</li>
                                             <li>Weekly Expiry Trading Techniques</li>
                                             <li>Intraday/Positional OI analysis</li>
-                                            <li>Intex Intraday Trading</li>
+                                            <li>index Intraday Trading</li>
                                             <li>Intraday Adjustment Concepts</li>
                                             <!-- <li>Intraday PalysisCR An</li> -->
                                             <li>1 Month Support</li>
@@ -337,7 +337,7 @@
                                     </div>
                                 </div>
                                 <div class="course-btn course-btn-4 d-flex">
-                                    <a  href="/intex-trading-course.php">Get Started</a>
+                                    <a  href="/index-trading-course.php">Get Started</a>
                                 </div>
                             </div>
                         </div>
