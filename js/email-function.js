@@ -141,7 +141,15 @@ $("#course-dropdown").on('click',function() {
     $('html, body').animate({
         'scrollTop' : $("#course-sec").position().top
     });
-    window.location.href = "/#course-sec";
+    if( screen.width >= 576) {
+        window.location.href = "/#course-sec";
+    } 
+});
+
+
+//redirect for about-sec
+$("#scroll-about").on('click',function(){
+    window.location.href = "/#about-sec";
 });
 
 //Testing working

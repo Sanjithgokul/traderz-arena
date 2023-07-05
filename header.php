@@ -27,14 +27,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe>
                               <a class="nav-link nav-item-1 main-icon" href="/"><i class="bi bi-house-door-fill p-2"></i>Home</a>
                           </li>
                           <li class="nav-item">
-                              <a href="/#about-sec" class="nav-link nav-item-1 main-icon"><i class="bi bi-person-circle p-2"></i>About</a>
+                              <a href="#about-sec" id="scroll-about" class="nav-link nav-item-1 main-icon"><i class="bi bi-person-circle p-2"></i>About</a>
                           </li>
                           <li class="nav-item dropdown">
                               <a href="#course-sec" id="course-dropdown" class="nav-link nav-item-1 dropdown-toggle main-icon" role="button" data-bs-toggle="dropdown" aria-expanded="false"><i class="bi bi-binoculars-fill"></i>Courses</a>
                               <ul class="dropdown-menu home-dropdown-menu ">
                                   <li><a class="dropdown-item fw-normal" href="/expert-trading-course.php"><i class="bi bi-book-half book-icon" style="padding:0px 12px 0px 0px"></i>Expert Trading Course</a></li>
                                   <li><a class="dropdown-item fw-normal" href="/options-trading-course.php"><i class="bi bi-book-half book-icon" style="padding:0px 12px 0px 0px"></i>Options Trading</a></li>
-                                  <li><a class="dropdown-item fw-normal" href="/intex-trading-course.php"><i class="bi bi-book-half book-icon" style="padding:0px 12px 0px 0px"></i>Intex Trading</a></li>
+                                  <li><a class="dropdown-item fw-normal" href="/index-trading-course.php"><i class="bi bi-book-half book-icon" style="padding:0px 12px 0px 0px"></i>Index Trading</a></li>
                                   <li><a class="dropdown-item fw-normal" href="/mentorship-program-course.php"><i class="bi bi-book-half book-icon" style="padding:0px 12px 0px 0px"></i>Mentorship Program</a></li>
                               </ul>
                           </li>
