@@ -24,6 +24,24 @@
     <?php include("common-css.php"); ?>
     <?php include("tracking-codes.php"); ?>
     <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://traderzarena.com/options-trading-course.php/","url":"https://traderzarena.com/options-trading-course.php/","name":"Best Option Trading Course In Chennai [Basic to Advance Level - 2023]","isPartOf":{"@id":"https://traderzarena.com/#website"},"primaryImageOfPage":{"@id":"https://traderzarena.com/options-trading-course.php/#primaryimage"},"image":{"@id":"https://traderzarena.com/options-trading-course.php/#primaryimage"},"thumbnailUrl":"https://traderzarena.com/images/option-trading-course.jpg","description":"Looking for top-rated options trading courses to learn essential skills from basics to advanced strategies? Our courses offer a solid foundation and in-depth understanding of how options trading works.","breadcrumb":{"@id":"https://traderzarena.com/options-trading-course.php/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://traderzarena.com/options-trading-course.php/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://traderzarena.com/#primaryimage","url":"https://traderzarena.com/images/option-trading-course.jpg","contentUrl":"https://traderzarena.com/images/option-trading-course.jpg","width":1200,"height":630,"caption":"Option Trading Course"},{"@type":"BreadcrumbList","@id":"https://traderzarena.com/options-trading-course.php/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://traderzarena.com/"},{"@type":"ListItem","position":2,"name":"option trading course"}]},{"@type":"WebSite","@id":"https://traderzarena.com/#website","url":"https://traderzarena.com/","name":"Traderz Arena","description":"Wit. Wisdom. Value Investing.","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://traderzarena.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script> 
+    <!-- Meta Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '2532000263623898');
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=2532000263623898&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Meta Pixel Code -->
+    
 </head>
 
 

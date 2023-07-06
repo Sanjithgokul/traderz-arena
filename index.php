@@ -125,13 +125,8 @@
           "item": {
             "@type": "Course",
             "url":"https://traderzarena.com/index-trading-course.php",
-<<<<<<< HEAD
             "name": "index Trading Course",
             "description": "Learn how to become a better trader and earn more money, Consider signing up for the index Trading Course. With our program, you’ll build a solid foundation for a successful trading career.",
-=======
-            "name": "Index Trading Course",
-            "description": "Learn how to become a better trader and earn more money, Consider signing up for the Index Trading Course. With our program, you’ll build a solid foundation for a successful trading career.",
->>>>>>> 9f4900bfe9e591cdffd5bf0aa370905c612db503
             "provider": {
               "@type": "Organization",
               "name": "Traderz Arena",
@@ -143,8 +138,23 @@
     }
     </script>
     <!-- End of course Schema -->
-
-
+    <!-- Meta Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '2532000263623898');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=2532000263623898&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Meta Pixel Code -->
 
 </head>
 <body data-bs-spy="scroll" data-bs-target="#navbar-example">

@@ -32,7 +32,23 @@
     <?php include("tracking-codes.php"); ?>
 
     <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://traderzarena.com/index-trading-course.php/","url":"https://traderzarena.com/index-trading-course.php/","name":"Index Trading Course - Start your Profitable Trading Journey Today!","isPartOf":{"@id":"https://traderzarena.com/#website"},"primaryImageOfPage":{"@id":"https://traderzarena.com/index-trading-course.php/#primaryimage"},"image":{"@id":"https://traderzarena.com/index-trading-course.php/#primaryimage"},"thumbnailUrl":"https://traderzarena.com/images/index-trading-course.png","description":"Learn how to become a better trader and earn more money, Consider signing up for the Index Trading Course. With our program, you’ll build a solid foundation for a successful trading career.","breadcrumb":{"@id":"https://traderzarena.com/index-trading-course.php/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://traderzarena.com/index-trading-course.php/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://traderzarena.com/#primaryimage","url":"https://traderzarena.com/images/index-trading-course.png","contentUrl":"https://traderzarena.com/images/index-trading-course.png","width":1200,"height":630,"caption":"Index Trading Course"},{"@type":"BreadcrumbList","@id":"https://traderzarena.com/index-trading-course.php/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://traderzarena.com/"},{"@type":"ListItem","position":2,"name":"index trading course"}]},{"@type":"WebSite","@id":"https://traderzarena.com/#website","url":"https://traderzarena.com/","name":"Traderz Arena","description":"Wit. Wisdom. Value Investing.","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://traderzarena.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
-    
+    <!-- Meta Pixel Code -->
+    <script>
+    !function(f,b,e,v,n,t,s)
+    {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+    if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+    n.queue=[];t=b.createElement(e);t.async=!0;
+    t.src=v;s=b.getElementsByTagName(e)[0];
+    s.parentNode.insertBefore(t,s)}(window, document,'script',
+    'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '2532000263623898');
+    fbq('track', 'PageView');
+    </script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=2532000263623898&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Meta Pixel Code -->
 </head>
 
 <body data-bs-spy="scroll" data-bs-target="#navbar-example">
