@@ -20,9 +20,6 @@
 <meta name="twitter:description" content="Looking for the best share market training courses in Chennai?Connect with us today for thorough training and expert guidance." />   
 <meta name="twitter:image" content="https://traderzarena.com/images/contact-traderzarena.jpg">
 
-<!-- Testing -->
-<link rel="icon" href="/images/favicon.svg" type="image/svg" sizes="13x15">
-
 <link  rel="preload stylesheet" as="style" type="text/css" href="/css/bootstarp.css">
 <!-- <link  rel="preload stylesheet" as="style" href="https://fonts.googleapis.com">
 <link  rel="preload stylesheet" as="style" href="https://fonts.gstatic.com" crossorigin> -->
@@ -54,7 +51,7 @@
 
                         <div class="contact-email">
                             <h4 class="m text-white mb-2"><b>PHONE</b></h4>
-                            <p class="text-justify text-white">+91 76391 95577</p>
+                            <p class="text-justify text-white">+91 93631 19191</p>
                         </div>
 
                         <div class="contact-email">
@@ -63,7 +60,7 @@
                         </div>
                         <div class="contact-email">
                             <h4 class="m text-white mb-2"><b>HOURS</b></h4>
-                            <p class="text-white">MON - FRI, 9:30am - 5:30pm IST</p>
+                            <p class="text-white">MON - FRI, 8:30 AM - 5:30 PM IST</p>
                         </div>
 
                         <div class="contact-email">
@@ -129,8 +126,8 @@
         </div>
     </section>
     <!-- Testing-comman.js file -->
-    <!-- <script src="/js/bootstrap.bundle.min.js"></script> -->
-<script src="/js/jquery-3.6.0.min.js"></script>
+    <!-- <script src="/js/bootstrap.bundle.min.js"></script> 
+<script src="/js/jquery-3.6.0.min.js"></script>-->
 <script src="/js/email-function.js"></script>
 
     <?php include("footer.php"); ?>
