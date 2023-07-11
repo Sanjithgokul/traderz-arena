@@ -20,21 +20,18 @@
 <meta name="twitter:description" content="Looking for the best share market training courses in Chennai?Connect with us today for thorough training and expert guidance." />   
 <meta name="twitter:image" content="https://traderzarena.com/images/contact-traderzarena.jpg">
 
-<!-- Testing -->
-<link rel="icon" href="/images/favicon.svg" type="image/svg" sizes="13x15">
-
-<link  rel="preload stylesheet" as="style" type="text/css" href="/css/bootstarp.css">
-<!-- <link  rel="preload stylesheet" as="style" href="https://fonts.googleapis.com">
-<link  rel="preload stylesheet" as="style" href="https://fonts.gstatic.com" crossorigin> -->
+<!--<link  rel="preload stylesheet" as="style" type="text/css" href="/css/bootstarp.css">
+ <link  rel="preload stylesheet" as="style" href="https://fonts.googleapis.com">
+<link  rel="preload stylesheet" as="style" href="https://fonts.gstatic.com" crossorigin> 
 <link  rel="preload stylesheet" as="style" type="text/css" href="/css/master.css">
 <link  rel="preload stylesheet" as="style" type="text/css"  href="/assets/fonts/style.css">
-<link  rel="preload stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
-<!-- <?php //include("common-css.php"); ?> -->
+<link  rel="preload stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">-->
+ <?php include("common-css.php"); ?> 
 <!-- Testing -->
 <!-- Testing -->
     <?php include("tracking-codes.php"); ?>
-    
-</head><script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://traderzarena.com/contact.php/","url":"https://traderzarena.com/contact.php/","name":"Get in Touch For Any Trading Related Queries - Traderz Arena","isPartOf":{"@id":"https://traderzarena.com/#website"},"primaryImageOfPage":{"@id":"https://traderzarena.com/contact.php/#primaryimage"},"image":{"@id":"https://traderzarena.com/contact.php/#primaryimage"},"thumbnailUrl":"https://traderzarena.com/images/contact-traderzarena.jpg","description":"Looking for the best share market training courses in Chennai?Connect with us today for thorough training and expert guidance.","breadcrumb":{"@id":"https://traderzarena.com/contact.php/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://traderzarena.com/contact.php/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://traderzarena.com/#primaryimage","url":"https://traderzarena.com/images/contact-traderzarena.jpg","contentUrl":"https://traderzarena.com/images/contact-traderzarena.jpg","width":1200,"height":630,"caption":"contact Us"},{"@type":"BreadcrumbList","@id":"https://traderzarena.com/contact.php/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://traderzarena.com/"},{"@type":"ListItem","position":2,"name":"contact-us"}]},{"@type":"WebSite","@id":"https://traderzarena.com/#website","url":"https://traderzarena.com/","name":"Traderz Arena","description":"Wit. Wisdom. Value Investing.","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://traderzarena.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+    <script type="application/ld+json">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://traderzarena.com/contact.php/","url":"https://traderzarena.com/contact.php/","name":"Get in Touch For Any Trading Related Queries - Traderz Arena","isPartOf":{"@id":"https://traderzarena.com/#website"},"primaryImageOfPage":{"@id":"https://traderzarena.com/contact.php/#primaryimage"},"image":{"@id":"https://traderzarena.com/contact.php/#primaryimage"},"thumbnailUrl":"https://traderzarena.com/images/contact-traderzarena.jpg","description":"Looking for the best share market training courses in Chennai?Connect with us today for thorough training and expert guidance.","breadcrumb":{"@id":"https://traderzarena.com/contact.php/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://traderzarena.com/contact.php/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://traderzarena.com/#primaryimage","url":"https://traderzarena.com/images/contact-traderzarena.jpg","contentUrl":"https://traderzarena.com/images/contact-traderzarena.jpg","width":1200,"height":630,"caption":"contact Us"},{"@type":"BreadcrumbList","@id":"https://traderzarena.com/contact.php/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://traderzarena.com/"},{"@type":"ListItem","position":2,"name":"contact-us"}]},{"@type":"WebSite","@id":"https://traderzarena.com/#website","url":"https://traderzarena.com/","name":"Traderz Arena","description":"Wit. Wisdom. Value Investing.","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://traderzarena.com/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"}]}</script>
+</head>        
 <body>
 <?php include("header.php"); ?>
     <div class="contact-backround-banner py-5 d-flex">
@@ -54,7 +51,7 @@
 
                         <div class="contact-email">
                             <h4 class="m text-white mb-2"><b>PHONE</b></h4>
-                            <p class="text-justify text-white">+91 76391 95577</p>
+                            <p class="text-justify text-white">+91 93631 19191</p>
                         </div>
 
                         <div class="contact-email">
@@ -63,7 +60,7 @@
                         </div>
                         <div class="contact-email">
                             <h4 class="m text-white mb-2"><b>HOURS</b></h4>
-                            <p class="text-white">MON - FRI, 9:30am - 5:30pm IST</p>
+                            <p class="text-white">MON - FRI, 8:30 AM - 5:30 PM IST</p>
                         </div>
 
                         <div class="contact-email">
@@ -129,13 +126,13 @@
         </div>
     </section>
     <!-- Testing-comman.js file -->
-    <!-- <script src="/js/bootstrap.bundle.min.js"></script> -->
+    <!-- <script src="/js/bootstrap.bundle.min.js"></script> 
 <script src="/js/jquery-3.6.0.min.js"></script>
-<script src="/js/email-function.js"></script>
+<script src="/js/email-function.js"></script>-->
 
     <?php include("footer.php"); ?>
     <!-- Testing -->
-    <!-- <?php include("common-js.php"); ?> -->
+     <?php include("common-js.php"); ?> 
  <!-- Testing -->
 </body>
 </html>

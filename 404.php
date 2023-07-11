@@ -6,9 +6,6 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>404 Page - Traderz Arena</title>
-    <meta name="description"
-        content="Gain expert knowledge and start earning big by enrolling in our stock market course in Chennai. Learn from experienced traders and unlock your potential now" />
-    <link rel="canonical" href="https://traderzarena.com/expert-trading-course.php" />
     <link rel="preload stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
         integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous" />
     <?php include("common-css.php"); ?>

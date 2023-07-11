@@ -125,8 +125,8 @@
           "item": {
             "@type": "Course",
             "url":"https://traderzarena.com/index-trading-course.php",
-            "name": "Index Trading Course",
-            "description": "Learn how to become a better trader and earn more money, Consider signing up for the Index Trading Course. With our program, you’ll build a solid foundation for a successful trading career.",
+            "name": "index Trading Course",
+            "description": "Learn how to become a better trader and earn more money, Consider signing up for the index Trading Course. With our program, you’ll build a solid foundation for a successful trading career.",
             "provider": {
               "@type": "Organization",
               "name": "Traderz Arena",
@@ -138,8 +138,7 @@
     }
     </script>
     <!-- End of course Schema -->
-
-
+    
 
 </head>
 <body data-bs-spy="scroll" data-bs-target="#navbar-example">
