@@ -138,7 +138,8 @@
     }
     </script>
     <!-- End of course Schema -->
-    
+
+
 
 </head>
 <body data-bs-spy="scroll" data-bs-target="#navbar-example">
@@ -167,7 +168,7 @@
                 </div>
                 <div class="col-md-12 col-lg-6 col-xl-6 d-flex sec-img-one" width="634" height="472"> 
                     <!-- Test -->
-                    <img width="100%" height="100%" loading="lazy" src="./images/section-1234-1.webp" title="Trader Arenaz" alt="Trading illustration on Trader Arenaz homepage">
+                    <img width="100%" height="100%" loading="lazy" src="./images/section-1234-1.webp" title="Trading Illustration" alt="Trading illustration on Trader Arenaz homepage">
                 </div>
             </div>
         </div>
