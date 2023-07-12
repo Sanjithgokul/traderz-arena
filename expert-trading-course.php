@@ -48,6 +48,7 @@
     </div>
 
     <!-- Master the Expert Trading with us -->
+    <!-- Master the Expert Trading with us -->
     <section class="master-expert">
         <h2 class="master-expert-heading">Master The Expert Trading With Us</h2>
         <div class="underline"></div>
