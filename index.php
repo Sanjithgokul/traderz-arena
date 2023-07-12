@@ -138,6 +138,8 @@
     }
     </script>
     <!-- End of course Schema -->
+    <!-- End of course Schema -->
+    <!-- End of course Schema -->
 
 
 
@@ -172,6 +174,7 @@
                 </div>
             </div>
         </div>
+        <!-- <div class="spy-element" id="about-sec"></div> -->
         <!-- <div class="spy-element" id="about-sec"></div> -->
     </div>
 
