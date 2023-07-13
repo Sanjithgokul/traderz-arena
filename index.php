@@ -51,7 +51,6 @@
                 "https://www.facebook.com/profile.php?id=100093842165629",
                 "https://twitter.com/TraderzArena",
                 "https://www.linkedin.com/company/traderzarena/",
-                <!-- "https://www.youtube.com/yourusername" -->
                 "https://www.instagram.com/traderzarena/"
             ],
             "contactPoint": {
