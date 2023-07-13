@@ -56,7 +56,7 @@
             ],
             "contactPoint": {
                 "@type": "ContactPoint",
-                // "telephone": "+91 76391 95577",
+                "telephone": "+91 93631 19191",
                 "contactType": "Customer Service",
                 "email": "admin@traderzarena.com",
                 "areaServed": [
