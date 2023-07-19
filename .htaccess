@@ -1,0 +1,15 @@
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	
+	RewriteCond %{HTTPS} off
+	RewriteRule (.*) https://%{HTTP_HOST}%{REQUEST_URI} [L,R=301]
+	
+	RewriteCond %{HTTP_HOST} ^www\.traderzarena\.com$
+    RewriteRule ^/?$ "https\:\/\/traderzarena\.com\/" [R=301,L]
+
+	RewriteCond %{THE_REQUEST} ^.*/index.php
+	RewriteRule ^(.*)index.php$ https://traderzarena.com/$1 [R=301,L]
+
+</IfModule>
+
+ErrorDocument 404 /404.php
