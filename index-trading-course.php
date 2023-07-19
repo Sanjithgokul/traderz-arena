@@ -14,7 +14,6 @@
 <meta property="og:description" content="Learn how to become a better trader and earn more money, Consider signing up for the index Trading Course. With our program, you’ll build a solid foundation for a successful trading career." />
     <title>Index Trading Course - Start your Profitable Trading Journey Today!</title>
 <meta name="description" content="Learn how to become a better trader and earn more money, Consider signing up for the Index Trading Course. With our program, you’ll build a solid foundation for a successful trading career." />
-<link rel="canonical" href="https://traderzarena.com/index-trading-course.php" />
 <meta property="og:locale" content="en_US" />
 <meta property="og:type" content="website" />
 <meta property="og:title" content="Index Trading Course - Start your Profitable Trading Journey Today!" />
